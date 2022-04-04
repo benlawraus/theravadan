@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <title>About | Theravadan</title>
+  <link rel="stylesheet" href="https://www.theravadan.org/static/JetBrains-Mono.css" />
+  <link rel="stylesheet" href="https://www.theravadan.org/static/m-dark-mod.css" />
+  <link rel="icon" href="https://www.theravadan.org/images/favicon.jpeg" type="image/jpeg" />
+  <link rel="canonical" href="https://www.theravadan.org/pages/about.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:site_name" content="Theravadan" />
+  <meta property="og:title" content="About" />
+  <meta name="twitter:title" content="About" />
+  <meta property="og:url" content="https://www.theravadan.org/pages/about.html" />
+  <meta property="og:description" content="theravadan.org Goal To create a website with no javascript. This was achieved in a manner of speaking... Why? For low maintenance and low overhead on server and browser leading to hopefully quicker access times. Also to allow people to download the entire website and either browse locally or use …" />
+  <meta name="twitter:description" content="theravadan.org Goal To create a website with no javascript. This was achieved in a manner of speaking... Why? For low maintenance and low overhead on server and browser leading to hopefully quicker access times. Also to allow people to download the entire website and either browse locally or use …" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="og:type" content="page" />
+</head>
+<body>
+<header><nav id="navigation">
+  <div class="m-container">
+    <div class="m-row">
+      <a href="https://www.theravadan.org/" id="m-navbar-brand" class="m-col-t-9 m-col-m-none m-left-m">Theravadan</a>
+      <a id="m-navbar-show" href="#navigation" title="Show navigation" class="m-col-t-3 m-hide-m m-text-right"></a>
+      <a id="m-navbar-hide" href="#" title="Hide navigation" class="m-col-t-3 m-hide-m m-text-right"></a>
+      <div id="m-navbar-collapse" class="m-col-t-12 m-show-m m-col-m-none m-right-m">
+        <div class="m-row">
+          <ol class="m-col-t-12 m-col-m-none">
+            <li><a href="https://search.theravadan.org">Search</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav></header>
+<main>
+<article>
+  <div class="m-container m-container-inflatable">
+    <div class="m-row">
+      <div class="m-col-l-10 m-push-l-1">
+        <h1>About</h1>
+<!-- content -->
+<section id="theravadan-org">
+<h2>theravadan.org</h2>
+<section id="goal">
+<h3>Goal</h3>
+<p>To create a website with no javascript. This was achieved in a manner of speaking...</p>
+</section>
+<section id="why">
+<h3>Why?</h3>
+<p>For low maintenance and low overhead on server and browser leading to hopefully quicker
+access times. Also to allow people to download the entire website and either browse locally
+or use file search.</p>
+</section>
+<section id="strictly-speaking">
+<h3>Strictly Speaking...</h3>
+<p>All the pages are served statically,
+meaning that the webpages, as seen in the browser, are located in a individual
+contained files on a server.</p>
+<p>The only exception is the search page which uses <a href="anvil.works">anvil.works</a> regime of creating websites
+with only python. Strictly speaking, the search page contains mechanisms to interpret
+the python code into javascript.</p>
+</section>
+<section id="sutta-central">
+<h3>Sutta Central</h3>
+<p><a href="https://lokanta.github.io">Bhikkhu Sujato</a> has worked hard to bring the pāli texts to a global
+audience with his website <a href="suttcentral.net">suttacentral.net</a>. Other pāli scholars
+and Buddhist monks have since joined him and also placed their translation work on
+<a href="https://github.com/suttacentral/bilara-data">suttacentral</a>.</p>
+<p>This website used those translations to create a static website with keyword search.</p>
+<p>It is not meant
+to replace <a href="suttcentral.net">suttacentral.net</a> and it cannot, <a href="suttcentral.net">suttacentral.net</a> is complete.
+But the words of Lord Buddha are valuable and so are the
+translations. To place another copy of these words on the internet hopefully will increase the odds
+of them being discovered.</p>
+</section>
+<section id="technical">
+<h3>Technical</h3>
+<p>The pāli texts and translations take currently around 700,000 lines of text. These are divided into
+small units called sutta that can be served individually from one html file.</p>
+<p>A small python program was used to convert the json formatted files on <a href="https://github.com/suttacentral/bilara-data">suttacentral</a> into a mark-up
+language called <a href="https://docutils.sourceforge.io/rst.html">restructuredText</a>
+for easier editing and formatting.</p>
+<p>The <a href="https://docutils.sourceforge.io/rst.html">restructuredText</a> files are then converted into html files using
+<a href="https://blog.getpelican.com">pelican</a> and uploaded to a static hosting company.</p>
+<section id="search">
+<h4>Search</h4>
+<p>With no javascript and no code running on a  server anywhere, creating a search function is
+problematic. The solution was to use a <a href="https://www.postgresql.org">postgresql</a> database which
+has state-of-the-art text search capabilities. Fortunately, <a href="https://www.postgresql.org">postgresql</a> search is easy to implement
+without much investment.</p>
+<p><a href="https://postgrest.org/en/stable/">postgrest</a> was then used for interface between the database and web
+using a REST API.</p>
+<p>Lastly, the search page. It is simple enough, only one input box. Use javascript? Well... this website's
+IT already had an account on <a href="anvil.works">anvil.works</a> so that seemed an easier route...</p>
+<p>To allow the reader to search, there has to be a page that queries the database and places the
+research results into a formatted page. Using only python on <a href="anvil.works">anvil.works</a> was an easy implementation.
+Probably in the future, the search page will be programmed with javascript alone.</p>
+</section>
+</section>
+</section>
+<!-- /content -->
+      </div>
+    </div>
+  </div>
+</article>
+</main>
+<footer><nav>
+  <div class="m-container">
+    <div class="m-row">
+      <div class="m-col-s-3 m-col-t-6">
+      </div>
+      <div class="m-col-s-3 m-col-t-6">
+      </div>
+      <div class="m-clearfix-t"></div>
+      <div class="m-col-s-3 m-col-t-6">
+      </div>
+      <div class="m-col-s-3 m-col-t-6">
+        <h3><a href="https://www.theravadan.org/pages/about">About</a></h3>
+        <ul>
+        </ul>
+      </div>
+    </div>
+    <div class="m-row">
+      <div class="m-col-l-10 m-push-l-1">
+        <p>Theravadan. Powered by <a href="https://getpelican.com">Pelican</a> and <a href="https://mcss.mosra.cz">m.css</a>.</p>
+      </div>
+    </div>
+  </div>
+</nav></footer>
+</body>
+</html>
