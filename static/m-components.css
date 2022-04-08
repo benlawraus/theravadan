@@ -99,6 +99,7 @@ abbr {
   text-decoration: underline dotted;
 }
 a {
+  text-decoration: none;
   color: var(--link-color);
 }
 a.m-flat {
