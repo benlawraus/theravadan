@@ -34,7 +34,8 @@
   --line-height: 1.5;
   --paragraph-indent: 0rem;
   --paragraph-align: justify;
-  --link-decoration: underline;
+  --link-decoration: none;
+/*   --link-decoration: underline; */
   --link-decoration-nav: none;
   --link-decoration-heading: none;
   --nav-brand-case: uppercase;
@@ -49,7 +50,7 @@
 
   /* Basics */
 /*    --background-color: #2f363f;  */
-  --background-color: #000000;
+  --background-color: black;
   --color: #dcdcdc;
   --line-color: #405363;
   --link-color: #5b9dd9;
@@ -72,7 +73,8 @@
   --header-color: #ffffff;
   --header-breadcrumb-color: #747474; /* same as --dim-color */
   --header-background-color: #22272e;
-  --header-background-color-landing: rgba(34, 39, 46, 0.75);
+  --header-background-color-landing: black;
+  /*--header-background-color-landing: rgba(34, 39, 46, 0.75);*/
   --header-background-color-jumbo: rgba(34, 39, 46, 0.25);
   --header-link-color: #ffffff;
   --header-link-active-color: #a5c9ea;
@@ -83,7 +85,8 @@
   /* Footer */
   --footer-font-size: 0.85rem;
   --footer-color: #c5c5c5;
-  --footer-background-color: #444e5c;
+  /*--footer-background-color: #444e5c; */
+  --footer-background-color: black;
   --footer-link-color: #ffffff;
   --footer-link-active-color: #a5c9ea;
 
@@ -137,16 +140,16 @@
   --warning-filled-link-color: #b8bf2b;
   --warning-filled-link-active-color: #e9ecae;
 
-  --danger-color: #ff8382;
-/*  --danger-color: #cd3431; */
+  /*--danger-color: #ff8382;*/
+  --danger-color: #cd3431;
   --danger-link-active-color: #ff9391;
   --danger-filled-color: #ff9391;
   --danger-filled-background-color: #702b2a;
   --danger-filled-link-color: #d85c59;
   --danger-filled-link-active-color: #ff9391;
 
-  --info-color: #c2fd01;
-  /*--info-color: #2f83cc;*/
+  /*--info-color: #c2fd01;*/
+  --info-color: #2f83cc;
   --info-link-active-color: #5297d7;
   --info-filled-color: #a5caeb;
   --info-filled-background-color: #2a4f70;
