@@ -26,6 +26,7 @@
 :root {
   /* Text properties */
   /*--font: 'Source Sans Pro', sans-serif;*/
+  /*--font: 'Geneva', 'Tahoma', 'Verdana', sans-serif;*/
   --font: 'JetBrainsMono';
   /*--code-font: 'Source Code Pro', monospace;*/
   --code-font: 'JetBrainsMono', monospace;
