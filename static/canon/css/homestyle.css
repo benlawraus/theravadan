@@ -1,0 +1,30 @@
+/* Style for the header background image */
+#landing-header {
+  background-image: url("../img/Sri_Lankan_Manuscript_6_2.jpg"); /* Replace "your-image.jpg" with your actual image path */
+  background-size: cover; /* This is important to make the image cover the header area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent image repetition */
+  color: white; /* Set text color for contrast against the background image */
+  text-align: center; /* Center the text if you want*/
+  padding: 100px 20px; /* Adjust padding as needed for the header height */
+  margin-bottom: 2rem; /* gives some space under the header */
+}
+
+/* optional: Add a dark overlay to ensure text visibility */
+#landing-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.1); /* Semi-transparent black overlay */
+  z-index: 1;
+  pointer-events: none; /* This makes sure it does not block interactions */
+
+}
+
+#landing-header > * {
+    position: relative;
+    z-index: 2;
+}

@@ -1,0 +1,38 @@
+:root {
+    --pico-font-family: 'Montserrat', regular; /* Set the default font family variable */
+    --background-color: #000; /* Changes the default dark mode background to black */
+    --text-color: #fff;       /* Ensures text is readable on black background */
+    --pico-font-size: 1rem;
+}
+
+[data-theme="dark"] {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+header, footer, .container {
+    background-color: transparent; /* Make specific components' background transparent to match the body */
+}
+
+.large-paragraph {
+    font-size: 1.5em;  /* This is typically the size of an h2 */
+    font-weight: bold;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.inline-two-columns {
+  display: inline-flex;
+  align-items: center; /* vertically aligns text */
+  gap: 15px; /* adjust gap to your liking */
+}
+
+.big-bold {
+  font-size: 1.5em;
+  font-weight: bold;
+}
