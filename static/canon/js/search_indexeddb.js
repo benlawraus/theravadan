@@ -3,8 +3,8 @@
 // <script src="https://cdn.jsdelivr.net/npm/idb@7.1.1/build/umd.js"></script>
 // <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
 
-const DB_NAME = "LanguageFilesDB";
-const DB_VERSION = 3;
+const DB_NAME = "BuddhistTextsDB";
+const DB_VERSION = 4;
 
 /**
  * Normalize a string by removing accents, lower casing, etc.
@@ -21,71 +21,80 @@ function normalizeText(text) {
 
 /**
  * Searches for a term inside the `verse` field in the stored data using Fuse.js for fuzzy searching.
- * The actual record structure in IndexedDB is:
- * {
- *   sutta_ref: "path/to/sutta",
- *   thread_list: [
- *     {"patton": {"verseindex": "ma1:0.1", "verse": "Medium Discourses 1"}},
- *     ...
- *   ],
- *   title_verseindex: "..."
- * }
+ * Function accepts a language code (e.g., 'en') but internally works with stores that follow
+ * the pattern X_Y_Z where X are codes [pli,lzh,pra,etc], Y is the language code,
+ * and Z are ['sutta','vinaya','abhidhamma']
  *
  * @param {string} searchTerm - The term to search for.
- * @param {string} storeName - The object store name (e.g., a language code like "en").
+ * @param {string} langCode - The language code (e.g., "en").
  * @returns {Promise<Array>} - List of matching verses with verseindex, verse, author, and URL key.
  */
-async function searchInIndexedDB(searchTerm, storeName) {
+async function languageAwareSearch(searchTerm, langCode) {
     try {
         const { openDB } = idb;
         const db = await openDB(DB_NAME, DB_VERSION);
 
+        // Get all store names from the database
+        const storeNames = db.objectStoreNames;
+
+        // Filter stores that match our pattern X_[langCode]_Z
+        const relevantStores = Array.from(storeNames).filter(store => {
+            const parts = store.split('_');
+            return parts.length === 3 && parts[1] === langCode;
+        });
+
+        if (relevantStores.length === 0) {
+            console.warn(`No stores found for language code: ${langCode}`);
+            return [];
+        }
+
         // Collect all verses for the search index
         const allVerses = [];
 
-        // Set up transaction to read all records
-        const tx = db.transaction(storeName, "readonly");
-        const store = tx.objectStore(storeName);
+        // Process each relevant store
+        for (const storeName of relevantStores) {
+            // Set up transaction to read all records
+            const tx = db.transaction(storeName, "readonly");
+            const store = tx.objectStore(storeName);
 
-        // Use cursor to iterate through all records
-        let cursor = await store.openCursor();
+            // Use cursor to iterate through all records
+            let cursor = await store.openCursor();
 
-        // First pass: collect all verses
-        while (cursor) {
-            const record = cursor.value;
-            // urlKey is used to construct the link to the full text.
-            const urlKey = record.sutta_ref;
+            // First pass: collect all verses
+            while (cursor) {
+                const urlKey = cursor.key; // The key is the URL parameter
+                const record = cursor.value;
 
-            if (record && Array.isArray(record.thread_list)) {
-                record.thread_list.forEach(threadItem => {
-                    // threadItem might be empty if there are no verses for a given author.
-                    if (!threadItem) return;
-
-                    // Extract verses from author-keyed structure
-                    for (const author in threadItem) {
-                        const thread = threadItem[author];
-                        if (thread && thread.verse && typeof thread.verse === 'string') {
-                            allVerses.push({
-                                url_key: urlKey,
-                                verseindex: thread.verseindex,
-                                verse: normalizeText(thread.verse), //normalize here
-                                author: author,
-                                title: normalizeText(record.title) // add the title, for searching
-                            });
+                if (record && record.texts) {
+                    // Extract verses from translator-keyed structure
+                    for (const author in record.texts) {
+                        const translation = record.texts[author];
+                        // Loop through each verse index and its content
+                        for (const verseIndex in translation) {
+                            const verseObj = translation[verseIndex];
+                            if (verseObj && verseObj.verse && typeof verseObj.verse === 'string') {
+                                allVerses.push({
+                                    url_key: urlKey,
+                                    verseindex: verseIndex,
+                                    verse: normalizeText(verseObj.verse), // normalize here
+                                    author: author,
+                                    store: storeName // Include store name for reference
+                                });
+                            }
                         }
                     }
-                });
-            }
+                }
 
-            // Move to next record
-            cursor = await cursor.continue();
+                // Move to next record
+                cursor = await cursor.continue();
+            }
         }
 
         // Configure Fuse.js options
         const options = {
             includeScore: true,
             shouldSort: true,
-            threshold: 0.2, // Lower threshold for stricter matching
+            threshold: 0.175, // Lower threshold for stricter matching
             useExtendedSearch: true, // Enable extended search for better multi-term matching
             ignoreLocation: false, // Better for longer texts
             location: 0,
@@ -93,7 +102,7 @@ async function searchInIndexedDB(searchTerm, storeName) {
             // Ensure all words must match
             findAllMatches: true,
             minMatchCharLength: 3, // Minimum character length for a match
-            keys: ['verse']
+            keys: ['verse'] // Only search in verse field
         };
 
         // Create Fuse instance with the collected verses
@@ -116,10 +125,6 @@ async function searchInIndexedDB(searchTerm, storeName) {
         let results = searchResults;
 
         // For multi-word searches, perform additional filtering
-        // This is necessary because Fuse.js's extended search doesn't guarantee
-        // that all words in the query will appear in the result if any word is
-        // not an exact match. For example, if the query is "red apple" and a verse
-        // has "redish apple" then this would match if we do not have this extra filter.
         if (searchTerm.includes(' ')) {
             const searchWords = searchTerm.split(' ').map(word => word.toLowerCase());
 
@@ -147,5 +152,6 @@ async function searchInIndexedDB(searchTerm, storeName) {
     }
 }
 
-// Make the function available globally
-window.searchInIndexedDB = searchInIndexedDB;
+// Make the functions available globally
+window.languageAwareSearch = languageAwareSearch;
+window.searchInIndexedDB = languageAwareSearch; // For backward compatibility

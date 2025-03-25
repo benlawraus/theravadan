@@ -1,183 +1,201 @@
-(async function() {
-    // --- Parse URL to get lang_code ---
-    // Expected URL structure: /search/<lang_code>?q=...
-    const pathParts = window.location.pathname.split('/').filter(part => part.length > 0);
-    let lang_code = (pathParts.length >= 2 && pathParts[1]) ? pathParts[1] : 'en';
-    console.log("lang_code:", lang_code);
+/**
+ * Buddhist Texts Search Handler
+ * This file handles the search process as three distinct steps:
+ * 1. Listen for search requests
+ * 2. Execute search with appropriate search function
+ * 3. Render results
+ */
 
-    // --- Get search term from query parameter ?q=... ---
-    const urlParams = new URLSearchParams(window.location.search);
-    const queryParam = urlParams.get("q");
-    if (!queryParam) {
-        console.log("No search term provided.");
-        document.getElementById("results").textContent = "Please enter a search term.";
-        return;
-    }
-    const searchTerm = queryParam.trim();
-    console.log("Search term:", searchTerm);
+// Listen for the search event
+document.addEventListener('buddhist-texts-search', function(event) {
+    const { searchTerm, langCode } = event.detail;
 
-    // --- Show loading state ---
+    console.log(`Search requested: "${searchTerm}" in language: ${langCode}`);
+
+    // Step 1: Show loading state
     const resultsContainer = document.getElementById("results");
     if (!resultsContainer) {
         console.error("No container with id 'results' found.");
         return;
     }
-    resultsContainer.innerHTML = "<p>Searching...</p>";
 
-    // --- Call searchInIndexedDB with the lang_code as the store name ---
-    let results;
-    try {
-        results = await languageAwareSearch(searchTerm, lang_code);
-        console.log(`Found ${results.length} results:`, results);
-    } catch (error) {
-        console.error("Error during search:", error);
-        resultsContainer.innerHTML = `
-            <div class="error-container">
-                <p>Error searching: ${error.message}</p>
-                <button onclick="location.reload()">Try Again</button>
-            </div>`;
-        return;
+    resultsContainer.innerHTML = `
+        <div class="search-loading">
+            <div class="spinner"></div>
+            <span>Searching...</span>
+        </div>
+    `;
+
+    // Step 2: Execute the appropriate search based on language
+    executeSearch(searchTerm, langCode)
+        .then(results => {
+            // Step 3: Render the results
+            renderResults(results, searchTerm);
+        })
+        .catch(error => {
+            console.error("Error during search:", error);
+            resultsContainer.innerHTML = `
+                <div class="error-container">
+                    <p>Error searching: ${error.message}</p>
+                    <button onclick="document.dispatchEvent(new CustomEvent('buddhist-texts-search', 
+                        { detail: { searchTerm: '${searchTerm}', langCode: '${langCode}' } }))">
+                        Try Again
+                    </button>
+                </div>
+            `;
+        });
+});
+
+/**
+ * Step 2: Execute the search with appropriate function based on language
+ * @param {string} searchTerm - The term to search for
+ * @param {string} langCode - The language code
+ * @returns {Promise<Array>} - Promise resolving to results array
+ */
+async function executeSearch(searchTerm, langCode) {
+    // Determine search function based on language code
+    const rootLanguages = ['pli', 'pra', 'san', 'lzh'];
+
+    if (rootLanguages.includes(langCode)) {
+        // Make sure rootLanguageSearch is available
+        if (typeof rootLanguageSearch !== 'function') {
+            throw new Error("Root language search function not available. Make sure the search script is loaded.");
+        }
+        const results = await rootLanguageSearch(searchTerm, langCode);
+        console.log(`Found ${results.length} results using rootLanguageSearch:`, results);
+        return results;
+    } else {
+        // Use regular language search
+        if (typeof languageAwareSearch !== 'function') {
+            throw new Error("Search function not available. Make sure the search script is loaded.");
+        }
+        const results = await languageAwareSearch(searchTerm, langCode);
+        console.log(`Found ${results.length} results using languageAwareSearch:`, results);
+        return results;
     }
+}
 
-    // --- Render the results ---
+/**
+ * Step 3: Render search results to the page
+ * @param {Array} results - The search results
+ * @param {string} searchTerm - The term that was searched for
+ */
+function renderResults(results, searchTerm) {
+    const resultsContainer = document.getElementById('results');
     resultsContainer.innerHTML = "";
 
     if (results.length === 0) {
         resultsContainer.innerHTML = `<p>No results found for "${searchTerm}".</p>`;
-    } else {
-        // Group results by category (Sutta, Vinaya, Abhidhamma)
-        const categories = {
-            "Sutta": [],
-            "Vinaya": [],
-            "Abhidhamma": []
-        };
+        return;
+    }
 
-        // Categorize the results
-        results.forEach(result => {
-            // Determine category based on url_key or other properties
-            let category = "Sutta"; // Default category
+    // Group results by category (Sutta, Vinaya, Abhidhamma)
+    const categories = {
+        "Sutta": [],
+        "Vinaya": [],
+        "Abhidhamma": []
+    };
 
-            // This is a simplified approach - you may need to adjust the logic based on your actual data structure
+    // Track verse indices we've already seen to avoid duplicates
+    const seenVerseIndices = new Set();
+
+    // Categorize the results based on the store name (filtering out duplicates)
+    results.forEach(result => {
+        // Skip this result if we've already seen this verse index
+        if (seenVerseIndices.has(result.verseindex)) {
+            return;
+        }
+
+        // Mark this verse index as seen
+        seenVerseIndices.add(result.verseindex);
+
+        let category = "Sutta"; // Default category
+
+        // Check the store name to determine category
+        if (result.store && typeof result.store === 'string') {
+            const storeParts = result.store.split('_');
+            if (storeParts.length >= 2) {
+                const categoryType = storeParts[storeParts.length - 1].toLowerCase();
+                if (categoryType === 'vinaya') {
+                    category = "Vinaya";
+                } else if (categoryType === 'abhidhamma') {
+                    category = "Abhidhamma";
+                }
+            }
+        } else {
+            // Fallback to checking URL as before
             if (result.url_key.includes("vinaya")) {
                 category = "Vinaya";
             } else if (result.url_key.includes("abhidhamma")) {
                 category = "Abhidhamma";
             }
-
-            categories[category].push(result);
-        });
-
-        // Add search stats
-        const searchStatsDiv = document.createElement("div");
-        searchStatsDiv.className = "search-stats";
-        searchStatsDiv.innerHTML = `
-            <p>Found ${results.length} results for "${searchTerm}" in ${categories.Sutta.length} Suttas, 
-            ${categories.Vinaya.length} Vinaya texts, and ${categories.Abhidhamma.length} Abhidhamma texts.</p>
-        `;
-        resultsContainer.appendChild(searchStatsDiv);
-
-        // Add search results header
-        const header = document.createElement("h2");
-        header.textContent = "Search Results";
-        resultsContainer.appendChild(header);
-
-        // Pagination setup
-        const resultsPerPage = 10;
-        let currentPage = 1;
-        const totalPages = Math.ceil(results.length / resultsPerPage);
-        const resultsList = document.createElement("div");
-        resultsList.id = "results-list";
-        resultsContainer.appendChild(resultsList);
-
-        // Function to render a specific page of results
-        function renderResultsPage(page) {
-            resultsList.innerHTML = "";
-            currentPage = page;
-
-            // Create sections for each category
-            for (const [category, categoryResults] of Object.entries(categories)) {
-                if (categoryResults.length === 0) continue;
-
-                // Add category header
-                const categoryHeader = document.createElement("h3");
-                categoryHeader.textContent = category;
-                resultsList.appendChild(categoryHeader);
-
-                // Calculate pagination for this category
-                const startIndex = (page - 1) * resultsPerPage;
-                const endIndex = startIndex + resultsPerPage;
-
-                // Filter results for this category and page
-                const pageResults = categoryResults.filter((_, index) => {
-                    return index >= startIndex && index < endIndex;
-                });
-
-                // Add results for this category
-                pageResults.forEach(result => {
-                    const resultParagraph = document.createElement("p");
-
-                    const link = document.createElement("a");
-                    // Use url_key as HTMLFILENAME
-                    const cleanUrlKey = result.url_key.startsWith('/') ? result.url_key.substring(1) : result.url_key;
-                    link.href = `/${lang_code}/${cleanUrlKey}#${result.verseindex}`;
-
-                    // If there's a title, use it as link text
-                    if (result.title) {
-                        link.textContent = result.title;
-                    } else {
-                        // If no title, use VERSEINDEX as the link text
-                        link.textContent = result.verseindex;
-                    }
-
-                    resultParagraph.appendChild(link);
-
-                    // Add VERSEINDEX (only as text if there was a title)
-                    if (result.title) {
-                        resultParagraph.appendChild(document.createTextNode(" " + result.verseindex));
-                    }
-
-                    // Add VERSE content with highlighting and context
-                    const verseText = result.verse || "";
-                    const highlightedVerse = highlightWithContext(verseText, searchTerm);
-
-                    // Create a container for the verse content to properly insert the HTML
-                    const verseContainer = document.createElement("div");
-                    verseContainer.innerHTML = highlightedVerse;
-                    resultParagraph.appendChild(verseContainer);
-
-                    resultsList.appendChild(resultParagraph);
-                });
-            }
-
-            // Add pagination controls if needed
-            if (totalPages > 1) {
-                const paginationContainer = document.createElement("div");
-                paginationContainer.className = "pagination";
-
-                for (let i = 1; i <= totalPages; i++) {
-                    const pageButton = document.createElement("button");
-                    pageButton.textContent = i;
-                    pageButton.className = i === page ? "active" : "";
-                    pageButton.onclick = () => renderResultsPage(i);
-                    paginationContainer.appendChild(pageButton);
-                }
-
-                // Remove existing pagination if any
-                const existingPagination = document.querySelector(".pagination");
-                if (existingPagination) {
-                    existingPagination.remove();
-                }
-
-                resultsContainer.appendChild(paginationContainer);
-            }
         }
 
-        // Initial render of first page
-        renderResultsPage(1);
+        categories[category].push(result);
+    });
+
+    // Count the total number of unique results after filtering duplicates
+    const totalUniqueResults = categories.Sutta.length + categories.Vinaya.length + categories.Abhidhamma.length;
+
+    // Add search stats
+    const searchStatsDiv = document.createElement("div");
+    searchStatsDiv.className = "search-stats";
+    searchStatsDiv.innerHTML = `
+        <p>Found ${totalUniqueResults} unique results for "${searchTerm}" in ${categories.Sutta.length} Suttas, 
+        ${categories.Vinaya.length} Vinaya texts, and ${categories.Abhidhamma.length} Abhidhamma texts.</p>
+    `;
+    resultsContainer.appendChild(searchStatsDiv);
+
+    // Add search results header
+    const header = document.createElement("h2");
+    header.textContent = "Search Results";
+    resultsContainer.appendChild(header);
+
+    const resultsList = document.createElement("div");
+    resultsList.id = "results-list";
+    resultsContainer.appendChild(resultsList);
+
+    // Create sections for each category
+    for (const [category, categoryResults] of Object.entries(categories)) {
+        if (categoryResults.length === 0) continue;
+
+        // Add category header
+        const categoryHeader = document.createElement("h3");
+        categoryHeader.textContent = category;
+        resultsList.appendChild(categoryHeader);
+
+        // Add all results for this category
+        categoryResults.forEach(result => {
+            const resultParagraph = document.createElement("p");
+
+            const link = document.createElement("a");
+            // Use url_key as HTMLFILENAME
+            const cleanUrlKey = result.url_key.startsWith('/') ? result.url_key.substring(1) : result.url_key;
+
+            // For root language searches, link to English version
+            const rootLanguages = ['pli', 'pra', 'san', 'lzh'];
+            const linkLangCode = rootLanguages.includes(lang_code) ? 'en' : lang_code;
+
+            link.href = `/canon/${linkLangCode}/${cleanUrlKey}.html#${result.verseindex}`;
+            // Set the link text to verse index
+            link.textContent = result.verseindex;
+            resultParagraph.appendChild(link);
+
+            // Add VERSE content with highlighting and context
+            const verseText = result.verse || "";
+            const highlightedVerse = highlightWithContext(verseText, searchTerm);
+
+            // Create a container for the verse content to properly insert the HTML
+            const verseContainer = document.createElement("div");
+            verseContainer.innerHTML = highlightedVerse;
+            resultParagraph.appendChild(verseContainer);
+
+            resultsList.appendChild(resultParagraph);
+        });
     }
 
-    console.log("Search complete. Final results:", results);
-})();
+    console.log("Search complete. Results rendered.");
+}
 
 /**
  * Highlights search terms within text, splitting search into individual words
@@ -188,19 +206,58 @@
 function highlightSearchTerm(text, term) {
     if (!term || !text) return text;
 
+    // First, try to match the entire phrase
+    const escapedPhrase = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const phraseRegex = new RegExp(escapedPhrase, 'gi');
+
+    // If the exact phrase is found, highlight it as one unit
+    if (text.match(phraseRegex)) {
+        return text.replace(phraseRegex, '<mark>$&</mark>');
+    }
+
+    // If not, highlight individual words without breaking existing HTML
     // Split search term into individual words
     const searchWords = term.trim().split(/\s+/).filter(word => word.length > 0);
 
-    let highlightedText = text;
+    // Create a temporary element to safely work with HTML
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = text;
 
-    // Highlight each word separately
-    searchWords.forEach(word => {
-        const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const regex = new RegExp(`(${escapedWord})`, 'gi');
-        highlightedText = highlightedText.replace(regex, '<mark>$1</mark>');
-    });
+    // Process text nodes only, avoiding modification of HTML tags
+    const walkNodes = (node) => {
+        if (node.nodeType === Node.TEXT_NODE) {
+            let content = node.textContent;
+            let modified = false;
 
-    return highlightedText;
+            // Apply highlighting for each word
+            for (const word of searchWords) {
+                if (word.length < 2) continue; // Skip very short words
+
+                const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const regex = new RegExp(`(${escapedWord})`, 'gi');
+
+                if (regex.test(content)) {
+                    content = content.replace(regex, '<mark>$1</mark>');
+                    modified = true;
+                }
+            }
+
+            // Replace the text node with highlighted HTML if modified
+            if (modified) {
+                const span = document.createElement('span');
+                span.innerHTML = content;
+                node.parentNode.replaceChild(span, node);
+            }
+        } else if (node.nodeType === Node.ELEMENT_NODE && node.nodeName !== 'MARK') {
+            // Recursively process child nodes, skipping already highlighted content
+            Array.from(node.childNodes).forEach(walkNodes);
+        }
+    };
+
+    // Apply highlighting to all text nodes
+    Array.from(tempDiv.childNodes).forEach(walkNodes);
+
+    return tempDiv.innerHTML;
 }
 
 /**
@@ -218,13 +275,36 @@ function highlightWithContext(text, term, contextLength = 50) {
         return highlightSearchTerm(text, term);
     }
 
-    // Split search term into individual words for better matching
+    // Try to match the entire phrase first
+    const escapedPhrase = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const phraseRegex = new RegExp(escapedPhrase, 'gi');
+
+    // If the exact phrase is found, use it for context
+    if (text.match(phraseRegex)) {
+        // Find all phrase matches
+        let allMatches = [];
+        let match;
+        while ((match = phraseRegex.exec(text)) !== null) {
+            allMatches.push({
+                index: match.index,
+                length: match[0].length,
+                word: match[0]
+            });
+        }
+
+        // Create snippets with context around phrase matches
+        return createSnippetsWithContext(text, allMatches, term, contextLength);
+    }
+
+    // Otherwise, use individual words for matching
     const searchWords = term.trim().split(/\s+/).filter(word => word.length > 0);
 
     // Find all matches for all words
     let allMatches = [];
 
     searchWords.forEach(word => {
+        if (word.length < 2) return; // Skip very short words
+
         const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         const regex = new RegExp(`(${escapedWord})`, 'gi');
 
@@ -238,20 +318,32 @@ function highlightWithContext(text, term, contextLength = 50) {
         }
     });
 
+    return createSnippetsWithContext(text, allMatches, term, contextLength);
+}
+
+/**
+ * Helper function to create snippets with context
+ * @param {string} text The original text
+ * @param {Array} matches Array of match objects {index, length, word}
+ * @param {string} term The search term
+ * @param {number} contextLength Context length
+ * @returns {string} Formatted HTML with highlights and context
+ */
+function createSnippetsWithContext(text, matches, term, contextLength) {
     // Sort matches by position in text
-    allMatches.sort((a, b) => a.index - b.index);
+    matches.sort((a, b) => a.index - b.index);
 
     // If no matches, return a snippet from the beginning
-    if (allMatches.length === 0) {
+    if (matches.length === 0) {
         return text.substring(0, contextLength * 2) + "...";
     }
 
     // Merge overlapping or close matches
     let mergedMatches = [];
-    let currentMatch = allMatches[0];
+    let currentMatch = matches[0];
 
-    for (let i = 1; i < allMatches.length; i++) {
-        const nextMatch = allMatches[i];
+    for (let i = 1; i < matches.length; i++) {
+        const nextMatch = matches[i];
 
         // If this match overlaps or is very close to the current one
         if (nextMatch.index <= currentMatch.index + currentMatch.length + contextLength) {
@@ -289,8 +381,25 @@ function highlightWithContext(text, term, contextLength = 50) {
         // Extract the snippet
         const snippet = text.substring(start, end);
 
-        // Highlight all search terms in the snippet
-        result += highlightSearchTerm(snippet, term);
+        // For the entire phrase, use the simple highlighter
+        const escapedPhrase = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const phraseRegex = new RegExp(escapedPhrase, 'gi');
+
+        let highlightedSnippet;
+        if (snippet.match(phraseRegex)) {
+            highlightedSnippet = snippet.replace(phraseRegex, '<mark>$&</mark>');
+        } else {
+            // For individual words, use the improved highlighter
+            // But with a simpler approach since we're working with plain text snippets
+            highlightedSnippet = snippet;
+            term.trim().split(/\s+/).filter(word => word.length >= 2).forEach(word => {
+                const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const wordRegex = new RegExp(`(${escapedWord})`, 'gi');
+                highlightedSnippet = highlightedSnippet.replace(wordRegex, '<mark>$1</mark>');
+            });
+        }
+
+        result += highlightedSnippet;
 
         if (end < text.length) {
             result += " ...";

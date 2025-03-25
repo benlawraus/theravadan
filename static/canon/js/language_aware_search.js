@@ -107,15 +107,9 @@ async function languageAwareSearch(searchTerm, langCode) {
     }
 
     // Check if the language code is a root language
-    if (rootLanguages.includes(langCode)) {
-        // For root languages, use improved literal substring search
-        console.log(`Using literal substring search for root language: ${langCode}`);
-        return await literalSearchInIndexedDB(searchTerm, langCode);
-    } else {
-        // For non-root languages, use the fuzzy search with title fetching
-        console.log(`Using fuzzy search for non-root language: ${langCode}`);
-        return await enhancedSearchInIndexedDB(searchTerm, langCode);
-    }
+    // For root languages, use improved literal substring search
+    console.log(`Using literal substring search for root language: ${langCode}`);
+    return await literalSearchInIndexedDB(searchTerm, langCode);
 }
 
 // Make the functions available globally
