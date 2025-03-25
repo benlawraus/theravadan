@@ -1,0 +1,6739 @@
+{
+"pli/ms/sutta/kn/dhp/dhp0001-0020":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp1:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp1:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp1:0.3":{
+"verse":"Phẩm Song Yếu "
+},
+"dhp1:0.4":{
+"verse":"Chuyện Trưởng lão Cakkhupāla (Hộ Nhãn) "
+},
+"dhp1:1":{
+"verse":"Ý dẫn đầu các pháp, "
+},
+"dhp1:2":{
+"verse":"Ý làm chủ, ý tạo; "
+},
+"dhp1:3":{
+"verse":"Nếu với ý ô nhiễm, "
+},
+"dhp1:4":{
+"verse":"Nói lên hay hành động, "
+},
+"dhp1:5":{
+"verse":"Khổ não bước theo sau, "
+},
+"dhp1:6":{
+"verse":"Như xe, chân vật kéo. "
+},
+"dhp2:0":{
+"verse":"Chuyện cậu Maṭṭhakuṇḍali (Kim Hoàn) "
+},
+"dhp2:1":{
+"verse":"Ý dẫn đầu các pháp, "
+},
+"dhp2:2":{
+"verse":"Ý làm chủ, ý tạo; "
+},
+"dhp2:3":{
+"verse":"Nếu với ý thanh tịnh, "
+},
+"dhp2:4":{
+"verse":"Nói lên hay hành động, "
+},
+"dhp2:5":{
+"verse":"An lạc bước theo sau, "
+},
+"dhp2:6":{
+"verse":"Như bóng, không rời hình. "
+},
+"dhp3:0":{
+"verse":"Chuyện Trưởng lão Tissa "
+},
+"dhp3:1":{
+"verse":"Nó mắng tôi, đánh tôi, "
+},
+"dhp3:2":{
+"verse":"Nó thắng tôi, cướp tôi "
+},
+"dhp3:3":{
+"verse":"Ai ôm hiềm hận ấy, "
+},
+"dhp3:4":{
+"verse":"Hận thù không thể nguôi. "
+},
+"dhp4:1":{
+"verse":"Nó mắng tôi, đánh tôi, "
+},
+"dhp4:2":{
+"verse":"Nó thắng tôi, cướp tôi "
+},
+"dhp4:3":{
+"verse":"Không ôm hiềm hận ấy, "
+},
+"dhp4:4":{
+"verse":"Hận thù được tự nguôi. "
+},
+"dhp5:0":{
+"verse":"Chuyện nữ Kāḷaya (Dạ-xoa) "
+},
+"dhp5:1":{
+"verse":"Với hận diệt hận thù, "
+},
+"dhp5:2":{
+"verse":"Ðời này không có được. "
+},
+"dhp5:3":{
+"verse":"Không hận diệt hận thù, "
+},
+"dhp5:4":{
+"verse":"Là định luật ngàn thu. "
+},
+"dhp6:0":{
+"verse":"Chuyện các Tỳ-kheo ở thành Kosambi "
+},
+"dhp6:1":{
+"verse":"Và người khác không biết, "
+},
+"dhp6:2":{
+"verse":"Chúng ta đây bị hại. "
+},
+"dhp6:3":{
+"verse":"Chỗ ấy, ai hiểu được "
+},
+"dhp6:4":{
+"verse":"Tranh luận được lắng êm. "
+},
+"dhp7:0":{
+"verse":"Chuyện Trưởng giả Mahākāḷa (Đại Hắc) "
+},
+"dhp7:1":{
+"verse":"Ai sống nhìn tịnh tướng, "
+},
+"dhp7:2":{
+"verse":"Không hộ trì các căn, "
+},
+"dhp7:3":{
+"verse":"ăn uống thiếu tiết độ, "
+},
+"dhp7:4":{
+"verse":"biếng nhác, chẳng tinh cần. "
+},
+"dhp7:5":{
+"verse":"Ma uy hiếp kẻ ấy, "
+},
+"dhp7:6":{
+"verse":"như cây yếu trước gió. "
+},
+"dhp8:1":{
+"verse":"Ai sống quán bất tịnh, "
+},
+"dhp8:2":{
+"verse":"Khéo hộ trì các căn, "
+},
+"dhp8:3":{
+"verse":"ăn uống có tiết độ, "
+},
+"dhp8:4":{
+"verse":"Có lòng tin, tinh cần, "
+},
+"dhp8:5":{
+"verse":"Ma không uy hiếp được, "
+},
+"dhp8:6":{
+"verse":"Như núi đá, trước gió. "
+},
+"dhp9:0":{
+"verse":"Chuyện Devadatta (Đề-bà-đạt-đa) "
+},
+"dhp9:1":{
+"verse":"Ai mặc áo cà-sa. "
+},
+"dhp9:2":{
+"verse":"tâm chưa rời uế trược, "
+},
+"dhp9:3":{
+"verse":"không tự chế, không thực, "
+},
+"dhp9:4":{
+"verse":"không xứng áo cà-sa "
+},
+"dhp10:1":{
+"verse":"Ai rời bỏ uế trược, "
+},
+"dhp10:2":{
+"verse":"giới luật khéo nghiêm trì, "
+},
+"dhp10:3":{
+"verse":"tự chế, sống chơn thực, "
+},
+"dhp10:4":{
+"verse":"thật xứng áo cà-sa. "
+},
+"dhp11:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp11:1":{
+"verse":"Không chân, tướng chân thật, "
+},
+"dhp11:2":{
+"verse":"chân thật, thấy không chân: "
+},
+"dhp11:3":{
+"verse":"chúng không đạt chân thật, "
+},
+"dhp11:4":{
+"verse":"do tà tư, tà hạnh. "
+},
+"dhp12:1":{
+"verse":"Chân thật, biết chân thật, "
+},
+"dhp12:2":{
+"verse":"Không chân, biết không chân: "
+},
+"dhp12:3":{
+"verse":"chúng đạt được chân thật, "
+},
+"dhp12:4":{
+"verse":"do chánh tư, chánh hạnh. "
+},
+"dhp13:0":{
+"verse":"Chuyện Trưởng lão Nanda "
+},
+"dhp13:1":{
+"verse":"Như mái nhà vụng lợp, "
+},
+"dhp13:2":{
+"verse":"Mưa liền xâm nhập vào. "
+},
+"dhp13:3":{
+"verse":"Cũng vậy tâm không tu, "
+},
+"dhp13:4":{
+"verse":"Tham dục liền xâm nhập. "
+},
+"dhp14:1":{
+"verse":"Như ngôi nhà khéo lợp, "
+},
+"dhp14:2":{
+"verse":"Mưa không xâm nhập vào. "
+},
+"dhp14:3":{
+"verse":"Cũng vậy tâm khéo tu, "
+},
+"dhp14:4":{
+"verse":"Tham dục không xâm nhập. "
+},
+"dhp15:0":{
+"verse":"Chuyện đồ tể Cunda "
+},
+"dhp15:1":{
+"verse":"Nay sầu, đời sau sầu, "
+},
+"dhp15:2":{
+"verse":"Kẻ ác, hai đời sầu; "
+},
+"dhp15:3":{
+"verse":"Nó sầu, nó ưu não, "
+},
+"dhp15:4":{
+"verse":"Thấy nghiệp uế mình làm. "
+},
+"dhp16:0":{
+"verse":"Chuyện thiện nam tử Dhammika (Hợp Pháp) "
+},
+"dhp16:1":{
+"verse":"Nay vui, đời sau vui, "
+},
+"dhp16:2":{
+"verse":"Làm phước, hai đời vui, "
+},
+"dhp16:3":{
+"verse":"Nó vui, nó an vui, "
+},
+"dhp16:4":{
+"verse":"Thấy nghiệp tịnh mình làm. "
+},
+"dhp17:0":{
+"verse":"Chuyện Devadatta (Đề-bà-đạt-đa) "
+},
+"dhp17:1":{
+"verse":"Nay than, đời sau than, "
+},
+"dhp17:2":{
+"verse":"Kẻ ác, hai đời than, "
+},
+"dhp17:3":{
+"verse":"Nó than: ‘Ta làm ác’ "
+},
+"dhp17:4":{
+"verse":"Ðọa cõi dữ, than hơn. "
+},
+"dhp18:0":{
+"verse":"Chuyện nàng Sumanādevī "
+},
+"dhp18:1":{
+"verse":"Nay sướng, đời sau sướng, "
+},
+"dhp18:2":{
+"verse":"Làm phước, hai đời sướng. "
+},
+"dhp18:3":{
+"verse":"Nó sướng: ‘Ta làm thiện’, "
+},
+"dhp18:4":{
+"verse":"Sanh cõi lành, sướng hơn. "
+},
+"dhp19:0":{
+"verse":"Chuyện hai Tỳ-kheo bằng hữu "
+},
+"dhp19:1":{
+"verse":"Nếu người nói nhiều kinh, "
+},
+"dhp19:2":{
+"verse":"Không hành trì, phóng dật; "
+},
+"dhp19:3":{
+"verse":"Như kẻ chăn bò người, "
+},
+"dhp19:4":{
+"verse":"Không phần Sa môn hạnh. "
+},
+"dhp20:1":{
+"verse":"Dầu nói ít kinh điển, "
+},
+"dhp20:2":{
+"verse":"Nhưng hành pháp, tùy pháp, "
+},
+"dhp20:3":{
+"verse":"Từ bỏ tham, sân, si, "
+},
+"dhp20:4":{
+"verse":"Tĩnh giác, tâm giải thoát, "
+},
+"dhp20:5":{
+"verse":"Không chấp thủ hai đời, "
+},
+"dhp20:6":{
+"verse":"Dự phần Sa môn hạnh. "
+},
+"dhp20:7":{
+"verse":"Hết phẩm Song Yếu "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0021-0032":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp21:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp21:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp21:0.3":{
+"verse":"Phẩm Không Phóng Dật "
+},
+"dhp21:0.4":{
+"verse":"Chuyện Hoàng hậu Sāmāvatī "
+},
+"dhp21:1":{
+"verse":"Không phóng dật, đường sống, "
+},
+"dhp21:2":{
+"verse":"Phóng dật là đường chết. "
+},
+"dhp21:3":{
+"verse":"Không phóng dật, không chết, "
+},
+"dhp21:4":{
+"verse":"Phóng dật như chết rồi. "
+},
+"dhp22:1":{
+"verse":"Biết rõ sai biệt ấy, "
+},
+"dhp22:2":{
+"verse":"Người trí không phóng dật, "
+},
+"dhp22:3":{
+"verse":"Hoan hỷ, không phóng dật, "
+},
+"dhp22:4":{
+"verse":"An vui hạnh bậc Thánh. "
+},
+"dhp23:1":{
+"verse":"Người hằng tu thiền định, "
+},
+"dhp23:2":{
+"verse":"Thường kiên trì tinh tấn. "
+},
+"dhp23:3":{
+"verse":"Bậc trí hưởng Niết-bàn, "
+},
+"dhp23:4":{
+"verse":"Ðạt an tịnh vô thượng. "
+},
+"dhp24:0":{
+"verse":"Chuyện Thiên hộ Kumbhaghosaka (Đào Khí Âm) "
+},
+"dhp24:1":{
+"verse":"Nỗ lực, giữ chánh niệm, "
+},
+"dhp24:2":{
+"verse":"Tịnh hạnh, hành thận trọng "
+},
+"dhp24:3":{
+"verse":"Tự điều, sống theo pháp, "
+},
+"dhp24:4":{
+"verse":"Ai sống không phóng dật, Tiếng lành ngày tăng trưởng. "
+},
+"dhp25:0":{
+"verse":"Chuyện Trưởng lão Cūḷapanthaka (Tiểu Lộ) "
+},
+"dhp25:1":{
+"verse":"Nỗ lực, không phóng dật, "
+},
+"dhp25:2":{
+"verse":"Tự điều, khéo chế ngự. "
+},
+"dhp25:3":{
+"verse":"Bậc trí xây hòn đảo, "
+},
+"dhp25:4":{
+"verse":"Nước lụt khó ngập tràn. "
+},
+"dhp26:0":{
+"verse":"Chuyện cái Tết thác loạn "
+},
+"dhp26:1":{
+"verse":"Chúng ngu si, thiếu trí, "
+},
+"dhp26:2":{
+"verse":"Chuyên sống đời phóng dật. "
+},
+"dhp26:3":{
+"verse":"Người trí, không phóng dật, "
+},
+"dhp26:4":{
+"verse":"Như giữ tài sản quý. "
+},
+"dhp27:1":{
+"verse":"Chớ sống đời phóng dật, "
+},
+"dhp27:2":{
+"verse":"Chớ mê say dục lạc. "
+},
+"dhp27:3":{
+"verse":"Không phóng dật, thiền định, "
+},
+"dhp27:4":{
+"verse":"Ðạt được an lạc lớn. "
+},
+"dhp28:0":{
+"verse":"Chuyện Trưởng lão Mahā Kassapa (Ca-diếp) "
+},
+"dhp28:1":{
+"verse":"Người trí dẹp phóng dật, "
+},
+"dhp28:2":{
+"verse":"Với hạnh không phóng dật, "
+},
+"dhp28:3":{
+"verse":"Leo lầu cao trí tuệ, "
+},
+"dhp28:4":{
+"verse":"Không sầu, nhìn khổ sầu, "
+},
+"dhp28:5":{
+"verse":"Bậc trí đứng núi cao, "
+},
+"dhp28:6":{
+"verse":"Nhìn kẻ ngu, đất bằng. "
+},
+"dhp29:0":{
+"verse":"Chuyện hai Tỳ-kheo bằng hữu "
+},
+"dhp29:1":{
+"verse":"Tinh cần giữa phóng dật, "
+},
+"dhp29:2":{
+"verse":"Tỉnh thức giữa quần mê. "
+},
+"dhp29:3":{
+"verse":"Người trí như ngựa phi, "
+},
+"dhp29:4":{
+"verse":"Bỏ sau con ngựa hèn. "
+},
+"dhp30:0":{
+"verse":"Chuyện Magha (Đế-thích) "
+},
+"dhp30:1":{
+"verse":"Ðế-thích không phóng dật, "
+},
+"dhp30:2":{
+"verse":"Ðạt ngôi vị Thiên chủ. "
+},
+"dhp30:3":{
+"verse":"Không phóng dật, được khen; "
+},
+"dhp30:4":{
+"verse":"Phóng dật, thường bị trách. "
+},
+"dhp31:0":{
+"verse":"Chuyện vị Tỳ-kheo quán lửa rừng "
+},
+"dhp31:1":{
+"verse":"Vui thích không phóng dật, "
+},
+"dhp31:2":{
+"verse":"Tỳ-kheo sợ phóng dật, "
+},
+"dhp31:3":{
+"verse":"Bước tới như lửa hừng, "
+},
+"dhp31:4":{
+"verse":"Thiêu kiết sử lớn nhỏ. "
+},
+"dhp32:0":{
+"verse":"Chuyện Trưởng lão Tissa ở thị xã "
+},
+"dhp32:1":{
+"verse":"Vui thích không phóng dật, "
+},
+"dhp32:2":{
+"verse":"Tỳ-kheo sợ phóng dật, "
+},
+"dhp32:3":{
+"verse":"Không thể bị thối đọa, "
+},
+"dhp32:4":{
+"verse":"Nhất định gần Niết-bàn. "
+},
+"dhp32:5":{
+"verse":"Hết phẩm Không Phóng Dật "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0033-0043":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp33:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp33:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp33:0.3":{
+"verse":"Phẩm Tâm "
+},
+"dhp33:0.4":{
+"verse":"Chuyện Trưởng lão Meghiya (Mê-kỳ-dạ) "
+},
+"dhp33:1":{
+"verse":"Tâm hoảng hốt giao động, "
+},
+"dhp33:2":{
+"verse":"Khó hộ trì, khó nhiếp, "
+},
+"dhp33:3":{
+"verse":"Người trí làm tâm thẳng, "
+},
+"dhp33:4":{
+"verse":"Như thợ tên, làm tên. "
+},
+"dhp34:1":{
+"verse":"Như cá quăng lên bờ, "
+},
+"dhp34:2":{
+"verse":"Vất ra ngoài thủy giới; "
+},
+"dhp34:3":{
+"verse":"Tâm này vùng vẫy mạnh, "
+},
+"dhp34:4":{
+"verse":"Hãy đoạn thế lực Ma. "
+},
+"dhp35:0":{
+"verse":"Chuyện vị Tỳ-kheo ở làng Mātikagāma (Thủy Lưu) "
+},
+"dhp35:1":{
+"verse":"Khó nắm giữ, khinh động, "
+},
+"dhp35:2":{
+"verse":"Theo các dục quay cuồng. "
+},
+"dhp35:3":{
+"verse":"Lành thay, điều phục tâm; "
+},
+"dhp35:4":{
+"verse":"Tâm điều, an lạc đến. "
+},
+"dhp36:0":{
+"verse":"Chuyện vị Tỳ-kheo bất mãn "
+},
+"dhp36:1":{
+"verse":"Tâm khó thấy, tế nhị, "
+},
+"dhp36:2":{
+"verse":"Theo các dục quay cuồng. "
+},
+"dhp36:3":{
+"verse":"Người trí phòng hộ tâm, "
+},
+"dhp36:4":{
+"verse":"Tâm hộ, an lạc đến. "
+},
+"dhp37:0":{
+"verse":"Chuyện Trưởng lão Saṅgharakkhitabhāginey (Hộ Tăng Điệt) "
+},
+"dhp37:1":{
+"verse":"Chạy xa, sống một mình, "
+},
+"dhp37:2":{
+"verse":"Không thân, ẩn hang sâu, "
+},
+"dhp37:3":{
+"verse":"Ai điều phục được tâm, "
+},
+"dhp37:4":{
+"verse":"Thoát khỏi Ma trói buộc. "
+},
+"dhp38:0":{
+"verse":"Chuyện Trưởng lão Cittahattha (Phục Tâm) "
+},
+"dhp38:1":{
+"verse":"Ai tâm không an trú, "
+},
+"dhp38:2":{
+"verse":"Không biết chân diệu pháp, "
+},
+"dhp38:3":{
+"verse":"Tịnh tín bị rúng động, "
+},
+"dhp38:4":{
+"verse":"Trí tuệ không viên thành. "
+},
+"dhp39:1":{
+"verse":"Tâm không đầy tràn dục, "
+},
+"dhp39:2":{
+"verse":"Tâm không (hận) công phá, "
+},
+"dhp39:3":{
+"verse":"Ðoạn tuyệt mọi thiện ác, "
+},
+"dhp39:4":{
+"verse":"Kẻ tỉnh không sợ hãi. "
+},
+"dhp40:0":{
+"verse":"Chuyện các Tỳ-kheo quán tự ngã "
+},
+"dhp40:1":{
+"verse":"Biết thân như đồ gốm, "
+},
+"dhp40:2":{
+"verse":"Trú tâm như thành trì, "
+},
+"dhp40:3":{
+"verse":"Chống Ma với gươm trí; "
+},
+"dhp40:4":{
+"verse":"Giữ chiến thắng không tham "
+},
+"dhp41:0":{
+"verse":"Chuyện Trưởng lão Tissa lở loét "
+},
+"dhp41:1":{
+"verse":"Không bao lâu thân này, "
+},
+"dhp41:2":{
+"verse":"Sẽ nằm dài trên đất, "
+},
+"dhp41:3":{
+"verse":"Bị vất bỏ, vô thức, "
+},
+"dhp41:4":{
+"verse":"Như khúc cây vô dụng. "
+},
+"dhp42:0":{
+"verse":"Chuyện Nanda chủ trại bò "
+},
+"dhp42:1":{
+"verse":"Kẻ thù hại kẻ thù, "
+},
+"dhp42:2":{
+"verse":"Oan gia hại oan gia, "
+},
+"dhp42:3":{
+"verse":"Không bằng tâm hướng tà, "
+},
+"dhp42:4":{
+"verse":"Gây ác cho tự thân. "
+},
+"dhp43:0":{
+"verse":"Chuyện Trưởng lão Soreyya (Tu-lệ-da) "
+},
+"dhp43:1":{
+"verse":"Ðiều mẹ cha bà con, "
+},
+"dhp43:2":{
+"verse":"Không có thể làm được, "
+},
+"dhp43:3":{
+"verse":"Tâm hướng chánh làm được "
+},
+"dhp43:4":{
+"verse":"Làm được tốt đẹp hơn. "
+},
+"dhp43:5":{
+"verse":"Hết phẩm Tâm "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0044-0059":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp44:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp44:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp44:0.3":{
+"verse":"Phẩm Hoa "
+},
+"dhp44:0.4":{
+"verse":"Chuyện 500 vị Tỳ-kheo đàm luận về địa đại "
+},
+"dhp44:1":{
+"verse":"Ai chinh phục đất này "
+},
+"dhp44:2":{
+"verse":"Dạ ma, Thiên giới này? "
+},
+"dhp44:3":{
+"verse":"Ai khéo giảng Pháp cú, "
+},
+"dhp44:4":{
+"verse":"Như người khéo hái hoa? "
+},
+"dhp45:1":{
+"verse":"Hữu học chinh phục đất, "
+},
+"dhp45:2":{
+"verse":"Dạ ma, Thiên giới này. "
+},
+"dhp45:3":{
+"verse":"Hữu học giảng Pháp cú, "
+},
+"dhp45:4":{
+"verse":"Như người khéo hái hoa. "
+},
+"dhp46:0":{
+"verse":"Chuyện vị Tỳ-kheo quán bào ảnh "
+},
+"dhp46:1":{
+"verse":"Biết thân như bọt nước, "
+},
+"dhp46:2":{
+"verse":"Ngộ thân là như huyễn, "
+},
+"dhp46:3":{
+"verse":"Bẻ tên hoa của Ma, "
+},
+"dhp46:4":{
+"verse":"Vượt tầm mắt Thần chết. "
+},
+"dhp47:0":{
+"verse":"Chuyện vua Viḍūḍabha (Lưu Ly) "
+},
+"dhp47:1":{
+"verse":"Người nhặt các loại hoa, "
+},
+"dhp47:2":{
+"verse":"Ý đắm say, tham nhiễm, "
+},
+"dhp47:3":{
+"verse":"Bị Thần chết mang đi, "
+},
+"dhp47:4":{
+"verse":"Như lụt trôi làng ngủ. "
+},
+"dhp48:0":{
+"verse":"Chuyện nàng Patipūjikā (Sự Phụ) "
+},
+"dhp48:1":{
+"verse":"Người nhặt các loại hoa, "
+},
+"dhp48:2":{
+"verse":"Ý đắm say, tham nhiễm, "
+},
+"dhp48:3":{
+"verse":"Các dục chưa thỏa mãn, "
+},
+"dhp48:4":{
+"verse":"Ðã bị chết chinh phục. "
+},
+"dhp49:0":{
+"verse":"Chuyện bá hộ Macchariya (Khan Nang) "
+},
+"dhp49:1":{
+"verse":"Như ong đến với hoa, "
+},
+"dhp49:2":{
+"verse":"Không hại sắc và hương, "
+},
+"dhp49:3":{
+"verse":"Che chở hoa, lấy nhụy. "
+},
+"dhp49:4":{
+"verse":"Bậc Thánh đi vào làng. "
+},
+"dhp50:0":{
+"verse":"Chuyện tu sĩ ngoại đạo Pāṭika (Tiểu Điệp) "
+},
+"dhp50:1":{
+"verse":"Không nên nhìn lỗi người, "
+},
+"dhp50:2":{
+"verse":"Người làm hay không làm. "
+},
+"dhp50:3":{
+"verse":"Nên nhìn tự chính mình, "
+},
+"dhp50:4":{
+"verse":"Có làm hay không làm. "
+},
+"dhp51:0":{
+"verse":"Chuyện thiện nam tử Chattapāṇi (Tản Thủ) "
+},
+"dhp51:1":{
+"verse":"Như bông hoa tươi đẹp, "
+},
+"dhp51:2":{
+"verse":"Có sắc nhưng không hương. "
+},
+"dhp51:3":{
+"verse":"Cũng vậy, lời khéo nói, "
+},
+"dhp51:4":{
+"verse":"Không làm, không kết quả. "
+},
+"dhp52:1":{
+"verse":"Như bông hoa tươi đẹp, "
+},
+"dhp52:2":{
+"verse":"Có sắc lại thêm hương; "
+},
+"dhp52:3":{
+"verse":"Cũng vậy, lời khéo nói, "
+},
+"dhp52:4":{
+"verse":"Có làm, có kết quả. "
+},
+"dhp53:0":{
+"verse":"Chuyện bà Visākhā (Thiện Chi) "
+},
+"dhp53:1":{
+"verse":"Như từ một đống hoa, "
+},
+"dhp53:2":{
+"verse":"Nhiều tràng hoa được kết. "
+},
+"dhp53:3":{
+"verse":"Cũng vậy, thân sanh tử, "
+},
+"dhp53:4":{
+"verse":"Làm được nhiều thiện sự. "
+},
+"dhp54:0":{
+"verse":"Chuyện Trưởng lão Ānanda vấn đạo "
+},
+"dhp54:1":{
+"verse":"Hương các loại hoa thơm "
+},
+"dhp54:2":{
+"verse":"Không ngược bay chiều gió "
+},
+"dhp54:3":{
+"verse":"Nhưng hương người đức hạnh Ngược gió khắp tung bay "
+},
+"dhp54:4":{
+"verse":"Chỉ có bậc chân nhân Toả khắp mọi phương trời. "
+},
+"dhp55:1":{
+"verse":"Hoa chiên đàn, già la, "
+},
+"dhp55:2":{
+"verse":"Hoa sen, hoa vũ quý. "
+},
+"dhp55:3":{
+"verse":"Giữa những hương hoa ấy, "
+},
+"dhp55:4":{
+"verse":"Giới hương là vô thượng. "
+},
+"dhp56:0":{
+"verse":"Chuyện Trưởng lão Mahā Kassapa (Ca-diếp) được Đế-thích để bát cúng dường "
+},
+"dhp56:1":{
+"verse":"Ít giá trị hương này, "
+},
+"dhp56:2":{
+"verse":"Hương già la, chiên đàn; "
+},
+"dhp56:3":{
+"verse":"Chỉ hương người đức hạnh, "
+},
+"dhp56:4":{
+"verse":"Tối thượng tỏa Thiên giới. "
+},
+"dhp57:0":{
+"verse":"Chuyện Trưởng lão Godhika viên tịch "
+},
+"dhp57:1":{
+"verse":"Giữa ai có giới hạnh, "
+},
+"dhp57:2":{
+"verse":"An trú không phóng dật. "
+},
+"dhp57:3":{
+"verse":"Chánh trí, chơn giải thoát, "
+},
+"dhp57:4":{
+"verse":"Ác ma không thấy đường. "
+},
+"dhp58:0":{
+"verse":"Chuyện ông Garahadinna (Oán Trách Thí) "
+},
+"dhp58:1":{
+"verse":"Như giữa đống rác nhớp, "
+},
+"dhp58:2":{
+"verse":"Quăng bỏ trên đường lớn, "
+},
+"dhp58:3":{
+"verse":"Chỗ ấy hoa sen nở, "
+},
+"dhp58:4":{
+"verse":"Thơm sạch, đẹp ý người. "
+},
+"dhp59:1":{
+"verse":"Cũng vậy giữa quần sanh, "
+},
+"dhp59:2":{
+"verse":"Uế nhiễm, mù, phàm tục, "
+},
+"dhp59:3":{
+"verse":"Ðệ tử bậc Chánh Giác, "
+},
+"dhp59:4":{
+"verse":"Sáng ngời với Tuệ Tri. "
+},
+"dhp59:5":{
+"verse":"Hết phẩm Hoa "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0060-0075":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp60:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp60:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp60:0.3":{
+"verse":"Phẩm Ngu "
+},
+"dhp60:0.4":{
+"verse":"Chuyện trai nghèo có vợ đẹp "
+},
+"dhp60:1":{
+"verse":"Ðêm dài cho kẻ thức, "
+},
+"dhp60:2":{
+"verse":"Ðường dài cho kẻ mệt, "
+},
+"dhp60:3":{
+"verse":"Luân hồi dài, kẻ ngu, "
+},
+"dhp60:4":{
+"verse":"Không biết chơn diệu pháp. "
+},
+"dhp61:0":{
+"verse":"Chuyện đệ tử của Trưởng lão Mahā Kassapa (Ca-diếp) "
+},
+"dhp61:1":{
+"verse":"Tìm không được bạn đường, "
+},
+"dhp61:2":{
+"verse":"Hơn mình hay bằng mình, "
+},
+"dhp61:3":{
+"verse":"Thà quyết sống một mình, "
+},
+"dhp61:4":{
+"verse":"Không làm bạn kẻ ngu. "
+},
+"dhp62:0":{
+"verse":"Chuyện Trưởng giả Ānanda "
+},
+"dhp62:1":{
+"verse":"“Con tôi, tài sản tôi”, "
+},
+"dhp62:2":{
+"verse":"Người ngu sanh ưu não, "
+},
+"dhp62:3":{
+"verse":"Tự ta, ta không có, "
+},
+"dhp62:4":{
+"verse":"Con đâu, tài sản đâu? "
+},
+"dhp63:0":{
+"verse":"Chuyện tên trộm "
+},
+"dhp63:1":{
+"verse":"Người ngu nghĩ mình ngu, "
+},
+"dhp63:2":{
+"verse":"Nhờ vậy thành có trí. "
+},
+"dhp63:3":{
+"verse":"Người ngu tưởng có trí, "
+},
+"dhp63:4":{
+"verse":"Thật xứng gọi chí ngu. "
+},
+"dhp64:0":{
+"verse":"Chuyện Trưởng lão Udāyi "
+},
+"dhp64:1":{
+"verse":"Người ngu, dầu trọn đời, "
+},
+"dhp64:2":{
+"verse":"Thân cận người có trí, "
+},
+"dhp64:3":{
+"verse":"Không biết được Chánh pháp, "
+},
+"dhp64:4":{
+"verse":"Như muỗng với vị canh. "
+},
+"dhp65:0":{
+"verse":"Chuyện nhóm Tỳ-kheo ở xứ Pāveyyaka "
+},
+"dhp65:1":{
+"verse":"Người trí, dù một khắc, "
+},
+"dhp65:2":{
+"verse":"Thân cận người có trí, "
+},
+"dhp65:3":{
+"verse":"Biết ngay chân diệu pháp, "
+},
+"dhp65:4":{
+"verse":"Như lưỡi với vị canh. "
+},
+"dhp66:0":{
+"verse":"Chuyện ông Suppabuddhakuṭṭhi (Thiện Giác cùi) "
+},
+"dhp66:1":{
+"verse":"Người ngu si thiếu trí, "
+},
+"dhp66:2":{
+"verse":"Tự ngã thành kẻ thù. "
+},
+"dhp66:3":{
+"verse":"Làm các nghiệp không thiện, "
+},
+"dhp66:4":{
+"verse":"Phải chịu quả đắng cay. "
+},
+"dhp67:0":{
+"verse":"Chuyện người nông phu mắc cạn "
+},
+"dhp67:1":{
+"verse":"Nghiệp làm không chánh thiện, "
+},
+"dhp67:2":{
+"verse":"Làm rồi sanh ăn năn, "
+},
+"dhp67:3":{
+"verse":"Mặt nhuốm lệ, khóc than, "
+},
+"dhp67:4":{
+"verse":"Lãnh chịu quả dị thục. "
+},
+"dhp68:0":{
+"verse":"Chuyện người kết tràng hoa Sumana (Hảo Ý) "
+},
+"dhp68:1":{
+"verse":"Và nghiệp làm chánh thiện, "
+},
+"dhp68:2":{
+"verse":"Làm rồi không ăn năn, "
+},
+"dhp68:3":{
+"verse":"Hoan hỷ, ý đẹp lòng, "
+},
+"dhp68:4":{
+"verse":"Hưởng thọ quả dị thục. "
+},
+"dhp69:0":{
+"verse":"Chuyện Thánh nữ Uppalavaṇṇā (Thanh Liên Sắc) "
+},
+"dhp69:1":{
+"verse":"Người ngu nghĩ là ngọt, "
+},
+"dhp69:2":{
+"verse":"Khi ác chưa chín muồi; "
+},
+"dhp69:3":{
+"verse":"Ác nghiệp chín muồi rồi, "
+},
+"dhp69:4":{
+"verse":"Người ngu chịu khổ đau. "
+},
+"dhp70:0":{
+"verse":"Chuyện tu sĩ ngoại đạo Jambūka (Hào Cẩu) "
+},
+"dhp70:1":{
+"verse":"Tháng tháng với ngọn cỏ, "
+},
+"dhp70:2":{
+"verse":"Người ngu có ăn uống "
+},
+"dhp70:3":{
+"verse":"Không bằng phần mười sáu, "
+},
+"dhp70:4":{
+"verse":"Người hiểu pháp hữu vi. "
+},
+"dhp71:0":{
+"verse":"Chuyện ngạ quỷ mình rắn "
+},
+"dhp71:1":{
+"verse":"Nghiệp ác đã được làm, "
+},
+"dhp71:2":{
+"verse":"Như sữa, không đông ngay, "
+},
+"dhp71:3":{
+"verse":"Cháy ngầm theo kẻ ngu, "
+},
+"dhp71:4":{
+"verse":"Như lửa tro che đậy. "
+},
+"dhp72:0":{
+"verse":"Chuyện ngạ quỷ bị búa đập đầu "
+},
+"dhp72:1":{
+"verse":"Tự nó chịu bất hạnh, "
+},
+"dhp72:2":{
+"verse":"Khi danh đến kẻ ngu. "
+},
+"dhp72:3":{
+"verse":"Vận may bị tổn hại, "
+},
+"dhp72:4":{
+"verse":"Ðầu nó bị nát tan. "
+},
+"dhp73:0":{
+"verse":"Chuyện Trưởng lão Suddhamma (Thiện Pháp) "
+},
+"dhp73:1":{
+"verse":"Ưa danh không tương xứng, "
+},
+"dhp73:2":{
+"verse":"Muốn ngồi trước tỳ-kheo, "
+},
+"dhp73:3":{
+"verse":"ưa quyền tại tịnh xá, "
+},
+"dhp73:4":{
+"verse":"Muốn mọi người lễ kính. "
+},
+"dhp74:1":{
+"verse":"“Mong cả hai tăng, tục, "
+},
+"dhp74:2":{
+"verse":"Nghĩ rằng chính ta làm. "
+},
+"dhp74:3":{
+"verse":"Trong mọi việc lớn nhỏ, "
+},
+"dhp74:4":{
+"verse":"Phải theo mệnh lệnh ta” "
+},
+"dhp74:5":{
+"verse":"Người ngu nghĩ như vậy "
+},
+"dhp74:6":{
+"verse":"Dục và mạn tăng trưởng. "
+},
+"dhp75:0":{
+"verse":"Chuyện Trưởng lão Tissa ở rừng Vanavāsi "
+},
+"dhp75:1":{
+"verse":"Khác thay duyên thế lợi, "
+},
+"dhp75:2":{
+"verse":"Khác thay đường Niết-bàn. "
+},
+"dhp75:3":{
+"verse":"Tỳ-kheo, đệ tử Phật, "
+},
+"dhp75:4":{
+"verse":"Hãy như vậy thắng tri. "
+},
+"dhp75:5":{
+"verse":"Chớ ưa thích cung kính, "
+},
+"dhp75:6":{
+"verse":"Hãy tu hạnh viễn ly. "
+},
+"dhp75:7":{
+"verse":"Hết phẩm Ngu "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0076-0089":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp76:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp76:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp76:0.3":{
+"verse":"Phẩm Hiền Trí "
+},
+"dhp76:0.4":{
+"verse":"Chuyện Trưởng lão Rādha "
+},
+"dhp76:1":{
+"verse":"Nếu thấy bậc hiền trí, "
+},
+"dhp76:2":{
+"verse":"Chỉ lỗi và khiển trách, "
+},
+"dhp76:3":{
+"verse":"Như chỉ chỗ chôn vàng "
+},
+"dhp76:4":{
+"verse":"Hãy thân cận người trí! "
+},
+"dhp76:5":{
+"verse":"Thân cận người như vậy, "
+},
+"dhp76:6":{
+"verse":"Chỉ tốt hơn, không xấu. "
+},
+"dhp77:0":{
+"verse":"Chuyện nhóm Tỳ-kheo Assajipunabbasuka (Ác Tăng) "
+},
+"dhp77:1":{
+"verse":"Những người hay khuyên dạy, "
+},
+"dhp77:2":{
+"verse":"Ngăn người khác làm ác, "
+},
+"dhp77:3":{
+"verse":"Ðược người hiền kính yêu, "
+},
+"dhp77:4":{
+"verse":"Bị người ác không thích. "
+},
+"dhp78:0":{
+"verse":"Chuyện Trưởng lão Channa (Sa-nặc) "
+},
+"dhp78:1":{
+"verse":"Chớ thân với bạn ác, "
+},
+"dhp78:2":{
+"verse":"Chớ thân kẻ tiểu nhân. "
+},
+"dhp78:3":{
+"verse":"Hãy thân người bạn lành, "
+},
+"dhp78:4":{
+"verse":"Hãy thân bậc thượng nhân. "
+},
+"dhp79:0":{
+"verse":"Chuyện Trưởng lão Mahā Kappina (Kiếp-tân-na) "
+},
+"dhp79:1":{
+"verse":"Pháp hỷ đem an lạc, "
+},
+"dhp79:2":{
+"verse":"Với tâm tư thuần tịnh; "
+},
+"dhp79:3":{
+"verse":"Người trí thường hoan hỷ, "
+},
+"dhp79:4":{
+"verse":"Với pháp bậc Thánh thuyết. "
+},
+"dhp80:0":{
+"verse":"Chuyện Sa-di Paṇḍita (Trí Giả) "
+},
+"dhp80:1":{
+"verse":"Người trị thủy dẫn nước, "
+},
+"dhp80:2":{
+"verse":"Kẻ làm tên nắn tên, "
+},
+"dhp80:3":{
+"verse":"Người thợ mộc uốn gỗ, "
+},
+"dhp80:4":{
+"verse":"Bậc trí nhiếp tự thân. "
+},
+"dhp81:0":{
+"verse":"Chuyện Trưởng lão Lakuṇṭaka Bhaddiya "
+},
+"dhp81:1":{
+"verse":"Như đá tảng kiên cố, "
+},
+"dhp81:2":{
+"verse":"Không gió nào giao động, "
+},
+"dhp81:3":{
+"verse":"Cũng vậy, giữa khen chê, "
+},
+"dhp81:4":{
+"verse":"Người trí không giao động. "
+},
+"dhp82:0":{
+"verse":"Chuyện mẹ nàng Kāṇā "
+},
+"dhp82:1":{
+"verse":"Như hồ nước sâu thẳm, "
+},
+"dhp82:2":{
+"verse":"Trong sáng, không khuấy đục, "
+},
+"dhp82:3":{
+"verse":"Cũng vậy, nghe chánh pháp, "
+},
+"dhp82:4":{
+"verse":"Người trí hưởng tịnh lạc. "
+},
+"dhp83:0":{
+"verse":"Chuyện 500 vị Tỳ-kheo "
+},
+"dhp83:1":{
+"verse":"Người hiền bỏ tất cả, "
+},
+"dhp83:2":{
+"verse":"Người lành không bàn dục, "
+},
+"dhp83:3":{
+"verse":"Dầu cảm thọ lạc khổ, "
+},
+"dhp83:4":{
+"verse":"Bậc trí không vui buồn. "
+},
+"dhp84:0":{
+"verse":"Chuyện Trưởng lão Dhammika (Hợp Pháp) "
+},
+"dhp84:1":{
+"verse":"Không vì mình, vì người. Không cầu được con cái, "
+},
+"dhp84:2":{
+"verse":"Không tài sản quốc độ, Không cầu mình thành tựu, "
+},
+"dhp84:3":{
+"verse":"Với việc làm phi pháp. "
+},
+"dhp84:4":{
+"verse":"Vị ấy thật trì giới, Có trí tuệ, đúng pháp. "
+},
+"dhp85:0":{
+"verse":"Chuyện nhóm thiện tín nghe pháp "
+},
+"dhp85:1":{
+"verse":"Ít người giữa nhân loại, "
+},
+"dhp85:2":{
+"verse":"Ðến được bờ bên kia "
+},
+"dhp85:3":{
+"verse":"Còn số người còn lại, "
+},
+"dhp85:4":{
+"verse":"Xuôi ngược chạy bờ này. "
+},
+"dhp86:1":{
+"verse":"Những ai hành trì pháp, "
+},
+"dhp86:2":{
+"verse":"Theo chánh pháp khéo dạy, "
+},
+"dhp86:3":{
+"verse":"Sẽ đến bờ bên kia, "
+},
+"dhp86:4":{
+"verse":"Vượt ma lực khó thoát. "
+},
+"dhp87:0":{
+"verse":"Chuyện 500 vị khách Tăng "
+},
+"dhp87:1":{
+"verse":"Kẻ trí bỏ pháp đen, "
+},
+"dhp87:2":{
+"verse":"Tu tập theo pháp trắng. "
+},
+"dhp87:3":{
+"verse":"Bỏ nhà, sống không nhà, "
+},
+"dhp87:4":{
+"verse":"Sống viễn ly khổ lạc. "
+},
+"dhp88:1":{
+"verse":"Hãy cầu vui Niết-bàn, "
+},
+"dhp88:2":{
+"verse":"Bỏ dục, không sở hữu, "
+},
+"dhp88:3":{
+"verse":"Kẻ trí tự rửa sạch, "
+},
+"dhp88:4":{
+"verse":"Cấu uế từ nội tâm. "
+},
+"dhp89:1":{
+"verse":"Những ai với chánh tâm, "
+},
+"dhp89:2":{
+"verse":"Khéo tu tập giác chi, "
+},
+"dhp89:3":{
+"verse":"Từ bỏ mọi ái nhiễm, "
+},
+"dhp89:4":{
+"verse":"Hoan hỷ không chấp thủ. "
+},
+"dhp89:5":{
+"verse":"Không lậu hoặc, sáng chói, "
+},
+"dhp89:6":{
+"verse":"Sống tịch tịnh ở đời. "
+},
+"dhp89:7":{
+"verse":"Hết phẩm Hiền Trí "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0090-0099":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp90:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp90:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp90:0.3":{
+"verse":"Phẩm A-la-hán "
+},
+"dhp90:0.4":{
+"verse":"Chuyện ông Jīvaka "
+},
+"dhp90:1":{
+"verse":"Ðích đã đến, không sầu, "
+},
+"dhp90:2":{
+"verse":"Giải thoát ngoài tất cả, "
+},
+"dhp90:3":{
+"verse":"Ðoạn trừ mọi buộc ràng, "
+},
+"dhp90:4":{
+"verse":"Vị ấy không nhiệt não. "
+},
+"dhp91:0":{
+"verse":"Chuyện Trưởng lão Mahā Kassapa (Ca-diếp) "
+},
+"dhp91:1":{
+"verse":"Tự sách tấn chánh niệm, "
+},
+"dhp91:2":{
+"verse":"Không thích cư xá nào, "
+},
+"dhp91:3":{
+"verse":"Như ngỗng trời rời ao, "
+},
+"dhp91:4":{
+"verse":"Bỏ sau mọi trú ẩn. "
+},
+"dhp92:0":{
+"verse":"Chuyện Trưởng lão Belaṭṭhasīsa "
+},
+"dhp92:1":{
+"verse":"Tài sản không chất chứa, "
+},
+"dhp92:2":{
+"verse":"Ăn uống biết liễu trì, "
+},
+"dhp92:3":{
+"verse":"Tự tại trong hành xứ, "
+},
+"dhp92:4":{
+"verse":"Không vô tướng, giải thoát, "
+},
+"dhp92:5":{
+"verse":"Như chim giữa hư không, "
+},
+"dhp92:6":{
+"verse":"Hướng chúng đi khó tìm. "
+},
+"dhp93:0":{
+"verse":"Chuyện Trưởng lão Anuruddha (A-nậu-lâu-đà) "
+},
+"dhp93:1":{
+"verse":"Ai lậu hoặc đoạn sạch, "
+},
+"dhp93:2":{
+"verse":"Ăn uống không tham đắm, "
+},
+"dhp93:3":{
+"verse":"Tự tại trong hành xứ, "
+},
+"dhp93:4":{
+"verse":"Không, vô tướng, giải thoát. "
+},
+"dhp93:5":{
+"verse":"Như chim giữa hư không, "
+},
+"dhp93:6":{
+"verse":"Dấu chân thật khó tìm. "
+},
+"dhp94:0":{
+"verse":"Chuyện Trưởng lão Mahā Kaccāyana (Ca-chiên-diên) "
+},
+"dhp94:1":{
+"verse":"Ai nhiếp phục các căn, "
+},
+"dhp94:2":{
+"verse":"Như đánh xe điều ngự, "
+},
+"dhp94:3":{
+"verse":"Mạn trừ, lậu hoặc dứt, "
+},
+"dhp94:4":{
+"verse":"Người vậy, Chư Thiên mến. "
+},
+"dhp95:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp95:1":{
+"verse":"Như đất không hiềm hận, "
+},
+"dhp95:2":{
+"verse":"Như cột trụ kiên trì, "
+},
+"dhp95:3":{
+"verse":"Như hồ, không bùn nhơ, "
+},
+"dhp95:4":{
+"verse":"Không luân hồi, vị ấy. "
+},
+"dhp96:0":{
+"verse":"Chuyện Trưởng lão Tissa ở xứ Kosambi "
+},
+"dhp96:1":{
+"verse":"Người tâm ý an tịnh, "
+},
+"dhp96:2":{
+"verse":"Lời an, nghiệp cũng an, "
+},
+"dhp96:3":{
+"verse":"Chánh trí, chơn giải thoát, "
+},
+"dhp96:4":{
+"verse":"Tịnh lạc là vị ấy. "
+},
+"dhp97:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp97:1":{
+"verse":"Không tin, hiểu Vô vi. "
+},
+"dhp97:2":{
+"verse":"Người cắt mọi hệ lụy, "
+},
+"dhp97:3":{
+"verse":"Cơ hội tận, xả ly "
+},
+"dhp97:4":{
+"verse":"Vị ấy thật tối thượng. "
+},
+"dhp98:0":{
+"verse":"Chuyện Trưởng lão Revata ở rừng Keo "
+},
+"dhp98:1":{
+"verse":"Làng mạc hay rừng núi "
+},
+"dhp98:2":{
+"verse":"Thung lũng hay đồi cao, "
+},
+"dhp98:3":{
+"verse":"La-hán trú chỗ nào, "
+},
+"dhp98:4":{
+"verse":"Ðất ấy thật khả ái. "
+},
+"dhp99:0":{
+"verse":"Chuyện người nữ quyến rũ sa-môn "
+},
+"dhp99:1":{
+"verse":"Khả ái thay núi rừng, "
+},
+"dhp99:2":{
+"verse":"Chỗ người phàm không ưa, "
+},
+"dhp99:3":{
+"verse":"Vị ly tham ưa thích, "
+},
+"dhp99:4":{
+"verse":"Vì không tìm dục lạc. "
+},
+"dhp99:5":{
+"verse":"Hết phẩm A-la-hán "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0100-0115":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp100:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp100:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp100:0.3":{
+"verse":"Phẩm Ngàn "
+},
+"dhp100:0.4":{
+"verse":"Chuyện đao phủ thủ Tambadāṭhika (Nanh Đồng) "
+},
+"dhp100:1":{
+"verse":"Dầu nói ngàn ngàn lời, "
+},
+"dhp100:2":{
+"verse":"Nhưng không gì lợi ích, "
+},
+"dhp100:3":{
+"verse":"Tốt hơn một câu nghĩa, "
+},
+"dhp100:4":{
+"verse":"Nghe xong, được tịnh lạc. "
+},
+"dhp101:0":{
+"verse":"Chuyện Trưởng lão Bāhiya mặc y vỏ cây "
+},
+"dhp101:1":{
+"verse":"Dầu nói ngàn câu kệ "
+},
+"dhp101:2":{
+"verse":"Nhưng không gì lợi ích, "
+},
+"dhp101:3":{
+"verse":"Tốt hơn nói một câu, "
+},
+"dhp101:4":{
+"verse":"Nghe xong, được tịnh lạc. "
+},
+"dhp102:0":{
+"verse":"Chuyện Trưởng lão ni Kuṇḍalakesī (Tóc Quăn) "
+},
+"dhp102:1":{
+"verse":"Dầu nói trăm câu kệ "
+},
+"dhp102:2":{
+"verse":"Nhưng không gì lợi ích "
+},
+"dhp102:3":{
+"verse":"Tốt hơn một câu Pháp, "
+},
+"dhp102:4":{
+"verse":"Nghe xong, được tịnh lạc. "
+},
+"dhp103:1":{
+"verse":"Dầu tại bãi chiến trường "
+},
+"dhp103:2":{
+"verse":"Thắng ngàn ngàn quân địch, "
+},
+"dhp103:3":{
+"verse":"Tự thắng mình tốt hơn, "
+},
+"dhp103:4":{
+"verse":"Thật chiến thắng tối thượng. "
+},
+"dhp104:0":{
+"verse":"Chuyện thầy Bà-la-môn hỏi về pháp Vô ích "
+},
+"dhp104:1":{
+"verse":"Tự thắng , tốt đẹp hơn, "
+},
+"dhp104:2":{
+"verse":"Hơn chiến thắng người khác. "
+},
+"dhp104:3":{
+"verse":"Người khéo điều phục mình, "
+},
+"dhp104:4":{
+"verse":"Thường sống tự chế ngự. "
+},
+"dhp105:1":{
+"verse":"Dầu Thiên Thần, Thát-bà, "
+},
+"dhp105:2":{
+"verse":"Dầu Ma Vương, Phạm Thiên "
+},
+"dhp105:3":{
+"verse":"Không ai chiến thắng nổi, "
+},
+"dhp105:4":{
+"verse":"Người tự thắng như vậy. "
+},
+"dhp106:0":{
+"verse":"Chuyện thầy Bà-la-môn họ hàng Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp106:1":{
+"verse":"Tháng tháng bỏ ngàn vàng, "
+},
+"dhp106:2":{
+"verse":"Tế tự cả trăm năm, "
+},
+"dhp106:3":{
+"verse":"Chẳng bằng trong giây lát, "
+},
+"dhp106:4":{
+"verse":"Cúng dường bậc tự tu. "
+},
+"dhp106:5":{
+"verse":"Cúng dường vậy tốt hơn, "
+},
+"dhp106:6":{
+"verse":"Hơn trăm năm tế tự. "
+},
+"dhp107:0":{
+"verse":"Chuyện thầy Bà-la-môn họ hàng Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp107:1":{
+"verse":"Dầu trải một trăm năm, "
+},
+"dhp107:2":{
+"verse":"Thờ lửa tại rừng sâu, "
+},
+"dhp107:3":{
+"verse":"Chẳng bằng trong giây lát, "
+},
+"dhp107:4":{
+"verse":"Cúng dường bậc tự tu. "
+},
+"dhp107:5":{
+"verse":"Cúng dường vậy tốt hơn, "
+},
+"dhp107:6":{
+"verse":"Hơn trăm năm tế tự. "
+},
+"dhp108:0":{
+"verse":"Chuyện thầy Bà-la-môn bạn Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp108:1":{
+"verse":"Suốt năm cúng tế vật, "
+},
+"dhp108:2":{
+"verse":"Ðể cầu phước ở đời. "
+},
+"dhp108:3":{
+"verse":"Không bằng một phần tư "
+},
+"dhp108:4":{
+"verse":"Kính lễ bậc chánh trực. "
+},
+"dhp109:0":{
+"verse":"Chuyện cậu bé Dīghāyu (Trường Thọ) "
+},
+"dhp109:1":{
+"verse":"Thường tôn trọng, kính lễ "
+},
+"dhp109:2":{
+"verse":"Bậc kỳ lão trưởng thượng, "
+},
+"dhp109:3":{
+"verse":"Bốn pháp được tăng trưởng: "
+},
+"dhp109:4":{
+"verse":"Thọ, sắc, lạc, sức mạnh. "
+},
+"dhp110:0":{
+"verse":"Chuyện Sa-di Saṅkicca (Đòn Xóc) "
+},
+"dhp110:1":{
+"verse":"Dầu sống một trăm năm, "
+},
+"dhp110:2":{
+"verse":"Ác giới, không thiền định, "
+},
+"dhp110:3":{
+"verse":"Tốt hơn sống một ngày, "
+},
+"dhp110:4":{
+"verse":"Trì giới, tu thiền định. "
+},
+"dhp111:0":{
+"verse":"Chuyện Trưởng lão Khāṇukoñdañña (Kiều-trần-như Gốc Cây). "
+},
+"dhp111:1":{
+"verse":"Ai sống một trăm năm, "
+},
+"dhp111:2":{
+"verse":"Ác tuệ, không thiền định. "
+},
+"dhp111:3":{
+"verse":"Tốt hơn sống một ngày, "
+},
+"dhp111:4":{
+"verse":"Có tuệ, tu thiền định. "
+},
+"dhp112:0":{
+"verse":"Chuyện Trưởng lão Sappadāsa "
+},
+"dhp112:1":{
+"verse":"Ai sống một trăm năm, "
+},
+"dhp112:2":{
+"verse":"Lười nhác không tin tấn, "
+},
+"dhp112:3":{
+"verse":"Tốt hơn sống một ngày "
+},
+"dhp112:4":{
+"verse":"Tinh tấn tận sức mình. "
+},
+"dhp113:0":{
+"verse":"Chuyện Trường lão ni Paṭācārā (Sa Đọa) "
+},
+"dhp113:1":{
+"verse":"Ai sống một trăm năm, "
+},
+"dhp113:2":{
+"verse":"Không thấy pháp sinh diệt, "
+},
+"dhp113:3":{
+"verse":"Tốt hơn sống một ngày, "
+},
+"dhp113:4":{
+"verse":"Thấy được pháp sinh diệt. "
+},
+"dhp114:0":{
+"verse":"Chuyện nàng Kisāgotamī "
+},
+"dhp114:1":{
+"verse":"Ai sống một trăm năm, "
+},
+"dhp114:2":{
+"verse":"Không thấy câu bất tử, "
+},
+"dhp114:3":{
+"verse":"Tốt hơn sống một ngày, "
+},
+"dhp114:4":{
+"verse":"Thấy được câu bất tử. "
+},
+"dhp115:0":{
+"verse":"Chuyện Trưởng lão ni Bahuputtikā (Đa Tử) "
+},
+"dhp115:1":{
+"verse":"Ai sống một trăm năm, "
+},
+"dhp115:2":{
+"verse":"Không thấy Pháp Tối thượng, "
+},
+"dhp115:3":{
+"verse":"Tốt hơn sống một ngày, "
+},
+"dhp115:4":{
+"verse":"Thấy được Pháp Tối thượng. "
+},
+"dhp115:5":{
+"verse":"Hết phẩm Ngàn "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0116-0128":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp116:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp116:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp116:0.3":{
+"verse":"Phẩm Ác "
+},
+"dhp116:0.4":{
+"verse":"Chuyện Bà-la-môn Cūḷekasātaka (Tiểu Trung Y) "
+},
+"dhp116:1":{
+"verse":"Hãy gấp làm điều lành, "
+},
+"dhp116:2":{
+"verse":"Ngăn tâm làm điều ác. "
+},
+"dhp116:3":{
+"verse":"Ai chậm làm việc lành, "
+},
+"dhp116:4":{
+"verse":"Ý ưa thích việc ác. "
+},
+"dhp117:0":{
+"verse":"Chuyện Trưởng lão Seyyasaka "
+},
+"dhp117:1":{
+"verse":"Nếu người làm điều ác, "
+},
+"dhp117:2":{
+"verse":"Chớ tiếp tục làm thêm. "
+},
+"dhp117:3":{
+"verse":"Chớ ước muốn điều ác, "
+},
+"dhp117:4":{
+"verse":"Chứa ác, tất chịu khổ. "
+},
+"dhp118:0":{
+"verse":"Chuyện Thiên nữ Lājā (Cốm Rang) "
+},
+"dhp118:1":{
+"verse":"Nếu người làm điều thiện, "
+},
+"dhp118:2":{
+"verse":"Nên tiếp tục làm thêm. "
+},
+"dhp118:3":{
+"verse":"Hãy ước muốn điều thiện, "
+},
+"dhp118:4":{
+"verse":"Chứa thiện, được an lạc. "
+},
+"dhp119:0":{
+"verse":"Chuyện Trưởng giả Anāthapiṇḍika (Cấp Cô Độc) "
+},
+"dhp119:1":{
+"verse":"Người ác thấy là hiền. "
+},
+"dhp119:2":{
+"verse":"Khi ác chưa chín muồi, "
+},
+"dhp119:3":{
+"verse":"Khi ác nghiệp chín muồi, "
+},
+"dhp119:4":{
+"verse":"Người ác mới thấy ác. "
+},
+"dhp120:1":{
+"verse":"Người hiền thấy là ác, "
+},
+"dhp120:2":{
+"verse":"Khi thiện chưa chín muồi, "
+},
+"dhp120:3":{
+"verse":"Khi thiện nghiệp chín muồi, "
+},
+"dhp120:4":{
+"verse":"Người hiền thấy là thiện. "
+},
+"dhp121:0":{
+"verse":"Chuyện vị Tỳ-khoe khinh giới nhỏ "
+},
+"dhp121:1":{
+"verse":"Chớ chê khinh điều ác, "
+},
+"dhp121:2":{
+"verse":"Cho rằng “chưa đến mình”, "
+},
+"dhp121:3":{
+"verse":"Như nước nhỏ từng giọt, "
+},
+"dhp121:4":{
+"verse":"Rồi bình cũng đầy tràn. "
+},
+"dhp121:5":{
+"verse":"Người ngu chứa đầy ác "
+},
+"dhp121:6":{
+"verse":"Do chất chứa dần dần. "
+},
+"dhp122:0":{
+"verse":"Chuyện Bá hộ Biḷālapādaka (Chân Mèo) "
+},
+"dhp122:1":{
+"verse":"Chớ chê khinh điều thiện "
+},
+"dhp122:2":{
+"verse":"Cho rằng “chưa đến mình”, "
+},
+"dhp122:3":{
+"verse":"Như nước nhỏ từng giọt, "
+},
+"dhp122:4":{
+"verse":"Rồi bình cũng đầy tràn. "
+},
+"dhp122:5":{
+"verse":"Người trí chứa đầy thiện, "
+},
+"dhp122:6":{
+"verse":"Do chất chứa dần dần. "
+},
+"dhp123:0":{
+"verse":"Chuyện phú thương tránh hiểm lộ "
+},
+"dhp123:1":{
+"verse":"Ít bạn đường, nhiều tiền, "
+},
+"dhp123:2":{
+"verse":"Người buôn tránh đường hiểm. "
+},
+"dhp123:3":{
+"verse":"Muốn sống, tránh thuốc độc, "
+},
+"dhp123:4":{
+"verse":"Hãy tránh ác như vậy. "
+},
+"dhp124:0":{
+"verse":"Chuyện thợ săn Kukkuṭamitta (Kê Hữu) "
+},
+"dhp124:1":{
+"verse":"Bàn tay không thương tích, "
+},
+"dhp124:2":{
+"verse":"Có thể cầm thuốc độc. "
+},
+"dhp124:3":{
+"verse":"Không thương tích, tránh độc, "
+},
+"dhp124:4":{
+"verse":"Không làm, không có ác. "
+},
+"dhp125:0":{
+"verse":"Chuyện thợ săn Koka gặp sa-môn "
+},
+"dhp125:1":{
+"verse":"Hại người không ác tâm, "
+},
+"dhp125:2":{
+"verse":"Người thanh tịnh, không uế, "
+},
+"dhp125:3":{
+"verse":"Tội ác đến kẻ ngu, "
+},
+"dhp125:4":{
+"verse":"Như ngược gió tung bụi. "
+},
+"dhp126:0":{
+"verse":"Chuyện Trưởng lão Tissa và người thợ ngọc thị giả "
+},
+"dhp126:1":{
+"verse":"Một số sinh bào thai, "
+},
+"dhp126:2":{
+"verse":"Kẻ ác sinh địa ngục, "
+},
+"dhp126:3":{
+"verse":"Người thiện lên cõi trời, "
+},
+"dhp126:4":{
+"verse":"Vô lậu chứng Niết-bàn. "
+},
+"dhp127:0":{
+"verse":"Chuyện 3 nhóm Tỳ-kheo "
+},
+"dhp127:1":{
+"verse":"Không trên trời, giữa biển, "
+},
+"dhp127:2":{
+"verse":"Không lánh vào động núi, "
+},
+"dhp127:3":{
+"verse":"Không chỗ nào trên đời, "
+},
+"dhp127:4":{
+"verse":"Trốn được quả ác nghiệp. "
+},
+"dhp128:0":{
+"verse":"Chuyện vua Suppabuddhasakka (Thiện Giác) "
+},
+"dhp128:1":{
+"verse":"Không trên trời, giữa biển, "
+},
+"dhp128:2":{
+"verse":"Không lánh vào động núi, "
+},
+"dhp128:3":{
+"verse":"Không chỗ nào trên đời, "
+},
+"dhp128:4":{
+"verse":"Trốn khỏi tay thần chết. "
+},
+"dhp128:5":{
+"verse":"Hết phẩm Ác "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0129-0145":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp129:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp129:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp129:0.3":{
+"verse":"Phẩm Hình Phạt "
+},
+"dhp129:0.4":{
+"verse":"Chuyện 6 vị Tỳ-kheo hành hun "
+},
+"dhp129:1":{
+"verse":"Mọi người sợ hình phạt, "
+},
+"dhp129:2":{
+"verse":"Mọi người sợ tử vong. "
+},
+"dhp129:3":{
+"verse":"Lấy mình làm ví dụ "
+},
+"dhp129:4":{
+"verse":"Không giết, không bảo giết. "
+},
+"dhp130:0":{
+"verse":"Chuyện 6 vị Tỳ-kheo đe doạ "
+},
+"dhp130:1":{
+"verse":"Mọi người sợ hình phạt, "
+},
+"dhp130:2":{
+"verse":"Mọi người thương sống còn; "
+},
+"dhp130:3":{
+"verse":"Lấy mình làm ví dụ, "
+},
+"dhp130:4":{
+"verse":"Không giết, không bảo giết. "
+},
+"dhp131:0":{
+"verse":"Chuyện lũ trẻ đập rắn "
+},
+"dhp131:1":{
+"verse":"Chúng sanh cầu an lạc, "
+},
+"dhp131:2":{
+"verse":"Ai dùng trượng hại người, "
+},
+"dhp131:3":{
+"verse":"Ðể tìm lạc cho mình, "
+},
+"dhp131:4":{
+"verse":"Ðời sau không được lạc. "
+},
+"dhp132:1":{
+"verse":"Chúng sanh cầu an lạc, "
+},
+"dhp132:2":{
+"verse":"Không dùng trượng hại người, "
+},
+"dhp132:3":{
+"verse":"Ðể tìm lạc cho mình, "
+},
+"dhp132:4":{
+"verse":"Ðời sau hưởng được lạc. "
+},
+"dhp133:0":{
+"verse":"Chuyện Trưởng lão Koṇḍadhāna "
+},
+"dhp133:1":{
+"verse":"Chớ nói lời ác độc, "
+},
+"dhp133:2":{
+"verse":"Nói ác, bị nói lại, "
+},
+"dhp133:3":{
+"verse":"Khổ thay lời phẫn nộ, "
+},
+"dhp133:4":{
+"verse":"Ðao trượng phản chạm người. "
+},
+"dhp134:1":{
+"verse":"Nếu tự mình yên lặng, "
+},
+"dhp134:2":{
+"verse":"Như chiếc chuông bị bể. "
+},
+"dhp134:3":{
+"verse":"Người đã chứng Niết-bàn "
+},
+"dhp134:4":{
+"verse":"Người không còn phẫn nộ. "
+},
+"dhp135:0":{
+"verse":"Chuyện bát quan trai giới của các tín nữ "
+},
+"dhp135:1":{
+"verse":"Với gậy người chăn bò, "
+},
+"dhp135:2":{
+"verse":"Lùa bò ra bãi cỏ; "
+},
+"dhp135:3":{
+"verse":"Cũng vậy, già và chết, "
+},
+"dhp135:4":{
+"verse":"Lùa người đến mạng chung. "
+},
+"dhp136:0":{
+"verse":"Chuyện ngạ quỷ mình trăn "
+},
+"dhp136:1":{
+"verse":"Người ngu làm điều ác, "
+},
+"dhp136:2":{
+"verse":"Không ý thức việc làm. "
+},
+"dhp136:3":{
+"verse":"Do tự nghiệp, người ngu "
+},
+"dhp136:4":{
+"verse":"Bị nung nấu, như lửa. "
+},
+"dhp137:0":{
+"verse":"Chuyện Trưởng lão Mahā Moggallāna (Mục-kiền-liên) "
+},
+"dhp137:1":{
+"verse":"Dùng trượng phạt không trượng "
+},
+"dhp137:2":{
+"verse":"Làm ác người không ác. "
+},
+"dhp137:3":{
+"verse":"Trong mười loại khổ đau, "
+},
+"dhp137:4":{
+"verse":"Chịu gấp một loại khổ: "
+},
+"dhp138:1":{
+"verse":"Hoặc khổ thọ khốc liệt, "
+},
+"dhp138:2":{
+"verse":"Thân thể bị thương vong, "
+},
+"dhp138:3":{
+"verse":"Hoặc thọ bệnh kịch liệt, "
+},
+"dhp138:4":{
+"verse":"Hay loạn ý tán tâm. "
+},
+"dhp139:1":{
+"verse":"Hoặc tai vạ từ vua, "
+},
+"dhp139:2":{
+"verse":"Hay bị vu trọng tội; "
+},
+"dhp139:3":{
+"verse":"Bà con phải ly tán, "
+},
+"dhp139:4":{
+"verse":"Tài sản bị nát tan. "
+},
+"dhp140:1":{
+"verse":"Hoặc phòng ốc nhà cửa "
+},
+"dhp140:2":{
+"verse":"Bị hỏa tai thiêu đốt; "
+},
+"dhp140:3":{
+"verse":"Khi thân hoại mạng chung, "
+},
+"dhp140:4":{
+"verse":"Ác tuệ sanh địa ngục. "
+},
+"dhp141:0":{
+"verse":"Chuyện vị Tỳ-kheo có nhiều vật dụng "
+},
+"dhp141:1":{
+"verse":"Không phải sống lõa thể Bện tóc, tro trét mình, "
+},
+"dhp141:2":{
+"verse":"Tuyệt thực, lăn trên đất, "
+},
+"dhp141:3":{
+"verse":"Sống nhớp, siêng ngồi xổm, "
+},
+"dhp141:4":{
+"verse":"Làm con người được sạch, Nếu không trừ nghi hoặc. "
+},
+"dhp142:0":{
+"verse":"Chuyện quan đại thần Santati "
+},
+"dhp142:1":{
+"verse":"Ai sống tự trang sức, "
+},
+"dhp142:2":{
+"verse":"Nhưng an tịnh, nhiếp phục, Sống kiên trì, phạm hạnh, "
+},
+"dhp142:3":{
+"verse":"Không hại mọi sinh linh. "
+},
+"dhp142:4":{
+"verse":"Vị ấy là phạm chí, Hay sa môn, khất sĩ. "
+},
+"dhp143:0":{
+"verse":"Chuyện Trưởng lão Pilotika (Khố Rách) "
+},
+"dhp143:1":{
+"verse":"Thật khó tìm ở đời, "
+},
+"dhp143:2":{
+"verse":"Người biết thẹn, tự chế, "
+},
+"dhp143:3":{
+"verse":"Biết tránh né chỉ trích "
+},
+"dhp143:4":{
+"verse":"Như ngựa hiền tránh roi. "
+},
+"dhp144:1":{
+"verse":"Như ngựa hiền chạm roi, "
+},
+"dhp144:2":{
+"verse":"Hãy nhiệt tâm, hăng hái, "
+},
+"dhp144:3":{
+"verse":"Với tín, giới, tinh tấn, "
+},
+"dhp144:4":{
+"verse":"Thiền định cùng trạch pháp. "
+},
+"dhp144:5":{
+"verse":"Minh hạnh đủ, chánh niệm, "
+},
+"dhp144:6":{
+"verse":"Ðoạn khổ này vô lượng. "
+},
+"dhp145:0":{
+"verse":"Chuyện Sa-di Sukha (Hạnh Phúc) "
+},
+"dhp145:1":{
+"verse":"Người trị thủy dẫn nước, "
+},
+"dhp145:2":{
+"verse":"Kẻ làm tên nắn tên, "
+},
+"dhp145:3":{
+"verse":"Người thợ mộc uốn ván, "
+},
+"dhp145:4":{
+"verse":"Bậc tự điều, điều thân. "
+},
+"dhp145:5":{
+"verse":"Hết phẩm Hình Phạt "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0146-0156":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp146:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp146:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp146:0.3":{
+"verse":"Phẩm Già "
+},
+"dhp146:0.4":{
+"verse":"Chuyện những người bạn của bà Visākhā (Thiện Chi) "
+},
+"dhp146:1":{
+"verse":"Cười gì, hân hoan gì, "
+},
+"dhp146:2":{
+"verse":"Khi đời mãi bị thiêu? "
+},
+"dhp146:3":{
+"verse":"Bị tối tăm bao trùm, "
+},
+"dhp146:4":{
+"verse":"Sao không tìm ngọn đèn? "
+},
+"dhp147:0":{
+"verse":"Chuyện kỹ nữ Sirimā "
+},
+"dhp147:1":{
+"verse":"Hãy xem bong bóng đẹp, "
+},
+"dhp147:2":{
+"verse":"Chỗ chất chứa vết thương, "
+},
+"dhp147:3":{
+"verse":"Bệnh hoạn nhiều suy tư, "
+},
+"dhp147:4":{
+"verse":"Thật không gì trường cửu. "
+},
+"dhp148:0":{
+"verse":"Chuyện Trưởng lão ni Uttarā "
+},
+"dhp148:1":{
+"verse":"Sắc này bị suy già, "
+},
+"dhp148:2":{
+"verse":"Ổ tật bệnh, mỏng manh, "
+},
+"dhp148:3":{
+"verse":"Nhóm bất tịnh đổ vỡ, "
+},
+"dhp148:4":{
+"verse":"Chết chấm dứt mạng sống. "
+},
+"dhp149:0":{
+"verse":"Chuyện nhóm Tỳ-kheo tăng thượng mạn "
+},
+"dhp149:1":{
+"verse":"Như trái bầu mùa thu, "
+},
+"dhp149:2":{
+"verse":"Bị vất bỏ quăng đi, "
+},
+"dhp149:3":{
+"verse":"Nhóm xương trắng bồ câu, "
+},
+"dhp149:4":{
+"verse":"Thấy chúng còn vui gì? "
+},
+"dhp150:0":{
+"verse":"Chuyện Trưởng lão ni Rūpanandā (Sắc Khánh Hỷ) "
+},
+"dhp150:1":{
+"verse":"Thành này làm bằng xương, "
+},
+"dhp150:2":{
+"verse":"Quét tô bằng thịt máu, "
+},
+"dhp150:3":{
+"verse":"Ở đây già và chết, "
+},
+"dhp150:4":{
+"verse":"Mạn, lừa đảo chất chứa. "
+},
+"dhp151:0":{
+"verse":"Chuyện hoàng hậu Mallikā (Mạt-lỵ) băng hà "
+},
+"dhp151:1":{
+"verse":"Xe vua đẹp cũng già, "
+},
+"dhp151:2":{
+"verse":"Thân này rồi sẽ già. "
+},
+"dhp151:3":{
+"verse":"Pháp bậc thiện, không già. "
+},
+"dhp151:4":{
+"verse":"Như vậy bậc chí thiện Nói lên cho bậc thiện. "
+},
+"dhp152:0":{
+"verse":"Chuyện Trưởng lão Lāḷudāyī "
+},
+"dhp152:1":{
+"verse":"Người ít nghe kém học, "
+},
+"dhp152:2":{
+"verse":"Lớn già như trâu đực. "
+},
+"dhp152:3":{
+"verse":"Thịt nó tuy lớn lên, "
+},
+"dhp152:4":{
+"verse":"Nhưng tuệ không tăng trưởng. "
+},
+"dhp153:0":{
+"verse":"Chuyện Phật thành đạo "
+},
+"dhp153:1":{
+"verse":"Lang thang bao kiếp sống "
+},
+"dhp153:2":{
+"verse":"Ta tìm nhưng chẳng gặp, "
+},
+"dhp153:3":{
+"verse":"Người xây dựng nhà này, "
+},
+"dhp153:4":{
+"verse":"Khổ thay, phải tái sanh. "
+},
+"dhp154:1":{
+"verse":"Ôi! Người làm nhà kia Nay ta đã thấy ngươi! "
+},
+"dhp154:2":{
+"verse":"Người không làm nhà nữa. "
+},
+"dhp154:3":{
+"verse":"Ðòn tay ngươi bị gẫy, "
+},
+"dhp154:4":{
+"verse":"Kèo cột ngươi bị tan "
+},
+"dhp154:5":{
+"verse":"Tâm ta đạt tịch diệt, "
+},
+"dhp154:6":{
+"verse":"Tham ái thảy tiêu vong. "
+},
+"dhp155:0":{
+"verse":"Chuyện bá hộ Mahādhana (Cự Phú) "
+},
+"dhp155:1":{
+"verse":"Lúc trẻ, không phạm hạnh, "
+},
+"dhp155:2":{
+"verse":"Không tìm kiếm bạc tiền. "
+},
+"dhp155:3":{
+"verse":"Như cò già bên ao, "
+},
+"dhp155:4":{
+"verse":"Ủ rũ, không tôm cá. "
+},
+"dhp156:1":{
+"verse":"Lúc trẻ, không phạm hạnh, "
+},
+"dhp156:2":{
+"verse":"Không tìm kiếm bạc tiền. "
+},
+"dhp156:3":{
+"verse":"Như cây cung bị gãy, "
+},
+"dhp156:4":{
+"verse":"Thở than những ngày qua. "
+},
+"dhp156:5":{
+"verse":"Hết phẩm Già "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0157-0166":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp157:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp157:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp157:0.3":{
+"verse":"Phẩm Tự Ngã "
+},
+"dhp157:0.4":{
+"verse":"Chuyện vương tử Bodhi (Bồ-đề) "
+},
+"dhp157:1":{
+"verse":"Nếu biết yêu tự ngã, "
+},
+"dhp157:2":{
+"verse":"Phải khéo bảo vệ mình, "
+},
+"dhp157:3":{
+"verse":"Người trí trong ba canh, "
+},
+"dhp157:4":{
+"verse":"Phải luôn tỉnh thức. "
+},
+"dhp158:0":{
+"verse":"Chuyện Trưởng lão Upananda "
+},
+"dhp158:1":{
+"verse":"Trước hết tự đặt mình, "
+},
+"dhp158:2":{
+"verse":"Vào những gì thích đáng. "
+},
+"dhp158:3":{
+"verse":"Sau mới giáo hóa người, "
+},
+"dhp158:4":{
+"verse":"Người trí khỏi bị nhiễm. "
+},
+"dhp159:0":{
+"verse":"Chuyện Trưởng lão Padhānikatissa (Tissa Tinh Tấn Thiền) "
+},
+"dhp159:1":{
+"verse":"Hãy tự làm cho mình, "
+},
+"dhp159:2":{
+"verse":"Như điều mình dạy người. "
+},
+"dhp159:3":{
+"verse":"Khéo tự điều, điều người, "
+},
+"dhp159:4":{
+"verse":"Khó thay tự điều phục! "
+},
+"dhp160:0":{
+"verse":"Chuyện mẹ của Trưởng lão Kumārakassapa (Ca-diếp Đồng Tử) "
+},
+"dhp160:1":{
+"verse":"Tự mình y chỉ mình, "
+},
+"dhp160:2":{
+"verse":"Nào có y chỉ khác. "
+},
+"dhp160:3":{
+"verse":"Nhờ khéo điều phục mình, "
+},
+"dhp160:4":{
+"verse":"Ðược y chỉ khó được. "
+},
+"dhp161:0":{
+"verse":"Chuyện thiện nam tử Mahākāla "
+},
+"dhp161:1":{
+"verse":"Ðiều ác mình tự làm, "
+},
+"dhp161:2":{
+"verse":"Tự mình sanh, mình tạo. "
+},
+"dhp161:3":{
+"verse":"Nghiền nát kẻ ngu si, "
+},
+"dhp161:4":{
+"verse":"Như kim cương, ngọc báu. "
+},
+"dhp162:0":{
+"verse":"Chuyện Devadatta (Đề-bà-đạt-đa) "
+},
+"dhp162:1":{
+"verse":"Phá giới quá trầm trọng, "
+},
+"dhp162:2":{
+"verse":"Như dây leo bám cây "
+},
+"dhp162:3":{
+"verse":"Gieo hại cho tự thân, "
+},
+"dhp162:4":{
+"verse":"Như kẻ thù mong ước. "
+},
+"dhp163:0":{
+"verse":"Chuyện Devadatta (Đề-bà-đạt-đa) cố ý chia rẽ Tăng "
+},
+"dhp163:1":{
+"verse":"Dễ làm các điều ác, "
+},
+"dhp163:2":{
+"verse":"Dễ làm tự hại mình. "
+},
+"dhp163:3":{
+"verse":"Còn việc lành, việc tốt, "
+},
+"dhp163:4":{
+"verse":"Thật tối thượng khó làm. "
+},
+"dhp164:0":{
+"verse":"Chuyện Trưởng lão Kāla "
+},
+"dhp164:1":{
+"verse":"Kẻ ngu si miệt thị, "
+},
+"dhp164:2":{
+"verse":"Giáo pháp bậc La-hán, "
+},
+"dhp164:3":{
+"verse":"Bậc Thánh, bậc chánh mạng. "
+},
+"dhp164:4":{
+"verse":"Chính do ác kiến này, "
+},
+"dhp164:5":{
+"verse":"Như quả loại cây lau "
+},
+"dhp164:6":{
+"verse":"Mang quả tự hoại diệt. "
+},
+"dhp165:0":{
+"verse":"Chuyện thiện nam tử Cūḷakāla "
+},
+"dhp165:1":{
+"verse":"Tự mình, điều ác làm "
+},
+"dhp165:2":{
+"verse":"Tự mình làm nhiễm ô, "
+},
+"dhp165:3":{
+"verse":"Tự mình, ác không làm, "
+},
+"dhp165:4":{
+"verse":"Tự mình làm thanh tịnh. "
+},
+"dhp165:5":{
+"verse":"Tịnh, không tịnh tự mình, "
+},
+"dhp165:6":{
+"verse":"Không ai thanh tịnh ai! "
+},
+"dhp166:0":{
+"verse":"Chuyện Trưởng lão Attadattha (Tự Lợi) "
+},
+"dhp166:1":{
+"verse":"Dầu lợi người bao nhiêu, "
+},
+"dhp166:2":{
+"verse":"Chớ quên phần tư lợi, "
+},
+"dhp166:3":{
+"verse":"Nhờ thắng trí tư lợi. "
+},
+"dhp166:4":{
+"verse":"Hãy chuyên tâm lợi mình. "
+},
+"dhp166:5":{
+"verse":"Hết phẩm Tự Ngã "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0167-0178":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp167:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp167:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp167:0.3":{
+"verse":"Phẩm Thế Gian "
+},
+"dhp167:0.4":{
+"verse":"Chuyện vị Tỳ-kheo trẻ "
+},
+"dhp167:1":{
+"verse":"Chớ theo pháp hạ liệt. "
+},
+"dhp167:2":{
+"verse":"Chớ sống mặc, buông lung; "
+},
+"dhp167:3":{
+"verse":"Chớ tin theo tà kiến, "
+},
+"dhp167:4":{
+"verse":"Chớ tăng trưởng tục trần. "
+},
+"dhp168:0":{
+"verse":"Chuyện vua Suddhodana  (Tịnh Phạn) "
+},
+"dhp168:1":{
+"verse":"Nỗ lực, chớ phóng dật! "
+},
+"dhp168:2":{
+"verse":"Hãy sống theo chánh hạnh; "
+},
+"dhp168:3":{
+"verse":"Người chánh hạnh hưởng lạc, "
+},
+"dhp168:4":{
+"verse":"Cả đời này, đời sau. "
+},
+"dhp169:1":{
+"verse":"Hãy khéo sống chánh hạnh, "
+},
+"dhp169:2":{
+"verse":"Chớ sống theo tà hạnh! "
+},
+"dhp169:3":{
+"verse":"Người chánh hạnh hưởng lạc, "
+},
+"dhp169:4":{
+"verse":"Cả đời này, đời sau. "
+},
+"dhp170:0":{
+"verse":"Chuyện 500 vị Tỳ-kheo tu thiền quán "
+},
+"dhp170:1":{
+"verse":"Hãy nhìn như bọt nước, "
+},
+"dhp170:2":{
+"verse":"Hãy nhìn như cảnh huyển! "
+},
+"dhp170:3":{
+"verse":"Quán nhìn đời như vậy, "
+},
+"dhp170:4":{
+"verse":"Thần chết không bắt gặp. "
+},
+"dhp171:0":{
+"verse":"Chuyện vương tử Abhaya "
+},
+"dhp171:1":{
+"verse":"Hãy đến nhìn đời này, "
+},
+"dhp171:2":{
+"verse":"Như xe vua lộng lẫy, "
+},
+"dhp171:3":{
+"verse":"Người ngu mới tham đắm, "
+},
+"dhp171:4":{
+"verse":"Kẻ trí nào đắm say. "
+},
+"dhp172:0":{
+"verse":"Chuyện Trưởng lão Sammajjana "
+},
+"dhp172:1":{
+"verse":"Ai sống trước buông lung, "
+},
+"dhp172:2":{
+"verse":"Sau sống không phóng dật, "
+},
+"dhp172:3":{
+"verse":"Chói sáng rực đời này. "
+},
+"dhp172:4":{
+"verse":"Như trăng thoát mây che. "
+},
+"dhp173:0":{
+"verse":"Chuyện Trưởng lão Angulimāla "
+},
+"dhp173:1":{
+"verse":"Ai dùng các hạnh lành, "
+},
+"dhp173:2":{
+"verse":"Làm xóa mờ nghiệp ác, "
+},
+"dhp173:3":{
+"verse":"Chói sáng rực đời này, "
+},
+"dhp173:4":{
+"verse":"Như trăng thoát mây che. "
+},
+"dhp174:0":{
+"verse":"Chuyện con gái người thợ dệt "
+},
+"dhp174:1":{
+"verse":"Ðời này thật mù quáng, "
+},
+"dhp174:2":{
+"verse":"Ít kẻ thấy rõ ràng. "
+},
+"dhp174:3":{
+"verse":"Như chim thoát khỏi lưới, "
+},
+"dhp174:4":{
+"verse":"Rất ít đi thiên giới. "
+},
+"dhp175:0":{
+"verse":"Chuyện 30 vị Tỳ-kheo "
+},
+"dhp175:1":{
+"verse":"Như chim thiên nga bay, "
+},
+"dhp175:2":{
+"verse":"Thần thông liệng giữa trời; "
+},
+"dhp175:3":{
+"verse":"Chiến thắng ma, ma quân, "
+},
+"dhp175:4":{
+"verse":"Kẻ trí thoát đời này. "
+},
+"dhp176:0":{
+"verse":"Chuyện nàng Ciñcamāṇavikā "
+},
+"dhp176:1":{
+"verse":"Ai vi phạm một pháp, "
+},
+"dhp176:2":{
+"verse":"Ai nói lời vọng ngữ, "
+},
+"dhp176:3":{
+"verse":"Ai bác bỏ đời sau, "
+},
+"dhp176:4":{
+"verse":"Không ác nào không làm. "
+},
+"dhp177:0":{
+"verse":"Chuyện cuộc thi đại thí vô song của vua Pasenadi (Ba-tư-nặc) "
+},
+"dhp177:1":{
+"verse":"Keo kiết không sanh thiên, "
+},
+"dhp177:2":{
+"verse":"Kẻ ngu ghét bố thí, "
+},
+"dhp177:3":{
+"verse":"Người trí thích bố thí, "
+},
+"dhp177:4":{
+"verse":"Ðời sau, được hưởng lạc. "
+},
+"dhp178:0":{
+"verse":"Chuyện thanh niên Kāla, con Trưởng giả Anāthapiṇḍika (Cấp Cô Độc) "
+},
+"dhp178:1":{
+"verse":"Hơn thống lãnh cõi đất, "
+},
+"dhp178:2":{
+"verse":"Hơn được sanh cõi trời, "
+},
+"dhp178:3":{
+"verse":"Hơn chủ trì vũ trụ, "
+},
+"dhp178:4":{
+"verse":"Quả Dự Lưu tối thắng. "
+},
+"dhp178:5":{
+"verse":"Hết phẩm Thế Gian "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0179-0196":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp179:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp179:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp179:0.3":{
+"verse":"Phẩm Phật-đà "
+},
+"dhp179:0.4":{
+"verse":"Chuyện 3 con gái Ma Vương "
+},
+"dhp179:1":{
+"verse":"Vị chiến thắng không bại, "
+},
+"dhp179:2":{
+"verse":"Vị bước đi trên đời, Không dấu tích chiến thắng, "
+},
+"dhp179:3":{
+"verse":"Phật giới rộng mênh mông, "
+},
+"dhp179:4":{
+"verse":"Ai dùng chân theo dõi Bậc không để dấu tích? "
+},
+"dhp180:1":{
+"verse":"Ai giải tỏa lưới tham, "
+},
+"dhp180:2":{
+"verse":"Ái phược hết dắt dẫn, "
+},
+"dhp180:3":{
+"verse":"Phật giới rộng mênh mông, "
+},
+"dhp180:4":{
+"verse":"Ai dùng chân theo dõi Bậc không để dấu tích? "
+},
+"dhp181:0":{
+"verse":"Chuyện thể hiện thần thông nhiếp phục ngoại đạo "
+},
+"dhp181:1":{
+"verse":"Người trí chuyên thiền định, "
+},
+"dhp181:2":{
+"verse":"Thích an tịnh viễn ly, "
+},
+"dhp181:3":{
+"verse":"Chư thiên đều ái kính, "
+},
+"dhp181:4":{
+"verse":"Bậc chánh giác, chánh niệm. "
+},
+"dhp182:0":{
+"verse":"Chuyện long vương Erakapatta. "
+},
+"dhp182:1":{
+"verse":"Khó thay, được làm người, "
+},
+"dhp182:2":{
+"verse":"Khó thay, được sống còn, "
+},
+"dhp182:3":{
+"verse":"Khó thay, nghe Diệu Pháp, "
+},
+"dhp182:4":{
+"verse":"Khó thay, Phật ra đời! "
+},
+"dhp183:0":{
+"verse":"Chuyện Trưởng lão Ānanda vấn đạo "
+},
+"dhp183:1":{
+"verse":"Không làm mọi điều ác. "
+},
+"dhp183:2":{
+"verse":"Thành tựu các hạnh lành, "
+},
+"dhp183:3":{
+"verse":"Tâm ý giữ trong sạch, "
+},
+"dhp183:4":{
+"verse":"Chính lời chư Phật dạy. "
+},
+"dhp184:1":{
+"verse":"Chư Phật thường giảng dạy; Nhẫn, khổ hạnh tối thượng; "
+},
+"dhp184:2":{
+"verse":"Niết-bàn quả tối thượng; "
+},
+"dhp184:3":{
+"verse":"Xuất gia không phá người; "
+},
+"dhp184:4":{
+"verse":"Sa môn không hại người. "
+},
+"dhp185:1":{
+"verse":"Không phỉ báng, phá hoại, "
+},
+"dhp185:2":{
+"verse":"Hộ trì giới căn bản, "
+},
+"dhp185:3":{
+"verse":"Ăn uống có tiết độ, "
+},
+"dhp185:4":{
+"verse":"Sàng tọa chỗ nhàn tịnh "
+},
+"dhp185:5":{
+"verse":"Chuyên chú tăng thượng tâm, "
+},
+"dhp185:6":{
+"verse":"Chính lời chư Phật dạy. "
+},
+"dhp186:0":{
+"verse":"Chuyện vị Tỳ-kheo không hoan hỷ "
+},
+"dhp186:1":{
+"verse":"Dầu mưa bằng tiền vàng, "
+},
+"dhp186:2":{
+"verse":"Các dục khó thỏa mãn. "
+},
+"dhp186:3":{
+"verse":"Dục đắng nhiều ngọt ít, "
+},
+"dhp186:4":{
+"verse":"Biết vậy là bậc trí. "
+},
+"dhp187:1":{
+"verse":"Ðệ tử bậc chánh giác, "
+},
+"dhp187:2":{
+"verse":"Không tìm cầu dục lạc, "
+},
+"dhp187:3":{
+"verse":"Dầu là dục chư thiên, "
+},
+"dhp187:4":{
+"verse":"Chỉ ưa thích ái diệt. "
+},
+"dhp188:0":{
+"verse":"Chuyện quốc sư Aggidatta "
+},
+"dhp188:1":{
+"verse":"Loài người sợ hoảng hốt, "
+},
+"dhp188:2":{
+"verse":"Tìm nhiều chỗ quy y, "
+},
+"dhp188:3":{
+"verse":"Hoặc rừng rậm, núi non, "
+},
+"dhp188:4":{
+"verse":"Hoặc vườn cây, đền tháp. "
+},
+"dhp189:1":{
+"verse":"Quy y ấy không ổn, "
+},
+"dhp189:2":{
+"verse":"Không quy y tối thượng. "
+},
+"dhp189:3":{
+"verse":"Quy y các chỗ ấy, "
+},
+"dhp189:4":{
+"verse":"Không thoát mọi khổ đau? "
+},
+"dhp190:1":{
+"verse":"Ai quy y Ðức Phật, "
+},
+"dhp190:2":{
+"verse":"Chánh Pháp và chư Tăng, "
+},
+"dhp190:3":{
+"verse":"Ai dùng chánh tri kiến, "
+},
+"dhp190:4":{
+"verse":"Thấy được bốn Thánh đế. "
+},
+"dhp191:1":{
+"verse":"Thấy khổ và khổ tập, "
+},
+"dhp191:2":{
+"verse":"Thấy sự khổ vượt qua, "
+},
+"dhp191:3":{
+"verse":"Thấy đường Thánh tám ngành, "
+},
+"dhp191:4":{
+"verse":"Ðưa đến khổ não tận. "
+},
+"dhp192:1":{
+"verse":"Thật quy y an ổn, "
+},
+"dhp192:2":{
+"verse":"Thật quy y tối thượng, "
+},
+"dhp192:3":{
+"verse":"Có quy y như vậy, "
+},
+"dhp192:4":{
+"verse":"Mới thoát mọi khổ đau. "
+},
+"dhp193:0":{
+"verse":"Chuyện Trưởng lão Ānanda vấn đạo "
+},
+"dhp193:1":{
+"verse":"Khó gặp bậc thánh nhân, "
+},
+"dhp193:2":{
+"verse":"Không phải đâu cũng có. "
+},
+"dhp193:3":{
+"verse":"Chỗ nào bậc trí sanh, "
+},
+"dhp193:4":{
+"verse":"Gia đình tất an lạc. "
+},
+"dhp194:0":{
+"verse":"Chuyện chư Tỳ-kheo "
+},
+"dhp194:1":{
+"verse":"Vui thay, Phật ra đời! "
+},
+"dhp194:2":{
+"verse":"Vui thay, Pháp được giảng! "
+},
+"dhp194:3":{
+"verse":"Vui thay, Tăng hòa hợp! "
+},
+"dhp194:4":{
+"verse":"Hòa hợp tu, vui thay! "
+},
+"dhp195:0":{
+"verse":"Chuyện bảo tháp Phật Kassapa (Ca-diếp) "
+},
+"dhp195:1":{
+"verse":"Cúng dường bậc đáng cúng, "
+},
+"dhp195:2":{
+"verse":"Chư Phật hoặc đệ tử, "
+},
+"dhp195:3":{
+"verse":"Các bậc vượt hý luận, "
+},
+"dhp195:4":{
+"verse":"Ðoạn diệt mọi sầu bi. "
+},
+"dhp196:1":{
+"verse":"Cúng dường bậc như vậy, "
+},
+"dhp196:2":{
+"verse":"Tịch tịnh, không sợ hãi, "
+},
+"dhp196:3":{
+"verse":"Các công đức như vậy, "
+},
+"dhp196:4":{
+"verse":"Không ai ước lường được. "
+},
+"dhp196:5":{
+"verse":"Hết phẩm Phật-đà "
+},
+"dhp196:6":{
+"verse":"Hết phẩm "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0197-0208":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp197:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp197:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp197:0.3":{
+"verse":"Phẩm An Lạc "
+},
+"dhp197:0.4":{
+"verse":"Chuyện 2 vương tộc tranh giành vương quốc "
+},
+"dhp197:1":{
+"verse":"Vui thay, chúng ta sống, "
+},
+"dhp197:2":{
+"verse":"Không hận, giữa hận thù! "
+},
+"dhp197:3":{
+"verse":"Giữa những người thù hận, "
+},
+"dhp197:4":{
+"verse":"Ta sống, không hận thù! "
+},
+"dhp198:1":{
+"verse":"Vui thay, chúng ta sống, "
+},
+"dhp198:2":{
+"verse":"Không bệnh giữa ốm đau! "
+},
+"dhp198:3":{
+"verse":"Giữa những người bệnh hoạn, "
+},
+"dhp198:4":{
+"verse":"Ta sống, không ốm đau. "
+},
+"dhp199:1":{
+"verse":"Vui thay, chúng ta sống, "
+},
+"dhp199:2":{
+"verse":"Không rộn giữa rộn ràng; "
+},
+"dhp199:3":{
+"verse":"Giữa những người rộn ràng, "
+},
+"dhp199:4":{
+"verse":"Ta sống, không rộn ràng. "
+},
+"dhp200:0":{
+"verse":"Chuyện Ma Vương quấy phá Đức Phật "
+},
+"dhp200:1":{
+"verse":"Vui thay chúng ta sống, "
+},
+"dhp200:2":{
+"verse":"Không gì, gọi của ta. "
+},
+"dhp200:3":{
+"verse":"Ta sẻ hưởng hỷ lạc, "
+},
+"dhp200:4":{
+"verse":"Như chư thiên Quang Âm. "
+},
+"dhp201:0":{
+"verse":"Chuyện vua Pasenadi (Ba-tư-nặc) nước Kosala  (Câu-tát-la) bại trận "
+},
+"dhp201:1":{
+"verse":"Chiến thắng sinh thù oán, "
+},
+"dhp201:2":{
+"verse":"Thất bại chịu khổ đau, "
+},
+"dhp201:3":{
+"verse":"Sống tịch tịnh an lạc. "
+},
+"dhp201:4":{
+"verse":"Bỏ sau mọi thắng bại. "
+},
+"dhp202:0":{
+"verse":"Chuyện thiếu nữ gia giáo "
+},
+"dhp202:1":{
+"verse":"Lửa nào sánh lửa tham? "
+},
+"dhp202:2":{
+"verse":"Ác nào bằng sân hận? "
+},
+"dhp202:3":{
+"verse":"Khổ nào sánh khổ uẩn, "
+},
+"dhp202:4":{
+"verse":"Lạc nào bằng tịnh lạc. "
+},
+"dhp203:0":{
+"verse":"Chuyện thiện nam tử nghèo được thọ thực cúng Phật "
+},
+"dhp203:1":{
+"verse":"Ðói ăn, bệnh tối thượng, "
+},
+"dhp203:2":{
+"verse":"Các hành, khổ tối thượng, "
+},
+"dhp203:3":{
+"verse":"Hiểu như thực là vậy, "
+},
+"dhp203:4":{
+"verse":"Niết-bàn, lạc tối thượng. "
+},
+"dhp204:0":{
+"verse":"Chuyện vua Pasenadi (Ba-tư-nặc) bớt ăn "
+},
+"dhp204:1":{
+"verse":"Không bệnh, lợi tối thượng, "
+},
+"dhp204:2":{
+"verse":"Biết đủ, tiền tối thượng. "
+},
+"dhp204:3":{
+"verse":"Thành tín đối với nhau, Là bà con tối thượng, "
+},
+"dhp204:4":{
+"verse":"Niết-bàn, lạc tối thượng. "
+},
+"dhp205:0":{
+"verse":"Chuyện Trưởng lão Tissa "
+},
+"dhp205:1":{
+"verse":"Ðã nếm vị độc cư, "
+},
+"dhp205:2":{
+"verse":"Ðược hưởng vị nhàn tịnh, "
+},
+"dhp205:3":{
+"verse":"Không sợ hãi, không ác, "
+},
+"dhp205:4":{
+"verse":"Nếm được vị pháp hỷ. "
+},
+"dhp206:0":{
+"verse":"Chuyện Đế-thích chăm sóc Phật "
+},
+"dhp206:1":{
+"verse":"Lành thay, thấy thánh nhân, "
+},
+"dhp206:2":{
+"verse":"Sống chung thường hưởng lạc. "
+},
+"dhp206:3":{
+"verse":"Không thấy những người ngu, "
+},
+"dhp206:4":{
+"verse":"Thường thường được an lạc. "
+},
+"dhp207:1":{
+"verse":"Sống chung với người ngu, "
+},
+"dhp207:2":{
+"verse":"Lâu dài bị lo buồn. "
+},
+"dhp207:3":{
+"verse":"Khổ thay gần người ngu, "
+},
+"dhp207:4":{
+"verse":"Như thường sống kẻ thù. "
+},
+"dhp207:5":{
+"verse":"Vui thay, gần người trí, "
+},
+"dhp207:6":{
+"verse":"Như chung sống bà con. "
+},
+"dhp208:1":{
+"verse":"Do vậy: "
+},
+"dhp208:2":{
+"verse":"Bậc hiền sĩ, trí tuệ "
+},
+"dhp208:3":{
+"verse":"Bậc nghe nhiều, trì giới, Bậc tự chế, Thánh nhân; "
+},
+"dhp208:4":{
+"verse":"Hãy gần gũi, thân cận Thiện nhân, trí giả ấy, "
+},
+"dhp208:5":{
+"verse":"Như trăng theo đường sao. "
+},
+"dhp208:6":{
+"verse":"Hết phẩm An Lạc "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0209-0220":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp209:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp209:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp209:0.3":{
+"verse":"Phẩm Hỷ Ái "
+},
+"dhp209:0.4":{
+"verse":"Chuyện gia đình 3 người xuất gia "
+},
+"dhp209:1":{
+"verse":"Tự chuyên, không đáng chuyên "
+},
+"dhp209:2":{
+"verse":"Không chuyên, việc đáng chuyên "
+},
+"dhp209:3":{
+"verse":"Bỏ đích, theo hỷ ái, "
+},
+"dhp209:4":{
+"verse":"Ganh tị bậc tự chuyên. "
+},
+"dhp210:1":{
+"verse":"Chớ gần gũi người yêu, "
+},
+"dhp210:2":{
+"verse":"Trọn đời xa kẻ ghét. "
+},
+"dhp210:3":{
+"verse":"Yêu không gặp là khổ, "
+},
+"dhp210:4":{
+"verse":"Oán phải gặp cũng đau. "
+},
+"dhp211:1":{
+"verse":"Do vậy chớ yêu ai, "
+},
+"dhp211:2":{
+"verse":"Ái biệt ly là ác; "
+},
+"dhp211:3":{
+"verse":"Những ai không yêu ghét, "
+},
+"dhp211:4":{
+"verse":"Không thể có buộc ràng. "
+},
+"dhp212:0":{
+"verse":"Chuyện người gia trưởng khóc con "
+},
+"dhp212:1":{
+"verse":"Do ái sinh sầu ưu, "
+},
+"dhp212:2":{
+"verse":"Do ái sinh sợ hãi, "
+},
+"dhp212:3":{
+"verse":"Ai thoát khỏi tham ái, "
+},
+"dhp212:4":{
+"verse":"Không sầu, đâu sợ hãi? "
+},
+"dhp213:0":{
+"verse":"Chuyện bà Visākhā (Thiện Chi) "
+},
+"dhp213:1":{
+"verse":"Ái luyến sinh sầu ưu, "
+},
+"dhp213:2":{
+"verse":"Ái luyến sinh sợ hãi. "
+},
+"dhp213:3":{
+"verse":"Ai giải thoát ái luyến "
+},
+"dhp213:4":{
+"verse":"Không sầu, đâu sợ hãi? "
+},
+"dhp214:0":{
+"verse":"Chuyện các vương tử Licchavī giành kỹ nữ "
+},
+"dhp214:1":{
+"verse":"Hỷ ái sinh sầu ưu, "
+},
+"dhp214:2":{
+"verse":"Hỷ ái sinh sợ hãi. "
+},
+"dhp214:3":{
+"verse":"Ai giải thoát hỷ ái, "
+},
+"dhp214:4":{
+"verse":"Không sầu, đâu sợ hãi? "
+},
+"dhp215:0":{
+"verse":"Chuyện thanh niên Anitthāgandha (không quen hơi nữ nhân) "
+},
+"dhp215:1":{
+"verse":"Dục ái sinh sầu ưu, "
+},
+"dhp215:2":{
+"verse":"Dục ái sinh sợ hãi, "
+},
+"dhp215:3":{
+"verse":"Ai thoát khỏi dục ái, "
+},
+"dhp215:4":{
+"verse":"Không sầu, đâu sợ hãi? "
+},
+"dhp216:0":{
+"verse":"Chuyện người Bà-la-môn thất hứa "
+},
+"dhp216:1":{
+"verse":"Tham ái sinh sầu ưu, "
+},
+"dhp216:2":{
+"verse":"Tham ái sinh sợ hãi. "
+},
+"dhp216:3":{
+"verse":"Ai giải thoát tham ái, "
+},
+"dhp216:4":{
+"verse":"Không sầu, đâu sợ hãi? "
+},
+"dhp217:0":{
+"verse":"Chuyện 500 cậu bé cúng dâng bánh "
+},
+"dhp217:1":{
+"verse":"Ðủ giới đức, chánh kiến; "
+},
+"dhp217:2":{
+"verse":"Trú pháp, chứng chân lý, "
+},
+"dhp217:3":{
+"verse":"Tự làm công việc mình, "
+},
+"dhp217:4":{
+"verse":"Ðược quần chúng ái kính. "
+},
+"dhp218:0":{
+"verse":"Chuyện vị Tỳ-kheo chứng quả A-na-hàm "
+},
+"dhp218:1":{
+"verse":"Ước vọng pháp ly ngôn "
+},
+"dhp218:2":{
+"verse":"Ý cảm xúc thượng quả "
+},
+"dhp218:3":{
+"verse":"Tâm thoát ly các dục, "
+},
+"dhp218:4":{
+"verse":"Xứng gọi bậc Thượng Lưu. "
+},
+"dhp219:0":{
+"verse":"Chuyện chàng Nandiya "
+},
+"dhp219:1":{
+"verse":"Khách lâu ngày ly hương, "
+},
+"dhp219:2":{
+"verse":"An toàn từ xa về, "
+},
+"dhp219:3":{
+"verse":"Bà con cùng thân hữu, "
+},
+"dhp219:4":{
+"verse":"Hân hoan đón chào mừng. "
+},
+"dhp220:1":{
+"verse":"Cũng vậy các phước nghiệp, "
+},
+"dhp220:2":{
+"verse":"Ðón chào người làm lành, "
+},
+"dhp220:3":{
+"verse":"Ðời này đến đời kia. "
+},
+"dhp220:4":{
+"verse":"Như thân nhân, đón chào. "
+},
+"dhp220:5":{
+"verse":"Hết phẩm Hỷ Ái "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0221-0234":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp221:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp221:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp221:0.3":{
+"verse":"Phẩm Phẫn Nộ "
+},
+"dhp221:0.4":{
+"verse":"Chuyện Tỳ-kheo-ni Rohinī "
+},
+"dhp221:1":{
+"verse":"Bỏ phẫn nộ, ly mạn, "
+},
+"dhp221:2":{
+"verse":"Vượt qua mọi kiết sử, "
+},
+"dhp221:3":{
+"verse":"Không chấp trước danh sắc. "
+},
+"dhp221:4":{
+"verse":"Khổ không theo vô sản. "
+},
+"dhp222:0":{
+"verse":"Chuyện Tỳ-kheo đốn cây rừng "
+},
+"dhp222:1":{
+"verse":"Ai chận được phẫn nộ, "
+},
+"dhp222:2":{
+"verse":"Như dừng xe đang lăn, "
+},
+"dhp222:3":{
+"verse":"Ta gọi người đánh xe, "
+},
+"dhp222:4":{
+"verse":"Kẻ khác, cầm cương hờ. "
+},
+"dhp223:0":{
+"verse":"Chuyện tín nữ Uttarā "
+},
+"dhp223:1":{
+"verse":"Lấy không giận thắng giận, "
+},
+"dhp223:2":{
+"verse":"Lấy thiện thắng không thiện, "
+},
+"dhp223:3":{
+"verse":"Lấy thí thắng xan tham, "
+},
+"dhp223:4":{
+"verse":"Lấy chơn thắng hư ngụy. "
+},
+"dhp224:0":{
+"verse":"Chuyện Trưởng lão Mahā Moggallāna (Mục-kiền-liên) vấn đạo "
+},
+"dhp224:1":{
+"verse":"Nói thật, không phẫn nộ, "
+},
+"dhp224:2":{
+"verse":"Của ít, thí người xin, "
+},
+"dhp224:3":{
+"verse":"Nhờ ba việc lành này, "
+},
+"dhp224:4":{
+"verse":"Người đến gần thiên giới. "
+},
+"dhp225:0":{
+"verse":"Chuyện chư Tăng vấn đạo "
+},
+"dhp225:1":{
+"verse":"Bậc hiền không hại ai, "
+},
+"dhp225:2":{
+"verse":"Thân thường được chế ngự "
+},
+"dhp225:3":{
+"verse":"Ðạt được cảnh bất tử, "
+},
+"dhp225:4":{
+"verse":"Ðến đây, không ưu sầu. "
+},
+"dhp226:0":{
+"verse":"Chuyện nữ tỳ Puṇṇa "
+},
+"dhp226:1":{
+"verse":"Những người thường giác tỉnh, "
+},
+"dhp226:2":{
+"verse":"Ngày đêm siêng tu học, "
+},
+"dhp226:3":{
+"verse":"Chuyên tâm hướng Niết bàn, "
+},
+"dhp226:4":{
+"verse":"Mọi lậu hoặc được tiêu. "
+},
+"dhp227:0":{
+"verse":"Chuyện thiện nam tử Atula "
+},
+"dhp227:1":{
+"verse":"A-tu-la, nên biết, "
+},
+"dhp227:2":{
+"verse":"Xưa vậy, nay cũng vậy, "
+},
+"dhp227:3":{
+"verse":"Ngồi im, bị người chê, "
+},
+"dhp227:4":{
+"verse":"Nói nhiều, bị người chê, "
+},
+"dhp227:5":{
+"verse":"Nói vừa phải, bị chê. "
+},
+"dhp227:6":{
+"verse":"Làm người không bị chê, Thật khó tìm ở đời. "
+},
+"dhp228:1":{
+"verse":"Xưa, vị lai, và nay, "
+},
+"dhp228:2":{
+"verse":"Ðâu có sự kiện này, "
+},
+"dhp228:3":{
+"verse":"Người hoàn toàn bị chê, "
+},
+"dhp228:4":{
+"verse":"Người trọn vẹn được khen. "
+},
+"dhp229:1":{
+"verse":"Sáng sáng, thẩm xét kỹ. "
+},
+"dhp229:2":{
+"verse":"Bậc có trí tán thán. "
+},
+"dhp229:3":{
+"verse":"Bậc trí không tỳ vết, "
+},
+"dhp229:4":{
+"verse":"Ðầy đủ giới định tuệ. "
+},
+"dhp230:1":{
+"verse":"Hạnh sáng như vàng ròng, "
+},
+"dhp230:2":{
+"verse":"Ai dám chê vị ấy? "
+},
+"dhp230:3":{
+"verse":"Chư thiên phải khen thưởng, "
+},
+"dhp230:4":{
+"verse":"Phạm Thiên cũng tán dương. "
+},
+"dhp231:0":{
+"verse":"Chuyện 6 vị Tỳ-kheo "
+},
+"dhp231:1":{
+"verse":"Giữ thân đừng phẫn nộ, "
+},
+"dhp231:2":{
+"verse":"Phòng thân khéo bảo vệ, "
+},
+"dhp231:3":{
+"verse":"Từ bỏ thân làm ác, "
+},
+"dhp231:4":{
+"verse":"Với thân làm hạnh lành. "
+},
+"dhp232:1":{
+"verse":"Giữ lời đừng phẫn nộ, "
+},
+"dhp232:2":{
+"verse":"Phòng lời khéo bảo vệ, "
+},
+"dhp232:3":{
+"verse":"Từ bỏ lời thô ác, "
+},
+"dhp232:4":{
+"verse":"Với lời, nói điều lành. "
+},
+"dhp233:1":{
+"verse":"Giữ ý đừng phẫn nộ, "
+},
+"dhp233:2":{
+"verse":"Phòng ý, khéo bảo vệ, "
+},
+"dhp233:3":{
+"verse":"Từ bỏ ý nghĩ ác, "
+},
+"dhp233:4":{
+"verse":"Với ý, nghĩ hạnh lành. "
+},
+"dhp234:1":{
+"verse":"Bậc trí bảo vệ thân, "
+},
+"dhp234:2":{
+"verse":"Bảo vệ luôn lời nói "
+},
+"dhp234:3":{
+"verse":"Bảo vệ cả tâm tư, "
+},
+"dhp234:4":{
+"verse":"Ba nghiệp khéo bảo vệ. "
+},
+"dhp234:5":{
+"verse":"Hết phẩm Phẫn Nộ "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0235-0255":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp235:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp235:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp235:0.3":{
+"verse":"Phẩm Cấu Uế "
+},
+"dhp235:0.4":{
+"verse":"Chuyện con người bán bò "
+},
+"dhp235:1":{
+"verse":"Ngươi nay giống lá héo, "
+},
+"dhp235:2":{
+"verse":"Diêm sứ đang chờ ngươi, "
+},
+"dhp235:3":{
+"verse":"Ngươi đứng trước cửa chết, "
+},
+"dhp235:4":{
+"verse":"Ðường trường thiếu tư lương. "
+},
+"dhp236:1":{
+"verse":"Hãy tự làm hòn đảo, "
+},
+"dhp236:2":{
+"verse":"Tinh cần gấp, sáng suốt. "
+},
+"dhp236:3":{
+"verse":"Trừ cấu uế, thanh tịnh, "
+},
+"dhp236:4":{
+"verse":"Ðến Thánh địa chư Thiên. "
+},
+"dhp237:1":{
+"verse":"Ðời ngươi nay sắp tàn, "
+},
+"dhp237:2":{
+"verse":"Tiến gần đến Diêm Vương. "
+},
+"dhp237:3":{
+"verse":"Giữa đường không nơi nghỉ, "
+},
+"dhp237:4":{
+"verse":"Ðường trường thiếu tư lương. "
+},
+"dhp238:1":{
+"verse":"Hãy tự làm hòn đảo, "
+},
+"dhp238:2":{
+"verse":"Tinh cần gấp, sáng suốt. "
+},
+"dhp238:3":{
+"verse":"Trừ cấu uế, thanh tịnh, "
+},
+"dhp238:4":{
+"verse":"Chẳng trở lại sanh già. "
+},
+"dhp239:0":{
+"verse":"Chuyện người Bà-la-môn tuần tự "
+},
+"dhp239:1":{
+"verse":"Bậc trí theo tuần tự. "
+},
+"dhp239:2":{
+"verse":"Từng sát na trừ dần "
+},
+"dhp239:3":{
+"verse":"Như thợ vàng lọc bụi "
+},
+"dhp239:4":{
+"verse":"Trừ cấu uế nơi mình. "
+},
+"dhp240:0":{
+"verse":"Chuyện Trưởng lão Tissa "
+},
+"dhp240:1":{
+"verse":"Như sét từ sắt sinh, "
+},
+"dhp240:2":{
+"verse":"Sắt sanh lại ăn sắt, "
+},
+"dhp240:3":{
+"verse":"Cũng vậy, quá lợi dưỡng "
+},
+"dhp240:4":{
+"verse":"Tự nghiệp dẫn cõi ác. "
+},
+"dhp241:0":{
+"verse":"Chuyện Trưởng lão Lāḷudāyī "
+},
+"dhp241:1":{
+"verse":"Không tụng làm nhớp kinh, "
+},
+"dhp241:2":{
+"verse":"Không đứng dậy, bẩn nhà, "
+},
+"dhp241:3":{
+"verse":"Biếng nhác làm nhơ sắc, "
+},
+"dhp241:4":{
+"verse":"Phóng dật uế người canh. "
+},
+"dhp242:0":{
+"verse":"Chuyện người chồng có vợ ngoại tình "
+},
+"dhp242:1":{
+"verse":"Tà hạnh nhơ đàn bà, "
+},
+"dhp242:2":{
+"verse":"Xan tham nhớp kẻ thí, "
+},
+"dhp242:3":{
+"verse":"Ác pháp là vết nhơ, "
+},
+"dhp242:4":{
+"verse":"Ðời này và đời sau. "
+},
+"dhp243:1":{
+"verse":"Trong hàng cầu uế ấy, "
+},
+"dhp243:2":{
+"verse":"Vô minh, nhơ tối thượng, "
+},
+"dhp243:3":{
+"verse":"Ðoạn nhơ ấy, tỳ-kheo, "
+},
+"dhp243:4":{
+"verse":"Thành bậc không uế nhiễm. "
+},
+"dhp244:0":{
+"verse":"Chuyện Tỳ-kheo Cūḷasāri theo tà mạng "
+},
+"dhp244:1":{
+"verse":"Dễ thay, sống không hổ "
+},
+"dhp244:2":{
+"verse":"Sống lỗ mãng như quạ, "
+},
+"dhp244:3":{
+"verse":"Sống công kích huyênh hoang, "
+},
+"dhp244:4":{
+"verse":"Sống liều lĩnh, nhiễm ô. "
+},
+"dhp245:1":{
+"verse":"Khó thay, sống xấu hổ, "
+},
+"dhp245:2":{
+"verse":"Thường thường cầu thanh tịnh. "
+},
+"dhp245:3":{
+"verse":"Sống vô tư, khiêm tốn, "
+},
+"dhp245:4":{
+"verse":"Trong sạch và sáng suốt. "
+},
+"dhp246:0":{
+"verse":"Chuyện 5 thiện nam tử "
+},
+"dhp246:1":{
+"verse":"Ai ở đời sát sinh, "
+},
+"dhp246:2":{
+"verse":"Nói láo không chân thật, "
+},
+"dhp246:3":{
+"verse":"Ở đời lấy không cho, "
+},
+"dhp246:4":{
+"verse":"Qua lại với vợ người. "
+},
+"dhp247:1":{
+"verse":"Uống rượu men, rượu nấu, "
+},
+"dhp247:2":{
+"verse":"Người sống đam mê vậy, "
+},
+"dhp247:3":{
+"verse":"Chính ngay tại đời này, "
+},
+"dhp247:4":{
+"verse":"Tự đào bới gốc mình. "
+},
+"dhp248:1":{
+"verse":"Vậy người, hãy nên biết, "
+},
+"dhp248:2":{
+"verse":"Không chế ngự là ác, "
+},
+"dhp248:3":{
+"verse":"Chớ để tham phi pháp, "
+},
+"dhp248:4":{
+"verse":"Làm người đau khổ dài. "
+},
+"dhp249:0":{
+"verse":"Chuyện Tỳ-kheo Tissa trẻ hay chê sự cúng dường "
+},
+"dhp249:1":{
+"verse":"Do tín tâm, hỷ tâm "
+},
+"dhp249:2":{
+"verse":"Loài người mới bố thí. "
+},
+"dhp249:3":{
+"verse":"Ở đây ai bất mãn "
+},
+"dhp249:4":{
+"verse":"Người khác được ăn uống, "
+},
+"dhp249:5":{
+"verse":"Người ấy ngày hoặc đêm, "
+},
+"dhp249:6":{
+"verse":"Không đạt được tâm tịnh? "
+},
+"dhp250:1":{
+"verse":"Ai cắt được, phá được, "
+},
+"dhp250:2":{
+"verse":"Tận gốc nhổ tâm ấy. "
+},
+"dhp250:3":{
+"verse":"Người ấy ngày hoặc đêm, "
+},
+"dhp250:4":{
+"verse":"Tất đến được tâm định. "
+},
+"dhp251:0":{
+"verse":"Chuyện 5 thiện nam tử "
+},
+"dhp251:1":{
+"verse":"Lửa nào bằng lửa tham! "
+},
+"dhp251:2":{
+"verse":"Chấp nào bằng sân hận! "
+},
+"dhp251:3":{
+"verse":"Lưới nào bằng lưới si! "
+},
+"dhp251:4":{
+"verse":"Sông nào bằng sông ái! "
+},
+"dhp252:0":{
+"verse":"Chuyện Trưởng Giả Meṇḍaka (Miên Dương) "
+},
+"dhp252:1":{
+"verse":"Dễ thay thấy lỗi người, "
+},
+"dhp252:2":{
+"verse":"Lỗi mình thấy mới khó. "
+},
+"dhp252:3":{
+"verse":"Lỗi người ta phanh tìm, "
+},
+"dhp252:4":{
+"verse":"Như sàng trấu trong gạo. "
+},
+"dhp252:5":{
+"verse":"Còn lỗi mình, che đậy, "
+},
+"dhp252:6":{
+"verse":"Như kẻ gian dấu bài. "
+},
+"dhp253:0":{
+"verse":"Chuyện Trưởng lão Ujjhānasaññī (Ưa Bắt Lỗi) "
+},
+"dhp253:1":{
+"verse":"Ai thấy lỗi của người, "
+},
+"dhp253:2":{
+"verse":"Thường sanh lòng chỉ trích, "
+},
+"dhp253:3":{
+"verse":"Người ấy lậu hoặc tăng, "
+},
+"dhp253:4":{
+"verse":"Rất xa lậu hoặc diệt. "
+},
+"dhp254:0":{
+"verse":"Chuyện du sĩ Subhadda "
+},
+"dhp254:1":{
+"verse":"Hư không, không dấu chân, "
+},
+"dhp254:2":{
+"verse":"Ngoài đây, không sa môn, "
+},
+"dhp254:3":{
+"verse":"Chúng sanh thích hý luận, "
+},
+"dhp254:4":{
+"verse":"Như Lai, hý luận trừ. "
+},
+"dhp255:1":{
+"verse":"Hư không, không dấu chân, "
+},
+"dhp255:2":{
+"verse":"Ngoài đây, không sa môn. "
+},
+"dhp255:3":{
+"verse":"Các hành không thường trú, "
+},
+"dhp255:4":{
+"verse":"Chư Phật không dao động. "
+},
+"dhp255:5":{
+"verse":"Hết phẩm Cấu Uế "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0256-0272":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp256:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp256:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp256:0.3":{
+"verse":"Phẩm Pháp Trụ "
+},
+"dhp256:0.4":{
+"verse":"Chuyện thẩm phán "
+},
+"dhp256:1":{
+"verse":"Ngươi đâu phải pháp trụ, "
+},
+"dhp256:2":{
+"verse":"Xử sự quá chuyên chế, "
+},
+"dhp256:3":{
+"verse":"Bậc trí cần phân biệt "
+},
+"dhp256:4":{
+"verse":"Cả hai chánh và tà! "
+},
+"dhp257:1":{
+"verse":"Không chuyên chế, đúng pháp, "
+},
+"dhp257:2":{
+"verse":"Công bằng, dắt dẫn người, "
+},
+"dhp257:3":{
+"verse":"Bậc trí sống đúng pháp, "
+},
+"dhp257:4":{
+"verse":"Thật xứng danh Pháp trụ. "
+},
+"dhp258:0":{
+"verse":"Chuyện 6 vị Tỳ-kheo gây rối "
+},
+"dhp258:1":{
+"verse":"Không phải vì nói nhiều, "
+},
+"dhp258:2":{
+"verse":"Mới xứng danh bậc trí. "
+},
+"dhp258:3":{
+"verse":"An ổn, không oán sợ. "
+},
+"dhp258:4":{
+"verse":"Thật đáng gọi bậc Trí. "
+},
+"dhp259:0":{
+"verse":"Chuyện Pháp sư Ekudāna "
+},
+"dhp259:1":{
+"verse":"Không phải vì nói nhiều, "
+},
+"dhp259:2":{
+"verse":"Mới xứng danh trì pháp, "
+},
+"dhp259:3":{
+"verse":"Những ai tuy nghe ít, "
+},
+"dhp259:4":{
+"verse":"Nhưng thân hành đúng pháp, "
+},
+"dhp259:5":{
+"verse":"Không phóng túng chánh pháp, "
+},
+"dhp259:6":{
+"verse":"Mới xứng danh trì pháp. "
+},
+"dhp260:0":{
+"verse":"Chuyện Trưởng lão Lakuṇṭaka Bhaddiya "
+},
+"dhp260:1":{
+"verse":"Không phải là trưởng lão, "
+},
+"dhp260:2":{
+"verse":"Nếu cho có bạc đầu. "
+},
+"dhp260:3":{
+"verse":"Người chỉ tuổi tác cao, "
+},
+"dhp260:4":{
+"verse":"Ðược gọi là “Lão ngu”. "
+},
+"dhp261:1":{
+"verse":"Ai chân thật, đúng pháp, "
+},
+"dhp261:2":{
+"verse":"Không hại, biết chế phục, "
+},
+"dhp261:3":{
+"verse":"Bậc trí không cấu uế, "
+},
+"dhp261:4":{
+"verse":"Mới xứng danh “Trưởng Lão”. "
+},
+"dhp262:0":{
+"verse":"Chuyện các Tỳ-kheo tham vọng "
+},
+"dhp262:1":{
+"verse":"Không phải nói lưu loát, "
+},
+"dhp262:2":{
+"verse":"Không phải sắc mặt đẹp, "
+},
+"dhp262:3":{
+"verse":"Thành được người lương thiện, "
+},
+"dhp262:4":{
+"verse":"Nếu ganh, tham, dối trá. "
+},
+"dhp263:1":{
+"verse":"Ai cắt được, phá được "
+},
+"dhp263:2":{
+"verse":"Tận gốc nhổ tâm ấy "
+},
+"dhp263:3":{
+"verse":"Người trí ấy diệt sân, "
+},
+"dhp263:4":{
+"verse":"Ðược gọi người hiền thiện. "
+},
+"dhp264:0":{
+"verse":"Chuyện vè Hatthaka "
+},
+"dhp264:1":{
+"verse":"Ðầu trọc, không Sa-môn "
+},
+"dhp264:2":{
+"verse":"Nếu phóng túng, nói láo. "
+},
+"dhp264:3":{
+"verse":"Ai còn đầy dục tham, "
+},
+"dhp264:4":{
+"verse":"Sao được gọi Sa-môn? "
+},
+"dhp265:1":{
+"verse":"Ai lắng dịu hoàn toàn, "
+},
+"dhp265:2":{
+"verse":"Các điều ác lớn nhỏ, "
+},
+"dhp265:3":{
+"verse":"Vì lắng dịu ác pháp, "
+},
+"dhp265:4":{
+"verse":"Ðược gọi là Sa-môn. "
+},
+"dhp266:0":{
+"verse":"Chuyện người Bà-la-môn khất sĩ "
+},
+"dhp266:1":{
+"verse":"Chỉ khất thực nhờ người, "
+},
+"dhp266:2":{
+"verse":"Ðâu phải là Tỳ-kheo! "
+},
+"dhp266:3":{
+"verse":"Phải theo pháp toàn diện, "
+},
+"dhp266:4":{
+"verse":"Khất sĩ không, không đủ. "
+},
+"dhp267:1":{
+"verse":"Ai vượt qua thiện ác, "
+},
+"dhp267:2":{
+"verse":"Chuyên sống đời Phạm Hạnh, "
+},
+"dhp267:3":{
+"verse":"Sống thẩm sát ở đời, "
+},
+"dhp267:4":{
+"verse":"Mới xứng danh tỳ-kheo. "
+},
+"dhp268:0":{
+"verse":"Chuyện ngoại đạo im lặng "
+},
+"dhp268:1":{
+"verse":"Im lặng nhưng ngu si, "
+},
+"dhp268:2":{
+"verse":"Ðâu được gọi ẩn sĩ? "
+},
+"dhp268:3":{
+"verse":"Như người cầm cán cân, "
+},
+"dhp268:4":{
+"verse":"Bậc trí chọn điều lành. "
+},
+"dhp269:1":{
+"verse":"Từ bỏ các ác pháp, "
+},
+"dhp269:2":{
+"verse":"Mới thật là ẩn sĩ. "
+},
+"dhp269:3":{
+"verse":"Ai thật hiểu hai đời "
+},
+"dhp269:4":{
+"verse":"Mới được gọi ẩn sĩ. "
+},
+"dhp270:0":{
+"verse":"Chuyện ngư dân Ariya "
+},
+"dhp270:1":{
+"verse":"Còn sát hại sinh linh, "
+},
+"dhp270:2":{
+"verse":"Ðâu được gọi Hiền thánh. "
+},
+"dhp270:3":{
+"verse":"Không hại mọi hữu tình, "
+},
+"dhp270:4":{
+"verse":"Mới được gọi Hiền thánh. "
+},
+"dhp271:0":{
+"verse":"Chuyện các Tỳ-kheo tự mãn "
+},
+"dhp271:1":{
+"verse":"Chẳng phải chỉ giới cấm "
+},
+"dhp271:2":{
+"verse":"Cũng không phải học nhiều, "
+},
+"dhp271:3":{
+"verse":"Chẳng phải chứng thiền định, "
+},
+"dhp271:4":{
+"verse":"Sống thanh vắng một mình. "
+},
+"dhp272:1":{
+"verse":"“Ta hưởng an ổn lạc, "
+},
+"dhp272:2":{
+"verse":"Phàm phu chưa hưởng được”: "
+},
+"dhp272:3":{
+"verse":"Tỳ-kheo, chớ tự tin "
+},
+"dhp272:4":{
+"verse":"Khi lậu hoặc chưa diệt. "
+},
+"dhp272:5":{
+"verse":"Hết phẩm Pháp Trụ "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0273-0289":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp273:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp273:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp273:0.3":{
+"verse":"Phẩm Ðạo "
+},
+"dhp273:0.4":{
+"verse":"Chuyện 500 vị Tỳ-kheo luận đạo "
+},
+"dhp273:1":{
+"verse":"Tám chánh, đường thù thắng, "
+},
+"dhp273:2":{
+"verse":"Bốn câu, lý thù thắng, "
+},
+"dhp273:3":{
+"verse":"Ly tham, pháp thù thắng, "
+},
+"dhp273:4":{
+"verse":"Giữa các loài hai chân, Pháp nhãn, người thù thắng. "
+},
+"dhp274:1":{
+"verse":"Ðường này, không đường khác "
+},
+"dhp274:2":{
+"verse":"Ðưa đến kiến thanh tịnh. "
+},
+"dhp274:3":{
+"verse":"Nếu ngươi theo đường này, "
+},
+"dhp274:4":{
+"verse":"Ma quân sẽ mê loạn. "
+},
+"dhp275:1":{
+"verse":"Nếu ngươi theo đường này, "
+},
+"dhp275:2":{
+"verse":"Ðau khổ được đoạn tận. "
+},
+"dhp275:3":{
+"verse":"Ta dạy ngươi con đường. "
+},
+"dhp275:4":{
+"verse":"Với trí, gai chướng diệt. "
+},
+"dhp276:1":{
+"verse":"Ngươi hãy nhiệt tình làm, "
+},
+"dhp276:2":{
+"verse":"Như Lai chỉ thuyết dạy. "
+},
+"dhp276:3":{
+"verse":"Người hành trì thiền địn "
+},
+"dhp276:4":{
+"verse":"Thoát trói buộc ác Ma. "
+},
+"dhp277:0":{
+"verse":"Chuyện quán vô thường "
+},
+"dhp277:1":{
+"verse":"Tất cả hành vô thường "
+},
+"dhp277:2":{
+"verse":"Với Tuệ, quán thấy vậy "
+},
+"dhp277:3":{
+"verse":"Ðau khổ được nhàm chán: "
+},
+"dhp277:4":{
+"verse":"Chính con đường thanh tịnh. "
+},
+"dhp278:0":{
+"verse":"Chuyện quán khổ "
+},
+"dhp278:1":{
+"verse":"Tất cả hành khổ đau "
+},
+"dhp278:2":{
+"verse":"Với Tuệ, quán thấy vậy, "
+},
+"dhp278:3":{
+"verse":"Ðau khổ được nhàm chán: "
+},
+"dhp278:4":{
+"verse":"Chính con đường thanh tịnh. "
+},
+"dhp279:0":{
+"verse":"Chuyện quán vô ngã "
+},
+"dhp279:1":{
+"verse":"Tất cả pháp vô ngã, "
+},
+"dhp279:2":{
+"verse":"Với Tuệ, quán thấy vậy, "
+},
+"dhp279:3":{
+"verse":"Ðau khổ được nhàm chán: "
+},
+"dhp279:4":{
+"verse":"Chính con đường thanh tịnh. "
+},
+"dhp280:0":{
+"verse":"Chuyện Trưởng lão Padhānakammikatissa (Tissa Tinh Cần khổ hạnh) "
+},
+"dhp280:1":{
+"verse":"Khi cần, không nỗ lực, "
+},
+"dhp280:2":{
+"verse":"Tuy trẻ mạnh, nhưng lười "
+},
+"dhp280:3":{
+"verse":"Chí nhu nhược, biếng nhác. "
+},
+"dhp280:4":{
+"verse":"Với trí tuệ thụ động, Sao tìm được chánh đạo? "
+},
+"dhp281:0":{
+"verse":"Chuyện ngạ quỷ heo "
+},
+"dhp281:1":{
+"verse":"Lời nói được thận trọng, Tâm tư khéo hộ phòng, "
+},
+"dhp281:2":{
+"verse":"Thân chớ làm điều ác "
+},
+"dhp281:3":{
+"verse":"Hãy giữ ba nghiệp tịnh, "
+},
+"dhp281:4":{
+"verse":"Chứng đạo thánh nhân dạy. "
+},
+"dhp282:0":{
+"verse":"Chuyện Trưởng lão Poṭṭhila "
+},
+"dhp282:1":{
+"verse":"Tu Thiền, trí tuệ sanh, "
+},
+"dhp282:2":{
+"verse":"Bỏ Thiền, trí tuệ diệt. "
+},
+"dhp282:3":{
+"verse":"Biết con đường hai ngả "
+},
+"dhp282:4":{
+"verse":"Ðưa đến hữu, phi hữu, "
+},
+"dhp282:5":{
+"verse":"Hãy tự mình nỗ lực, "
+},
+"dhp282:6":{
+"verse":"Khiến trí tuệ tăng trưởng. "
+},
+"dhp283:0":{
+"verse":"Chuyện các vị Tỳ-kheo già "
+},
+"dhp283:1":{
+"verse":"Ðốn rừng không đốn cây "
+},
+"dhp283:2":{
+"verse":"Từ rừng, sinh sợ hãi; "
+},
+"dhp283:3":{
+"verse":"Ðốn rừng và ái dục, "
+},
+"dhp283:4":{
+"verse":"Tỷ kheo, hãy tịch mịch. "
+},
+"dhp284:1":{
+"verse":"Khi nào chưa cắt tiệt, "
+},
+"dhp284:2":{
+"verse":"Ái dục giữa gái trai, "
+},
+"dhp284:3":{
+"verse":"Tâm ý vẫn buộc ràng, "
+},
+"dhp284:4":{
+"verse":"Như bò con vú mẹ. "
+},
+"dhp285:0":{
+"verse":"Chuyện đệ tử Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp285:1":{
+"verse":"Tự cắt dây ái dục, "
+},
+"dhp285:2":{
+"verse":"Như tay bẻ sen thu, "
+},
+"dhp285:3":{
+"verse":"Hãy tu đạo tịch tịnh, "
+},
+"dhp285:4":{
+"verse":"Niết-bàn, Thiện Thệ dạy. "
+},
+"dhp286:0":{
+"verse":"Chuyện phú thương Mahādhana "
+},
+"dhp286:1":{
+"verse":"Mùa mưa ta ở đây "
+},
+"dhp286:2":{
+"verse":"Ðông, hạ cũng ở đây, "
+},
+"dhp286:3":{
+"verse":"Người ngu tâm tưởng vậy, "
+},
+"dhp286:4":{
+"verse":"Không tự giác hiểm nguy. "
+},
+"dhp287:0":{
+"verse":"Chuyện nàng Kisāgotamī "
+},
+"dhp287:1":{
+"verse":"Người tâm ý đắm say "
+},
+"dhp287:2":{
+"verse":"Con cái và súc vật, "
+},
+"dhp287:3":{
+"verse":"Tử thần bắt người ấy, "
+},
+"dhp287:4":{
+"verse":"Như lụt trôi hàng ngủ. "
+},
+"dhp288:0":{
+"verse":"Chuyện nàng Paṭācārā "
+},
+"dhp288:1":{
+"verse":"Một khi tử thần đến, "
+},
+"dhp288:2":{
+"verse":"Không có con che chở, "
+},
+"dhp288:3":{
+"verse":"Không cha, không bà con, "
+},
+"dhp288:4":{
+"verse":"Không thân thích che chở. "
+},
+"dhp289:1":{
+"verse":"Biết rõ ý nghĩa này, "
+},
+"dhp289:2":{
+"verse":"Bậc trí lo trì giới, "
+},
+"dhp289:3":{
+"verse":"Mau lẹ làm thanh tịnh, "
+},
+"dhp289:4":{
+"verse":"Con đường đến Niết bàn. "
+},
+"dhp289:5":{
+"verse":"Hết phẩm Đạo "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0290-0305":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp290:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp290:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp290:0.3":{
+"verse":"Phẩm Tạp Lục "
+},
+"dhp290:0.4":{
+"verse":"Chuyện hạnh nghiệp của Đức Phật "
+},
+"dhp290:1":{
+"verse":"Nhờ từ bỏ lạc nhỏ, "
+},
+"dhp290:2":{
+"verse":"Thấy được lạc lớn hơn, "
+},
+"dhp290:3":{
+"verse":"Bậc trí bỏ lạc nhỏ, "
+},
+"dhp290:4":{
+"verse":"Thấy được lạc lớn hơn. "
+},
+"dhp291:0":{
+"verse":"Chuyện thiếu nữ ăn trứng gà "
+},
+"dhp291:1":{
+"verse":"Gieo khổ đau cho người, "
+},
+"dhp291:2":{
+"verse":"Mong cầu lạc cho mình, "
+},
+"dhp291:3":{
+"verse":"Bị hận thù buộc ràng "
+},
+"dhp291:4":{
+"verse":"Không sao thoát hận thù. "
+},
+"dhp292:0":{
+"verse":"Chuyện Tỳ-kheo xứ Bhaddiyā "
+},
+"dhp292:1":{
+"verse":"Việc đáng làm, không làm, "
+},
+"dhp292:2":{
+"verse":"Không đáng làm, lại làm, "
+},
+"dhp292:3":{
+"verse":"Người ngạo mạn, phóng dật, "
+},
+"dhp292:4":{
+"verse":"Lậu hoặc ắt tăng trưởng. "
+},
+"dhp293:1":{
+"verse":"Người siêng năng cần mẫn, "
+},
+"dhp293:2":{
+"verse":"Thường thường quán thân niệm, "
+},
+"dhp293:3":{
+"verse":"Không làm việc không đáng, "
+},
+"dhp293:4":{
+"verse":"Gắng làm việc đáng làm, "
+},
+"dhp293:5":{
+"verse":"Người tư niệm giác tỉnh, "
+},
+"dhp293:6":{
+"verse":"Lậu hoặc được tiêu trừ. "
+},
+"dhp294:0":{
+"verse":"Chuyện Trưởng lão Lakuṇṭaka Bhaddiy "
+},
+"dhp294:1":{
+"verse":"Sau khi giết mẹ cha "
+},
+"dhp294:2":{
+"verse":"Giết hai vua Sát-lỵ "
+},
+"dhp294:3":{
+"verse":"Giết vương quốc, quần thần "
+},
+"dhp294:4":{
+"verse":"Vô ưu, Phạm chí sống. "
+},
+"dhp295:1":{
+"verse":"Sau khi giết mẹ cha, "
+},
+"dhp295:2":{
+"verse":"Hai vua Bà-la-môn "
+},
+"dhp295:3":{
+"verse":"Giết hổ tướng thứ năm "
+},
+"dhp295:4":{
+"verse":"Vô ưu, Phạm chí sống. "
+},
+"dhp296:0":{
+"verse":"Chuyện con trai ông Dārusākaṭika "
+},
+"dhp296:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp296:2":{
+"verse":"Luôn luôn tự tỉnh giác "
+},
+"dhp296:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp296:4":{
+"verse":"Thường tưởng niệm Phật-đà. "
+},
+"dhp297:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp297:2":{
+"verse":"Luôn luôn tự tỉnh giác, "
+},
+"dhp297:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp297:4":{
+"verse":"Thường tưởng niệm Chánh Pháp. "
+},
+"dhp298:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp298:2":{
+"verse":"Luôn luôn tự tỉnh giác, "
+},
+"dhp298:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp298:4":{
+"verse":"Thường tưởng niệm Tăng già. "
+},
+"dhp299:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp299:2":{
+"verse":"Luôn luôn tự tỉnh giác, "
+},
+"dhp299:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp299:4":{
+"verse":"Thường tưởng niệm sắc thân. "
+},
+"dhp300:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp300:2":{
+"verse":"Luôn luôn tự tỉnh giác, "
+},
+"dhp300:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp300:4":{
+"verse":"Ý vui niềm bất hại. "
+},
+"dhp301:1":{
+"verse":"Ðệ tử Gotama, "
+},
+"dhp301:2":{
+"verse":"Luôn luôn tự tỉnh giác, "
+},
+"dhp301:3":{
+"verse":"Vô luận ngày hay đêm, "
+},
+"dhp301:4":{
+"verse":"Ý vui tu thiền quán. "
+},
+"dhp302:0":{
+"verse":"Chuyện Tỳ-kheo con vua Vajji "
+},
+"dhp302:1":{
+"verse":"Vui hạnh xuất gia khó, "
+},
+"dhp302:2":{
+"verse":"Tại gia sinh hoạt khó, "
+},
+"dhp302:3":{
+"verse":"Sống bạn không đồng, khổ, "
+},
+"dhp302:4":{
+"verse":"Trôi lăn luân hồi, khổ. "
+},
+"dhp302:5":{
+"verse":"Vậy chớ sống luân hồi, "
+},
+"dhp302:6":{
+"verse":"Chớ chạy theo đau khổ. "
+},
+"dhp303:0":{
+"verse":"Chuyện Trưởng giả Citta "
+},
+"dhp303:1":{
+"verse":"Tín tâm, sống giới hạnh "
+},
+"dhp303:2":{
+"verse":"Ðủ danh xưng tài sản, "
+},
+"dhp303:3":{
+"verse":"Chỗ nào người ấy đến, "
+},
+"dhp303:4":{
+"verse":"Chỗ ấy được cung kính. "
+},
+"dhp304:0":{
+"verse":"Chuyện nàng Cūḷasubhaddā, con Trưởng giả Anāthapiṇḍika (Cấp Cô Độc) "
+},
+"dhp304:1":{
+"verse":"Người lành dầu ở xa "
+},
+"dhp304:2":{
+"verse":"Sáng tỏ như núi tuyết, "
+},
+"dhp304:3":{
+"verse":"Người ác dầu ở gần "
+},
+"dhp304:4":{
+"verse":"Như tên bắn đêm đen. "
+},
+"dhp305:0":{
+"verse":"Chuyện Trưởng lão Ekavihārī "
+},
+"dhp305:1":{
+"verse":"Ai ngồi nằm một mình, "
+},
+"dhp305:2":{
+"verse":"Ðộc hành không buồn chán, "
+},
+"dhp305:3":{
+"verse":"Tự điều phục một mình "
+},
+"dhp305:4":{
+"verse":"Sống thoải mái rừng sâu. "
+},
+"dhp305:5":{
+"verse":"Hết phẩm Tạp Lục "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0306-0319":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp306:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp306:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp306:0.3":{
+"verse":"Phẩm Ðịa Ngục "
+},
+"dhp306:0.4":{
+"verse":"Chuyện nữ ngoại giáo Sundarī "
+},
+"dhp306:1":{
+"verse":"Nói láo đọa địa ngục "
+},
+"dhp306:2":{
+"verse":"Có làm nói không làm, "
+},
+"dhp306:3":{
+"verse":"Cả hai chết đồng đẳng, "
+},
+"dhp306:4":{
+"verse":"Làm người, nghiệp hạ liệt. "
+},
+"dhp307:0":{
+"verse":"Chuyện những khổ nhân tạo ác nghiệp "
+},
+"dhp307:1":{
+"verse":"Nhiều người khoác cà-sa, "
+},
+"dhp307:2":{
+"verse":"Ác hạnh không nhiếp phục. "
+},
+"dhp307:3":{
+"verse":"Người ác, do ác hạnh, "
+},
+"dhp307:4":{
+"verse":"Phải sanh cõi Ðịa ngục. "
+},
+"dhp308:0":{
+"verse":"Chuyện chư Tỳ-kheo trú gần sông Vaggumudā "
+},
+"dhp308:1":{
+"verse":"Tốt hơn nuốt hòn sắt "
+},
+"dhp308:2":{
+"verse":"Cháy đỏ như than hồng, "
+},
+"dhp308:3":{
+"verse":"Hơn ác giới, buông lung "
+},
+"dhp308:4":{
+"verse":"Ăn đồ ăn quốc độ. "
+},
+"dhp309:0":{
+"verse":"Chuyện chàng thanh niên Khemaka "
+},
+"dhp309:1":{
+"verse":"Bốn nạn chờ đợi người, "
+},
+"dhp309:2":{
+"verse":"Phóng dật theo vợ người; "
+},
+"dhp309:3":{
+"verse":"Mắc họa, ngủ không yên, "
+},
+"dhp309:4":{
+"verse":"Bị chê là thứ ba, Ðọa địa ngục, thứ bốn. "
+},
+"dhp310:1":{
+"verse":"Mắc họa, đọa ác thú, "
+},
+"dhp310:2":{
+"verse":"Bị hoảng sợ, ít vui. "
+},
+"dhp310:3":{
+"verse":"Quốc vương phạt trọng hình. "
+},
+"dhp310:4":{
+"verse":"Vậy chớ theo vợ người. "
+},
+"dhp311:0":{
+"verse":"Chuyện Tỳ-kheo đa ngôn "
+},
+"dhp311:1":{
+"verse":"Như cỏ sa vụng nắm, "
+},
+"dhp311:2":{
+"verse":"Tất bị họa đứt tay. "
+},
+"dhp311:3":{
+"verse":"Hạnh sa môn tà vạy, "
+},
+"dhp311:4":{
+"verse":"Tất bị đọa địa ngục. "
+},
+"dhp312:1":{
+"verse":"Sống phóng đãng buông lung, "
+},
+"dhp312:2":{
+"verse":"Theo giới cấm ô nhiễm, "
+},
+"dhp312:3":{
+"verse":"Sống phạm hạnh đáng nghi "
+},
+"dhp312:4":{
+"verse":"Sao chứng được quả lớn. "
+},
+"dhp313:1":{
+"verse":"Cần phải làm, nên làm "
+},
+"dhp313:2":{
+"verse":"Làm cùng tận khả năng "
+},
+"dhp313:3":{
+"verse":"Xuất gia sống phóng đãng, "
+},
+"dhp313:4":{
+"verse":"Chỉ tăng loạn bụi đời. "
+},
+"dhp314:0":{
+"verse":"Chuyện nữ nhân hờn ghen "
+},
+"dhp314:1":{
+"verse":"Ác hạnh không nên làm, "
+},
+"dhp314:2":{
+"verse":"Làm xong, chịu khổ lụy, "
+},
+"dhp314:3":{
+"verse":"Thiện hạnh, ắt nên làm, "
+},
+"dhp314:4":{
+"verse":"Làm xong, không ăn năn. "
+},
+"dhp315:0":{
+"verse":"Chuyện chư khách Tăng "
+},
+"dhp315:1":{
+"verse":"Như thành ở biên thùy, "
+},
+"dhp315:2":{
+"verse":"Trong ngoài điều phòng hộ "
+},
+"dhp315:3":{
+"verse":"Cũng vậy, phòng hộ mình, "
+},
+"dhp315:4":{
+"verse":"Sát na chớ buông lung. "
+},
+"dhp315:5":{
+"verse":"Sát na chớ buông lung. "
+},
+"dhp315:6":{
+"verse":"Khi rơi vào địa ngục. "
+},
+"dhp316:0":{
+"verse":"Chuyện phái Nigaṇṭha "
+},
+"dhp316:1":{
+"verse":"Không đáng hổ, lại hổ. "
+},
+"dhp316:2":{
+"verse":"Việc đáng hổ, lại không. "
+},
+"dhp316:3":{
+"verse":"Do chấp nhận tà kiến, "
+},
+"dhp316:4":{
+"verse":"Chúng sanh đi ác thú. "
+},
+"dhp317:1":{
+"verse":"Không đáng sợ, lại sợ, "
+},
+"dhp317:2":{
+"verse":"Ðáng sợ, lại thấy không, "
+},
+"dhp317:3":{
+"verse":"Do chấp nhận tà kiến, "
+},
+"dhp317:4":{
+"verse":"Chúng sanh đi ác thú. "
+},
+"dhp318:0":{
+"verse":"Chuyện môn đồ ngoại giáo "
+},
+"dhp318:1":{
+"verse":"Không lỗi, lại thấy lỗi, "
+},
+"dhp318:2":{
+"verse":"Có lỗi, lại thấy không, "
+},
+"dhp318:3":{
+"verse":"Do chấp nhận tà kiến, "
+},
+"dhp318:4":{
+"verse":"Chúng sanh đi ác thú. "
+},
+"dhp319:1":{
+"verse":"Có lỗi, biết có lỗi, "
+},
+"dhp319:2":{
+"verse":"Không lỗi, biết là không, "
+},
+"dhp319:3":{
+"verse":"Do chấp nhận chánh kiến, "
+},
+"dhp319:4":{
+"verse":"Chúng sanh đi cõi lành. "
+},
+"dhp319:5":{
+"verse":"Hết phẩm Ðịa Ngục "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0320-0333":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp320:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp320:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp320:0.3":{
+"verse":"Phẩm Voi "
+},
+"dhp320:0.4":{
+"verse":"ự tích bậc Đạo Sư "
+},
+"dhp320:1":{
+"verse":"Ta như voi giữa trận "
+},
+"dhp320:2":{
+"verse":"Hứng chịu cung tên rơi, "
+},
+"dhp320:3":{
+"verse":"Chịu đựng mọi phỉ báng. "
+},
+"dhp320:4":{
+"verse":"Ác giới rất nhiều người. "
+},
+"dhp321:1":{
+"verse":"Voi luyện, đưa dự hội, "
+},
+"dhp321:2":{
+"verse":"Ngựa luyện, được vua cưỡi, "
+},
+"dhp321:3":{
+"verse":"Người luyện, bậc tối thượng "
+},
+"dhp321:4":{
+"verse":"Chịu đựng mọi phỉ báng. "
+},
+"dhp322:1":{
+"verse":"Tốt thay, con la thuần, "
+},
+"dhp322:2":{
+"verse":"Thuần chủng loài ngựa xinh. "
+},
+"dhp322:3":{
+"verse":"Ðại tượng, voi có ngà. "
+},
+"dhp322:4":{
+"verse":"Tự điều mới tối thượng. "
+},
+"dhp323:0":{
+"verse":"Chuyện vị Tỳ-kheo từng làm huấn luyện voi "
+},
+"dhp323:1":{
+"verse":"Chẳng phải loài cưỡi ấy, "
+},
+"dhp323:2":{
+"verse":"Ðưa người đến Niết bàn, "
+},
+"dhp323:3":{
+"verse":"Chỉ có người tự điều, "
+},
+"dhp323:4":{
+"verse":"Ðến đích nhờ điều phục. "
+},
+"dhp324:0":{
+"verse":"Chuyện con trai vị Bà-la-môn già "
+},
+"dhp324:1":{
+"verse":"Con voi tên Tài Hộ, "
+},
+"dhp324:2":{
+"verse":"Phát dục, khó điều phục, "
+},
+"dhp324:3":{
+"verse":"Trói buộc, không ăn uống. "
+},
+"dhp324:4":{
+"verse":"Voi nhớ đến rừng voi. "
+},
+"dhp325:0":{
+"verse":"Chuyện vua Pasenadi (Ba-tư-nặc) "
+},
+"dhp325:1":{
+"verse":"Người ưa ngủ, ăn lớn "
+},
+"dhp325:2":{
+"verse":"Nằm lăn lóc qua lại, "
+},
+"dhp325:3":{
+"verse":"Chẳng khác heo no bụng, "
+},
+"dhp325:4":{
+"verse":"Kẻ ngu nhập thai mãi. "
+},
+"dhp326:0":{
+"verse":"Chuyện Sa-di Sānu "
+},
+"dhp326:1":{
+"verse":"Trước tâm này buông lung, "
+},
+"dhp326:2":{
+"verse":"Chạy theo ái, dục, lạc. "
+},
+"dhp326:3":{
+"verse":"Nay Ta chánh chế ngự, "
+},
+"dhp326:4":{
+"verse":"Như cầm móc điều voi. "
+},
+"dhp327:0":{
+"verse":"Chuyện con voi Pāveyyaka "
+},
+"dhp327:1":{
+"verse":"Hãy vui không phóng dật, "
+},
+"dhp327:2":{
+"verse":"Khéo phòng hộ tâm ý. "
+},
+"dhp327:3":{
+"verse":"Kéo mình khỏi ác đạo, "
+},
+"dhp327:4":{
+"verse":"Như voi bị sa lầy. "
+},
+"dhp328:0":{
+"verse":"Chuyện chư Tỳ-kheo "
+},
+"dhp328:1":{
+"verse":"Nếu được bạn hiền trí "
+},
+"dhp328:2":{
+"verse":"Ðáng sống chung, hạnh lành, "
+},
+"dhp328:3":{
+"verse":"Nhiếp phục mọi hiểm nguy "
+},
+"dhp328:4":{
+"verse":"Hoan hỷ sống chánh niệm. "
+},
+"dhp329:1":{
+"verse":"Không gặp bạn hiền trí. "
+},
+"dhp329:2":{
+"verse":"Ðáng sống chung, hạnh lành "
+},
+"dhp329:3":{
+"verse":"Như vua bỏ nước bại "
+},
+"dhp329:4":{
+"verse":"Hãy sống riêng cô độc, Như voi sống rừng voi. "
+},
+"dhp330:1":{
+"verse":"Tốt hơn sống một mình, "
+},
+"dhp330:2":{
+"verse":"Không người ngu kết bạn. "
+},
+"dhp330:3":{
+"verse":"Ðộc thân, không ác hạnh "
+},
+"dhp330:4":{
+"verse":"Sống vô tư vô lự, Như voi sống rừng voi. "
+},
+"dhp331:0":{
+"verse":"Chuyện Ma Vương "
+},
+"dhp331:1":{
+"verse":"Vui thay, bạn lúc cần! "
+},
+"dhp331:2":{
+"verse":"Vui thay, sống biết đủ, "
+},
+"dhp331:3":{
+"verse":"Vui thay, chết có đức! "
+},
+"dhp331:4":{
+"verse":"Vui thay, mọi khổ đoạn. "
+},
+"dhp332:1":{
+"verse":"Vui thay, hiếu kính mẹ, "
+},
+"dhp332:2":{
+"verse":"Vui thay, hiếu kính cha, "
+},
+"dhp332:3":{
+"verse":"Vui thay, kính Sa-môn, "
+},
+"dhp332:4":{
+"verse":"Vui thay, kính Hiền Thánh. "
+},
+"dhp333:1":{
+"verse":"Vui thay, già có giới! "
+},
+"dhp333:2":{
+"verse":"Vui thay, tín an trú! "
+},
+"dhp333:3":{
+"verse":"Vui thay, được trí tuệ, "
+},
+"dhp333:4":{
+"verse":"Vui thay, ác không làm. "
+},
+"dhp333:5":{
+"verse":"Hết phẩm Voi "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0334-0359":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp334:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp334:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp334:0.3":{
+"verse":"Phẩm Tham Ái "
+},
+"dhp334:0.4":{
+"verse":"Chuyện con cá Kapila "
+},
+"dhp334:1":{
+"verse":"Người sống đời phóng dật, "
+},
+"dhp334:2":{
+"verse":"Ái tăng như dây leo. "
+},
+"dhp334:3":{
+"verse":"Nhảy đời này đời khác, "
+},
+"dhp334:4":{
+"verse":"Như vượn tham quả rừng. "
+},
+"dhp335:1":{
+"verse":"Ai sống trong đời này, "
+},
+"dhp335:2":{
+"verse":"Bị ái dục buộc ràng "
+},
+"dhp335:3":{
+"verse":"Sầu khổ sẽ tăng trưởng, "
+},
+"dhp335:4":{
+"verse":"Như cỏ bi gặp mưa. "
+},
+"dhp336:1":{
+"verse":"Ai sống trong đời này "
+},
+"dhp336:2":{
+"verse":"Ái dục được hàng phục "
+},
+"dhp336:3":{
+"verse":"Sầu rơi khỏi người ấy "
+},
+"dhp336:4":{
+"verse":"Như giọt nước lá sen. "
+},
+"dhp337:1":{
+"verse":"Ðây điều lành Ta dạy, "
+},
+"dhp337:2":{
+"verse":"Các người tụ họp đây, "
+},
+"dhp337:3":{
+"verse":"Hãy nhổ tận gốc ái "
+},
+"dhp337:4":{
+"verse":"Như nhổ gốc cỏ bi. "
+},
+"dhp337:5":{
+"verse":"Chớ để ma phá hoại, "
+},
+"dhp337:6":{
+"verse":"Như dòng nước cỏ lau. "
+},
+"dhp338:0":{
+"verse":"Chuyện con heo nái tơ "
+},
+"dhp338:1":{
+"verse":"Như cây bị chặt đốn, "
+},
+"dhp338:2":{
+"verse":"Gốc chưa hại vẫn bền "
+},
+"dhp338:3":{
+"verse":"Ái tùy miên chưa nhổ, "
+},
+"dhp338:4":{
+"verse":"Khổ này vẫn sanh hoài. "
+},
+"dhp339:1":{
+"verse":"Ba mươi sáu dòng ái, "
+},
+"dhp339:2":{
+"verse":"Trôi người đến khả ái. "
+},
+"dhp339:3":{
+"verse":"Các tư tưởng tham ái. "
+},
+"dhp339:4":{
+"verse":"Cuốn trôi người tà kiến. "
+},
+"dhp340:1":{
+"verse":"Dòng ái dục chảy khắp, "
+},
+"dhp340:2":{
+"verse":"Như giây leo mọc tràn, "
+},
+"dhp340:3":{
+"verse":"Thấy giây leo vừa sanh, "
+},
+"dhp340:4":{
+"verse":"Với tuệ, hãy đoạn gốc. "
+},
+"dhp341:1":{
+"verse":"Người đời nhớ ái dục, "
+},
+"dhp341:2":{
+"verse":"Ưa thích các hỷ lạc. "
+},
+"dhp341:3":{
+"verse":"Tuy mong cầu an lạc, "
+},
+"dhp341:4":{
+"verse":"Chúng vẫn phải sanh già. "
+},
+"dhp342:1":{
+"verse":"Người bị ái buộc ràng, "
+},
+"dhp342:2":{
+"verse":"Vùng vẫy và hoảng sợ, Như thỏ bị sa lưới. "
+},
+"dhp342:3":{
+"verse":"Chúng sanh ái trói buộc, "
+},
+"dhp342:4":{
+"verse":"Chịu khổ đau dài dài. "
+},
+"dhp343:1":{
+"verse":"Người bị ái buộc ràng, "
+},
+"dhp343:2":{
+"verse":"Vùng vẫy và hoảng sợ, Như thỏ bị sa lưới. "
+},
+"dhp343:3":{
+"verse":"Do vậy vị tỷ kheo, Mong cầu mình ly tham "
+},
+"dhp343:4":{
+"verse":"Nên nhiếp phục ái dục. "
+},
+"dhp344:0":{
+"verse":"Chuyện vị Tỳ-kheo hoàn tục "
+},
+"dhp344:1":{
+"verse":"Lìa rừng lại hướng rừng "
+},
+"dhp344:2":{
+"verse":"Thoát rừng chạy theo rừng. "
+},
+"dhp344:3":{
+"verse":"Nên xem người như vậy, "
+},
+"dhp344:4":{
+"verse":"Ðược thoát khỏi buộc ràng. Lại chạy theo ràng buộc. "
+},
+"dhp345:0":{
+"verse":"Chuyện khám đường "
+},
+"dhp345:1":{
+"verse":"Sắt, cây, gai trói buộc "
+},
+"dhp345:2":{
+"verse":"Người trí xem chưa bền. "
+},
+"dhp345:3":{
+"verse":"Tham châu báu, trang sức "
+},
+"dhp345:4":{
+"verse":"Tham vọng vợ và con. "
+},
+"dhp346:1":{
+"verse":"Người có trí nói rằng: Trói buộc này thật bền. "
+},
+"dhp346:2":{
+"verse":"Trì kéo xuống, lún xuống, Nhưng thật sự khó thoát. "
+},
+"dhp346:3":{
+"verse":"Người trí cắt trừ nó, "
+},
+"dhp346:4":{
+"verse":"Bỏ dục lạc, không màng. "
+},
+"dhp347:0":{
+"verse":"Chuyện hoàng hậu Khemā "
+},
+"dhp347:1":{
+"verse":"Người đắm say ái dục Tự lao mình xuống dòng "
+},
+"dhp347:2":{
+"verse":"Như nhện sa lưới dệt. "
+},
+"dhp347:3":{
+"verse":"Người trí cắt trừ nó, "
+},
+"dhp347:4":{
+"verse":"Bỏ mọi khổ, không màng. "
+},
+"dhp348:0":{
+"verse":"Chuyện thiếu gia Uggasena "
+},
+"dhp348:1":{
+"verse":"Bỏ quá, hiện, vị lai, "
+},
+"dhp348:2":{
+"verse":"Ðến bờ kia cuộc đời, "
+},
+"dhp348:3":{
+"verse":"Ý giải thoát tất cả, "
+},
+"dhp348:4":{
+"verse":"Chớ vướng tại sanh già. "
+},
+"dhp349:0":{
+"verse":"Chuyện bậc hiền trí Cūḷadhanuggaha "
+},
+"dhp349:1":{
+"verse":"Người tà ý nhiếp phục, "
+},
+"dhp349:2":{
+"verse":"Tham sắc bén nhìn tịnh, "
+},
+"dhp349:3":{
+"verse":"Người ấy ái tăng trưởng, "
+},
+"dhp349:4":{
+"verse":"Làm giây trói mình chặt. "
+},
+"dhp350:1":{
+"verse":"Ai vui, an tịnh ý, "
+},
+"dhp350:2":{
+"verse":"Quán bất tịnh, thường niệm, "
+},
+"dhp350:3":{
+"verse":"Người ấy sẽ diệt ái, "
+},
+"dhp350:4":{
+"verse":"Cắt đứt Ma trói buộc. "
+},
+"dhp351:0":{
+"verse":"Chuyện Ma Vương "
+},
+"dhp351:1":{
+"verse":"Ai tới đích không sợ, "
+},
+"dhp351:2":{
+"verse":"Ly ái, không nhiễm ô "
+},
+"dhp351:3":{
+"verse":"Nhổ mũi tên sanh tử, "
+},
+"dhp351:4":{
+"verse":"Thân này thân cuối cùng. "
+},
+"dhp352:1":{
+"verse":"Ái lìa, không chấp thủ "
+},
+"dhp352:2":{
+"verse":"Cú pháp khéo biện tài "
+},
+"dhp352:3":{
+"verse":"Thấu suốt từ vô ngại, "
+},
+"dhp352:4":{
+"verse":"Hiểu thứ lớp trước sau. "
+},
+"dhp352:5":{
+"verse":"Thân này thân cuối cùng "
+},
+"dhp352:6":{
+"verse":"Vị như vậy được gọi, Bậc Ðại trí, đại nhân. "
+},
+"dhp353:0":{
+"verse":"Chuyện du sĩ Upaka "
+},
+"dhp353:1":{
+"verse":"Ta hàng phục tất cả, Ta rõ biết tất cả, "
+},
+"dhp353:2":{
+"verse":"Không bị nhiễm pháp nào. "
+},
+"dhp353:3":{
+"verse":"Ta từ bỏ tất cả Ái diệt, tự giải thoát. "
+},
+"dhp353:4":{
+"verse":"Ðã tự mình thắng trí, Ta gọi ai thầy ta? "
+},
+"dhp354:0":{
+"verse":"Chuyện Đế-thích "
+},
+"dhp354:1":{
+"verse":"Pháp thí, thắng mọi thí! "
+},
+"dhp354:2":{
+"verse":"Pháp vị, thắng mọi vị! "
+},
+"dhp354:3":{
+"verse":"Pháp hỷ, thắng mọi hỷ! "
+},
+"dhp354:4":{
+"verse":"Ái diệt, thắng mọi khổ! "
+},
+"dhp355:0":{
+"verse":"Chuyện trưởng giả Aputtaka "
+},
+"dhp355:1":{
+"verse":"Tài sản hại người ngu. "
+},
+"dhp355:2":{
+"verse":"Không người tìm bờ kia "
+},
+"dhp355:3":{
+"verse":"Kẻ ngu vì tham giàu, "
+},
+"dhp355:4":{
+"verse":"Hại mình và hại người. "
+},
+"dhp356:0":{
+"verse":"Chuyện thiên tử Aṅkura "
+},
+"dhp356:1":{
+"verse":"Cỏ làm hại ruộng vườn, "
+},
+"dhp356:2":{
+"verse":"Tham làm hại người đời. "
+},
+"dhp356:3":{
+"verse":"Bố thí người ly tham, "
+},
+"dhp356:4":{
+"verse":"Do vậy được quả lớn. "
+},
+"dhp357:1":{
+"verse":"Cỏ làm hại ruộng vườn, "
+},
+"dhp357:2":{
+"verse":"Sân làm hại người đời. "
+},
+"dhp357:3":{
+"verse":"Bố thí người ly sân, "
+},
+"dhp357:4":{
+"verse":"Do vậy được quả lớn. "
+},
+"dhp358:1":{
+"verse":"Cỏ làm hại ruộng vườn, "
+},
+"dhp358:2":{
+"verse":"Si làm hại người đời, "
+},
+"dhp358:3":{
+"verse":"Bố thí người ly si, "
+},
+"dhp358:4":{
+"verse":"Do vậy được quả lớn. "
+},
+"dhp359:1":{
+"verse":"Cỏ làm hại ruộng vườn, "
+},
+"dhp359:2":{
+"verse":"Dục làm hại người đời. "
+},
+"dhp359:3":{
+"verse":"Bố thí người ly dục, "
+},
+"dhp359:4":{
+"verse":"Do vậy được quả lớn. "
+},
+"dhp359:5":{
+"verse":"Hết phẩm Tham Ái "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0360-0382":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp360:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp360:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp360:0.3":{
+"verse":"Phẩm Tỳ-kheo "
+},
+"dhp360:0.4":{
+"verse":"Chuyện 5 vị Tỳ-kheo "
+},
+"dhp360:1":{
+"verse":"Lành thay, phòng hộ mắt! "
+},
+"dhp360:2":{
+"verse":"Lành thay, phòng hộ tai! "
+},
+"dhp360:3":{
+"verse":"Lành thay, phòng hộ mũi! "
+},
+"dhp360:4":{
+"verse":"Lành thay, phòng hộ lưỡi. "
+},
+"dhp361:1":{
+"verse":"Lành thay phòng hộ thân! "
+},
+"dhp361:2":{
+"verse":"Lành thay, phòng hộ lời, "
+},
+"dhp361:3":{
+"verse":"Lành thay, phòng hộ ý. "
+},
+"dhp361:4":{
+"verse":"Lành thay, phòng tất cả. "
+},
+"dhp361:5":{
+"verse":"Tỳ-kheo phòng tất cả, "
+},
+"dhp361:6":{
+"verse":"Thoát được mọi khổ đau. "
+},
+"dhp362:0":{
+"verse":"Chuyện vị Tỳ-kheo giết hạc "
+},
+"dhp362:1":{
+"verse":"Người chế ngự tay chân, "
+},
+"dhp362:2":{
+"verse":"Chế ngự lời và đầu, "
+},
+"dhp362:3":{
+"verse":"Vui thích nội thiền định, "
+},
+"dhp362:4":{
+"verse":"Ðộc thân, biết vừa đủ, Thật xứng gọi tỳ-kheo. "
+},
+"dhp363:0":{
+"verse":"Chuyện Tỳ-kheo Kokālika "
+},
+"dhp363:1":{
+"verse":"Tỳ-kheo chế ngự miệng, "
+},
+"dhp363:2":{
+"verse":"Vừa lời, không cống cao, "
+},
+"dhp363:3":{
+"verse":"Khi trình bày pháp nghĩa, "
+},
+"dhp363:4":{
+"verse":"Lời lẽ dịu ngọt ngào. "
+},
+"dhp364:0":{
+"verse":"Chuyện Trưởng lão Dhammārāma "
+},
+"dhp364:1":{
+"verse":"Vị tỳ-kheo thích Pháp, "
+},
+"dhp364:2":{
+"verse":"Mến pháp, suy tư Pháp. "
+},
+"dhp364:3":{
+"verse":"Tâm tư niệm chánh Pháp, "
+},
+"dhp364:4":{
+"verse":"Không rời bỏ chánh Pháp. "
+},
+"dhp365:0":{
+"verse":"Chuyện 2 Tỳ-kheo đối nghịch "
+},
+"dhp365:1":{
+"verse":"Không khinh điều mình được, "
+},
+"dhp365:2":{
+"verse":"Không ganh người khác được, "
+},
+"dhp365:3":{
+"verse":"Tỳ-kheo ganh tỵ người, "
+},
+"dhp365:4":{
+"verse":"Không sao chứng Thiền định. "
+},
+"dhp366:1":{
+"verse":"Tỳ-kheo dù được ít, "
+},
+"dhp366:2":{
+"verse":"Không khinh điều mình được, "
+},
+"dhp366:3":{
+"verse":"Sống thanh tịnh không nhác, "
+},
+"dhp366:4":{
+"verse":"Chư thiên khen vị này. "
+},
+"dhp367:0":{
+"verse":"Chuyện Bà-la-môn Pañcaggadāyaka "
+},
+"dhp367:1":{
+"verse":"Hoàn toàn, đối danh sắc, "
+},
+"dhp367:2":{
+"verse":"Không chấp Ta, của Ta. "
+},
+"dhp367:3":{
+"verse":"Không chấp, không sầu não. "
+},
+"dhp367:4":{
+"verse":"Thật xứng danh Tỳ-kheo. "
+},
+"dhp368:0":{
+"verse":"Chuyện chư Tỳ-kheo "
+},
+"dhp368:1":{
+"verse":"Tỳ-kheo trú Từ Bi, "
+},
+"dhp368:2":{
+"verse":"Tín thành giáo Pháp Phật, "
+},
+"dhp368:3":{
+"verse":"Chứng cảnh giới tịch tỉnh. "
+},
+"dhp368:4":{
+"verse":"Các hạnh an tịnh lạc. "
+},
+"dhp369:1":{
+"verse":"Tỳ-kheo, tát thuyền này, "
+},
+"dhp369:2":{
+"verse":"Thuyền không, nhẹ đi mau. "
+},
+"dhp369:3":{
+"verse":"Trừ tham, diệt sân hận, "
+},
+"dhp369:4":{
+"verse":"Tất chứng đạt Niết-bàn. "
+},
+"dhp370:1":{
+"verse":"Ðoạn năm, từ bỏ năm, "
+},
+"dhp370:2":{
+"verse":"Tu tập năm tối thượng, "
+},
+"dhp370:3":{
+"verse":"Tỳ-kheo cắt năm trói, "
+},
+"dhp370:4":{
+"verse":"Xứng danh vượt “bộc lưu”. "
+},
+"dhp371:1":{
+"verse":"Tỳ-kheo, hãy tu thiền, Chớ buông lung phóng dật, "
+},
+"dhp371:2":{
+"verse":"Tâm chớ đắm say dục, "
+},
+"dhp371:3":{
+"verse":"Phóng dật, nuốt sắt nóng "
+},
+"dhp371:4":{
+"verse":"Bị đốt, chớ than khổ! "
+},
+"dhp372:1":{
+"verse":"Không trí tuệ, không thiền, "
+},
+"dhp372:2":{
+"verse":"Không thiền, không trí tuệ. "
+},
+"dhp372:3":{
+"verse":"Người có thiền có tuệ, "
+},
+"dhp372:4":{
+"verse":"Nhất định gần Niết-bàn. "
+},
+"dhp373:1":{
+"verse":"Bước vào ngôi nhà trống, "
+},
+"dhp373:2":{
+"verse":"Tỳ-kheo tâm an tịnh, "
+},
+"dhp373:3":{
+"verse":"Thọ hưởng vui siêu nhân, "
+},
+"dhp373:4":{
+"verse":"Tịnh quán theo chánh pháp. "
+},
+"dhp374:1":{
+"verse":"Người luôn luôn chánh niệm, "
+},
+"dhp374:2":{
+"verse":"Sự sanh diệt các uẩn, "
+},
+"dhp374:3":{
+"verse":"Ðược hoan hỷ, hân hoan, "
+},
+"dhp374:4":{
+"verse":"Chỉ bậc bất tử biết. "
+},
+"dhp375:1":{
+"verse":"Ðây Tỳ-kheo có trí, "
+},
+"dhp375:2":{
+"verse":"Tu tập pháp căn bản "
+},
+"dhp375:3":{
+"verse":"Hộ căn, biết vừa đủ, "
+},
+"dhp375:4":{
+"verse":"Gìn giữ căn bản giới, "
+},
+"dhp376:1":{
+"verse":"Thường gần gũi bạn lành, "
+},
+"dhp376:2":{
+"verse":"Sống thanh tịnh tinh cần. "
+},
+"dhp376:3":{
+"verse":"Giao thiệp khéo thân thiện, "
+},
+"dhp376:4":{
+"verse":"Cử chỉ mực đoan trang. "
+},
+"dhp376:5":{
+"verse":"Do vậy hưởng vui nhiều, "
+},
+"dhp376:6":{
+"verse":"Sẽ dứt mọi khổ đau. "
+},
+"dhp377:0":{
+"verse":"Chuyện 500 vị Tỳ-kheo "
+},
+"dhp377:1":{
+"verse":"Như hoa Vassika, "
+},
+"dhp377:2":{
+"verse":"Quăng bỏ cánh úa tàn, "
+},
+"dhp377:3":{
+"verse":"Cũng vậy vị Tỳ-kheo, "
+},
+"dhp377:4":{
+"verse":"Hãy giải thoát tham sân. "
+},
+"dhp378:0":{
+"verse":"Chuyện Trưởng lão Santakāya "
+},
+"dhp378:1":{
+"verse":"Thân tịnh, lời an tịnh, "
+},
+"dhp378:2":{
+"verse":"An tịnh, khéo thiền tịnh. "
+},
+"dhp378:3":{
+"verse":"Tỳ-kheo bỏ thế vật, "
+},
+"dhp378:4":{
+"verse":"Xứng danh bậc tịch tịnh. "
+},
+"dhp379:0":{
+"verse":"Chuyện Trưởng lão Naṇgalakūṭa "
+},
+"dhp379:1":{
+"verse":"Tự mình chỉ trích mình, "
+},
+"dhp379:2":{
+"verse":"Tự mình dò xét mình, "
+},
+"dhp379:3":{
+"verse":"Tỳ-kheo tự phòng hộ, "
+},
+"dhp379:4":{
+"verse":"Chánh niệm trú an lạc. "
+},
+"dhp380:1":{
+"verse":"Tự mình y chỉ mình, "
+},
+"dhp380:2":{
+"verse":"(dị bản) "
+},
+"dhp380:3":{
+"verse":"Tự mình đi đến mình, "
+},
+"dhp380:4":{
+"verse":"Vậy hãy tự điều phục, "
+},
+"dhp380:5":{
+"verse":"Như khách buôn ngựa hiền. "
+},
+"dhp381:0":{
+"verse":"Chuyện Trưởng lão Vakkali "
+},
+"dhp381:1":{
+"verse":"Tỳ-kheo nhiều hân hoan, "
+},
+"dhp381:2":{
+"verse":"Tịnh tín giáo pháp Phật, "
+},
+"dhp381:3":{
+"verse":"Chứng cảnh giới tịch tịnh, "
+},
+"dhp381:4":{
+"verse":"Các hạnh an tịnh lạc. "
+},
+"dhp382:0":{
+"verse":"Chuyện Sa-di Sumana "
+},
+"dhp382:1":{
+"verse":"Tỳ-kheo tuy tuổi nhỏ "
+},
+"dhp382:2":{
+"verse":"Siêng tu giáo pháp Phật, "
+},
+"dhp382:3":{
+"verse":"Soi sáng thế gian này, "
+},
+"dhp382:4":{
+"verse":"Như trăng thoát khỏi mây. "
+},
+"dhp382:5":{
+"verse":"Hết phẩm Tỳ-kheo "
+}
+}
+}
+},
+"pli/ms/sutta/kn/dhp/dhp0383-0423":{
+"lang_code":"vi",
+"texts":{
+"phantuananh":{
+"dhp383:0.1":{
+"verse":"Tiểu Bộ Kinh "
+},
+"dhp383:0.2":{
+"verse":"Kinh Pháp Cú "
+},
+"dhp383:0.3":{
+"verse":"Phẩm Bà-la-môn "
+},
+"dhp383:0.4":{
+"verse":"Chuyện vị Bà-la-môn có nhiều đức tin "
+},
+"dhp383:1":{
+"verse":"Hỡi này Bà-la-môn, Hãy tinh tấn đoạn lòng, "
+},
+"dhp383:2":{
+"verse":"Từ bỏ các dục lạc, "
+},
+"dhp383:3":{
+"verse":"Biết được hành đoạn diệt, "
+},
+"dhp383:4":{
+"verse":"Ngươi là bậc vô vi. "
+},
+"dhp384:0":{
+"verse":"Chuyện chư Tỳ-kheo "
+},
+"dhp384:1":{
+"verse":"Nhờ thường trú hai pháp "
+},
+"dhp384:2":{
+"verse":"Ðến được bờ bên kia. "
+},
+"dhp384:3":{
+"verse":"Bà-la-môn có trí, "
+},
+"dhp384:4":{
+"verse":"Mọi kiết sử dứt sạch. "
+},
+"dhp385:0":{
+"verse":"Chuyện Ma Vương "
+},
+"dhp385:1":{
+"verse":"Không bờ này, bờ kia "
+},
+"dhp385:2":{
+"verse":"Cả hai bờ không có, "
+},
+"dhp385:3":{
+"verse":"Lìa khổ, không trói buộc "
+},
+"dhp385:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp386:0":{
+"verse":"Chuyện người Bà-la-môn "
+},
+"dhp386:1":{
+"verse":"Tu thiền, trú ly trần "
+},
+"dhp386:2":{
+"verse":"Phận sự xong, vô lậu, "
+},
+"dhp386:3":{
+"verse":"Ðạt được đích tối thượng, "
+},
+"dhp386:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp387:0":{
+"verse":"Chuyện Trưởng lão Ānanda "
+},
+"dhp387:1":{
+"verse":"Mặt trời sáng ban ngày, "
+},
+"dhp387:2":{
+"verse":"Mặt trăng sáng ban đêm. "
+},
+"dhp387:3":{
+"verse":"Khí giới sáng Sát-lỵ, "
+},
+"dhp387:4":{
+"verse":"Thiền định sáng Phạm chí. "
+},
+"dhp387:5":{
+"verse":"Còn hào quang đức Phật, "
+},
+"dhp387:6":{
+"verse":"Chói sáng cả ngày đêm. "
+},
+"dhp388:0":{
+"verse":"Chuyện một người xuất gia "
+},
+"dhp388:1":{
+"verse":"Dứt ác gọi Phạm chí, "
+},
+"dhp388:2":{
+"verse":"Tịnh hạnh gọi Sa-môn, "
+},
+"dhp388:3":{
+"verse":"Tự mình xuất cấu uế, "
+},
+"dhp388:4":{
+"verse":"Nên gọi bậc xuất gia. "
+},
+"dhp389:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp389:1":{
+"verse":"Chớ có đập Phạm chí! "
+},
+"dhp389:2":{
+"verse":"Phạm chí chớ đập lại! "
+},
+"dhp389:3":{
+"verse":"Xấu thay đập Phạm chí "
+},
+"dhp389:4":{
+"verse":"Đập trả lại xấu hơn! "
+},
+"dhp390:1":{
+"verse":"Đối vị Bà-la-môn, Đây không lợi ích nhỏ. "
+},
+"dhp390:2":{
+"verse":"Khi ý không ái luyến, "
+},
+"dhp390:3":{
+"verse":"Tâm hại được chận đứng, "
+},
+"dhp390:4":{
+"verse":"Chỉ khi ấy khổ diệt, "
+},
+"dhp391:0":{
+"verse":"Chuyện Trưởng lão ni Mahā Pajāpatigotamī "
+},
+"dhp391:1":{
+"verse":"Với người thân miệng ý, "
+},
+"dhp391:2":{
+"verse":"Không làm các ác hạnh "
+},
+"dhp391:3":{
+"verse":"Ba nghiệp được phòng hộ, "
+},
+"dhp391:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp392:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp392:1":{
+"verse":"Từ ai, biết chánh pháp "
+},
+"dhp392:2":{
+"verse":"Bậc Chánh Giác thuyết giảng, "
+},
+"dhp392:3":{
+"verse":"Hãy kính lễ vị ấy, "
+},
+"dhp392:4":{
+"verse":"Như phạm chí thờ lửa. "
+},
+"dhp393:0":{
+"verse":"Chuyện Bà-la-môn Jātila "
+},
+"dhp393:1":{
+"verse":"Được gọi Bà-la-môn, Không vì đầu bện tóc, "
+},
+"dhp393:2":{
+"verse":"Không chủng tộc, thọ sanh, "
+},
+"dhp393:3":{
+"verse":"Ai thật chân, chánh, tịnh, "
+},
+"dhp393:4":{
+"verse":"Mới gọi Bà-la-môn. "
+},
+"dhp394:0":{
+"verse":"Chuyện Bà-la-môn Kuhaka "
+},
+"dhp394:1":{
+"verse":"Kẻ ngu, có ích gì "
+},
+"dhp394:2":{
+"verse":"Bện tóc với da dê, "
+},
+"dhp394:3":{
+"verse":"Nội tâm toàn phiền não, "
+},
+"dhp394:4":{
+"verse":"Ngoài mặt đánh bóng suông. "
+},
+"dhp395:0":{
+"verse":"Chuyện nàng Kisāgotamī "
+},
+"dhp395:1":{
+"verse":"Người mặc áo đống rác, "
+},
+"dhp395:2":{
+"verse":"Gầy ốm, lộ mạch gân, "
+},
+"dhp395:3":{
+"verse":"Độc thân thiền trong rừng. "
+},
+"dhp395:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp396:0":{
+"verse":"Chuyện một vị Bà-la-môn "
+},
+"dhp396:1":{
+"verse":"Ta không gọi Phạm chí, "
+},
+"dhp396:2":{
+"verse":"Vì chỗ sanh, mẹ sanh. "
+},
+"dhp396:3":{
+"verse":"Chỉ được gọi tên suông "
+},
+"dhp396:4":{
+"verse":"Nếu tâm còn phiền não. "
+},
+"dhp396:5":{
+"verse":"Không phiền não, chấp trước "
+},
+"dhp396:6":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp397:0":{
+"verse":"Chuyện con trai Trưởng giả Uggasena "
+},
+"dhp397:1":{
+"verse":"Đoạn hết các kiết sử, "
+},
+"dhp397:2":{
+"verse":"Không còn gì lo sợ "
+},
+"dhp397:3":{
+"verse":"Không đắm trước buộc ràng "
+},
+"dhp397:4":{
+"verse":"Ta gọi Bà-la-môn "
+},
+"dhp398:0":{
+"verse":"Chuyện 2 vị Bà-la-môn "
+},
+"dhp398:1":{
+"verse":"Bỏ đai da, bỏ cương "
+},
+"dhp398:2":{
+"verse":"Bỏ dây, đồ sở thuộc, "
+},
+"dhp398:3":{
+"verse":"Bỏ then chốt, sáng suốt, "
+},
+"dhp398:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp399:0":{
+"verse":"Chuyện Bà-la-môn Akkosaka Bhāradvāja "
+},
+"dhp399:1":{
+"verse":"Không ác ý, nhẫn chịu, "
+},
+"dhp399:2":{
+"verse":"Phỉ báng, đánh, phạt hình, "
+},
+"dhp399:3":{
+"verse":"Lấy nhẫn làm quân lực, "
+},
+"dhp399:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp400:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp400:1":{
+"verse":"Không hận, hết bổn phận, "
+},
+"dhp400:2":{
+"verse":"Trì giới, không tham ái, "
+},
+"dhp400:3":{
+"verse":"Nhiếp phục, thân cuối cùng, "
+},
+"dhp400:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp401:0":{
+"verse":"Chuyện Trưởng lão ni Uppalavaṇṇā "
+},
+"dhp401:1":{
+"verse":"Như nước trên lá sen, "
+},
+"dhp401:2":{
+"verse":"Như hột cải đầu kim, "
+},
+"dhp401:3":{
+"verse":"Người không nhiễm ái dục, "
+},
+"dhp401:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp402:0":{
+"verse":"Chuyện người Bà-la-môn "
+},
+"dhp402:1":{
+"verse":"Ai tự trên đời này, "
+},
+"dhp402:2":{
+"verse":"Giác khổ, diệt trừ khổ, "
+},
+"dhp402:3":{
+"verse":"Bỏ gánh nặng, giải thoát, "
+},
+"dhp402:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp403:0":{
+"verse":"Chuyện Tỳ-kheo-ni Khemā "
+},
+"dhp403:1":{
+"verse":"Người trí tuệ sâu xa, "
+},
+"dhp403:2":{
+"verse":"Khéo biết đạo, phi đạo "
+},
+"dhp403:3":{
+"verse":"Chứng đạt đích vô thượng, "
+},
+"dhp403:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp404:0":{
+"verse":"Chuyện Trưởng lão Tissa ngụ trong núi "
+},
+"dhp404:1":{
+"verse":"Không liên hệ cả hai, "
+},
+"dhp404:2":{
+"verse":"Xuất gia và thế tục, "
+},
+"dhp404:3":{
+"verse":"Sống độc thân, ít dục, "
+},
+"dhp404:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp405:0":{
+"verse":"Chuyện chư Tỳ-kheo "
+},
+"dhp405:1":{
+"verse":"Bỏ trượng, đối chúng sanh, "
+},
+"dhp405:2":{
+"verse":"Yếu kém hay kiên cường, "
+},
+"dhp405:3":{
+"verse":"Không giết, không bảo giết, "
+},
+"dhp405:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp406:0":{
+"verse":"Chuyện các Sa-di "
+},
+"dhp406:1":{
+"verse":"Thân thiện giữa thù địch "
+},
+"dhp406:2":{
+"verse":"Ôn hòa giữa hung hăng. "
+},
+"dhp406:3":{
+"verse":"Không nhiễm, giữa nhiễm trước, "
+},
+"dhp406:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp407:0":{
+"verse":"Chuyện Trưởng lão Mahā Panthaka "
+},
+"dhp407:1":{
+"verse":"Người bỏ rơi tham sân, "
+},
+"dhp407:2":{
+"verse":"Không mạn không ganh tị, "
+},
+"dhp407:3":{
+"verse":"Như hột cải đầu kim, "
+},
+"dhp407:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp408:0":{
+"verse":"Chuyện Trưởng lão Pilindavaccha "
+},
+"dhp408:1":{
+"verse":"Nói lên lời ôn hòa, "
+},
+"dhp408:2":{
+"verse":"Lợi ích và chân thật, "
+},
+"dhp408:3":{
+"verse":"Không mất lòng một ai, "
+},
+"dhp408:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp409:0":{
+"verse":"Chuyện một vị Tỳ-kheo "
+},
+"dhp409:1":{
+"verse":"Ở đời, vật dài, ngắn, "
+},
+"dhp409:2":{
+"verse":"Nhỏ, lớn, đẹp hay xấu "
+},
+"dhp409:3":{
+"verse":"Phàm không cho không lấy, "
+},
+"dhp409:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp410:0":{
+"verse":"Chuyện Trưởng lão Sāriputta (Xá-lợi-phất) "
+},
+"dhp410:1":{
+"verse":"Người không có hy cầu, "
+},
+"dhp410:2":{
+"verse":"Đời này và đời sau, "
+},
+"dhp410:3":{
+"verse":"Không hy cầu, giải thoát, "
+},
+"dhp410:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp411:0":{
+"verse":"Chuyện Trưởng lão Mahā Moggallāna (Mục-kiền-liên) "
+},
+"dhp411:1":{
+"verse":"Người không còn tham ái, "
+},
+"dhp411:2":{
+"verse":"Có trí, không nghi hoặc, "
+},
+"dhp411:3":{
+"verse":"Thể nhập vào bất tử, "
+},
+"dhp411:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp412:0":{
+"verse":"Chuyện Trưởng lão Revata "
+},
+"dhp412:1":{
+"verse":"Người sống ở đời này "
+},
+"dhp412:2":{
+"verse":"Không nhiễm cả thiện ác, "
+},
+"dhp412:3":{
+"verse":"Không sầu, sạch không bụi "
+},
+"dhp412:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp413:0":{
+"verse":"Chuyện Trưởng lão Candābha "
+},
+"dhp413:1":{
+"verse":"Như trăng, sạch không uế "
+},
+"dhp413:2":{
+"verse":"Sáng trong và tịnh lặng, "
+},
+"dhp413:3":{
+"verse":"Hữu ái, được đoạn tận, "
+},
+"dhp413:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp414:0":{
+"verse":"Chuyện Trưởng lão Sīvali "
+},
+"dhp414:1":{
+"verse":"Vượt đường nguy hiểm này, "
+},
+"dhp414:2":{
+"verse":"Nhiếp phục luân hồi, si, "
+},
+"dhp414:3":{
+"verse":"Đến bờ kia thiền định "
+},
+"dhp414:4":{
+"verse":"Không dục ái, không nghi, "
+},
+"dhp414:5":{
+"verse":"Không chấp trước, tịch tịnh, "
+},
+"dhp414:6":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp415:0":{
+"verse":"Chuyện Trưởng lão Sundarasamudda "
+},
+"dhp415:1":{
+"verse":"Ai ở đời, đoạn dục, "
+},
+"dhp415:2":{
+"verse":"Bỏ nhà, sống xuất gia, "
+},
+"dhp415:3":{
+"verse":"Dục hữu được đoạn tận, "
+},
+"dhp415:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp416:0":{
+"verse":"Chuyện Trưởng lão Jaṭila "
+},
+"dhp416:1":{
+"verse":"Ai ở đời đoạn ái "
+},
+"dhp416:2":{
+"verse":"Bỏ nhà, sống xuất gia, "
+},
+"dhp416:3":{
+"verse":"Ái hữu được đoạn tận, "
+},
+"dhp416:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp416:5.0":{
+"verse":"Chuyện Trưởng lão Jotika "
+},
+"dhp416:5.1":{
+"verse":"(dị bản) "
+},
+"dhp416:6":{
+"verse":"(dị bản) "
+},
+"dhp416:7":{
+"verse":"(dị bản) "
+},
+"dhp416:8":{
+"verse":"(dị bản) "
+},
+"dhp417:0":{
+"verse":"Chuyện vị Tỳ-kheo đã từng khiêu vũ "
+},
+"dhp417:1":{
+"verse":"Bỏ trói buộc loài người, "
+},
+"dhp417:2":{
+"verse":"Vượt trói buộc cõi trời. "
+},
+"dhp417:3":{
+"verse":"Giải thoát mọi buộc ràng, "
+},
+"dhp417:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp418:0":{
+"verse":"Chuyện vị Tỳ-kheo đã từng khiêu vũ "
+},
+"dhp418:1":{
+"verse":"Bỏ điều ưa, điều ghét, "
+},
+"dhp418:2":{
+"verse":"Mát lạnh, diệt sanh y "
+},
+"dhp418:3":{
+"verse":"Bậc anh hùng chiến thắng, Nhiếp phục mọi thế giới, "
+},
+"dhp418:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp419:0":{
+"verse":"Chuyện Trưởng lão Vaṅgīsa "
+},
+"dhp419:1":{
+"verse":"Ai hiểu rõ hoàn toàn "
+},
+"dhp419:2":{
+"verse":"Sanh tử các chúng sanh, "
+},
+"dhp419:3":{
+"verse":"Không nhiễm, khéo vượt qua, Sáng suốt chân giác ngộ, "
+},
+"dhp419:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp420:1":{
+"verse":"Với ai, loài trời, người Cùng với Càn-thát-bà, "
+},
+"dhp420:2":{
+"verse":"Không biết chỗ thọ sanh "
+},
+"dhp420:3":{
+"verse":"Lậu tận bậc La-hán. "
+},
+"dhp420:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp421:0":{
+"verse":"Chuyện Trưởng lão ni Dhammadinnā "
+},
+"dhp421:1":{
+"verse":"Ai quá, hiện, vị lai "
+},
+"dhp421:2":{
+"verse":"Không một sở hữu gì, "
+},
+"dhp421:3":{
+"verse":"Không sở hữu không nắm, "
+},
+"dhp421:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp422:0":{
+"verse":"Chuyện Trưởng lão Angulimāla "
+},
+"dhp422:1":{
+"verse":"Bậc trâu chúa, thù thắng Bậc anh hùng, đại sĩ, "
+},
+"dhp422:2":{
+"verse":"Bậc chiến thắng, không nhiễm, "
+},
+"dhp422:3":{
+"verse":"Bậc tẩy sạch, giác ngộ, "
+},
+"dhp422:4":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp423:0":{
+"verse":"Chuyện Bà-la-môn Devahita "
+},
+"dhp423:1":{
+"verse":"Ai biết được đời trước, "
+},
+"dhp423:2":{
+"verse":"Thấy thiên giới, đọa xứ, "
+},
+"dhp423:3":{
+"verse":"Đạt được sanh diệt tận "
+},
+"dhp423:4":{
+"verse":"Thắng trí, tự viên thành Bậc mâu-ni đạo sĩ. "
+},
+"dhp423:5":{
+"verse":"Viên mãn mọi thành tựu "
+},
+"dhp423:6":{
+"verse":"Ta gọi Bà-la-môn. "
+},
+"dhp423:7":{
+"verse":"Hết phẩm Bà-la-môn "
+},
+"dhp423:57":{
+"verse":"Hết kinh Pháp Cú "
+}
+}
+}
+}
+}
