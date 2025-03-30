@@ -1,110 +1,264 @@
-.root {
+/* Author colors for both light and dark themes */
+
+/* Dark theme colors (original) */
+[data-theme=dark] .root {
     color: white;
 }
 
-.brahmali {
-    color: lightcyan
+[data-theme=dark] .brahmali {
+    color: lightcyan;
 }
 
-.patton {
+[data-theme=dark] .patton {
     color: orange;
 }
 
-.soma {
+[data-theme=dark] .soma {
     color: lightcoral;
 }
 
-.suddhaso {
+[data-theme=dark] .suddhaso {
     color: lightpink;
 }
 
-.sujato {
-    color : greenyellow;
-
+[data-theme=dark] .sujato {
+    color: greenyellow;
 }
 
-.bodhi {
-    color : lightblue;
+[data-theme=dark] .bodhi {
+    color: lightblue;
 }
 
-.kelly {
+[data-theme=dark] .kelly {
     color: lightsteelblue;
 }
 
-.kovilo {
-    color : lightsalmon;
+[data-theme=dark] .kovilo {
+    color: lightsalmon;
 }
 
-.anandajoti {
-    color : lightgoldenrodyellow;
+[data-theme=dark] .anandajoti {
+    color: lightgoldenrodyellow;
 }
 
-.sabbamitta {
-    color : lightcyan;
+[data-theme=dark] .sabbamitta {
+    color: lightcyan;
 }
 
-.maggatr {
-    color : lightyellow;
+[data-theme=dark] .maggatr {
+    color: lightyellow;
 }
 
-.ashinsarana {
-    color : cornsilk;
+[data-theme=dark] .ashinsarana {
+    color: cornsilk;
 }
 
-.mudito {
-    color : honeydew;
+[data-theme=dark] .mudito {
+    color: honeydew;
 }
 
-.sekha {
-    color : navajowhite;
+[data-theme=dark] .sekha {
+    color: navajowhite;
 }
 
-.trush {
-    color : lemonchiffon;
+[data-theme=dark] .trush {
+    color: lemonchiffon;
 }
 
-.seniya {
-    color : aliceblue;
+[data-theme=dark] .seniya {
+    color: aliceblue;
 }
 
-.kaz {
-    color : aquamarine;
+[data-theme=dark] .kaz {
+    color: aquamarine;
 }
 
-.jayasaro {
-    color : floralwhite;
+[data-theme=dark] .jayasaro {
+    color: floralwhite;
 }
 
-.piyadassi {
+[data-theme=dark] .piyadassi {
     color: lightgreen;
-
 }
 
-.hardao {
-    color : khaki;
+[data-theme=dark] .hardao {
+    color: khaki;
 }
-.lucjan {
-    color : mediumspringgreen;
+
+[data-theme=dark] .lucjan {
+    color: mediumspringgreen;
 }
-.marcinow {
-    color : powderblue;
+
+[data-theme=dark] .marcinow {
+    color: powderblue;
 }
-.laera-quaresma {
-    color : oldlace;
+
+[data-theme=dark] .laera-quaresma {
+    color: oldlace;
 }
-.sv {
-    color : springgreen;
+
+[data-theme=dark] .sv {
+    color: springgreen;
 }
-.syrkin {
-    color : seashell;
+
+[data-theme=dark] .syrkin {
+    color: seashell;
 }
-.narinyanievmenenko {
-    color : skyblue;
+
+[data-theme=dark] .narinyanievmenenko {
+    color: skyblue;
 }
-.brankokovacevic {
-    color : paleturquoise;
+
+[data-theme=dark] .brankokovacevic {
+    color: paleturquoise;
 }
-.phantuananh {
+
+[data-theme=dark] .phantuananh {
     color: blanchedalmond;
 }
 
+/* Light theme colors (for background #fdf6e4) */
+[data-theme=light] .root,
+:root:not([data-theme=dark]) .root {
+    color: #333333;
+}
+
+[data-theme=light] .brahmali,
+:root:not([data-theme=dark]) .brahmali {
+    color: #005656;
+}
+
+[data-theme=light] .patton,
+:root:not([data-theme=dark]) .patton {
+    color: #996300;
+}
+
+[data-theme=light] .soma,
+:root:not([data-theme=dark]) .soma {
+    color: #770000;
+}
+
+[data-theme=light] .suddhaso,
+:root:not([data-theme=dark]) .suddhaso {
+    color: #62000f;
+}
+
+[data-theme=light] .sujato,
+:root:not([data-theme=dark]) .sujato {
+    color: #457100;
+}
+
+[data-theme=light] .bodhi,
+:root:not([data-theme=dark]) .bodhi {
+    color: #11495c;
+}
+
+[data-theme=light] .kelly,
+:root:not([data-theme=dark]) .kelly {
+    color: #1a3354;
+}
+
+[data-theme=light] .kovilo,
+:root:not([data-theme=dark]) .kovilo {
+    color: #742100;
+}
+
+[data-theme=light] .anandajoti,
+:root:not([data-theme=dark]) .anandajoti {
+    color: #5b5c00;
+}
+
+[data-theme=light] .sabbamitta,
+:root:not([data-theme=dark]) .sabbamitta {
+    color: #005656;
+}
+
+[data-theme=light] .maggatr,
+:root:not([data-theme=dark]) .maggatr {
+    color: #565600;
+}
+
+[data-theme=light] .ashinsarana,
+:root:not([data-theme=dark]) .ashinsarana {
+    color: #574600;
+}
+
+[data-theme=light] .mudito,
+:root:not([data-theme=dark]) .mudito {
+    color: #005100;
+}
+
+[data-theme=light] .sekha,
+:root:not([data-theme=dark]) .sekha {
+    color: #653c00;
+}
+
+[data-theme=light] .trush,
+:root:not([data-theme=dark]) .trush {
+    color: #5c5200;
+}
+
+[data-theme=light] .seniya,
+:root:not([data-theme=dark]) .seniya {
+    color: #002b51;
+}
+
+[data-theme=light] .kaz,
+:root:not([data-theme=dark]) .kaz {
+    color: #00734c;
+}
+
+[data-theme=light] .jayasaro,
+:root:not([data-theme=dark]) .jayasaro {
+    color: #513600;
+}
+
+[data-theme=light] .piyadassi,
+:root:not([data-theme=dark]) .piyadassi {
+    color: #037003;
+}
+
+[data-theme=light] .hardao,
+:root:not([data-theme=dark]) .hardao {
+    color: #746800;
+}
+
+[data-theme=light] .lucjan,
+:root:not([data-theme=dark]) .lucjan {
+    color: #00814f;
+}
+
+[data-theme=light] .marcinow,
+:root:not([data-theme=dark]) .marcinow {
+    color: #12525a;
+}
+
+[data-theme=light] .laera-quaresma,
+:root:not([data-theme=dark]) .laera-quaresma {
+    color: #553700;
+}
+
+[data-theme=light] .sv,
+:root:not([data-theme=dark]) .sv {
+    color: #008040;
+}
+
+[data-theme=light] .syrkin,
+:root:not([data-theme=dark]) .syrkin {
+    color: #522200;
+}
+
+[data-theme=light] .narinyanievmenenko,
+:root:not([data-theme=dark]) .narinyanievmenenko {
+    color: #045272;
+}
+
+[data-theme=light] .brankokovacevic,
+:root:not([data-theme=dark]) .brankokovacevic {
+    color: #086161;
+}
+
+[data-theme=light] .phantuananh,
+:root:not([data-theme=dark]) .phantuananh {
+    color: #5c3700;
+}

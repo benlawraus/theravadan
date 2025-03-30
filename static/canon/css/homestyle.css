@@ -1,6 +1,13 @@
 /* Style for the header background image */
+[data-theme=dark] #landing-header {
+  background-image: url("../img/Sri_Lankan_Manuscript_6_2.jpg");
+}
+
+[data-theme=light] #landing-header,
+:root:not([data-theme=dark]) #landing-header {
+  background-image: url("../img/Sri_Lankan_Manuscript_6_2-light.jpg"); /* Light-optimized version */
+}
 #landing-header {
-  background-image: url("../img/Sri_Lankan_Manuscript_6_2.jpg"); /* Replace "your-image.jpg" with your actual image path */
   background-size: cover; /* This is important to make the image cover the header area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent image repetition */
@@ -10,7 +17,7 @@
   margin-bottom: 2rem; /* gives some space under the header */
 }
 
-/* optional: Add a dark overlay to ensure text visibility */
+/* Add a dark overlay to ensure text visibility */
 #landing-header::before {
   content: "";
   position: absolute;
@@ -18,7 +25,6 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.1); /* Semi-transparent black overlay */
   z-index: 1;
   pointer-events: none; /* This makes sure it does not block interactions */
 

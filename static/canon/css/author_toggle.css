@@ -1,0 +1,40 @@
+/* Hide the actual checkbox input */
+.toggle-input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Style for the translator toggle labels */
+.translator-toggle {
+  display: inline-block;
+  margin: 0 0.25rem 0.5rem 0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  border: 1px solid var(--pico-primary);
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+/* Inactive state (when checkbox is not checked) */
+.toggle-input:not(:checked) + .toggle-label {
+  opacity: 0.5;
+}
+
+.translator-toggle:hover {
+  opacity: 0.9;
+}
+
+/* Add a flex container for verses to allow better flow */
+.verse-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Remove bottom margin from translation spans to eliminate gaps */
+.translation {
+  transition: all 0.2s ease-out;
+}
