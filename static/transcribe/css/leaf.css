@@ -1,0 +1,57 @@
+/* Reset ALL form styling from Pico */
+form {
+  all: unset;
+  display: block;
+  width: 100%;
+}
+
+/* Remove Pico styling from tables in the non-form-content section */
+.non-form-content table,
+.verse-table {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.verse-row {
+  margin-bottom: 1.5rem;
+}
+
+/* Only preserve Pico styling for the specific input elements */
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="search"],
+select {
+  /* These will inherit Pico styling */
+}
+
+/* Keep Pico styling for buttons */
+button,
+input[type="submit"] {
+  /* This will inherit Pico styling for buttons */
+}
+
+/* Remove article styling if it's affecting your form display */
+article {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+/* Make sure the verse display has proper spacing */
+.verse-table td {
+  padding: 0.25rem 0;
+  vertical-align: top;
+}
+
+/* Give verse numbers some distinction */
+.verse-table td:first-child {
+  font-weight: bold;
+  padding-right: 0.75rem;
+}

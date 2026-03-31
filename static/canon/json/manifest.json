@@ -1,0 +1,37 @@
+{
+  "name": "Theravada",
+  "short_name": "Theravada",
+  "description": "The canonical text of Theravada Buddhism",
+  "theme_color": "#000000",
+  "background_color": "#ADFF2F",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/static/canon/img/icon-192.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/static/canon/img/icon-512.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/static/canon/img/icon-180.jpeg",
+      "sizes": "180x180",
+      "type": "image/jpeg"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Theravada",
+      "url": "/",
+      "description": "Shortcut to a theravadan"
+    }
+  ]
+}

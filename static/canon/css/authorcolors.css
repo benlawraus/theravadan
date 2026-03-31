@@ -117,6 +117,162 @@
     color: blanchedalmond;
 }
 
+[data-theme=dark] .bernatfontclos {
+    color: peachpuff;
+}
+
+[data-theme=dark] .buddhadassa {
+    color: thistle;
+}
+
+[data-theme=dark] .christelle {
+    color: lavender;
+}
+
+[data-theme=dark] .cittadhammo {
+    color: mistyrose;
+}
+
+[data-theme=dark] .cыркин {
+    color: wheat;
+}
+
+[data-theme=dark] .davis {
+    color: palegreen;
+}
+
+[data-theme=dark] .dhiranandi {
+    color: lightskyblue;
+}
+
+[data-theme=dark] .dogensisapa {
+    color: moccasin;
+}
+
+[data-theme=dark] .flavio {
+    color: plum;
+}
+
+[data-theme=dark] .font {
+    color: palegoldenrod;
+}
+
+[data-theme=dark] .francois {
+    color: lightyellow;
+}
+
+[data-theme=dark] .giovannizappa {
+    color: palevioletred;
+}
+
+[data-theme=dark] .gloine {
+    color: mediumaquamarine;
+}
+
+[data-theme=dark] .gnlaera {
+    color: sandybrown;
+}
+
+[data-theme=dark] .karunika {
+    color: lightseagreen;
+}
+
+[data-theme=dark] .khantibalo {
+    color: burlywood;
+}
+
+[data-theme=dark] .korakot {
+    color: darkseagreen;
+}
+
+[data-theme=dark] .laera {
+    color: tan;
+}
+
+[data-theme=dark] .madhu {
+    color: violet;
+}
+
+[data-theme=dark] .mahabodhi {
+    color: turquoise;
+}
+
+[data-theme=dark] .mangala {
+    color: lightcoral;
+}
+
+[data-theme=dark] .mao {
+    color: mediumturquoise;
+}
+
+[data-theme=dark] .mgvali {
+    color: rosybrown;
+}
+
+[data-theme=dark] .myteam {
+    color: lightsalmon;
+}
+
+[data-theme=dark] .noeismet {
+    color: darkkhaki;
+}
+
+[data-theme=dark] .nyeinchanaye {
+    color: cadetblue;
+}
+
+[data-theme=dark] .o {
+    color: coral;
+}
+
+[data-theme=dark] .pasanna {
+    color: mediumpurple;
+}
+
+[data-theme=dark] .quaresma {
+    color: peru;
+}
+
+[data-theme=dark] .sonjabuege {
+    color: orchid;
+}
+
+[data-theme=dark] .sumano {
+    color: darkturquoise;
+}
+
+[data-theme=dark] .suvira {
+    color: salmon;
+}
+
+[data-theme=dark] .thitanana {
+    color: mediumslateblue;
+}
+
+[data-theme=dark] .vimalanyani {
+    color: goldenrod;
+}
+
+[data-theme=dark] .vitor {
+    color: lightsteelblue;
+}
+
+[data-theme=dark] .wynne {
+    color: aqua;
+}
+
+[data-theme=dark] .yingchen {
+    color: hotpink;
+}
+
+[data-theme=dark] .nyanamoli-khantipalo {
+    color: lightskyblue;
+}
+
+[data-theme=dark] .rhysdavids {
+    color: paleturquoise;
+}
+
 /* Light theme colors (for background #fdf6e4) */
 [data-theme=light] .root,
 :root:not([data-theme=dark]) .root {
@@ -261,4 +417,199 @@
 [data-theme=light] .phantuananh,
 :root:not([data-theme=dark]) .phantuananh {
     color: #5c3700;
+}
+
+[data-theme=light] .bernatfontclos,
+:root:not([data-theme=dark]) .bernatfontclos {
+    color: #6e3200;
+}
+
+[data-theme=light] .buddhadassa,
+:root:not([data-theme=dark]) .buddhadassa {
+    color: #5a2d6e;
+}
+
+[data-theme=light] .christelle,
+:root:not([data-theme=dark]) .christelle {
+    color: #2d3a6e;
+}
+
+[data-theme=light] .cittadhammo,
+:root:not([data-theme=dark]) .cittadhammo {
+    color: #6e1a2d;
+}
+
+[data-theme=light] .cыркин,
+:root:not([data-theme=dark]) .cыркин {
+    color: #5a4800;
+}
+
+[data-theme=light] .davis,
+:root:not([data-theme=dark]) .davis {
+    color: #1a5e1a;
+}
+
+[data-theme=light] .dhiranandi,
+:root:not([data-theme=dark]) .dhiranandi {
+    color: #0a4a7a;
+}
+
+[data-theme=light] .dogensisapa,
+:root:not([data-theme=dark]) .dogensisapa {
+    color: #6e4200;
+}
+
+[data-theme=light] .flavio,
+:root:not([data-theme=dark]) .flavio {
+    color: #6a1a6a;
+}
+
+[data-theme=light] .font,
+:root:not([data-theme=dark]) .font {
+    color: #5a5500;
+}
+
+[data-theme=light] .francois,
+:root:not([data-theme=dark]) .francois {
+    color: #4a4a00;
+}
+
+[data-theme=light] .giovannizappa,
+:root:not([data-theme=dark]) .giovannizappa {
+    color: #7a1a4a;
+}
+
+[data-theme=light] .gloine,
+:root:not([data-theme=dark]) .gloine {
+    color: #006e4e;
+}
+
+[data-theme=light] .gnlaera,
+:root:not([data-theme=dark]) .gnlaera {
+    color: #8a4500;
+}
+
+[data-theme=light] .karunika,
+:root:not([data-theme=dark]) .karunika {
+    color: #006e5e;
+}
+
+[data-theme=light] .khantibalo,
+:root:not([data-theme=dark]) .khantibalo {
+    color: #6e4e1a;
+}
+
+[data-theme=light] .korakot,
+:root:not([data-theme=dark]) .korakot {
+    color: #2d5e2d;
+}
+
+[data-theme=light] .laera,
+:root:not([data-theme=dark]) .laera {
+    color: #6e5a2d;
+}
+
+[data-theme=light] .madhu,
+:root:not([data-theme=dark]) .madhu {
+    color: #7a1a7a;
+}
+
+[data-theme=light] .mahabodhi,
+:root:not([data-theme=dark]) .mahabodhi {
+    color: #006e6e;
+}
+
+[data-theme=light] .mangala,
+:root:not([data-theme=dark]) .mangala {
+    color: #8a1a1a;
+}
+
+[data-theme=light] .mao,
+:root:not([data-theme=dark]) .mao {
+    color: #005e6e;
+}
+
+[data-theme=light] .mgvali,
+:root:not([data-theme=dark]) .mgvali {
+    color: #5e3a3a;
+}
+
+[data-theme=light] .myteam,
+:root:not([data-theme=dark]) .myteam {
+    color: #7a3200;
+}
+
+[data-theme=light] .noeismet,
+:root:not([data-theme=dark]) .noeismet {
+    color: #5e5a00;
+}
+
+[data-theme=light] .nyeinchanaye,
+:root:not([data-theme=dark]) .nyeinchanaye {
+    color: #1a4a5a;
+}
+
+[data-theme=light] .o,
+:root:not([data-theme=dark]) .o {
+    color: #8a3a00;
+}
+
+[data-theme=light] .pasanna,
+:root:not([data-theme=dark]) .pasanna {
+    color: #4a2d7a;
+}
+
+[data-theme=light] .quaresma,
+:root:not([data-theme=dark]) .quaresma {
+    color: #6e3a00;
+}
+
+[data-theme=light] .sonjabuege,
+:root:not([data-theme=dark]) .sonjabuege {
+    color: #7a2d7a;
+}
+
+[data-theme=light] .sumano,
+:root:not([data-theme=dark]) .sumano {
+    color: #006e7a;
+}
+
+[data-theme=light] .suvira,
+:root:not([data-theme=dark]) .suvira {
+    color: #8a2d1a;
+}
+
+[data-theme=light] .thitanana,
+:root:not([data-theme=dark]) .thitanana {
+    color: #3a2d8a;
+}
+
+[data-theme=light] .vimalanyani,
+:root:not([data-theme=dark]) .vimalanyani {
+    color: #7a5a00;
+}
+
+[data-theme=light] .vitor,
+:root:not([data-theme=dark]) .vitor {
+    color: #2d4a6e;
+}
+
+[data-theme=light] .wynne,
+:root:not([data-theme=dark]) .wynne {
+    color: #006e6e;
+}
+
+[data-theme=light] .yingchen,
+:root:not([data-theme=dark]) .yingchen {
+    color: #8a1a5a;
+}
+
+[data-theme=light] .nyanamoli-khantipalo,
+:root:not([data-theme=dark]) .nyanamoli-khantipalo {
+    color: #0a4a7a;
+}
+
+[data-theme=light] .rhysdavids,
+:root:not([data-theme=dark]) .rhysdavids {
+    color: #086161;
 }

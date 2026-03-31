@@ -1,5 +1,5 @@
 // This script will be loaded as idb-loader-main.js in the Django template
-// Requires dexie.js and progress-window.js to be loaded first
+// Requires dexie.js, dexie-shared.js, and progress-window.js to be loaded first
 
 (async function() {
     // Wait for DOM to be fully loaded
@@ -9,14 +9,10 @@
         });
     }
 
-    // Define database version - increment this when schema changes
-    const dbVersion = 4;
-
     // Check if data has already been loaded for current version
     const loadedVersion = localStorage.getItem('buddhistTextsLoadedVersion');
-    if (loadedVersion === dbVersion.toString()) {
-        console.log(`Buddhist texts already loaded for version ${dbVersion}. Skipping data loading.`);
-        // Dispatch event with zero counts since we're not loading anything
+    if (loadedVersion === DEXIE_DB_VERSION.toString()) {
+        console.log(`Buddhist texts already loaded for version ${DEXIE_DB_VERSION}. Skipping data loading.`);
         dispatchLoadedEvent(0, 0, 0);
         return;
     }
@@ -32,29 +28,21 @@
         return;
     }
 
-    // Define root languages, translation languages, and text categories
-    const rootLanguages = ["pli", "pra", "san", "lzh"];
-    const translationLanguages = [
-        "cs", "de", "en", "es", "fi", "fr", "gu", "hi", "id",
-        "it", "jpn", "lo", "lt", "my", "pl", "ru", "sr", "th", "vi"
-    ];
-    const textCategories = ["sutta", "vinaya", "abhidhamma"];
+    // Determine base URL for JSON files
+    let baseUrl = typeof json_data_root !== 'undefined' ? json_data_root : '/static/canon/json/';
+    if (!baseUrl.endsWith('/')) baseUrl += '/';
 
     // Create arrays to track all possible files
     let allFiles = [];
 
     // Add root language files (X_Z.json)
-    rootLanguages.forEach(rootLang => {
-        textCategories.forEach(category => {
-            // Skip abhidhamma for pra, san, and lzh as mentioned
-            if (category === "abhidhamma" &&
-                (rootLang === "pra" || rootLang === "san" || rootLang === "lzh")) {
-                return;
-            }
+    ROOT_LANGUAGES.forEach(rootLang => {
+        TEXT_CATEGORIES.forEach(category => {
+            if (!isValidCombination(rootLang, category)) return;
 
             allFiles.push({
                 filename: `${rootLang}_${category}`,
-                url: `/static/canon/json/${rootLang}_${category}.json`,
+                url: `${baseUrl}${rootLang}_${category}.json`,
                 isRoot: true,
                 rootLang: rootLang,
                 category: category
@@ -63,18 +51,14 @@
     });
 
     // Add translation files (X_Y_Z.json)
-    rootLanguages.forEach(rootLang => {
-        translationLanguages.forEach(transLang => {
-            textCategories.forEach(category => {
-                // Skip abhidhamma for pra, san, and lzh as mentioned
-                if (category === "abhidhamma" &&
-                    (rootLang === "pra" || rootLang === "san" || rootLang === "lzh")) {
-                    return;
-                }
+    ROOT_LANGUAGES.forEach(rootLang => {
+        TRANSLATION_LANGUAGES.forEach(transLang => {
+            TEXT_CATEGORIES.forEach(category => {
+                if (!isValidCombination(rootLang, category)) return;
 
                 allFiles.push({
                     filename: `${rootLang}_${transLang}_${category}`,
-                    url: `/static/canon/json/${rootLang}_${transLang}_${category}.json`,
+                    url: `${baseUrl}${rootLang}_${transLang}_${category}.json`,
                     isRoot: false,
                     rootLang: rootLang,
                     transLang: transLang,
@@ -85,83 +69,32 @@
     });
 
     const totalFiles = allFiles.length;
-    let currentFileIndex = 0;
+    let processedCount = 0;
     let successfulLoads = 0;
     let failedLoads = 0;
+
+    // Number of concurrent fetches
+    const CONCURRENCY = 4;
 
     try {
         // Get current language from the page if available
         const currentLanguage = lang_code;
         console.log("Current language:", currentLanguage);
 
-        // Define Dexie database class
-        class BuddhistTextsDatabase extends Dexie {
-            constructor() {
-                super('BuddhistTextsDB');
-                this.version(dbVersion).stores(generateStoreSchema());
-            }
-        }
-
-        // Generate store schema for Dexie
-        function generateStoreSchema() {
-            const schema = {};
-            
-            // Add root language stores
-            rootLanguages.forEach(rootLang => {
-                textCategories.forEach(category => {
-                    // Skip abhidhamma for pra, san, and lzh
-                    if (category === "abhidhamma" &&
-                        (rootLang === "pra" || rootLang === "san" || rootLang === "lzh")) {
-                        return;
-                    }
-                    
-                    const storeName = `${rootLang}_${category}`;
-                    // Define store with key as primary
-                    schema[storeName] = '';  // Empty string means no index, just primary key
-                });
-            });
-            
-            // Add translation stores
-            rootLanguages.forEach(rootLang => {
-                translationLanguages.forEach(transLang => {
-                    textCategories.forEach(category => {
-                        // Skip abhidhamma for pra, san, and lzh
-                        if (category === "abhidhamma" &&
-                            (rootLang === "pra" || rootLang === "san" || rootLang === "lzh")) {
-                            return;
-                        }
-                        
-                        const storeName = `${rootLang}_${transLang}_${category}`;
-                        // Define store with key as primary
-                        schema[storeName] = '';  // Empty string means no index, just primary key
-                    });
-                });
-            });
-            
-            return schema;
-        }
-
-        // Create and open the database
-        const db = new BuddhistTextsDatabase();
+        // Use the shared database instance
+        const db = getSharedDatabase();
         console.log("Dexie database opened successfully.");
 
         // If ProgressWindow is available and loading is needed, create it
         if (typeof ProgressWindow !== 'undefined' && needsLoading) {
             ProgressWindow.create(totalFiles);
-            // Add a loading indicator to the body
             document.body.classList.add('loading-database');
         }
 
-        await loadNextFile();
-
-        // Function to check if data already exists in store
+        // Check if data already exists in store
         async function storeHasData(storeName) {
             try {
-                if (!db[storeName]) {
-                    console.log(`Store ${storeName} doesn't exist.`);
-                    return false;
-                }
-
+                if (!db[storeName]) return false;
                 const count = await db[storeName].count();
                 return count > 0;
             } catch (error) {
@@ -170,41 +103,56 @@
             }
         }
 
-        // Store data in IndexedDB with original structure
+        // Add normalized_verse to each verse object for faster searching later
+        function addNormalizedVerses(data, isRoot) {
+            for (const textPath of Object.keys(data)) {
+                const record = data[textPath];
+                if (isRoot && record.root) {
+                    for (const verseIndex in record.root) {
+                        const verseObj = record.root[verseIndex];
+                        if (verseObj && verseObj.verse && typeof verseObj.verse === 'string') {
+                            verseObj.normalized_verse = normalizeText(verseObj.verse);
+                        }
+                    }
+                }
+                if (record.texts) {
+                    for (const author in record.texts) {
+                        const translation = record.texts[author];
+                        for (const verseIndex in translation) {
+                            const verseObj = translation[verseIndex];
+                            if (verseObj && verseObj.verse && typeof verseObj.verse === 'string') {
+                                verseObj.normalized_verse = normalizeText(verseObj.verse);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        // Store data in IndexedDB with normalized verses
         async function storeData(fileInfo, data) {
             try {
                 const storeName = fileInfo.filename;
 
-                // Skip if table doesn't exist
                 if (!db[storeName]) {
                     console.warn(`Table ${storeName} doesn't exist. Skipping.`);
-                    currentFileIndex++;
-                    updateProgress();
-                    await loadNextFile();
                     return;
                 }
 
-                // Begin transaction
+                // Add normalized verses at load time
+                addNormalizedVerses(data, fileInfo.isRoot);
+
                 await db.transaction('rw', db[storeName], async () => {
-                    // Process each text path entry in the JSON
                     for (const textPath of Object.keys(data)) {
-                        // Store with original structure: key = text path, value = data for that path
                         await db[storeName].put(data[textPath], textPath);
                     }
                 });
 
                 console.log(`Successfully stored data for ${storeName}`);
                 successfulLoads++;
-
-                currentFileIndex++;
-                updateProgress();
-                await loadNextFile();
             } catch (error) {
                 console.error(`Error storing data for ${fileInfo.filename}:`, error);
                 failedLoads++;
-                currentFileIndex++;
-                updateProgress();
-                await loadNextFile();
             }
         }
 
@@ -212,16 +160,8 @@
         async function fetchData(url) {
             try {
                 const response = await fetch(url);
-
-                // If file doesn't exist (404), just return null
-                if (response.status === 404) {
-                    return null;
-                }
-
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-
+                if (response.status === 404) return null;
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 return await response.json();
             } catch (error) {
                 console.error(`Error fetching ${url}:`, error);
@@ -232,62 +172,69 @@
         // Update progress window
         function updateProgress() {
             if (typeof ProgressWindow !== 'undefined') {
-                ProgressWindow.update(currentFileIndex, totalFiles);
+                ProgressWindow.update(processedCount, totalFiles);
             }
-
-            console.log(`Progress: ${currentFileIndex}/${totalFiles} (${successfulLoads} loaded, ${failedLoads} failed)`);
+            console.log(`Progress: ${processedCount}/${totalFiles} (${successfulLoads} loaded, ${failedLoads} failed)`);
         }
 
-        // Load the next file
-        async function loadNextFile() {
-            if (currentFileIndex >= totalFiles) {
-                console.log("All files processed.");
-                console.log(`Summary: ${successfulLoads} files loaded, ${failedLoads} files failed/missing`);
-
-                if (typeof ProgressWindow !== 'undefined') {
-                    ProgressWindow.close();
-                }
-
-                // Remove loading indicator
-                document.body.classList.remove('loading-database');
-
-                dispatchLoadedEvent();
-                return;
-            }
-
-            const fileInfo = allFiles[currentFileIndex];
+        // Process a single file
+        async function processFile(fileInfo) {
             const storeName = fileInfo.filename;
 
-            // Check if this store already has data
             const hasData = await storeHasData(storeName);
-
             if (hasData) {
                 console.log(`${storeName} already has data. Skipping.`);
-                currentFileIndex++;
+                processedCount++;
                 updateProgress();
-                await loadNextFile();
                 return;
             }
 
             console.log(`Processing ${fileInfo.url}...`);
-
-            // Try to fetch the data
             const data = await fetchData(fileInfo.url);
 
             if (data === null) {
                 console.log(`File not found or error for ${fileInfo.url}. This may be expected for some combinations.`);
-                currentFileIndex++;
-                updateProgress();
-                await loadNextFile();
             } else {
                 await storeData(fileInfo, data);
             }
+
+            processedCount++;
+            updateProgress();
         }
+
+        // Process all files with limited concurrency
+        async function processAllFiles() {
+            let index = 0;
+
+            async function next() {
+                while (index < allFiles.length) {
+                    const fileInfo = allFiles[index++];
+                    await processFile(fileInfo);
+                }
+            }
+
+            // Launch CONCURRENCY workers
+            const workers = [];
+            for (let i = 0; i < Math.min(CONCURRENCY, allFiles.length); i++) {
+                workers.push(next());
+            }
+            await Promise.all(workers);
+        }
+
+        await processAllFiles();
+
+        console.log("All files processed.");
+        console.log(`Summary: ${successfulLoads} files loaded, ${failedLoads} files failed/missing`);
+
+        if (typeof ProgressWindow !== 'undefined') {
+            ProgressWindow.close();
+        }
+
+        document.body.classList.remove('loading-database');
+        dispatchLoadedEvent();
 
     } catch (error) {
         console.error("Critical error setting up database:", error);
-
-        // Remove loading indicator
         document.body.classList.remove('loading-database');
 
         if (typeof ProgressWindow !== 'undefined') {
@@ -297,11 +244,9 @@
 
     // Function to dispatch the 'buddhist-texts-loaded' event
     function dispatchLoadedEvent(successful = successfulLoads, failed = failedLoads, total = totalFiles) {
-        // Set flags in localStorage to indicate that data has been loaded
         localStorage.setItem('buddhistTextsLoaded', 'true');
-        localStorage.setItem('buddhistTextsLoadedVersion', dbVersion.toString());
+        localStorage.setItem('buddhistTextsLoadedVersion', DEXIE_DB_VERSION.toString());
 
-        // Dispatch event when loading is complete - useful for other scripts that depend on this data
         const event = new CustomEvent('buddhist-texts-loaded', {
             detail: {
                 successful: successful,
