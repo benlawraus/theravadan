@@ -1,0 +1,38 @@
+/* Print-only stylesheet (linked with media="print").
+   Neutralizes Pico's themed background/colors so print-outs are clean black
+   text on white paper, independent of the active light/dark theme. */
+
+:root {
+    /* Override the Pico theme variables that drive the page background/colors.
+       This fixes both light (#fdf6e4) and dark (#000) themes at once. */
+    --pico-background-color: #fff;
+    --pico-color: #000;
+    --pico-h1-color: #000;
+    --pico-h2-color: #000;
+    --pico-h3-color: #000;
+    --pico-h4-color: #000;
+    --pico-h5-color: #000;
+    --pico-h6-color: #000;
+}
+
+html, body {
+    background: #fff !important;
+    color: #000 !important;
+    /* Do NOT set print-color-adjust: exact — we WANT the browser to drop
+       backgrounds, which is the default (print-color-adjust: economy). */
+}
+
+/* Safety: the base template hides <html> until JS adds .loaded (FOUC guard).
+   Ensure content stays visible even if printing fires before that runs. */
+html {
+    visibility: visible !important;
+}
+
+/* Hide site chrome so the print-out is just the text content.
+   The single <nav> holds the THERAVADA link, theme-toggle, and Search link. */
+nav.container,
+.theme-toggle,
+#theme-toggle,
+footer.footer {
+    display: none !important;
+}
