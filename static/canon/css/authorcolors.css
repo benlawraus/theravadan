@@ -273,6 +273,10 @@
     color: paleturquoise;
 }
 
+[data-theme=dark] .thanissaro {
+    color: gold;
+}
+
 /* Light theme colors (for background #fdf6e4) */
 [data-theme=light] .root,
 :root:not([data-theme=dark]) .root {
@@ -612,4 +616,9 @@
 [data-theme=light] .rhysdavids,
 :root:not([data-theme=dark]) .rhysdavids {
     color: #086161;
+}
+
+[data-theme=light] .thanissaro,
+:root:not([data-theme=dark]) .thanissaro {
+    color: #7a5a00;
 }
