@@ -34,3 +34,10 @@
     position: relative;
     z-index: 2;
 }
+
+/* Branding text — styled to read like the former <h1> without being one */
+#landing-header .brand {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
