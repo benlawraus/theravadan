@@ -36,6 +36,9 @@
 "an1.1:2.2":{
 "verse":"La forme d’une femme, mendiants, s’empare de l’esprit d’un homme. "
 },
+"an1.1:2.3":{
+"verse":""
+},
 "an1.2:1.0":{
 "verse":"2 "
 },
@@ -44,6 +47,9 @@
 },
 "an1.2:1.2":{
 "verse":"Le son d’une femme, mendiants, s’empare de l’esprit d’un homme. "
+},
+"an1.2:1.3":{
+"verse":""
 },
 "an1.3:1.0":{
 "verse":"3 "
@@ -54,6 +60,9 @@
 "an1.3:1.2":{
 "verse":"L’odeur d’une femme, mendiants, s’empare de l’esprit d’un homme. "
 },
+"an1.3:1.3":{
+"verse":""
+},
 "an1.4:1.0":{
 "verse":"4 "
 },
@@ -62,6 +71,9 @@
 },
 "an1.4:1.2":{
 "verse":"La saveur d’une femme, mendiants, s’empare de l’esprit d’un homme. "
+},
+"an1.4:1.3":{
+"verse":""
 },
 "an1.5:1.0":{
 "verse":"5 "
@@ -72,6 +84,9 @@
 "an1.5:1.2":{
 "verse":"Le toucher d’une femme, mendiants, s’empare de l’esprit d’un homme. "
 },
+"an1.5:1.3":{
+"verse":""
+},
 "an1.6:1.0":{
 "verse":"6 "
 },
@@ -80,6 +95,9 @@
 },
 "an1.6:1.2":{
 "verse":"La forme d’un homme, mendiants, s’empare de l’esprit d’une femme. "
+},
+"an1.6:1.3":{
+"verse":""
 },
 "an1.7:1.0":{
 "verse":"7 "
@@ -90,6 +108,9 @@
 "an1.7:1.2":{
 "verse":"Le son d’un homme, mendiants, s’empare de l’esprit d’une femme. "
 },
+"an1.7:1.3":{
+"verse":""
+},
 "an1.8:1.0":{
 "verse":"8 "
 },
@@ -98,6 +119,9 @@
 },
 "an1.8:1.2":{
 "verse":"L’odeur d’un homme, mendiants, s’empare de l’esprit d’une femme. "
+},
+"an1.8:1.3":{
+"verse":""
 },
 "an1.9:1.0":{
 "verse":"9 "
@@ -108,6 +132,9 @@
 "an1.9:1.2":{
 "verse":"La saveur d’un homme, mendiants, s’empare de l’esprit d’une femme. "
 },
+"an1.9:1.3":{
+"verse":""
+},
 "an1.10:1.0":{
 "verse":"10 "
 },
@@ -116,6 +143,12 @@
 },
 "an1.10:1.2":{
 "verse":"Le toucher d’un homme, mendiants, s’empare de l’esprit d’une femme.» "
+},
+"an1.10:1.3":{
+"verse":""
+},
+"an1.10:1.4":{
+"verse":""
 }
 }
 }
@@ -139,6 +172,9 @@
 "an1.11:1.2":{
 "verse":"Mendiants, chez celui qui porte son attention inadéquatement à un objet attrayant, le désir sensuel qui n’était pas (encore) apparu vient à apparaître, et le désir sensuel qui était (déjà) apparu augmente et devient abondant. "
 },
+"an1.11:1.3":{
+"verse":""
+},
 "an1.12:1.0":{
 "verse":"12 "
 },
@@ -147,6 +183,9 @@
 },
 "an1.12:1.2":{
 "verse":"Mendiants, chez celui qui porte son attention inadéquatement à un objet déplaisant, la malveillance qui n’était pas (encore) apparue vient à apparaître, et la malveillance qui était (déjà) apparue augmente et devient abondante. "
+},
+"an1.12:1.3":{
+"verse":""
 },
 "an1.13:1.0":{
 "verse":"13 "
@@ -157,6 +196,9 @@
 "an1.13:1.2":{
 "verse":"Mendiants, chez celui qui est mou d’esprit, la léthargie & somnolence qui n’était pas (encore) apparue vient à apparaître, et la léthargie & somnolence qui était (déjà) apparue augmente et devient abondante. "
 },
+"an1.13:1.3":{
+"verse":""
+},
 "an1.14:1.0":{
 "verse":"14 "
 },
@@ -165,6 +207,9 @@
 },
 "an1.14:1.2":{
 "verse":"Mendiants, chez celui qui a un esprit non apaisé, l’agitation mentale & préoccupation qui n’était pas (encore) apparue vient à apparaître, et l’agitation mentale & préoccupation qui était (déjà) apparue augmente et devient abondante. "
+},
+"an1.14:1.3":{
+"verse":""
 },
 "an1.15:1.0":{
 "verse":"15 "
@@ -175,6 +220,9 @@
 "an1.15:1.2":{
 "verse":"Mendiants, chez celui qui porte son attention inadéquatement, le doute qui n’était pas (encore) apparu vient à apparaître, et le doute qui était (déjà) apparu augmente et devient abondant. "
 },
+"an1.15:1.3":{
+"verse":""
+},
 "an1.16:1.0":{
 "verse":"16 "
 },
@@ -183,6 +231,9 @@
 },
 "an1.16:1.2":{
 "verse":"Mendiants, chez celui qui porte judicieusement son attention à un objet répugnant, le désir sensuel qui n’était pas (encore) apparu ne vient pas à apparaître, et le désir sensuel qui était (déjà) apparu disparaît. "
+},
+"an1.16:1.3":{
+"verse":""
 },
 "an1.17:1.0":{
 "verse":"17 "
@@ -193,6 +244,9 @@
 "an1.17:1.2":{
 "verse":"Mendiants, chez celui qui porte judicieusement son attention à la libération de l’esprit par la bienveillance, la malveillance qui n’était pas (encore) apparue ne vient pas à apparaître, et la malveillance qui était (déjà) apparue disparaît. "
 },
+"an1.17:1.3":{
+"verse":""
+},
 "an1.18:1.0":{
 "verse":"18 "
 },
@@ -201,6 +255,9 @@
 },
 "an1.18:1.2":{
 "verse":"Mendiants, chez celui qui a activé son énergie, la léthargie & somnolence qui n’était pas (encore) apparue ne vient pas à apparaître, et la léthargie & somnolence qui était (déjà) apparue disparaît. "
+},
+"an1.18:1.3":{
+"verse":""
 },
 "an1.19:1.0":{
 "verse":"19 "
@@ -211,6 +268,9 @@
 "an1.19:1.2":{
 "verse":"Mendiants, chez celui qui a un esprit apaisé, l’agitation mentale & préoccupation qui n’était pas (encore) apparue ne vient pas à apparaître, et l’agitation mentale & préoccupation qui était (déjà) apparue disparaît. "
 },
+"an1.19:1.3":{
+"verse":""
+},
 "an1.20:1.0":{
 "verse":"20 "
 },
@@ -219,6 +279,12 @@
 },
 "an1.20:1.2":{
 "verse":"Mendiants, chez celui qui porte judicieusement son attention, le doute qui n’était pas (encore) apparu ne vient pas à apparaître, et le doute qui était (déjà) apparu disparaît. "
+},
+"an1.20:1.3":{
+"verse":""
+},
+"an1.20:1.4":{
+"verse":""
 }
 }
 }
@@ -242,6 +308,9 @@
 "an1.21:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas développé, est inexploitable. "
 },
+"an1.21:1.3":{
+"verse":""
+},
 "an1.22:1.0":{
 "verse":"22 "
 },
@@ -250,6 +319,9 @@
 },
 "an1.22:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé, est malléable. "
+},
+"an1.22:1.3":{
+"verse":""
 },
 "an1.23:1.0":{
 "verse":"23 "
@@ -260,6 +332,9 @@
 "an1.23:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas développé, mène à un grand préjudice. "
 },
+"an1.23:1.3":{
+"verse":""
+},
 "an1.24:1.0":{
 "verse":"24 "
 },
@@ -268,6 +343,9 @@
 },
 "an1.24:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé, mène à un grand bienfait. "
+},
+"an1.24:1.3":{
+"verse":""
 },
 "an1.25:1.0":{
 "verse":"25 "
@@ -278,6 +356,9 @@
 "an1.25:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas développé, lorsque (ses potentiels) ne sont pas rendus manifestes, mène à un grand préjudice. "
 },
+"an1.25:1.3":{
+"verse":""
+},
 "an1.26:1.0":{
 "verse":"26 "
 },
@@ -286,6 +367,9 @@
 },
 "an1.26:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé, lorsque (ses potentiels) sont rendus manifestes, mène à un grand bienfait. "
+},
+"an1.26:1.3":{
+"verse":""
 },
 "an1.27:1.0":{
 "verse":"27 "
@@ -296,6 +380,9 @@
 "an1.27:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas développé, lorsqu’il n’est pas cultivé abondamment, mène à un grand préjudice. "
 },
+"an1.27:1.3":{
+"verse":""
+},
 "an1.28:1.0":{
 "verse":"28 "
 },
@@ -304,6 +391,9 @@
 },
 "an1.28:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé, lorsqu’il est cultivé abondamment, mène à un grand bienfait. "
+},
+"an1.28:1.3":{
+"verse":""
 },
 "an1.29:1.0":{
 "verse":"29 "
@@ -314,6 +404,9 @@
 "an1.29:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas développé, lorsqu’il n’est pas cultivé abondamment, apporte le mal-être. "
 },
+"an1.29:1.3":{
+"verse":""
+},
 "an1.30:1.0":{
 "verse":"30 "
 },
@@ -322,6 +415,12 @@
 },
 "an1.30:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé, lorsqu’il est cultivé, apporte le bien-être. "
+},
+"an1.30:1.3":{
+"verse":""
+},
+"an1.30:1.4":{
+"verse":""
 }
 }
 }
@@ -345,6 +444,9 @@
 "an1.31:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est indompté, mène à un grand préjudice. "
 },
+"an1.31:1.3":{
+"verse":""
+},
 "an1.32:1.0":{
 "verse":"32 "
 },
@@ -353,6 +455,9 @@
 },
 "an1.32:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est dompté, mène à un grand bienfait. "
+},
+"an1.32:1.3":{
+"verse":""
 },
 "an1.33:1.0":{
 "verse":"33 "
@@ -363,6 +468,9 @@
 "an1.33:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas gardé, mène à un grand préjudice. "
 },
+"an1.33:1.3":{
+"verse":""
+},
 "an1.34:1.0":{
 "verse":"34 "
 },
@@ -371,6 +479,9 @@
 },
 "an1.34:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est gardé, mène à un grand bienfait. "
+},
+"an1.34:1.3":{
+"verse":""
 },
 "an1.35:1.0":{
 "verse":"35 "
@@ -381,6 +492,9 @@
 "an1.35:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas protégé, mène à un grand préjudice. "
 },
+"an1.35:1.3":{
+"verse":""
+},
 "an1.36:1.0":{
 "verse":"36 "
 },
@@ -389,6 +503,9 @@
 },
 "an1.36:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est protégé, mène à un grand bienfait. "
+},
+"an1.36:1.3":{
+"verse":""
 },
 "an1.37:1.0":{
 "verse":"37 "
@@ -399,6 +516,9 @@
 "an1.37:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas restreint, mène à un grand préjudice. "
 },
+"an1.37:1.3":{
+"verse":""
+},
 "an1.38:1.0":{
 "verse":"38 "
 },
@@ -407,6 +527,9 @@
 },
 "an1.38:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est restreint, mène à un grand bienfait. "
+},
+"an1.38:1.3":{
+"verse":""
 },
 "an1.39:1.0":{
 "verse":"39 "
@@ -417,6 +540,9 @@
 "an1.39:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il n’est pas dompté, pas gardé, pas protégé, pas restreint, mène à un grand préjudice. "
 },
+"an1.39:1.3":{
+"verse":""
+},
 "an1.40:1.0":{
 "verse":"40 "
 },
@@ -425,6 +551,12 @@
 },
 "an1.40:1.2":{
 "verse":"L’esprit, mendiants, lorsqu’il est dompté, gardé, protégé, restreint, mène à un grand bienfait. "
+},
+"an1.40:1.3":{
+"verse":""
+},
+"an1.40:1.4":{
+"verse":""
 }
 }
 }
@@ -460,6 +592,9 @@
 "an1.41:1.6":{
 "verse":"Parce que son esprit est dirigé dans la mauvaise direction. "
 },
+"an1.41:1.7":{
+"verse":""
+},
 "an1.42:1.0":{
 "verse":"42 "
 },
@@ -481,6 +616,9 @@
 "an1.42:1.6":{
 "verse":"Parce que son esprit est dirigé dans la bonne direction. "
 },
+"an1.42:1.7":{
+"verse":""
+},
 "an1.43:1.0":{
 "verse":"43 "
 },
@@ -499,6 +637,9 @@
 "an1.43:1.5":{
 "verse":"C’est à cause de la perversion de l’esprit, mendiants, que lors de la dissolution du corps, après la mort, certains êtres réapparaissent dans une existence infortunée, une mauvaise destination, un monde inférieur, ou en enfer. "
 },
+"an1.43:1.6":{
+"verse":""
+},
 "an1.44:1.0":{
 "verse":"44 "
 },
@@ -516,6 +657,9 @@
 },
 "an1.44:1.5":{
 "verse":"C’est à cause de la sérénité de l’esprit, mendiants, que lors de la dissolution du corps, après la mort, certains êtres réapparaissent dans une bonne destination, dans un monde paradisiaque. "
+},
+"an1.44:1.6":{
+"verse":""
 },
 "an1.45:1.0":{
 "verse":"45 "
@@ -538,6 +682,9 @@
 "an1.45:1.6":{
 "verse":"À cause du caractère trouble de son esprit. "
 },
+"an1.45:1.7":{
+"verse":""
+},
 "an1.46:1.0":{
 "verse":"46 "
 },
@@ -559,6 +706,9 @@
 "an1.46:1.6":{
 "verse":"À cause de la clarté de son esprit. "
 },
+"an1.46:1.7":{
+"verse":""
+},
 "an1.47:1.0":{
 "verse":"47 "
 },
@@ -571,6 +721,9 @@
 "an1.47:1.3":{
 "verse":"L’esprit, mendiants, lorsqu’il est développé et cultivé abondamment, est malléable et exploitable. "
 },
+"an1.47:1.4":{
+"verse":""
+},
 "an1.48:1.0":{
 "verse":"48 "
 },
@@ -579,6 +732,9 @@
 },
 "an1.48:1.2":{
 "verse":"À tel point qu’il  n’est pas facile de trouver une allégorie pour illustrer la rapidité avec laquelle l’esprit se retourne. "
+},
+"an1.48:1.3":{
+"verse":""
 },
 "an1.49:1.0":{
 "verse":"49 "
@@ -589,6 +745,9 @@
 "an1.49:1.2":{
 "verse":"Mais il est souillé par des souillures étrangères. "
 },
+"an1.49:1.3":{
+"verse":""
+},
 "an1.50:1.0":{
 "verse":"50 "
 },
@@ -597,6 +756,12 @@
 },
 "an1.50:1.2":{
 "verse":"Et il est délivré des souillures étrangères. "
+},
+"an1.50:1.3":{
+"verse":""
+},
+"an1.50:1.4":{
+"verse":""
 }
 }
 }
@@ -626,6 +791,9 @@
 "an1.51:1.4":{
 "verse":"et c’est pourquoi je dis qu’il n’y a pas de développement de l’esprit pour un individu ordinaire sans instruction. "
 },
+"an1.51:1.5":{
+"verse":""
+},
 "an1.52:1.0":{
 "verse":"52 "
 },
@@ -640,6 +808,9 @@
 },
 "an1.52:1.4":{
 "verse":"et c’est pourquoi je dis qu’il y a un développement de l’esprit pour un noble disciple instruit. "
+},
+"an1.52:1.5":{
+"verse":""
 },
 "an1.53:1.0":{
 "verse":"53 "
@@ -656,6 +827,9 @@
 "an1.53:1.4":{
 "verse":"Et que dire de celui qui le cultive abondamment! "
 },
+"an1.53:1.5":{
+"verse":""
+},
 "an1.54:1.0":{
 "verse":"54 "
 },
@@ -670,6 +844,9 @@
 },
 "an1.54:1.4":{
 "verse":"Et que dire de celui qui le cultive abondamment! "
+},
+"an1.54:1.5":{
+"verse":""
 },
 "an1.55:1.0":{
 "verse":"55 "
@@ -686,6 +863,9 @@
 "an1.55:1.4":{
 "verse":"Et que dire de celui qui le cultive abondamment! "
 },
+"an1.55:1.5":{
+"verse":""
+},
 "an1.56:1.0":{
 "verse":"56 "
 },
@@ -694,6 +874,9 @@
 },
 "an1.56:1.2":{
 "verse":"Le mental apparaît en premier, suivi des états désavantageux. "
+},
+"an1.56:1.3":{
+"verse":""
 },
 "an1.57:1.0":{
 "verse":"57 "
@@ -704,6 +887,9 @@
 "an1.57:1.2":{
 "verse":"Le mental apparaît en premier, suivi des états avantageux. "
 },
+"an1.57:1.3":{
+"verse":""
+},
 "an1.58:1.0":{
 "verse":"58 "
 },
@@ -712,6 +898,9 @@
 },
 "an1.58:1.2":{
 "verse":"Chez celui qui est négligent, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.58:1.3":{
+"verse":""
 },
 "an1.59:1.0":{
 "verse":"59 "
@@ -722,6 +911,9 @@
 "an1.59:1.2":{
 "verse":"Chez celui qui est assidu, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.59:1.3":{
+"verse":""
+},
 "an1.60:1.0":{
 "verse":"60 "
 },
@@ -730,6 +922,12 @@
 },
 "an1.60:1.2":{
 "verse":"Chez celui qui est paresseux, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.60:1.3":{
+"verse":""
+},
+"an1.60:1.4":{
+"verse":""
 }
 }
 }
@@ -753,6 +951,9 @@
 "an1.61:1.2":{
 "verse":"Chez celui qui a activé son énergie, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.61:1.3":{
+"verse":""
+},
 "an1.62:1.0":{
 "verse":"62 "
 },
@@ -761,6 +962,9 @@
 },
 "an1.62:1.2":{
 "verse":"Chez celui qui a de grands désirs, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.62:1.3":{
+"verse":""
 },
 "an1.63:1.0":{
 "verse":"63 "
@@ -771,6 +975,9 @@
 "an1.63:1.2":{
 "verse":"Chez celui qui a peu de désirs, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.63:1.3":{
+"verse":""
+},
 "an1.64:1.0":{
 "verse":"64 "
 },
@@ -779,6 +986,9 @@
 },
 "an1.64:1.2":{
 "verse":"Chez celui qui est insatisfait (avec ce qu’il a), mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.64:1.3":{
+"verse":""
 },
 "an1.65:1.0":{
 "verse":"65 "
@@ -789,6 +999,9 @@
 "an1.65:1.2":{
 "verse":"Chez celui qui est satisfait (avec ce qu’il a), mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.65:1.3":{
+"verse":""
+},
 "an1.66:1.0":{
 "verse":"66 "
 },
@@ -797,6 +1010,9 @@
 },
 "an1.66:1.2":{
 "verse":"Chez celui qui porte son attention inadéquatement, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.66:1.3":{
+"verse":""
 },
 "an1.67:1.0":{
 "verse":"67 "
@@ -807,6 +1023,9 @@
 "an1.67:1.2":{
 "verse":"Chez celui qui porte judicieusement son attention, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.67:1.3":{
+"verse":""
+},
 "an1.68:1.0":{
 "verse":"68 "
 },
@@ -815,6 +1034,9 @@
 },
 "an1.68:1.2":{
 "verse":"Chez celui qui manque de discernement attentif, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.68:1.3":{
+"verse":""
 },
 "an1.69:1.0":{
 "verse":"69 "
@@ -825,6 +1047,9 @@
 "an1.69:1.2":{
 "verse":"Chez celui qui a un discernement attentif, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.69:1.3":{
+"verse":""
+},
 "an1.70:1.0":{
 "verse":"70 "
 },
@@ -833,6 +1058,12 @@
 },
 "an1.70:1.2":{
 "verse":"Chez celui qui a des amis malsains, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.70:1.3":{
+"verse":""
+},
+"an1.70:1.4":{
+"verse":""
 }
 }
 }
@@ -856,6 +1087,9 @@
 "an1.71:1.2":{
 "verse":"Chez celui qui a une amitié bénéfique, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.71:1.3":{
+"verse":""
+},
 "an1.72:1.0":{
 "verse":"72 "
 },
@@ -864,6 +1098,9 @@
 },
 "an1.72:1.2":{
 "verse":"Chez celui qui poursuit les états désavantageux et ne poursuit pas les états avantageux, mendiants, les états désavantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états avantageux qui étaient (déjà) apparus viennent à disparaître. "
+},
+"an1.72:1.3":{
+"verse":""
 },
 "an1.73:1.0":{
 "verse":"73 "
@@ -874,6 +1111,9 @@
 "an1.73:1.2":{
 "verse":"Chez celui qui poursuit les états avantageux et ne poursuit pas les états désavantageux, mendiants, les états avantageux qui n’étaient pas (encore) apparus viennent à apparaître et les états désavantageux qui étaient (déjà) apparus viennent à disparaître. "
 },
+"an1.73:1.3":{
+"verse":""
+},
 "an1.74:1.0":{
 "verse":"74 "
 },
@@ -882,6 +1122,9 @@
 },
 "an1.74:1.2":{
 "verse":"Chez celui qui porte son attention inadéquatement, mendiants, les facteurs d’éveil qui n’étaient pas (encore) apparus ne viennent pas à apparaître, et les facteurs d’éveil qui étaient (déjà) apparus ne vont pas à la complétude de leur développement. "
+},
+"an1.74:1.3":{
+"verse":""
 },
 "an1.75:1.0":{
 "verse":"75 "
@@ -892,6 +1135,9 @@
 "an1.75:1.2":{
 "verse":"Chez celui qui porte judicieusement son attention, mendiants, les facteurs d’éveil qui n’étaient pas (encore) apparus viennent à apparaître, et les facteurs d’éveil qui étaient (déjà) apparus vont à la complétude de leur développement. "
 },
+"an1.75:1.3":{
+"verse":""
+},
 "an1.76:1.0":{
 "verse":"76 "
 },
@@ -900,6 +1146,9 @@
 },
 "an1.76:1.2":{
 "verse":"Ceci, mendiants, est la pire des pertes : la perte de discernement. "
+},
+"an1.76:1.3":{
+"verse":""
 },
 "an1.77:1.0":{
 "verse":"77 "
@@ -919,6 +1168,9 @@
 "an1.77:1.5":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
 },
+"an1.77:1.6":{
+"verse":""
+},
 "an1.78:1.0":{
 "verse":"78 "
 },
@@ -927,6 +1179,9 @@
 },
 "an1.78:1.2":{
 "verse":"Ceci, mendiants, est la pire des pertes : la perte de discernement. "
+},
+"an1.78:1.3":{
+"verse":""
 },
 "an1.79:1.0":{
 "verse":"79 "
@@ -946,6 +1201,9 @@
 "an1.79:1.5":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
 },
+"an1.79:1.6":{
+"verse":""
+},
 "an1.80:1.0":{
 "verse":"80 "
 },
@@ -954,6 +1212,9 @@
 },
 "an1.80:1.2":{
 "verse":"Ceci, mendiants, est la pire des pertes : la perte de discernement. "
+},
+"an1.80:1.3":{
+"verse":""
 },
 "an1.81:1.0":{
 "verse":"81 "
@@ -972,6 +1233,12 @@
 },
 "an1.81:1.5":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an1.81:1.6":{
+"verse":""
+},
+"an1.81:1.7":{
+"verse":""
 }
 }
 }
@@ -995,6 +1262,9 @@
 "an1.82:1.2":{
 "verse":"La négligence, mendiants, mène à un grand préjudice. "
 },
+"an1.82:1.3":{
+"verse":""
+},
 "an1.83:1.0":{
 "verse":"83 "
 },
@@ -1003,6 +1273,9 @@
 },
 "an1.83:1.2":{
 "verse":"L’assiduité, mendiants, mène à un grand bienfait. "
+},
+"an1.83:1.3":{
+"verse":""
 },
 "an1.84:1.0":{
 "verse":"84 "
@@ -1013,6 +1286,9 @@
 "an1.84:1.2":{
 "verse":"La paresse, mendiants, mène à un grand préjudice. "
 },
+"an1.84:1.3":{
+"verse":""
+},
 "an1.85:1.0":{
 "verse":"85 "
 },
@@ -1021,6 +1297,9 @@
 },
 "an1.85:1.2":{
 "verse":"L’activation de l’énergie, mendiants, mène à un grand bienfait. "
+},
+"an1.85:1.3":{
+"verse":""
 },
 "an1.86:1.0":{
 "verse":"86 "
@@ -1031,6 +1310,9 @@
 "an1.86:1.2":{
 "verse":"Avoir des désirs impérieux, mendiants, mène à un grand préjudice. "
 },
+"an1.86:1.3":{
+"verse":""
+},
 "an1.87:1.0":{
 "verse":"87 "
 },
@@ -1039,6 +1321,9 @@
 },
 "an1.87:1.2":{
 "verse":"Avoir peu de désirs, mendiants, mène à un grand bienfait. "
+},
+"an1.87:1.3":{
+"verse":""
 },
 "an1.88:1.0":{
 "verse":"88 "
@@ -1049,6 +1334,9 @@
 "an1.88:1.2":{
 "verse":"L’insatisfaction (avec ce qu’on a), mendiants, mène à un grand préjudice. "
 },
+"an1.88:1.3":{
+"verse":""
+},
 "an1.89:1.0":{
 "verse":"89 "
 },
@@ -1057,6 +1345,9 @@
 },
 "an1.89:1.2":{
 "verse":"La satisfaction (avec ce qu’on a), mendiants, mène à un grand bienfait. "
+},
+"an1.89:1.3":{
+"verse":""
 },
 "an1.90:1.0":{
 "verse":"90 "
@@ -1067,6 +1358,9 @@
 "an1.90:1.2":{
 "verse":"L’attention inadéquate, mendiants, mène à un grand préjudice. "
 },
+"an1.90:1.3":{
+"verse":""
+},
 "an1.91:1.0":{
 "verse":"91 "
 },
@@ -1075,6 +1369,9 @@
 },
 "an1.91:1.2":{
 "verse":"L’attention judicieuse, mendiants, mène à un grand bienfait. "
+},
+"an1.91:1.3":{
+"verse":""
 },
 "an1.92:1.0":{
 "verse":"92 "
@@ -1085,6 +1382,9 @@
 "an1.92:1.2":{
 "verse":"Le manque de discernement attentif, mendiants, mène à un grand préjudice. "
 },
+"an1.92:1.3":{
+"verse":""
+},
 "an1.93:1.0":{
 "verse":"93 "
 },
@@ -1093,6 +1393,9 @@
 },
 "an1.93:1.2":{
 "verse":"Le discernement attentif, mendiants, mène à un grand bienfait. "
+},
+"an1.93:1.3":{
+"verse":""
 },
 "an1.94:1.0":{
 "verse":"94 "
@@ -1103,6 +1406,9 @@
 "an1.94:1.2":{
 "verse":"Une amitié malsaine, mendiants, mène à un grand préjudice. "
 },
+"an1.94:1.3":{
+"verse":""
+},
 "an1.95:1.0":{
 "verse":"95 "
 },
@@ -1111,6 +1417,9 @@
 },
 "an1.95:1.2":{
 "verse":"Une amitié bénéfique, mendiants, mène à un grand bienfait. "
+},
+"an1.95:1.3":{
+"verse":""
 },
 "an1.96:1.0":{
 "verse":"96 "
@@ -1121,6 +1430,9 @@
 "an1.96:1.2":{
 "verse":"La poursuite des états désavantageux et la non-poursuite des états avantageux, mendiants, mènent à un grand préjudice. "
 },
+"an1.96:1.3":{
+"verse":""
+},
 "an1.97:1.0":{
 "verse":"97 "
 },
@@ -1129,6 +1441,12 @@
 },
 "an1.97:1.2":{
 "verse":"La poursuite des états avantageux et la non-poursuite des états désavantageux, mendiants, mènent à un grand bienfait. "
+},
+"an1.97:1.3":{
+"verse":""
+},
+"an1.97:1.4":{
+"verse":""
 }
 }
 }
@@ -1152,6 +1470,9 @@
 "an1.98:1.2":{
 "verse":"La négligence, mendiants, mène à un grand préjudice. "
 },
+"an1.98:1.3":{
+"verse":""
+},
 "an1.99:1.0":{
 "verse":"99 "
 },
@@ -1160,6 +1481,9 @@
 },
 "an1.99:1.2":{
 "verse":"L’assiduité, mendiants, mène à un grand bienfait. "
+},
+"an1.99:1.3":{
+"verse":""
 },
 "an1.100:1.0":{
 "verse":"100 "
@@ -1170,6 +1494,9 @@
 "an1.100:1.2":{
 "verse":"La paresse, mendiants, mène à un grand préjudice. "
 },
+"an1.100:1.3":{
+"verse":""
+},
 "an1.101:1.0":{
 "verse":"101 "
 },
@@ -1178,6 +1505,9 @@
 },
 "an1.101:1.2":{
 "verse":"L’activation de l’énergie, mendiants, mène à un grand bienfait. "
+},
+"an1.101:1.3":{
+"verse":""
 },
 "an1.102-109:1.0":{
 "verse":"102–109 "
@@ -1194,6 +1524,9 @@
 "an1.110:1.2":{
 "verse":"Une amitié malsaine, mendiants, mène à un grand préjudice. "
 },
+"an1.110:1.3":{
+"verse":""
+},
 "an1.111:1.0":{
 "verse":"111 "
 },
@@ -1202,6 +1535,9 @@
 },
 "an1.111:1.2":{
 "verse":"Une amitié bénéfique, mendiants, mène à un grand bienfait. "
+},
+"an1.111:1.3":{
+"verse":""
 },
 "an1.112:1.0":{
 "verse":"112 "
@@ -1212,6 +1548,9 @@
 "an1.112:1.2":{
 "verse":"La poursuite des états désavantageux et la non-poursuite des états avantageux, mendiants, mènent à un grand préjudice. "
 },
+"an1.112:1.3":{
+"verse":""
+},
 "an1.113:1.0":{
 "verse":"113 "
 },
@@ -1220,6 +1559,9 @@
 },
 "an1.113:1.2":{
 "verse":"La poursuite des états avantageux et la non-poursuite des états désavantageux, mendiants, mènent à un grand bienfait. "
+},
+"an1.113:1.3":{
+"verse":""
 },
 "an1.114:1.0":{
 "verse":"114 "
@@ -1230,6 +1572,9 @@
 "an1.114:1.2":{
 "verse":"La négligence, mendiants, mène à la dissipation et la disparition du Dhamma authentique. "
 },
+"an1.114:1.3":{
+"verse":""
+},
 "an1.115:1.0":{
 "verse":"115 "
 },
@@ -1238,6 +1583,9 @@
 },
 "an1.115:1.2":{
 "verse":"L’assiduité, mendiants, mène au maintien, à la non-dissipation et la non-disparition du Dhamma authentique. "
+},
+"an1.115:1.3":{
+"verse":""
 },
 "an1.116:1.0":{
 "verse":"116 "
@@ -1248,6 +1596,9 @@
 "an1.116:1.2":{
 "verse":"La paresse, mendiants, mène à la dissipation et la disparition du Dhamma authentique. "
 },
+"an1.116:1.3":{
+"verse":""
+},
 "an1.117:1.0":{
 "verse":"117 "
 },
@@ -1256,6 +1607,9 @@
 },
 "an1.117:1.2":{
 "verse":"L’activation de l’énergie, mendiants, mène au maintien, à la non-dissipation et la non-disparition du Dhamma authentique. "
+},
+"an1.117:1.3":{
+"verse":""
 },
 "an1.118-128:1.0":{
 "verse":"118–128 "
@@ -1266,6 +1620,9 @@
 "an1.118-128:1.2":{
 "verse":"La poursuite des états désavantageux et la non-poursuite des états avantageux, mendiants, mènent à la dissipation et la disparition du Dhamma authentique. "
 },
+"an1.118-128:1.3":{
+"verse":""
+},
 "an1.129:1.0":{
 "verse":"129 "
 },
@@ -1274,6 +1631,12 @@
 },
 "an1.129:1.2":{
 "verse":"La poursuite des états avantageux et la non-poursuite des états désavantageux, mendiants, mènent au maintien, à la non-dissipation et la non-disparition du Dhamma authentique. "
+},
+"an1.129:1.3":{
+"verse":""
+},
+"an1.129:1.4":{
+"verse":""
 },
 "an1.130:1.0":{
 "verse":"130 "
@@ -1284,6 +1647,9 @@
 "an1.130:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
 },
+"an1.130:1.3":{
+"verse":""
+},
 "an1.131:1.0":{
 "verse":"131 "
 },
@@ -1292,6 +1658,9 @@
 },
 "an1.131:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
+},
+"an1.131:1.3":{
+"verse":""
 },
 "an1.132-139:1.0":{
 "verse":"132–139 "
@@ -1304,6 +1673,12 @@
 },
 "an1.132-139:1.3":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
+},
+"an1.132-139:1.4":{
+"verse":""
+},
+"an1.132-139:1.5":{
+"verse":""
 }
 }
 }
@@ -1327,6 +1702,9 @@
 "an1.140:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
 },
+"an1.140:1.3":{
+"verse":""
+},
 "an1.141:1.0":{
 "verse":"141 "
 },
@@ -1335,6 +1713,9 @@
 },
 "an1.141:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
+},
+"an1.141:1.3":{
+"verse":""
 },
 "an1.142-149:1.0":{
 "verse":"142–149 "
@@ -1347,6 +1728,12 @@
 },
 "an1.142-149:1.3":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
+},
+"an1.142-149:1.4":{
+"verse":""
+},
+"an1.142-149:1.5":{
+"verse":""
 }
 }
 }
@@ -1370,6 +1757,9 @@
 "an1.150:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
 },
+"an1.150:1.3":{
+"verse":""
+},
 "an1.151:1.0":{
 "verse":"151 "
 },
@@ -1378,6 +1768,9 @@
 },
 "an1.151:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
+},
+"an1.151:1.3":{
+"verse":""
 },
 "an1.152-159:1.0":{
 "verse":"152–159 "
@@ -1388,6 +1781,9 @@
 "an1.152-159:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de démérite et font disparaître ce Dhamma authentique. "
 },
+"an1.152-159:1.3":{
+"verse":""
+},
 "an1.160:1.0":{
 "verse":"160 "
 },
@@ -1397,6 +1793,9 @@
 "an1.160:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
 },
+"an1.160:1.3":{
+"verse":""
+},
 "an1.161:1.0":{
 "verse":"161 "
 },
@@ -1405,6 +1804,9 @@
 },
 "an1.161:1.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
+},
+"an1.161:1.3":{
+"verse":""
 },
 "an1.162-169:1.0":{
 "verse":"162–169 "
@@ -1417,6 +1819,12 @@
 },
 "an1.162-169:1.3":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
+},
+"an1.162-169:1.4":{
+"verse":""
+},
+"an1.162-169:1.5":{
+"verse":""
 }
 }
 }
@@ -1529,6 +1937,9 @@
 },
 "an1.187:1.2":{
 "verse":"Mendiants, Saripoutta maintient correctement en mouvement la suprême roue du Dhamma mise en mouvement par le Tathagata. "
+},
+"an1.187:1.3":{
+"verse":""
 }
 }
 }
@@ -1572,6 +1983,9 @@
 },
 "an1.197:1.1":{
 "verse":"197. Mendiants, le plus distingué parmi mes disciples mendiants en ce qui concerne l’explication en détail de la signification de ce qui a été déclaré en bref est Mahakatchana. "
+},
+"an1.197:1.2":{
+"verse":""
 }
 }
 }
@@ -1618,6 +2032,9 @@
 },
 "an1.208:1.1":{
 "verse":"208. Mendiants, le plus distingué parmi mes disciples mendiants résolus par conviction est Vakkali. "
+},
+"an1.208:1.2":{
+"verse":""
 }
 }
 }
@@ -1661,6 +2078,9 @@
 },
 "an1.218:1.1":{
 "verse":"218. Mendiants, le plus distingué parmi mes disciples mendiants ayant atteint les connaissances analytiques est Mahakotthita. "
+},
+"an1.218:1.2":{
+"verse":""
 }
 }
 }
@@ -1722,6 +2142,9 @@
 },
 "an1.234:1.1":{
 "verse":"234. Mendiants, le plus distingué parmi mes disciples mendiants portant des robes frustes est Mogharaja. "
+},
+"an1.234:1.2":{
+"verse":""
 }
 }
 }
@@ -1774,6 +2197,9 @@
 },
 "an1.247:1.1":{
 "verse":"247. Mendiants, la plus distinguée parmi mes disciples mendiantes résolues par conviction est Singalakamata. "
+},
+"an1.247:1.2":{
+"verse":""
 }
 }
 }
@@ -1817,6 +2243,9 @@
 },
 "an1.257:1.1":{
 "verse":"257. Mendiants, le plus distingué parmi mes disciples laïcs dignes de confiance est le maître de maison Nakoulapita. "
+},
+"an1.257:1.2":{
+"verse":""
 }
 }
 }
@@ -1860,6 +2289,12 @@
 },
 "an1.267:1.1":{
 "verse":"267. Mendiants, la plus distinguée parmi mes disciples laïques (gagnant) confiance par ce qu’elles entendent est la disciple Kali de Koulaghara. "
+},
+"an1.267:1.2":{
+"verse":""
+},
+"an1.267:1.3":{
+"verse":""
 }
 }
 }
@@ -1963,6 +2398,9 @@
 },
 "an1.277:1.2":{
 "verse":"Mais il est possible, mendiants, qu’un seul arahant véritablement éveillé apparaisse dans un système-monde. Cela est possible. "
+},
+"an1.277:1.3":{
+"verse":""
 }
 }
 }
@@ -1976,6 +2414,42 @@
 },
 "an1.278:0.2":{
 "verse":"Deuxième groupe "
+},
+"an1.278:1.0":{
+"verse":""
+},
+"an1.278:1.1":{
+"verse":""
+},
+"an1.278:1.2":{
+"verse":""
+},
+"an1.279:1.0":{
+"verse":""
+},
+"an1.279:1.1":{
+"verse":""
+},
+"an1.279:1.2":{
+"verse":""
+},
+"an1.280:1.0":{
+"verse":""
+},
+"an1.280:1.1":{
+"verse":""
+},
+"an1.280:1.2":{
+"verse":""
+},
+"an1.281-283:1.0":{
+"verse":""
+},
+"an1.281-283:1.1":{
+"verse":""
+},
+"an1.281-283:1.2":{
+"verse":""
 },
 "an1.284:1.0":{
 "verse":"284 "
@@ -1994,6 +2468,9 @@
 },
 "an1.285-286:1.2":{
 "verse":"Mais il est possible, mendiants, qu’une méconduite mentale produise un résultat regrettable, indésirable et déplaisant. Cela est possible. "
+},
+"an1.285-286:1.3":{
+"verse":""
 }
 }
 }
@@ -2061,6 +2538,12 @@
 },
 "an1.294-295:1.2":{
 "verse":"Mais il est possible, mendiants, que celui qui est pourvu d’une bonne conduite mentale, lors de la dissolution du corps, après la mort, réapparaisse, à cause de cela, en raison de cela, dans une bonne destination, dans un monde paradisiaque. Cela est possible. "
+},
+"an1.294-295:1.3":{
+"verse":""
+},
+"an1.294-295:1.4":{
+"verse":""
 }
 }
 }
@@ -2104,6 +2587,9 @@
 },
 "an1.297-305:1.4":{
 "verse":"Voici, mendiants, quelle est cette chose qui, lorsqu’elle est développée et cultivée abondamment, mène uniquement au désenchantement, au désintéressement, à la cessation, à la quiétude, à la connaissance directe, à l’éveil, à l’Extinction. "
+},
+"an1.297-305:1.5":{
+"verse":""
 }
 }
 }
@@ -2249,6 +2735,9 @@
 },
 "an1.315:1.9":{
 "verse":"Parce que cette vue, mendiants, est bonne. "
+},
+"an1.315:1.10":{
+"verse":""
 }
 }
 }
@@ -2433,6 +2922,9 @@
 },
 "an1.329:1.2":{
 "verse":"de la même manière, je ne recommande pas une toute petite quantité d’existence, ne serait-ce que pour une fraction de seconde. "
+},
+"an1.329:1.3":{
+"verse":""
 }
 }
 }
@@ -2570,6 +3062,12 @@
 "an1.346:1.0":{
 "verse":"346 "
 },
+"an1.346:1.1":{
+"verse":""
+},
+"an1.346:1.2":{
+"verse":""
+},
 "an1.347:1.0":{
 "verse":"347 "
 },
@@ -2680,6 +3178,12 @@
 },
 "an1.375-377:1.2":{
 "verse":"mais il y a beaucoup plus d’êtres qui, lorsqu’ils trépassent après une existence parmi les esprits affligés, renaissent en enfer (…) renaissent dans le sein animal (…) renaissent dans le plan d’existence des esprits affligés. "
+},
+"an1.375-377:1.3":{
+"verse":""
+},
+"an1.375-377:1.4":{
+"verse":""
 }
 }
 }
@@ -2721,6 +3225,12 @@
 "an1.386:1.1":{
 "verse":"386. Véritablement, mendiants, ceci est une acquisition : être bien présenté. "
 },
+"an1.387:1.1":{
+"verse":""
+},
+"an1.388:1.1":{
+"verse":""
+},
 "an1.389:1.1":{
 "verse":"389. Véritablement, mendiants, ceci est une acquisition : être d’une bonne famille. "
 },
@@ -2735,6 +3245,9 @@
 },
 "an1.393:1.1":{
 "verse":"393. Véritablement, mendiants, ceci est une acquisition : être en bonne santé. "
+},
+"an1.393:1.2":{
+"verse":""
 }
 }
 }
@@ -2929,6 +3442,9 @@
 "an1.439:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
 },
+"an1.439:1.4":{
+"verse":""
+},
 "an1.440:1.1":{
 "verse":"percevant les formes intérieurement, voit des formes extérieurement, sans limite, belles ou laides, "
 },
@@ -2937,6 +3453,9 @@
 },
 "an1.440:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
+},
+"an1.440:1.4":{
+"verse":""
 },
 "an1.441:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, limitées, belles ou laides, "
@@ -2947,6 +3466,9 @@
 "an1.441:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
 },
+"an1.441:1.4":{
+"verse":""
+},
 "an1.442:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, sans limite, belles ou laides, "
 },
@@ -2955,6 +3477,9 @@
 },
 "an1.442:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
+},
+"an1.442:1.4":{
+"verse":""
 },
 "an1.443:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, bleues, de couleur bleue, de teinte bleue, de tonalité bleue, "
@@ -2965,6 +3490,9 @@
 "an1.443:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
 },
+"an1.443:1.4":{
+"verse":""
+},
 "an1.444:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, jaunes, de couleur jaune, de teinte jaune, de tonalité jaune, "
 },
@@ -2973,6 +3501,9 @@
 },
 "an1.444:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
+},
+"an1.444:1.4":{
+"verse":""
 },
 "an1.445:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, rouges, de couleur rouge, de teinte rouge, de tonalité rouge, "
@@ -2983,6 +3514,9 @@
 "an1.445:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
 },
+"an1.445:1.4":{
+"verse":""
+},
 "an1.446:1.1":{
 "verse":"ne percevant pas les formes intérieurement, voit des formes extérieurement, blanches, de couleur blanche, de teinte blanche, de tonalité blanche, "
 },
@@ -2991,6 +3525,9 @@
 },
 "an1.446:1.3":{
 "verse":"perçoit : «Je sais, je vois» (…) "
+},
+"an1.446:1.4":{
+"verse":""
 },
 "an1.447:1.0":{
 "verse":"447–454 "
@@ -3240,6 +3777,9 @@
 },
 "an1.574:2.3":{
 "verse":"Et que dire de ceux qui la cultivent abondamment ! "
+},
+"an1.574:2.4":{
+"verse":""
 }
 }
 }
@@ -3397,6 +3937,9 @@
 },
 "an1.600-615:1.4":{
 "verse":"Mendiants, cet état, lorsqu’il est développé et cultivé abondamment, mène à l’acquisition de discernement (…) au gain de discernement (…) à une abondance de discernement (…) à la grandeur du discernement (…) à la diversité du discernement (…) à la vastitude du discernement (…) à la profondeur du discernement (…) à un état de suprême discernement (…) à la profusion du discernement (…) à la luxuriance du discernement (…) à la promptitude du discernement (…) à la vivacité du discernement (…) à la joyeuseté du discernement (…) à la rapidité du discernement (…) à l’acuité du discernement (…) à la pénétration du discernement. "
+},
+"an1.600-615:1.5":{
+"verse":""
 }
 }
 }
@@ -3519,11 +4062,20 @@
 "an1.627:1.2":{
 "verse":"Ils ont réalisé le Sans-Mort, mendiants, ceux qui ont réalisé la présence d’esprit dirigée vers le corps. "
 },
+"an1.627:1.3":{
+"verse":""
+},
 "an1.627:2.1":{
 "verse":"Ainsi parla le Fortuné. "
 },
 "an1.627:2.2":{
 "verse":"Ravis, les mendiants apprécièrent ses paroles. "
+},
+"an1.627:2.3":{
+"verse":""
+},
+"an1.627:2.4":{
+"verse":""
 }
 }
 }
@@ -3634,6 +4186,9 @@
 "an2.1:4.12":{
 "verse":"On peut attendre ce celui qui est effrayé par les fautes, qui voit le danger dans les fautes, qu’il sera délivré de toutes les fautes.» "
 },
+"an2.1:4.13":{
+"verse":""
+},
 "an2.2:1.0":{
 "verse":"2. L'Effort "
 },
@@ -3660,6 +4215,9 @@
 },
 "an2.2:2.4":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an2.2:2.5":{
+"verse":""
 },
 "an2.3:1.0":{
 "verse":"3. Mortifiants "
@@ -3691,6 +4249,9 @@
 "an2.3:1.9":{
 "verse":"Voici, mendiants, quels sont ces deux états mortifiants. "
 },
+"an2.3:1.10":{
+"verse":""
+},
 "an2.4:1.0":{
 "verse":"4. Non Mortifiants "
 },
@@ -3720,6 +4281,9 @@
 },
 "an2.4:1.9":{
 "verse":"Voici, mendiants, quels sont ces deux états non mortifiants. "
+},
+"an2.4:1.10":{
+"verse":""
 },
 "an2.5:1.0":{
 "verse":"5. Apprises "
@@ -3760,6 +4324,9 @@
 "an2.5:1.12":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
 },
+"an2.5:1.13":{
+"verse":""
+},
 "an2.6:1.0":{
 "verse":"6. Les Entraves Spirituelles "
 },
@@ -3793,6 +4360,9 @@
 "an2.6:2.4":{
 "verse":"Voici, mendiants, quels sont ces deux états. "
 },
+"an2.6:2.5":{
+"verse":""
+},
 "an2.7:1.0":{
 "verse":"7. Sombres "
 },
@@ -3808,6 +4378,9 @@
 "an2.7:1.4":{
 "verse":"Voici quels sont ces deux états sombres. "
 },
+"an2.7:1.5":{
+"verse":""
+},
 "an2.8:1.0":{
 "verse":"8. Lumineux "
 },
@@ -3822,6 +4395,9 @@
 },
 "an2.8:1.4":{
 "verse":"Voici quels sont ces deux états lumineux. "
+},
+"an2.8:1.5":{
+"verse":""
 },
 "an2.9:1.0":{
 "verse":"9. La Conduite "
@@ -3844,6 +4420,9 @@
 "an2.9:1.6":{
 "verse":"Mais c’est parce que ces deux états lumineux protègent le monde qu’on pratique ici (la restreinte par rapport à) la mère, la sœur de la mère, la femme de l’oncle, la femme de l’enseignant, et la femme du maître. "
 },
+"an2.9:1.7":{
+"verse":""
+},
 "an2.10:1.0":{
 "verse":"10. L’Entrée Dans La Résidence Des Pluies "
 },
@@ -3858,6 +4437,27 @@
 },
 "an2.10:1.4":{
 "verse":"Voici, mendiants, quelles sont ces deux entrées dans la résidence des pluies. "
+},
+"an2.10:1.5":{
+"verse":""
+},
+"an2.10:1.6":{
+"verse":""
+},
+"an2.10:2.0":{
+"verse":""
+},
+"an2.10:2.1":{
+"verse":""
+},
+"an2.10:2.2":{
+"verse":""
+},
+"an2.10:2.3":{
+"verse":""
+},
+"an2.10:2.4":{
+"verse":""
 }
 }
 }
@@ -4036,6 +4636,99 @@
 },
 "an2.14:1.4":{
 "verse":"Voici, mendiants, quelles sont ces deux manières d’enseigner le Dhamma dont le Tathagata fait usage. "
+},
+"an2.15:1.0":{
+"verse":""
+},
+"an2.15:1.1":{
+"verse":""
+},
+"an2.15:1.2":{
+"verse":""
+},
+"an2.15:1.3":{
+"verse":""
+},
+"an2.15:1.4":{
+"verse":""
+},
+"an2.15:2.1":{
+"verse":""
+},
+"an2.15:2.2":{
+"verse":""
+},
+"an2.15:2.3":{
+"verse":""
+},
+"an2.15:2.4":{
+"verse":""
+},
+"an2.15:2.5":{
+"verse":""
+},
+"an2.15:2.6":{
+"verse":""
+},
+"an2.15:2.7":{
+"verse":""
+},
+"an2.15:2.8":{
+"verse":""
+},
+"an2.15:2.9":{
+"verse":""
+},
+"an2.15:2.10":{
+"verse":""
+},
+"an2.15:2.11":{
+"verse":""
+},
+"an2.15:2.12":{
+"verse":""
+},
+"an2.15:3.1":{
+"verse":""
+},
+"an2.15:3.2":{
+"verse":""
+},
+"an2.15:3.3":{
+"verse":""
+},
+"an2.15:3.4":{
+"verse":""
+},
+"an2.15:3.5":{
+"verse":""
+},
+"an2.15:3.6":{
+"verse":""
+},
+"an2.15:3.7":{
+"verse":""
+},
+"an2.15:3.8":{
+"verse":""
+},
+"an2.15:3.9":{
+"verse":""
+},
+"an2.15:3.10":{
+"verse":""
+},
+"an2.15:3.11":{
+"verse":""
+},
+"an2.15:3.12":{
+"verse":""
+},
+"an2.15:4.1":{
+"verse":""
+},
+"an2.15:4.2":{
+"verse":""
 },
 "an2.16:1.0":{
 "verse":"16 "
@@ -4294,6 +4987,9 @@
 },
 "an2.20:2.5":{
 "verse":"Voici, mendiants, quelles sont les deux choses qui mènent au maintien, à la non-dissipation et la non-disparition du Dhamma authentique. "
+},
+"an2.20:2.6":{
+"verse":""
 }
 }
 }
@@ -4309,6 +5005,30 @@
 "verse":"Le chapitre du Sot "
 },
 "an2.21:1.0":{
+"verse":""
+},
+"an2.21:1.1":{
+"verse":""
+},
+"an2.21:1.2":{
+"verse":""
+},
+"an2.21:1.3":{
+"verse":""
+},
+"an2.21:1.4":{
+"verse":""
+},
+"an2.21:2.1":{
+"verse":""
+},
+"an2.21:2.2":{
+"verse":""
+},
+"an2.21:2.3":{
+"verse":""
+},
+"an2.21:2.4":{
 "verse":""
 },
 "an2.22:1.0":{
@@ -4487,6 +5207,9 @@
 },
 "an2.31:1.13":{
 "verse":"Ainsi, avec la disparition de l’avidité, il y a la libération de l’esprit, et avec la disparition de l’ignorance, il y a la libération par le discernement. "
+},
+"an2.31:1.14":{
+"verse":""
 }
 }
 }
@@ -4566,6 +5289,243 @@
 },
 "an2.33:1.9":{
 "verse":"Mais celui, mendiants, qui dans la mesure où si ses parents sont dénués de conviction, il les exhorte, les installe et les établit dans la conviction, s’ils manquent de vertu, il les exhorte, les installe et les établit dans la vertu, s’ils sont avares, il les exhorte, les installe et les établit dans la générosité, s’ils manquent de discernement, il les exhorte, les installe et les établit dans le discernement, celui-là rend la pareille à ses parents et leur retourne la faveur. "
+},
+"an2.34:1.0":{
+"verse":""
+},
+"an2.34:1.1":{
+"verse":""
+},
+"an2.34:1.2":{
+"verse":""
+},
+"an2.34:1.3":{
+"verse":""
+},
+"an2.34:1.4":{
+"verse":""
+},
+"an2.34:2.1":{
+"verse":""
+},
+"an2.34:2.2":{
+"verse":""
+},
+"an2.34:2.3":{
+"verse":""
+},
+"an2.34:3.1":{
+"verse":""
+},
+"an2.35:1.0":{
+"verse":""
+},
+"an2.35:1.1":{
+"verse":""
+},
+"an2.35:1.2":{
+"verse":""
+},
+"an2.35:1.3":{
+"verse":""
+},
+"an2.35:1.4":{
+"verse":""
+},
+"an2.35:1.5":{
+"verse":""
+},
+"an2.35:2.1":{
+"verse":""
+},
+"an2.35:2.2":{
+"verse":""
+},
+"an2.35:3.1":{
+"verse":""
+},
+"an2.35:3.2":{
+"verse":""
+},
+"an2.35:3.3":{
+"verse":""
+},
+"an2.35:3.4":{
+"verse":""
+},
+"an2.35:3.5":{
+"verse":""
+},
+"an2.35:3.6":{
+"verse":""
+},
+"an2.36:1.0":{
+"verse":""
+},
+"an2.36:1.1":{
+"verse":""
+},
+"an2.36:1.2":{
+"verse":""
+},
+"an2.36:1.3":{
+"verse":""
+},
+"an2.36:1.4":{
+"verse":""
+},
+"an2.36:1.5":{
+"verse":""
+},
+"an2.36:1.6":{
+"verse":""
+},
+"an2.36:1.7":{
+"verse":""
+},
+"an2.36:1.8":{
+"verse":""
+},
+"an2.36:1.9":{
+"verse":""
+},
+"an2.36:1.10":{
+"verse":""
+},
+"an2.36:1.11":{
+"verse":""
+},
+"an2.36:2.1":{
+"verse":""
+},
+"an2.36:2.2":{
+"verse":""
+},
+"an2.36:2.3":{
+"verse":""
+},
+"an2.36:2.4":{
+"verse":""
+},
+"an2.36:2.5":{
+"verse":""
+},
+"an2.36:3.1":{
+"verse":""
+},
+"an2.36:3.2":{
+"verse":""
+},
+"an2.36:3.3":{
+"verse":""
+},
+"an2.36:3.4":{
+"verse":""
+},
+"an2.36:3.5":{
+"verse":""
+},
+"an2.36:3.6":{
+"verse":""
+},
+"an2.36:4.1":{
+"verse":""
+},
+"an2.36:4.2":{
+"verse":""
+},
+"an2.36:4.3":{
+"verse":""
+},
+"an2.36:4.4":{
+"verse":""
+},
+"an2.36:4.5":{
+"verse":""
+},
+"an2.36:4.6":{
+"verse":""
+},
+"an2.36:4.7":{
+"verse":""
+},
+"an2.36:4.8":{
+"verse":""
+},
+"an2.36:5.1":{
+"verse":""
+},
+"an2.36:5.2":{
+"verse":""
+},
+"an2.36:5.3":{
+"verse":""
+},
+"an2.36:5.4":{
+"verse":""
+},
+"an2.36:5.5":{
+"verse":""
+},
+"an2.36:5.6":{
+"verse":""
+},
+"an2.36:5.7":{
+"verse":""
+},
+"an2.36:5.8":{
+"verse":""
+},
+"an2.36:5.9":{
+"verse":""
+},
+"an2.36:6.1":{
+"verse":""
+},
+"an2.36:6.2":{
+"verse":""
+},
+"an2.36:6.3":{
+"verse":""
+},
+"an2.36:6.4":{
+"verse":""
+},
+"an2.36:6.5":{
+"verse":""
+},
+"an2.36:6.6":{
+"verse":""
+},
+"an2.36:6.7":{
+"verse":""
+},
+"an2.36:6.8":{
+"verse":""
+},
+"an2.36:6.9":{
+"verse":""
+},
+"an2.36:6.10":{
+"verse":""
+},
+"an2.36:6.11":{
+"verse":""
+},
+"an2.36:6.12":{
+"verse":""
+},
+"an2.36:6.13":{
+"verse":""
+},
+"an2.36:6.14":{
+"verse":""
+},
+"an2.36:6.15":{
+"verse":""
+},
+"an2.36:6.16":{
+"verse":""
 },
 "an2.37:1.0":{
 "verse":"37 "
@@ -4758,6 +5718,9 @@
 },
 "an2.41:2.2":{
 "verse":"De plus, ces mendiants accumulent beaucoup de mérite et maintiennent ce Dhamma authentique. "
+},
+"an2.41:2.3":{
+"verse":""
 }
 }
 }
@@ -4766,6 +5729,204 @@
 "lang_code":"fr",
 "texts":{
 "sekha":{
+"an2.42:0.1":{
+"verse":""
+},
+"an2.42:0.2":{
+"verse":""
+},
+"an2.42:1.0":{
+"verse":""
+},
+"an2.42:1.1":{
+"verse":""
+},
+"an2.42:1.2":{
+"verse":""
+},
+"an2.42:1.3":{
+"verse":""
+},
+"an2.42:1.4":{
+"verse":""
+},
+"an2.42:1.5":{
+"verse":""
+},
+"an2.42:1.6":{
+"verse":""
+},
+"an2.42:2.1":{
+"verse":""
+},
+"an2.42:2.2":{
+"verse":""
+},
+"an2.42:2.3":{
+"verse":""
+},
+"an2.42:2.4":{
+"verse":""
+},
+"an2.42:2.5":{
+"verse":""
+},
+"an2.43:1.0":{
+"verse":""
+},
+"an2.43:1.1":{
+"verse":""
+},
+"an2.43:1.2":{
+"verse":""
+},
+"an2.43:1.3":{
+"verse":""
+},
+"an2.43:1.4":{
+"verse":""
+},
+"an2.43:1.5":{
+"verse":""
+},
+"an2.43:1.6":{
+"verse":""
+},
+"an2.43:2.1":{
+"verse":""
+},
+"an2.43:2.2":{
+"verse":""
+},
+"an2.43:2.3":{
+"verse":""
+},
+"an2.43:2.4":{
+"verse":""
+},
+"an2.43:2.5":{
+"verse":""
+},
+"an2.44:1.0":{
+"verse":""
+},
+"an2.44:1.1":{
+"verse":""
+},
+"an2.44:1.2":{
+"verse":""
+},
+"an2.44:1.3":{
+"verse":""
+},
+"an2.44:1.4":{
+"verse":""
+},
+"an2.44:1.5":{
+"verse":""
+},
+"an2.44:1.6":{
+"verse":""
+},
+"an2.44:1.7":{
+"verse":""
+},
+"an2.44:1.8":{
+"verse":""
+},
+"an2.44:2.1":{
+"verse":""
+},
+"an2.44:2.2":{
+"verse":""
+},
+"an2.44:2.3":{
+"verse":""
+},
+"an2.44:2.4":{
+"verse":""
+},
+"an2.44:2.5":{
+"verse":""
+},
+"an2.44:2.6":{
+"verse":""
+},
+"an2.44:2.7":{
+"verse":""
+},
+"an2.45:1.0":{
+"verse":""
+},
+"an2.45:1.1":{
+"verse":""
+},
+"an2.45:1.2":{
+"verse":""
+},
+"an2.45:1.3":{
+"verse":""
+},
+"an2.45:1.4":{
+"verse":""
+},
+"an2.45:1.5":{
+"verse":""
+},
+"an2.45:1.6":{
+"verse":""
+},
+"an2.45:2.1":{
+"verse":""
+},
+"an2.45:2.2":{
+"verse":""
+},
+"an2.45:2.3":{
+"verse":""
+},
+"an2.45:2.4":{
+"verse":""
+},
+"an2.45:2.5":{
+"verse":""
+},
+"an2.46:1.0":{
+"verse":""
+},
+"an2.46:1.1":{
+"verse":""
+},
+"an2.46:1.2":{
+"verse":""
+},
+"an2.46:1.3":{
+"verse":""
+},
+"an2.46:1.4":{
+"verse":""
+},
+"an2.46:1.5":{
+"verse":""
+},
+"an2.46:1.6":{
+"verse":""
+},
+"an2.46:2.1":{
+"verse":""
+},
+"an2.46:2.2":{
+"verse":""
+},
+"an2.46:2.3":{
+"verse":""
+},
+"an2.46:2.4":{
+"verse":""
+},
+"an2.46:2.5":{
+"verse":""
+},
 "an2.47:1.0":{
 "verse":"47 "
 },
@@ -4822,6 +5983,186 @@
 },
 "an2.47:2.9":{
 "verse":"De ces deux (types d’)assemblées, mendiants, la plus éminente d’entre ellesst celle qui est entraînée à questionner et pas entraînée aux vaines discussions. "
+},
+"an2.48:1.0":{
+"verse":""
+},
+"an2.48:1.1":{
+"verse":""
+},
+"an2.48:1.2":{
+"verse":""
+},
+"an2.48:1.3":{
+"verse":""
+},
+"an2.48:1.4":{
+"verse":""
+},
+"an2.48:1.5":{
+"verse":""
+},
+"an2.48:1.6":{
+"verse":""
+},
+"an2.48:1.7":{
+"verse":""
+},
+"an2.48:1.8":{
+"verse":""
+},
+"an2.48:1.9":{
+"verse":""
+},
+"an2.48:2.1":{
+"verse":""
+},
+"an2.48:2.2":{
+"verse":""
+},
+"an2.48:2.3":{
+"verse":""
+},
+"an2.48:2.4":{
+"verse":""
+},
+"an2.48:2.5":{
+"verse":""
+},
+"an2.48:2.6":{
+"verse":""
+},
+"an2.48:2.7":{
+"verse":""
+},
+"an2.48:2.8":{
+"verse":""
+},
+"an2.49:1.0":{
+"verse":""
+},
+"an2.49:1.1":{
+"verse":""
+},
+"an2.49:1.2":{
+"verse":""
+},
+"an2.49:1.3":{
+"verse":""
+},
+"an2.49:1.4":{
+"verse":""
+},
+"an2.49:1.5":{
+"verse":""
+},
+"an2.49:1.6":{
+"verse":""
+},
+"an2.49:2.1":{
+"verse":""
+},
+"an2.49:2.2":{
+"verse":""
+},
+"an2.49:2.3":{
+"verse":""
+},
+"an2.49:2.4":{
+"verse":""
+},
+"an2.49:2.5":{
+"verse":""
+},
+"an2.50:1.0":{
+"verse":""
+},
+"an2.50:1.1":{
+"verse":""
+},
+"an2.50:1.2":{
+"verse":""
+},
+"an2.50:1.3":{
+"verse":""
+},
+"an2.50:1.4":{
+"verse":""
+},
+"an2.51:1.0":{
+"verse":""
+},
+"an2.51:1.1":{
+"verse":""
+},
+"an2.51:1.2":{
+"verse":""
+},
+"an2.51:1.3":{
+"verse":""
+},
+"an2.51:1.4":{
+"verse":""
+},
+"an2.51:1.5":{
+"verse":""
+},
+"an2.51:1.6":{
+"verse":""
+},
+"an2.51:1.7":{
+"verse":""
+},
+"an2.51:1.8":{
+"verse":""
+},
+"an2.51:1.9":{
+"verse":""
+},
+"an2.51:2.1":{
+"verse":""
+},
+"an2.51:2.2":{
+"verse":""
+},
+"an2.51:2.3":{
+"verse":""
+},
+"an2.51:2.4":{
+"verse":""
+},
+"an2.51:2.5":{
+"verse":""
+},
+"an2.51:2.6":{
+"verse":""
+},
+"an2.51:2.7":{
+"verse":""
+},
+"an2.51:2.8":{
+"verse":""
+},
+"an2.51:2.9":{
+"verse":""
+},
+"an2.51:3.0":{
+"verse":""
+},
+"an2.51:3.1":{
+"verse":""
+},
+"an2.51:3.2":{
+"verse":""
+},
+"an2.51:3.3":{
+"verse":""
+},
+"an2.51:3.4":{
+"verse":""
+},
+"an2.51:3.5":{
+"verse":""
 }
 }
 }
@@ -5069,6 +6410,9 @@
 },
 "an2.76:1.5":{
 "verse":"De ces deux (types de) bien-être, le plus élevé est le bien-être fondé sur le sans-Forme. "
+},
+"an2.76:1.6":{
+"verse":""
 }
 }
 }
@@ -5172,6 +6516,9 @@
 },
 "an2.86:1.2":{
 "verse":"Avec l’abandon de cette base conditionnée, il n’y a pas ces états mentaux malsains et désavantageux. "
+},
+"an2.86:1.3":{
+"verse":""
 }
 }
 }
@@ -5350,6 +6697,9 @@
 },
 "an2.97:1.4":{
 "verse":"Voici, mendiants, quels sont ces deux états. "
+},
+"an2.97:1.5":{
+"verse":""
 }
 }
 }
@@ -5663,6 +7013,12 @@
 },
 "an2.117:1.4":{
 "verse":"Voici, mendiants, quelles sont ces deux (personnes) dont les impuretés mentales ne s’accroissent pas. "
+},
+"an2.117:1.5":{
+"verse":""
+},
+"an2.117:1.6":{
+"verse":""
 }
 }
 }
@@ -5856,6 +7212,9 @@
 },
 "an2.129:1.4":{
 "verse":"Voici, mendiants, quels sont ces deux (types de) transgressions. "
+},
+"an2.129:1.5":{
+"verse":""
 }
 }
 }
@@ -6082,6 +7441,9 @@
 },
 "an2.140:1.4":{
 "verse":"Voici, mendiants, quels sont ces deux états. "
+},
+"an2.140:1.5":{
+"verse":""
 }
 }
 }
@@ -6275,6 +7637,9 @@
 },
 "an2.150:1.5":{
 "verse":"De ces deux (types de) compassion, le plus éminent est la compassion (s’exprimant) dans le Dhamma. "
+},
+"an2.150:1.6":{
+"verse":""
 }
 }
 }
@@ -6504,6 +7869,9 @@
 },
 "an2.162:1.5":{
 "verse":"De ces deux (types d’)abondance, le plus éminent est l’abondance dans le Dhamma. "
+},
+"an2.162:1.6":{
+"verse":""
 }
 }
 }
@@ -6772,6 +8140,12 @@
 },
 "an2.179:1.4":{
 "verse":"Voici, mendiants, quels sont ces deux états. "
+},
+"an2.179:1.5":{
+"verse":""
+},
+"an2.179:1.6":{
+"verse":""
 }
 }
 }
@@ -6935,6 +8309,9 @@
 },
 "an2.225-229:1.4":{
 "verse":"Mendiants, quelqu’un qui possède ces deux états, lors de la dissolution du corps, après la mort, réapparaît dans une bonne destination, dans un monde paradisiaque. "
+},
+"an2.225-229:1.5":{
+"verse":""
 }
 }
 }
@@ -6960,6 +8337,9 @@
 },
 "an2.230-279:1.4":{
 "verse":"Voici, mendiants, quels sont ces deux états non afflictifs. "
+},
+"an2.230-279:1.5":{
+"verse":""
 }
 }
 }
@@ -7003,6 +8383,9 @@
 },
 "an2.281-309:1.4":{
 "verse":"Voici, mendiants, quels sont les deux raisons pour lesquelles le Tathagata a stipulé le recouvrement par l’herbe pour ses disciples. "
+},
+"an2.281-309:1.5":{
+"verse":""
 }
 }
 }
@@ -7055,6 +8438,12 @@
 },
 "an2.320-479:2.2":{
 "verse":"Ravis, les mendiants apprécièrent ses paroles. "
+},
+"an2.320-479:2.3":{
+"verse":""
+},
+"an2.320-479:2.4":{
+"verse":""
 }
 }
 }
@@ -7131,6 +8520,9 @@
 },
 "an3.1:4.3":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. » "
+},
+"an3.1:4.4":{
+"verse":""
 }
 }
 }
@@ -7183,6 +8575,9 @@
 },
 "an3.2:3.3":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an3.2:3.4":{
+"verse":""
 }
 }
 }
@@ -7226,6 +8621,9 @@
 },
 "an3.5:2.5":{
 "verse":"C’est pourquoi, mendiants, vous devriez vous entraîner ainsi : “Nous nous déferons des trois états pourvu desquels on est reconnu comme un sot, et nous entreprendrons et observerons les états pourvu desquels on est reconnu comme un sage.” Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an3.5:2.6":{
+"verse":""
 }
 }
 }
@@ -7278,6 +8676,27 @@
 },
 "an3.10:2.6":{
 "verse":"Mendiants, celui qui est pourvu de ces trois traits, qui a abandonné ces trois souillures, va au paradis comme s’il y était emmené et déposé. "
+},
+"an3.10:2.7":{
+"verse":""
+},
+"an3.10:2.8":{
+"verse":""
+},
+"an3.10:3.0":{
+"verse":""
+},
+"an3.10:3.1":{
+"verse":""
+},
+"an3.10:3.2":{
+"verse":""
+},
+"an3.10:3.3":{
+"verse":""
+},
+"an3.10:3.4":{
+"verse":""
 }
 }
 }
@@ -7318,6 +8737,9 @@
 },
 "an3.11:2.4":{
 "verse":"Un mendiant connu (de beaucoup), lorsqu’il est pourvu de ces trois caractéristiques, œuvre au bénéfice de beaucoup de gens, pour le bonheur de beaucoup de gens, pour le bienfait, le bénéfice et le bien-être de beaucoup de gens, des dévas et des êtres humains. "
+},
+"an3.11:2.5":{
+"verse":""
 }
 }
 }
@@ -7397,6 +8819,9 @@
 },
 "an3.16:4.4":{
 "verse":"Un mendiant pourvu de ces trois qualités pratique la voie sans faute et a mis en place les conditions pour la destruction des impuretés mentales. "
+},
+"an3.16:4.5":{
+"verse":""
 }
 }
 }
@@ -7437,6 +8862,9 @@
 },
 "an3.17:2.4":{
 "verse":"Voici, mendiants, quelles sont ces trois choses qui ne mènent ni à son propre préjudice, ni au préjudice des autres, ni au préjudice des deux. "
+},
+"an3.17:2.5":{
+"verse":""
 }
 }
 }
@@ -7501,6 +8929,9 @@
 },
 "an3.19:4.4":{
 "verse":"Voici, mendiants, quelles sont les trois habitudes doué desquelles un mendiant est capable d’acquérir de nouveaux états mentaux avantageux ou d’accroître les états mentaux avantageux qu’il a déjà acquis. "
+},
+"an3.19:4.5":{
+"verse":""
 }
 }
 }
@@ -7565,6 +8996,9 @@
 },
 "an3.22:8.3":{
 "verse":"Voici, mendiants, quels sont ces trois (types de) personnes comparables à ces trois (types de) patients que l’on trouve dans le monde. "
+},
+"an3.22:8.4":{
+"verse":""
 }
 }
 }
@@ -7626,6 +9060,9 @@
 },
 "an3.23:3.5":{
 "verse":"Voici, mendiants, quels sont ces trois (types d’)individus que l’on trouve dans le monde. "
+},
+"an3.23:3.6":{
+"verse":""
 }
 }
 }
@@ -7675,6 +9112,9 @@
 },
 "an3.24:4.2":{
 "verse":"Et de plus, il n’est pas facile à cette (autre) personne de retourner la faveur à ces trois personnes, c’est-à-dire par des salutations respectueuses, en se levant (par respect lorsqu’il arrive), en le saluant avec les mains jointes, en lui montrant du respect, en lui donnant des robes, de la nourriture d’aumônes, des gîtes, des remèdes et des provisions pour les malades. "
+},
+"an3.24:4.3":{
+"verse":""
 }
 }
 }
@@ -7769,6 +9209,18 @@
 },
 "an3.26:4.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.26:4.2":{
+"verse":""
+},
+"an3.26:4.3":{
+"verse":""
+},
+"an3.26:4.4":{
+"verse":""
+},
+"an3.26:4.5":{
+"verse":""
 }
 }
 }
@@ -7899,6 +9351,18 @@
 },
 "an3.27:4.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.27:4.2":{
+"verse":""
+},
+"an3.27:4.3":{
+"verse":""
+},
+"an3.27:4.4":{
+"verse":""
+},
+"an3.27:4.5":{
+"verse":""
 }
 }
 }
@@ -8035,6 +9499,114 @@
 },
 "an3.30:4.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.30:4.2":{
+"verse":""
+},
+"an3.30:4.3":{
+"verse":""
+},
+"an3.30:4.4":{
+"verse":""
+},
+"an3.30:5.1":{
+"verse":""
+},
+"an3.30:5.2":{
+"verse":""
+},
+"an3.30:5.3":{
+"verse":""
+},
+"an3.30:5.4":{
+"verse":""
+},
+"an3.30:6.1":{
+"verse":""
+},
+"an3.30:6.2":{
+"verse":""
+},
+"an3.30:6.3":{
+"verse":""
+},
+"an3.30:6.4":{
+"verse":""
+},
+"an3.30:7.1":{
+"verse":""
+},
+"an3.30:7.2":{
+"verse":""
+},
+"an3.30:7.3":{
+"verse":""
+},
+"an3.30:7.4":{
+"verse":""
+},
+"an3.30:7.5":{
+"verse":""
+},
+"an3.30:7.6":{
+"verse":""
+},
+"an3.30:8.1":{
+"verse":""
+},
+"an3.30:8.2":{
+"verse":""
+},
+"an3.30:8.3":{
+"verse":""
+},
+"an3.30:8.4":{
+"verse":""
+},
+"an3.30:9.1":{
+"verse":""
+},
+"an3.30:9.2":{
+"verse":""
+},
+"an3.30:9.3":{
+"verse":""
+},
+"an3.30:9.4":{
+"verse":""
+},
+"an3.30:10.1":{
+"verse":""
+},
+"an3.30:10.2":{
+"verse":""
+},
+"an3.30:10.3":{
+"verse":""
+},
+"an3.30:10.4":{
+"verse":""
+},
+"an3.30:10.5":{
+"verse":""
+},
+"an3.30:10.6":{
+"verse":""
+},
+"an3.30:11.0":{
+"verse":""
+},
+"an3.30:11.1":{
+"verse":""
+},
+"an3.30:11.2":{
+"verse":""
+},
+"an3.30:11.3":{
+"verse":""
+},
+"an3.30:11.4":{
+"verse":""
 }
 }
 }
@@ -8117,6 +9689,9 @@
 },
 "an3.31:4.4":{
 "verse":"On se réjouit dans un paradis. "
+},
+"an3.31:4.5":{
+"verse":""
 }
 }
 }
@@ -8238,6 +9813,36 @@
 },
 "an3.34:13.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.34:13.2":{
+"verse":""
+},
+"an3.34:13.3":{
+"verse":""
+},
+"an3.34:13.4":{
+"verse":""
+},
+"an3.34:13.5":{
+"verse":""
+},
+"an3.34:13.6":{
+"verse":""
+},
+"an3.34:14.1":{
+"verse":""
+},
+"an3.34:14.2":{
+"verse":""
+},
+"an3.34:14.3":{
+"verse":""
+},
+"an3.34:14.4":{
+"verse":""
+},
+"an3.34:14.5":{
+"verse":""
 }
 }
 }
@@ -8371,6 +9976,9 @@
 },
 "an3.35:9.4":{
 "verse":"Ayant obtenu la paix de l’esprit. "
+},
+"an3.35:9.5":{
+"verse":""
 }
 }
 }
@@ -8480,6 +10088,66 @@
 },
 "an3.39:8.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.39:8.2":{
+"verse":""
+},
+"an3.39:8.3":{
+"verse":""
+},
+"an3.39:8.4":{
+"verse":""
+},
+"an3.39:9.1":{
+"verse":""
+},
+"an3.39:9.2":{
+"verse":""
+},
+"an3.39:9.3":{
+"verse":""
+},
+"an3.39:9.4":{
+"verse":""
+},
+"an3.39:10.1":{
+"verse":""
+},
+"an3.39:10.2":{
+"verse":""
+},
+"an3.39:10.3":{
+"verse":""
+},
+"an3.39:10.4":{
+"verse":""
+},
+"an3.39:11.1":{
+"verse":""
+},
+"an3.39:11.2":{
+"verse":""
+},
+"an3.39:11.3":{
+"verse":""
+},
+"an3.39:11.4":{
+"verse":""
+},
+"an3.39:12.1":{
+"verse":""
+},
+"an3.39:12.2":{
+"verse":""
+},
+"an3.39:12.3":{
+"verse":""
+},
+"an3.39:12.4":{
+"verse":""
+},
+"an3.39:12.5":{
+"verse":""
 }
 }
 }
@@ -8556,6 +10224,9 @@
 },
 "an3.40:2.6":{
 "verse":"Peut-être que la fin de toute cette accumulation de mal-être est discernable. "
+},
+"an3.40:2.7":{
+"verse":""
 },
 "an3.40:2.8":{
 "verse":"Et dans ce grand monde, il y a des renonçants & brahmanes qui ont des pouvoirs, qui possèdent l’œil dévique, et qui connaissent l’esprit des autres. "
@@ -8637,6 +10308,78 @@
 },
 "an3.40:4.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.40:4.2":{
+"verse":""
+},
+"an3.40:4.3":{
+"verse":""
+},
+"an3.40:4.4":{
+"verse":""
+},
+"an3.40:5.1":{
+"verse":""
+},
+"an3.40:5.2":{
+"verse":""
+},
+"an3.40:5.3":{
+"verse":""
+},
+"an3.40:5.4":{
+"verse":""
+},
+"an3.40:6.1":{
+"verse":""
+},
+"an3.40:6.2":{
+"verse":""
+},
+"an3.40:6.3":{
+"verse":""
+},
+"an3.40:6.4":{
+"verse":""
+},
+"an3.40:6.5":{
+"verse":""
+},
+"an3.40:6.6":{
+"verse":""
+},
+"an3.40:7.1":{
+"verse":""
+},
+"an3.40:7.2":{
+"verse":""
+},
+"an3.40:7.3":{
+"verse":""
+},
+"an3.40:7.4":{
+"verse":""
+},
+"an3.40:7.5":{
+"verse":""
+},
+"an3.40:7.6":{
+"verse":""
+},
+"an3.40:8.0":{
+"verse":""
+},
+"an3.40:8.1":{
+"verse":""
+},
+"an3.40:8.2":{
+"verse":""
+},
+"an3.40:8.3":{
+"verse":""
+},
+"an3.40:8.4":{
+"verse":""
 }
 }
 }
@@ -8671,6 +10414,9 @@
 },
 "an3.41:1.6":{
 "verse":"Mendiants, lorsque ces trois choses sont présentes, un fils de famille pourvu de conviction accumule beaucoup de mérite. "
+},
+"an3.41:1.7":{
+"verse":""
 }
 }
 }
@@ -8711,6 +10457,9 @@
 },
 "an3.42:2.4":{
 "verse":"On dit bien de lui qu’il a de la conviction. "
+},
+"an3.42:2.5":{
+"verse":""
 }
 }
 }
@@ -8769,6 +10518,9 @@
 },
 "an3.45:3.4":{
 "verse":"Va dans un monde heureux. "
+},
+"an3.45:3.5":{
+"verse":""
 }
 }
 }
@@ -8803,6 +10555,9 @@
 },
 "an3.46:1.6":{
 "verse":"accumulent beaucoup de mérite de ces trois manières. "
+},
+"an3.46:1.7":{
+"verse":""
 }
 }
 }
@@ -8832,6 +10587,9 @@
 "an3.47:1.4":{
 "verse":"Voici, mendiants, quelles sont ces trois caractéristiques construites du Construit. "
 },
+"an3.47:1.5":{
+"verse":""
+},
 "an3.47:2.0":{
 "verse":"Les caractéristiques de l'Inconstruit "
 },
@@ -8846,6 +10604,9 @@
 },
 "an3.47:2.4":{
 "verse":"Voici, mendiants, quelles sont ces trois caractéristiques inconstruites de l’Inconstruit. "
+},
+"an3.47:2.5":{
+"verse":""
 }
 }
 }
@@ -8880,6 +10641,9 @@
 },
 "an3.49:2.2":{
 "verse":"on dit que ce mendiant est ardent, alerte et présent d’esprit pour mettre correctement un terme au mal-être. "
+},
+"an3.49:2.3":{
+"verse":""
 }
 }
 }
@@ -9007,6 +10771,15 @@
 },
 "an3.50:8.2":{
 "verse":""
+},
+"an3.50:8.3":{
+"verse":""
+},
+"an3.50:8.4":{
+"verse":""
+},
+"an3.50:8.5":{
+"verse":""
 }
 }
 }
@@ -9074,6 +10847,9 @@
 },
 "an3.51:4.4":{
 "verse":"Mènent au bien-être de celui qui s’en est allé. "
+},
+"an3.51:4.5":{
+"verse":""
 }
 }
 }
@@ -9150,6 +10926,9 @@
 },
 "an3.52:5.4":{
 "verse":"Mènent au bien-être de celui qui s’en est allé. "
+},
+"an3.52:5.5":{
+"verse":""
 }
 }
 }
@@ -9191,6 +10970,18 @@
 "an3.57:1.8":{
 "verse":"Est-ce que ceux qui déclarent cela "
 },
+"an3.57:1.9":{
+"verse":""
+},
+"an3.57:1.10":{
+"verse":""
+},
+"an3.57:1.11":{
+"verse":""
+},
+"an3.57:1.12":{
+"verse":""
+},
 "an3.57:1.13":{
 "verse":"répètent ce qui a été dit par le Sieur Gotama et évitent de le représenter faussement avec ce qui est incorrect ? Est-ce qu’ils parlent en toute vérité, sans être sujets à un légitime reproche ? "
 },
@@ -9199,6 +10990,15 @@
 },
 "an3.57:2.1":{
 "verse":"— Vaccha, ceux qui déclarent cela "
+},
+"an3.57:2.2":{
+"verse":""
+},
+"an3.57:2.3":{
+"verse":""
+},
+"an3.57:2.4":{
+"verse":""
 },
 "an3.57:2.5":{
 "verse":"ne disent pas ce que j’ai dit et me représentent faussement avec ce qui est erroné et incorrect. "
@@ -9253,6 +11053,120 @@
 },
 "an3.57:6.1":{
 "verse":"(Les strophes finales n’ont pas été traduites) "
+},
+"an3.57:6.2":{
+"verse":""
+},
+"an3.57:6.3":{
+"verse":""
+},
+"an3.57:6.4":{
+"verse":""
+},
+"an3.57:7.1":{
+"verse":""
+},
+"an3.57:7.2":{
+"verse":""
+},
+"an3.57:7.3":{
+"verse":""
+},
+"an3.57:7.4":{
+"verse":""
+},
+"an3.57:7.5":{
+"verse":""
+},
+"an3.57:7.6":{
+"verse":""
+},
+"an3.57:8.1":{
+"verse":""
+},
+"an3.57:8.2":{
+"verse":""
+},
+"an3.57:8.3":{
+"verse":""
+},
+"an3.57:8.4":{
+"verse":""
+},
+"an3.57:9.1":{
+"verse":""
+},
+"an3.57:9.2":{
+"verse":""
+},
+"an3.57:9.3":{
+"verse":""
+},
+"an3.57:9.4":{
+"verse":""
+},
+"an3.57:10.1":{
+"verse":""
+},
+"an3.57:10.2":{
+"verse":""
+},
+"an3.57:10.3":{
+"verse":""
+},
+"an3.57:10.4":{
+"verse":""
+},
+"an3.57:11.1":{
+"verse":""
+},
+"an3.57:11.2":{
+"verse":""
+},
+"an3.57:11.3":{
+"verse":""
+},
+"an3.57:11.4":{
+"verse":""
+},
+"an3.57:12.1":{
+"verse":""
+},
+"an3.57:12.2":{
+"verse":""
+},
+"an3.57:12.3":{
+"verse":""
+},
+"an3.57:12.4":{
+"verse":""
+},
+"an3.57:13.1":{
+"verse":""
+},
+"an3.57:13.2":{
+"verse":""
+},
+"an3.57:13.3":{
+"verse":""
+},
+"an3.57:13.4":{
+"verse":""
+},
+"an3.57:14.1":{
+"verse":""
+},
+"an3.57:14.2":{
+"verse":""
+},
+"an3.57:14.3":{
+"verse":""
+},
+"an3.57:14.4":{
+"verse":""
+},
+"an3.57:14.5":{
+"verse":""
 }
 }
 }
@@ -9387,6 +11301,9 @@
 "an3.63:6.13":{
 "verse":"Voici, brahmane, quel est le lit fastueux, luxueux et divin que j’obtiens à présent à volonté, aisément et sans difficulté. "
 },
+"an3.63:7.1":{
+"verse":""
+},
 "an3.63:7.2":{
 "verse":"— C’est extraordinaire, Sieur Gotama, inouï ! Qui d’autre que le Sieur Gotama obtient à volonté, aisément et sans difficulté, un tel lit fastueux, luxueux et divin ? "
 },
@@ -9491,6 +11408,9 @@
 },
 "an3.63:12.4":{
 "verse":"Que le vénérable Gotama nous retienne à l’esprit en tant que disciples laïcs étant allés en refuge à compter d’aujourd’hui et pour la vie. » "
+},
+"an3.63:12.5":{
+"verse":""
 }
 }
 }
@@ -9819,6 +11739,9 @@
 },
 "an3.65:53.3":{
 "verse":"Que le Fortuné nous retienne à l’esprit en tant que disciples laïcs étant allés en refuge à compter d’aujourd’hui et pour la vie. » "
+},
+"an3.65:53.4":{
+"verse":""
 }
 }
 }
@@ -10093,6 +12016,9 @@
 },
 "an3.66:47.5":{
 "verse":"Ainsi dans ce monde visible il est satisfait, repus, rafraîchi, il éprouve du plaisir, il demeure en étant devenu brahmique en lui même. » "
+},
+"an3.66:47.6":{
+"verse":""
 }
 }
 }
@@ -10193,6 +12119,99 @@
 },
 "an3.67:6.8":{
 "verse":"voici quel est l’objectif du fait de prêter l’oreille, c’est-à-dire la libération de l’esprit par non-attachement. "
+},
+"an3.67:7.1":{
+"verse":""
+},
+"an3.67:7.2":{
+"verse":""
+},
+"an3.67:7.3":{
+"verse":""
+},
+"an3.67:7.4":{
+"verse":""
+},
+"an3.67:8.1":{
+"verse":""
+},
+"an3.67:8.2":{
+"verse":""
+},
+"an3.67:8.3":{
+"verse":""
+},
+"an3.67:8.4":{
+"verse":""
+},
+"an3.67:9.1":{
+"verse":""
+},
+"an3.67:9.2":{
+"verse":""
+},
+"an3.67:9.3":{
+"verse":""
+},
+"an3.67:9.4":{
+"verse":""
+},
+"an3.67:10.1":{
+"verse":""
+},
+"an3.67:10.2":{
+"verse":""
+},
+"an3.67:10.3":{
+"verse":""
+},
+"an3.67:10.4":{
+"verse":""
+},
+"an3.67:11.1":{
+"verse":""
+},
+"an3.67:11.2":{
+"verse":""
+},
+"an3.67:11.3":{
+"verse":""
+},
+"an3.67:11.4":{
+"verse":""
+},
+"an3.67:12.1":{
+"verse":""
+},
+"an3.67:12.2":{
+"verse":""
+},
+"an3.67:12.3":{
+"verse":""
+},
+"an3.67:12.4":{
+"verse":""
+},
+"an3.67:13.1":{
+"verse":""
+},
+"an3.67:13.2":{
+"verse":""
+},
+"an3.67:13.3":{
+"verse":""
+},
+"an3.67:13.4":{
+"verse":""
+},
+"an3.67:13.5":{
+"verse":""
+},
+"an3.67:13.6":{
+"verse":""
+},
+"an3.67:13.7":{
+"verse":""
 }
 }
 }
@@ -10338,6 +12357,9 @@
 },
 "an3.68:8.4":{
 "verse":"Voici, amis, quelle est la cause, voici quelle est la raison pour laquelle la délusion qui n’était pas (encore) apparue ne vient pas à apparaître et la délusion qui était (déjà) apparue est abandonné. "
+},
+"an3.68:8.5":{
+"verse":""
 }
 }
 }
@@ -10375,6 +12397,9 @@
 },
 "an3.69:2.4":{
 "verse":"Ainsi, engendrés par l’avidité, causés par l’avidité, produits par l’avidité, en raison de l’avidité, apparaissent en lui divers états désavantageux et malsains. "
+},
+"an3.69:3.1":{
+"verse":""
 },
 "an3.69:3.2":{
 "verse":"Toute aversion, mendiants, est une racine de ce qui est désavantageux. "
@@ -10576,6 +12601,9 @@
 },
 "an3.69:16.5":{
 "verse":"Voici, mendiants, quelles sont ces trois racines de ce qui est avantageux. "
+},
+"an3.69:16.6":{
+"verse":""
 }
 }
 }
@@ -11210,6 +13238,93 @@
 },
 "an3.70:35.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an3.70:35.2":{
+"verse":""
+},
+"an3.70:35.3":{
+"verse":""
+},
+"an3.70:35.4":{
+"verse":""
+},
+"an3.70:36.1":{
+"verse":""
+},
+"an3.70:36.2":{
+"verse":""
+},
+"an3.70:36.3":{
+"verse":""
+},
+"an3.70:36.4":{
+"verse":""
+},
+"an3.70:37.1":{
+"verse":""
+},
+"an3.70:37.2":{
+"verse":""
+},
+"an3.70:37.3":{
+"verse":""
+},
+"an3.70:37.4":{
+"verse":""
+},
+"an3.70:38.1":{
+"verse":""
+},
+"an3.70:38.2":{
+"verse":""
+},
+"an3.70:38.3":{
+"verse":""
+},
+"an3.70:38.4":{
+"verse":""
+},
+"an3.70:39.1":{
+"verse":""
+},
+"an3.70:39.2":{
+"verse":""
+},
+"an3.70:39.3":{
+"verse":""
+},
+"an3.70:40.1":{
+"verse":""
+},
+"an3.70:40.2":{
+"verse":""
+},
+"an3.70:40.3":{
+"verse":""
+},
+"an3.70:40.4":{
+"verse":""
+},
+"an3.70:40.5":{
+"verse":""
+},
+"an3.70:40.6":{
+"verse":""
+},
+"an3.70:41.0":{
+"verse":""
+},
+"an3.70:41.1":{
+"verse":""
+},
+"an3.70:41.2":{
+"verse":""
+},
+"an3.70:41.3":{
+"verse":""
+},
+"an3.70:41.4":{
+"verse":""
 }
 }
 }
@@ -11322,6 +13437,9 @@
 },
 "an3.71:5.8":{
 "verse":"Et c’est suffisant, ami Ananda, pour l’assiduité. » "
+},
+"an3.71:5.9":{
+"verse":""
 }
 }
 }
@@ -11458,6 +13576,9 @@
 },
 "an3.72:7.4":{
 "verse":"Que le vénérable Ananda me retienne à l’esprit en tant que disciple étant allé en refuge à compter d’aujourd’hui et pour la vie. » "
+},
+"an3.72:7.5":{
+"verse":""
 }
 }
 }
@@ -11525,6 +13646,9 @@
 },
 "an3.75:5.1":{
 "verse":"Ananda, tu devrais exhorter, installer, et établir ceux envers qui tu éprouves de la sympathie, qui pensent qu’ils devraient t’écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans ces trois choses. » "
+},
+"an3.75:5.2":{
+"verse":""
 }
 }
 }
@@ -11589,6 +13713,9 @@
 },
 "an3.76:4.5":{
 "verse":"Voici, Ananda, comment il y a existence. » "
+},
+"an3.76:4.6":{
+"verse":""
 }
 }
 }
@@ -11601,6 +13728,60 @@
 "verse":""
 },
 "an3.77:0.2":{
+"verse":""
+},
+"an3.77:0.3":{
+"verse":""
+},
+"an3.77:1.1":{
+"verse":""
+},
+"an3.77:1.2":{
+"verse":""
+},
+"an3.77:1.3":{
+"verse":""
+},
+"an3.77:2.1":{
+"verse":""
+},
+"an3.77:2.2":{
+"verse":""
+},
+"an3.77:2.3":{
+"verse":""
+},
+"an3.77:2.4":{
+"verse":""
+},
+"an3.77:3.1":{
+"verse":""
+},
+"an3.77:3.2":{
+"verse":""
+},
+"an3.77:3.3":{
+"verse":""
+},
+"an3.77:3.4":{
+"verse":""
+},
+"an3.77:4.1":{
+"verse":""
+},
+"an3.77:4.2":{
+"verse":""
+},
+"an3.77:4.3":{
+"verse":""
+},
+"an3.77:4.4":{
+"verse":""
+},
+"an3.77:4.5":{
+"verse":""
+},
+"an3.77:4.6":{
 "verse":""
 }
 }
@@ -11654,6 +13835,9 @@
 },
 "an3.78:3.4":{
 "verse":"mais il n’est pas facile de trouver son égal en termes de discernement. » "
+},
+"an3.78:3.5":{
+"verse":""
 }
 }
 }
@@ -11742,6 +13926,9 @@
 },
 "an3.79:7.4":{
 "verse":"L’homme de bien diffuse dans toutes les directions. "
+},
+"an3.79:7.5":{
+"verse":""
 }
 }
 }
@@ -11797,6 +13984,9 @@
 },
 "an3.82:3.3":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an3.82:3.4":{
+"verse":""
 }
 }
 }
@@ -11852,6 +14042,9 @@
 },
 "an3.83:3.3":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an3.83:3.4":{
+"verse":""
 }
 }
 }
@@ -11913,6 +14106,9 @@
 },
 "an3.84:3.3":{
 "verse":"Ayant abandonné l’avidité, ayant abandonné l’aversion, ayant abandonné a délusion, il ne fit pas ce qui était désavantageux et il n’eut pas recours à quoi que ce soit de mauvais. "
+},
+"an3.84:3.4":{
+"verse":""
 }
 }
 }
@@ -11953,6 +14149,30 @@
 },
 "an3.85:3.1":{
 "verse":"Les deux strophes finales n’ont pas été traduites "
+},
+"an3.85:3.2":{
+"verse":""
+},
+"an3.85:3.3":{
+"verse":""
+},
+"an3.85:3.4":{
+"verse":""
+},
+"an3.85:4.1":{
+"verse":""
+},
+"an3.85:4.2":{
+"verse":""
+},
+"an3.85:4.3":{
+"verse":""
+},
+"an3.85:4.4":{
+"verse":""
+},
+"an3.85:4.5":{
+"verse":""
 }
 }
 }
@@ -12008,6 +14228,9 @@
 },
 "an3.89:4.4":{
 "verse":"Voici, mendiants, quels sont ces trois entraînements. "
+},
+"an3.89:4.5":{
+"verse":""
 }
 }
 }
@@ -12063,6 +14286,69 @@
 },
 "an3.90:4.4":{
 "verse":"Voici, mendiants, quels sont ces trois entraînements. "
+},
+"an3.90:5.1":{
+"verse":""
+},
+"an3.90:5.2":{
+"verse":""
+},
+"an3.90:5.3":{
+"verse":""
+},
+"an3.90:5.4":{
+"verse":""
+},
+"an3.90:6.1":{
+"verse":""
+},
+"an3.90:6.2":{
+"verse":""
+},
+"an3.90:6.3":{
+"verse":""
+},
+"an3.90:6.4":{
+"verse":""
+},
+"an3.90:7.1":{
+"verse":""
+},
+"an3.90:7.2":{
+"verse":""
+},
+"an3.90:7.3":{
+"verse":""
+},
+"an3.90:7.4":{
+"verse":""
+},
+"an3.90:8.1":{
+"verse":""
+},
+"an3.90:8.2":{
+"verse":""
+},
+"an3.90:8.3":{
+"verse":""
+},
+"an3.90:8.4":{
+"verse":""
+},
+"an3.90:9.1":{
+"verse":""
+},
+"an3.90:9.2":{
+"verse":""
+},
+"an3.90:9.3":{
+"verse":""
+},
+"an3.90:9.4":{
+"verse":""
+},
+"an3.90:9.5":{
+"verse":""
 }
 }
 }
@@ -12136,6 +14422,9 @@
 },
 "an3.92:3.3":{
 "verse":"Voici, mendiants, comment vous devriez vous entraîner. "
+},
+"an3.92:3.4":{
+"verse":""
 }
 }
 }
@@ -12263,6 +14552,9 @@
 },
 "an3.93:7.4":{
 "verse":"on dit de lui que c’est un mendiant qui a atteint l’excellence, qui a atteint l’essentiel, qui est pur, et qui s’est établi dans l’essentiel. "
+},
+"an3.93:7.5":{
+"verse":""
 }
 }
 }
@@ -12297,6 +14589,9 @@
 },
 "an3.94:3.3":{
 "verse":"Si, mendiants, le noble disciple meurt à ce moment-là, il n’y a pas d’entrave spirituelle entravé par laquelle il reviendrait une nouvelle fois en ce monde. "
+},
+"an3.94:3.4":{
+"verse":""
 }
 }
 }
@@ -12316,6 +14611,12 @@
 },
 "an3.99:1.1":{
 "verse":"« La toile de jute est laide, désagréable au toucher, et sans valeur qu'elle soit neuve, légèrement usée ou déchirée. "
+},
+"an3.99:1.2":{
+"verse":""
+},
+"an3.99:1.3":{
+"verse":""
 },
 "an3.99:1.4":{
 "verse":"Ils utilisent la toile de jute déchirée pour récurer les chaudrons, ou alors simplement ils la jettent sur le tas d'ordure. "
@@ -12353,8 +14654,26 @@
 "an3.99:2.11":{
 "verse":"Si une personne monastique senior est sans éthique, de mauvais caractère, c'est ainsi qu'elle est laide, je le dis... "
 },
+"an3.99:2.12":{
+"verse":""
+},
 "an3.99:2.13":{
 "verse":"Si vous vous associez avec, accompagnez, vous occupez de lui, en suivant son exemple, ce sera cause pour vous de maux et souffrances durables... "
+},
+"an3.99:2.14":{
+"verse":""
+},
+"an3.99:2.15":{
+"verse":""
+},
+"an3.99:2.16":{
+"verse":""
+},
+"an3.99:2.17":{
+"verse":""
+},
+"an3.99:2.18":{
+"verse":""
 },
 "an3.99:3.1":{
 "verse":"Si une telle personne monastique senior parle parmi la Sangha, "
@@ -12424,6 +14743,9 @@
 },
 "an3.99:6.6":{
 "verse":"C'est ainsi que vous devriez pratiquer. » "
+},
+"an3.99:6.7":{
+"verse":""
 }
 }
 }
@@ -12588,6 +14910,12 @@
 "an3.100:12.3":{
 "verse":"C’est pour un individu de cette sorte, mendiants, que (les effets de) la même sorte de mauvaise action anodine sont à ressentir dans le monde visible, sans qu’(un reste) même minime soit perçu, et encore moins qu’il y en ait un important. "
 },
+"an3.100:13.1":{
+"verse":""
+},
+"an3.100:13.2":{
+"verse":""
+},
 "an3.100:13.3":{
 "verse":"Mendiants, c’est tout comme un marchand ou un boucher de moutons : il peut faire exécuter ou emprisonner un certain individu qui a volé un des moutons, ou bien lui faire payer une amende, ou faire de lui ce qu’il veut, tandis qu’il ne peut pas faire exécuter ni emprisonner un autre individu qui a volé un des moutons, ni lui faire payer une amende, ni faire de lui ce qu’il veut. "
 },
@@ -12650,6 +14978,9 @@
 },
 "an3.100:18.4":{
 "verse":"“Lorsqu’une personne réalise une action (dont les effets sont) à ressentir d’une certaine manière, c’est de cette même manière qu’elle fait l’expérience de son résultat”, dans ce cas-là on peut vivre la vie brahmique, et une opportunité de mettre correctement un terme au mal-être est discernée. "
+},
+"an3.100:18.5":{
+"verse":""
 }
 }
 }
@@ -12810,6 +15141,9 @@
 },
 "an3.101:8.2":{
 "verse":"il est capable d’obtenir cela lorsqu’il y en a la possibilité. "
+},
+"an3.101:8.3":{
+"verse":""
 }
 }
 }
@@ -12890,11 +15224,41 @@
 "an3.102:4.2":{
 "verse":"S’il souhaite : “Avec l’élément oreille dévique (…) Puissé-je comprendre l’esprit des autres êtres (…) Puissé-je me rappeler mes diverses existences passées (…) Avec l’œil déva, qui est pur et au-delà de l’état humain (…) en fonction de leurs actions”, il est capable d’obtenir (tout) cela lorsqu’il y en a la possibilité. "
 },
+"an3.102:4.3":{
+"verse":""
+},
+"an3.102:4.4":{
+"verse":""
+},
 "an3.102:4.5":{
 "verse":"S’il souhaite : “Avec l’élimination complète des impuretés mentales, puissé-je entrer et demeurer dans ce monde visible dans la libération de l’esprit sans impureté, dans la libération par le discernement, en l’ayant réalisée pour moi-même par connaissance directe”, il est capable d’obtenir cela lorsqu’il y en a la possibilité. "
 },
 "an3.102:4.6":{
 "verse":"il est capable d’obtenir cela lorsqu’il y en a la possibilité. "
+},
+"an3.102:4.7":{
+"verse":""
+},
+"an3.102:4.8":{
+"verse":""
+},
+"an3.102:5.0":{
+"verse":""
+},
+"an3.102:5.1":{
+"verse":""
+},
+"an3.102:5.2":{
+"verse":""
+},
+"an3.102:5.3":{
+"verse":""
+},
+"an3.102:5.4":{
+"verse":""
+},
+"an3.102:5.5":{
+"verse":""
 }
 }
 }
@@ -12941,6 +15305,9 @@
 },
 "an3.103:1.10":{
 "verse":"“La libération de mon esprit est inébranlable, ceci est ma dernière naissance, maintenant il n’y aura plus d’existence supplémentaire.” "
+},
+"an3.103:1.11":{
+"verse":""
 }
 }
 }
@@ -12953,6 +15320,42 @@
 "verse":""
 },
 "an3.104:0.2":{
+"verse":""
+},
+"an3.104:0.3":{
+"verse":""
+},
+"an3.104:1.1":{
+"verse":""
+},
+"an3.104:1.2":{
+"verse":""
+},
+"an3.104:1.3":{
+"verse":""
+},
+"an3.104:1.4":{
+"verse":""
+},
+"an3.104:1.5":{
+"verse":""
+},
+"an3.104:1.6":{
+"verse":""
+},
+"an3.104:1.7":{
+"verse":""
+},
+"an3.104:1.8":{
+"verse":""
+},
+"an3.104:1.9":{
+"verse":""
+},
+"an3.104:1.10":{
+"verse":""
+},
+"an3.104:1.11":{
 "verse":""
 }
 }
@@ -12982,6 +15385,9 @@
 },
 "an3.107:1.4":{
 "verse":"C’est pourquoi, mendiants, ayant complètement renoncé au chant, ayant complètement renoncé à la danse, il est convenable à ceux qui se réjouissent dans le Dhamma de sourire avec présence d’esprit, de sourire modérément. "
+},
+"an3.107:1.5":{
+"verse":""
 }
 }
 }
@@ -13016,6 +15422,9 @@
 },
 "an3.108:1.6":{
 "verse":"Voici, mendiants, quels sont les trois laisser-aller dans lesquels on ne trouve pas de satiété. "
+},
+"an3.108:1.7":{
+"verse":""
 }
 }
 }
@@ -13101,6 +15510,9 @@
 },
 "an3.109:6.4":{
 "verse":"Pour celui chez qui les actions corporelles ne sont pas pourries, les actions verbales ne sont pas pourries et les actions mentales ne sont pas pourries, la mort est favorable, le trépas est favorable. » "
+},
+"an3.109:6.5":{
+"verse":""
 }
 }
 }
@@ -13159,6 +15571,9 @@
 },
 "an3.111:2.7":{
 "verse":"Voici, mendiants, quelles sont ces trois causes de la production des actions. "
+},
+"an3.111:2.8":{
+"verse":""
 }
 }
 }
@@ -13307,6 +15722,24 @@
 },
 "an3.112:7.5":{
 "verse":"Voici, mendiants, comment un désir ne prend pas naissance en relation aux phénomènes du présent qui suscitent désir & avidité. "
+},
+"an3.112:7.6":{
+"verse":""
+},
+"an3.112:8.0":{
+"verse":""
+},
+"an3.112:8.1":{
+"verse":""
+},
+"an3.112:8.2":{
+"verse":""
+},
+"an3.112:8.3":{
+"verse":""
+},
+"an3.112:8.4":{
+"verse":""
 }
 }
 }
@@ -13341,6 +15774,9 @@
 },
 "an3.113:1.6":{
 "verse":"Ces trois (individus), mendiants, s’ils n’abandonnent pas cela, se destinent à une existence infortunée, à l’enfer. "
+},
+"an3.113:1.7":{
+"verse":""
 }
 }
 }
@@ -13369,6 +15805,9 @@
 },
 "an3.114:1.4":{
 "verse":"Mendiants, la manifestation de ces trois (individus) est rare dans le monde. "
+},
+"an3.114:1.5":{
+"verse":""
 }
 }
 }
@@ -13487,6 +15926,9 @@
 },
 "an3.117:7.8":{
 "verse":"Voici, mendiants, quels sont ces trois accomplissements. "
+},
+"an3.117:7.9":{
+"verse":""
 }
 }
 }
@@ -13587,6 +16029,9 @@
 },
 "an3.119:6.5":{
 "verse":"Voici, mendiants, quels sont ces trois accomplissements. "
+},
+"an3.119:6.6":{
+"verse":""
 }
 }
 }
@@ -13642,6 +16087,9 @@
 },
 "an3.120:3.4":{
 "verse":"Voici, mendiants, quelles sont ces trois puretés. "
+},
+"an3.120:3.5":{
+"verse":""
 }
 }
 }
@@ -13709,6 +16157,21 @@
 },
 "an3.121:3.8":{
 "verse":"Voici, mendiants, quelles sont ces trois puretés. "
+},
+"an3.121:4.1":{
+"verse":""
+},
+"an3.121:4.2":{
+"verse":""
+},
+"an3.121:4.3":{
+"verse":""
+},
+"an3.121:4.4":{
+"verse":""
+},
+"an3.121:4.5":{
+"verse":""
 }
 }
 }
@@ -13824,6 +16287,9 @@
 },
 "an3.123:5.9":{
 "verse":"Parce que le mendiant reste assidu. » "
+},
+"an3.123:5.10":{
+"verse":""
 }
 }
 }
@@ -13912,6 +16378,9 @@
 },
 "an3.124:2.12":{
 "verse":"“Certainement, ces vénérables ont abandonné ces trois choses et ont abondamment pratiqué ces trois choses.” "
+},
+"an3.124:2.13":{
+"verse":""
 }
 }
 }
@@ -14042,6 +16511,9 @@
 },
 "an3.128:9.4":{
 "verse":"S’étant débarrassés des mouches. "
+},
+"an3.128:9.5":{
+"verse":""
 }
 }
 }
@@ -14106,6 +16578,9 @@
 },
 "an3.130:3.4":{
 "verse":"Alors le vénérable Anourouddha devint l’un des Méritants. "
+},
+"an3.130:3.5":{
+"verse":""
 }
 }
 }
@@ -14191,6 +16666,27 @@
 },
 "an3.132:3.6":{
 "verse":"Voici, mendiants, quels sont ces trois (types d’)individus que l’on trouve dans le monde. "
+},
+"an3.132:3.7":{
+"verse":""
+},
+"an3.132:3.8":{
+"verse":""
+},
+"an3.132:4.0":{
+"verse":""
+},
+"an3.132:4.1":{
+"verse":""
+},
+"an3.132:4.2":{
+"verse":""
+},
+"an3.132:4.3":{
+"verse":""
+},
+"an3.132:4.4":{
+"verse":""
 }
 }
 }
@@ -14219,6 +16715,9 @@
 },
 "an3.135:1.4":{
 "verse":"Un ami qui est pourvu de ces trois caractéristiques, mendiants, est à fréquenter. "
+},
+"an3.135:1.5":{
+"verse":""
 }
 }
 }
@@ -14280,6 +16779,9 @@
 },
 "an3.136:1.15":{
 "verse":"“Tous les phénomènes sont sans auteur-témoin-possesseur”. "
+},
+"an3.136:1.16":{
+"verse":""
 }
 }
 }
@@ -14308,6 +16810,9 @@
 },
 "an3.154:1.4":{
 "verse":"Voici, mendiants, quels sont ces trois (types d’)hommage. "
+},
+"an3.154:1.5":{
+"verse":""
 }
 }
 }
@@ -14333,6 +16838,72 @@
 },
 "an3.155:3.1":{
 "verse":"Mendiants, les êtres vivants qui le soir venu s’engagent dans la bonne conduite corporelle, s’engagent dans la bonne conduite verbale, et s’engagent dans la bonne conduite mentale, ces êtres-là passent une “bonne” soirée. "
+},
+"an3.155:4.1":{
+"verse":""
+},
+"an3.155:4.2":{
+"verse":""
+},
+"an3.155:4.3":{
+"verse":""
+},
+"an3.155:4.4":{
+"verse":""
+},
+"an3.155:5.1":{
+"verse":""
+},
+"an3.155:5.2":{
+"verse":""
+},
+"an3.155:5.3":{
+"verse":""
+},
+"an3.155:5.4":{
+"verse":""
+},
+"an3.155:5.5":{
+"verse":""
+},
+"an3.155:5.6":{
+"verse":""
+},
+"an3.155:6.1":{
+"verse":""
+},
+"an3.155:6.2":{
+"verse":""
+},
+"an3.155:6.3":{
+"verse":""
+},
+"an3.155:6.4":{
+"verse":""
+},
+"an3.155:6.5":{
+"verse":""
+},
+"an3.155:6.6":{
+"verse":""
+},
+"an3.155:7.0":{
+"verse":""
+},
+"an3.155:7.1":{
+"verse":""
+},
+"an3.155:7.2":{
+"verse":""
+},
+"an3.155:7.3":{
+"verse":""
+},
+"an3.155:7.4":{
+"verse":""
+},
+"an3.155:7.5":{
+"verse":""
 }
 }
 }
@@ -14568,6 +17139,24 @@
 },
 "an3.162:1.10":{
 "verse":"Voici, mendiants, quelles sont ces trois manières de pratiquer. "
+},
+"an3.162:1.11":{
+"verse":""
+},
+"an3.162:2.0":{
+"verse":""
+},
+"an3.162:2.1":{
+"verse":""
+},
+"an3.162:2.2":{
+"verse":""
+},
+"an3.162:2.3":{
+"verse":""
+},
+"an3.162:2.4":{
+"verse":""
 }
 }
 }
@@ -14662,6 +17251,30 @@
 },
 "an3.182:1.2":{
 "verse":"Mendiants, celui qui est pourvu de ces trois attitudes va au paradis comme s’il y était emmené et déposé. "
+},
+"an3.182:1.3":{
+"verse":""
+},
+"an3.182:2.0":{
+"verse":""
+},
+"an3.182:2.1":{
+"verse":""
+},
+"an3.182:2.2":{
+"verse":""
+},
+"an3.182:2.3":{
+"verse":""
+},
+"an3.182:2.4":{
+"verse":""
+},
+"an3.182:2.5":{
+"verse":""
+},
+"an3.182:2.6":{
+"verse":""
 }
 }
 }
@@ -14723,6 +17336,45 @@
 },
 "an4.3:3.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.3:3.2":{
+"verse":""
+},
+"an4.3:3.3":{
+"verse":""
+},
+"an4.3:3.4":{
+"verse":""
+},
+"an4.3:4.1":{
+"verse":""
+},
+"an4.3:4.2":{
+"verse":""
+},
+"an4.3:4.3":{
+"verse":""
+},
+"an4.3:4.4":{
+"verse":""
+},
+"an4.3:4.5":{
+"verse":""
+},
+"an4.3:5.1":{
+"verse":""
+},
+"an4.3:5.2":{
+"verse":""
+},
+"an4.3:5.3":{
+"verse":""
+},
+"an4.3:5.4":{
+"verse":""
+},
+"an4.3:5.5":{
+"verse":""
 }
 }
 }
@@ -14772,6 +17424,66 @@
 },
 "an4.4:3.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.4:3.2":{
+"verse":""
+},
+"an4.4:3.3":{
+"verse":""
+},
+"an4.4:3.4":{
+"verse":""
+},
+"an4.4:3.5":{
+"verse":""
+},
+"an4.4:3.6":{
+"verse":""
+},
+"an4.4:4.1":{
+"verse":""
+},
+"an4.4:4.2":{
+"verse":""
+},
+"an4.4:4.3":{
+"verse":""
+},
+"an4.4:4.4":{
+"verse":""
+},
+"an4.4:5.1":{
+"verse":""
+},
+"an4.4:5.2":{
+"verse":""
+},
+"an4.4:5.3":{
+"verse":""
+},
+"an4.4:5.4":{
+"verse":""
+},
+"an4.4:5.5":{
+"verse":""
+},
+"an4.4:5.6":{
+"verse":""
+},
+"an4.4:6.1":{
+"verse":""
+},
+"an4.4:6.2":{
+"verse":""
+},
+"an4.4:6.3":{
+"verse":""
+},
+"an4.4:6.4":{
+"verse":""
+},
+"an4.4:6.5":{
+"verse":""
 }
 }
 }
@@ -14839,6 +17551,54 @@
 },
 "an4.5:5.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.5:5.2":{
+"verse":""
+},
+"an4.5:5.3":{
+"verse":""
+},
+"an4.5:5.4":{
+"verse":""
+},
+"an4.5:6.1":{
+"verse":""
+},
+"an4.5:6.2":{
+"verse":""
+},
+"an4.5:6.3":{
+"verse":""
+},
+"an4.5:6.4":{
+"verse":""
+},
+"an4.5:7.1":{
+"verse":""
+},
+"an4.5:7.2":{
+"verse":""
+},
+"an4.5:7.3":{
+"verse":""
+},
+"an4.5:7.4":{
+"verse":""
+},
+"an4.5:8.1":{
+"verse":""
+},
+"an4.5:8.2":{
+"verse":""
+},
+"an4.5:8.3":{
+"verse":""
+},
+"an4.5:8.4":{
+"verse":""
+},
+"an4.5:8.5":{
+"verse":""
 }
 }
 }
@@ -14939,6 +17699,72 @@
 },
 "an4.6:5.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.6:5.2":{
+"verse":""
+},
+"an4.6:5.3":{
+"verse":""
+},
+"an4.6:5.4":{
+"verse":""
+},
+"an4.6:6.1":{
+"verse":""
+},
+"an4.6:6.2":{
+"verse":""
+},
+"an4.6:6.3":{
+"verse":""
+},
+"an4.6:6.4":{
+"verse":""
+},
+"an4.6:7.1":{
+"verse":""
+},
+"an4.6:7.2":{
+"verse":""
+},
+"an4.6:7.3":{
+"verse":""
+},
+"an4.6:7.4":{
+"verse":""
+},
+"an4.6:8.1":{
+"verse":""
+},
+"an4.6:8.2":{
+"verse":""
+},
+"an4.6:8.3":{
+"verse":""
+},
+"an4.6:8.4":{
+"verse":""
+},
+"an4.6:9.1":{
+"verse":""
+},
+"an4.6:9.2":{
+"verse":""
+},
+"an4.6:9.3":{
+"verse":""
+},
+"an4.6:9.4":{
+"verse":""
+},
+"an4.6:9.5":{
+"verse":""
+},
+"an4.6:9.6":{
+"verse":""
+},
+"an4.6:9.7":{
+"verse":""
 }
 }
 }
@@ -14979,6 +17805,36 @@
 },
 "an4.7:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.7:2.2":{
+"verse":""
+},
+"an4.7:2.3":{
+"verse":""
+},
+"an4.7:2.4":{
+"verse":""
+},
+"an4.7:3.1":{
+"verse":""
+},
+"an4.7:3.2":{
+"verse":""
+},
+"an4.7:3.3":{
+"verse":""
+},
+"an4.7:3.4":{
+"verse":""
+},
+"an4.7:3.5":{
+"verse":""
+},
+"an4.7:3.6":{
+"verse":""
+},
+"an4.7:3.7":{
+"verse":""
 }
 }
 }
@@ -15040,6 +17896,9 @@
 },
 "an4.9:3.4":{
 "verse":"Un mendiant devrait aller présent d’esprit. "
+},
+"an4.9:3.5":{
+"verse":""
 }
 }
 }
@@ -15209,6 +18068,60 @@
 },
 "an4.10:9.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.10:9.2":{
+"verse":""
+},
+"an4.10:9.3":{
+"verse":""
+},
+"an4.10:9.4":{
+"verse":""
+},
+"an4.10:10.1":{
+"verse":""
+},
+"an4.10:10.2":{
+"verse":""
+},
+"an4.10:10.3":{
+"verse":""
+},
+"an4.10:10.4":{
+"verse":""
+},
+"an4.10:11.1":{
+"verse":""
+},
+"an4.10:11.2":{
+"verse":""
+},
+"an4.10:11.3":{
+"verse":""
+},
+"an4.10:11.4":{
+"verse":""
+},
+"an4.10:11.5":{
+"verse":""
+},
+"an4.10:11.6":{
+"verse":""
+},
+"an4.10:12.0":{
+"verse":""
+},
+"an4.10:12.1":{
+"verse":""
+},
+"an4.10:12.2":{
+"verse":""
+},
+"an4.10:12.3":{
+"verse":""
+},
+"an4.10:12.4":{
+"verse":""
 }
 }
 }
@@ -15339,6 +18252,9 @@
 },
 "an4.11:11.6":{
 "verse":"De toucher l’éveil suprême. "
+},
+"an4.11:11.7":{
+"verse":""
 }
 }
 }
@@ -15376,6 +18292,42 @@
 },
 "an4.12:6.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.12:6.2":{
+"verse":""
+},
+"an4.12:6.3":{
+"verse":""
+},
+"an4.12:6.4":{
+"verse":""
+},
+"an4.12:7.1":{
+"verse":""
+},
+"an4.12:7.2":{
+"verse":""
+},
+"an4.12:7.3":{
+"verse":""
+},
+"an4.12:7.4":{
+"verse":""
+},
+"an4.12:8.1":{
+"verse":""
+},
+"an4.12:8.2":{
+"verse":""
+},
+"an4.12:8.3":{
+"verse":""
+},
+"an4.12:8.4":{
+"verse":""
+},
+"an4.12:8.5":{
+"verse":""
 }
 }
 }
@@ -15416,6 +18368,18 @@
 },
 "an4.13:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.13:2.2":{
+"verse":""
+},
+"an4.13:2.3":{
+"verse":""
+},
+"an4.13:2.4":{
+"verse":""
+},
+"an4.13:2.5":{
+"verse":""
 }
 }
 }
@@ -15531,6 +18495,24 @@
 },
 "an4.14:5.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.14:5.2":{
+"verse":""
+},
+"an4.14:5.3":{
+"verse":""
+},
+"an4.14:5.4":{
+"verse":""
+},
+"an4.14:5.5":{
+"verse":""
+},
+"an4.14:5.6":{
+"verse":""
+},
+"an4.14:5.7":{
+"verse":""
 }
 }
 }
@@ -15571,6 +18553,9 @@
 },
 "an4.17:2.4":{
 "verse":"Comme la lune durant sa quinzaine sombre. "
+},
+"an4.17:2.5":{
+"verse":""
 }
 }
 }
@@ -15722,6 +18707,9 @@
 },
 "an4.21:12.4":{
 "verse":"Et maintenant que la Communauté a elle aussi atteint sa grandeur, mendiants, j’ai du respect envers elle. "
+},
+"an4.21:12.5":{
+"verse":""
 }
 }
 }
@@ -15810,6 +18798,60 @@
 },
 "an4.22:5.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.22:5.2":{
+"verse":""
+},
+"an4.22:5.3":{
+"verse":""
+},
+"an4.22:5.4":{
+"verse":""
+},
+"an4.22:5.5":{
+"verse":""
+},
+"an4.22:5.6":{
+"verse":""
+},
+"an4.22:6.1":{
+"verse":""
+},
+"an4.22:6.2":{
+"verse":""
+},
+"an4.22:6.3":{
+"verse":""
+},
+"an4.22:6.4":{
+"verse":""
+},
+"an4.22:7.1":{
+"verse":""
+},
+"an4.22:7.2":{
+"verse":""
+},
+"an4.22:7.3":{
+"verse":""
+},
+"an4.22:7.4":{
+"verse":""
+},
+"an4.22:8.1":{
+"verse":""
+},
+"an4.22:8.2":{
+"verse":""
+},
+"an4.22:8.3":{
+"verse":""
+},
+"an4.22:8.4":{
+"verse":""
+},
+"an4.22:8.5":{
+"verse":""
 }
 }
 }
@@ -15880,6 +18922,90 @@
 },
 "an4.23:6.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.23:6.2":{
+"verse":""
+},
+"an4.23:6.3":{
+"verse":""
+},
+"an4.23:6.4":{
+"verse":""
+},
+"an4.23:7.1":{
+"verse":""
+},
+"an4.23:7.2":{
+"verse":""
+},
+"an4.23:7.3":{
+"verse":""
+},
+"an4.23:7.4":{
+"verse":""
+},
+"an4.23:8.1":{
+"verse":""
+},
+"an4.23:8.2":{
+"verse":""
+},
+"an4.23:8.3":{
+"verse":""
+},
+"an4.23:8.4":{
+"verse":""
+},
+"an4.23:9.1":{
+"verse":""
+},
+"an4.23:9.2":{
+"verse":""
+},
+"an4.23:9.3":{
+"verse":""
+},
+"an4.23:9.4":{
+"verse":""
+},
+"an4.23:10.1":{
+"verse":""
+},
+"an4.23:10.2":{
+"verse":""
+},
+"an4.23:10.3":{
+"verse":""
+},
+"an4.23:10.4":{
+"verse":""
+},
+"an4.23:11.1":{
+"verse":""
+},
+"an4.23:11.2":{
+"verse":""
+},
+"an4.23:11.3":{
+"verse":""
+},
+"an4.23:11.4":{
+"verse":""
+},
+"an4.23:12.1":{
+"verse":""
+},
+"an4.23:12.2":{
+"verse":""
+},
+"an4.23:12.3":{
+"verse":""
+},
+"an4.23:12.4":{
+"verse":""
+},
+"an4.23:12.5":{
+"verse":""
 }
 }
 }
@@ -15905,6 +19031,36 @@
 },
 "an4.25:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.25:2.2":{
+"verse":""
+},
+"an4.25:2.3":{
+"verse":""
+},
+"an4.25:2.4":{
+"verse":""
+},
+"an4.25:2.5":{
+"verse":""
+},
+"an4.25:2.6":{
+"verse":""
+},
+"an4.25:3.1":{
+"verse":""
+},
+"an4.25:3.2":{
+"verse":""
+},
+"an4.25:3.3":{
+"verse":""
+},
+"an4.25:3.4":{
+"verse":""
+},
+"an4.25:3.5":{
+"verse":""
 }
 }
 }
@@ -15936,6 +19092,30 @@
 },
 "an4.26:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.26:2.2":{
+"verse":""
+},
+"an4.26:2.3":{
+"verse":""
+},
+"an4.26:2.4":{
+"verse":""
+},
+"an4.26:3.1":{
+"verse":""
+},
+"an4.26:3.2":{
+"verse":""
+},
+"an4.26:3.3":{
+"verse":""
+},
+"an4.26:3.4":{
+"verse":""
+},
+"an4.26:3.5":{
+"verse":""
 }
 }
 }
@@ -16006,6 +19186,9 @@
 },
 "an4.27:3.4":{
 "verse":"Qui se contente de peu et est diligent. "
+},
+"an4.27:3.5":{
+"verse":""
 }
 }
 }
@@ -16088,6 +19271,36 @@
 },
 "an4.28:6.1":{
 "verse":"(les strophes récapitulatives finales ont été omises) "
+},
+"an4.28:6.2":{
+"verse":""
+},
+"an4.28:6.3":{
+"verse":""
+},
+"an4.28:6.4":{
+"verse":""
+},
+"an4.28:7.1":{
+"verse":""
+},
+"an4.28:7.2":{
+"verse":""
+},
+"an4.28:7.3":{
+"verse":""
+},
+"an4.28:7.4":{
+"verse":""
+},
+"an4.28:7.5":{
+"verse":""
+},
+"an4.28:7.6":{
+"verse":""
+},
+"an4.28:7.7":{
+"verse":""
 }
 }
 }
@@ -16128,6 +19341,18 @@
 },
 "an4.29:5.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.29:5.2":{
+"verse":""
+},
+"an4.29:5.3":{
+"verse":""
+},
+"an4.29:5.4":{
+"verse":""
+},
+"an4.29:5.5":{
+"verse":""
 }
 }
 }
@@ -16159,6 +19384,24 @@
 },
 "an4.31:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.31:2.2":{
+"verse":""
+},
+"an4.31:2.3":{
+"verse":""
+},
+"an4.31:2.4":{
+"verse":""
+},
+"an4.31:2.5":{
+"verse":""
+},
+"an4.31:2.6":{
+"verse":""
+},
+"an4.31:2.7":{
+"verse":""
 }
 }
 }
@@ -16190,6 +19433,48 @@
 },
 "an4.32:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.32:2.2":{
+"verse":""
+},
+"an4.32:2.3":{
+"verse":""
+},
+"an4.32:2.4":{
+"verse":""
+},
+"an4.32:2.5":{
+"verse":""
+},
+"an4.32:2.6":{
+"verse":""
+},
+"an4.32:3.1":{
+"verse":""
+},
+"an4.32:3.2":{
+"verse":""
+},
+"an4.32:3.3":{
+"verse":""
+},
+"an4.32:3.4":{
+"verse":""
+},
+"an4.32:4.1":{
+"verse":""
+},
+"an4.32:4.2":{
+"verse":""
+},
+"an4.32:4.3":{
+"verse":""
+},
+"an4.32:4.4":{
+"verse":""
+},
+"an4.32:4.5":{
+"verse":""
 }
 }
 }
@@ -16251,6 +19536,57 @@
 },
 "an4.34:4.4":{
 "verse":"Voici, mendiants, quelles sont ces quatre confiances les plus éminentes. "
+},
+"an4.34:5.1":{
+"verse":""
+},
+"an4.34:5.2":{
+"verse":""
+},
+"an4.34:5.3":{
+"verse":""
+},
+"an4.34:5.4":{
+"verse":""
+},
+"an4.34:6.1":{
+"verse":""
+},
+"an4.34:6.2":{
+"verse":""
+},
+"an4.34:6.3":{
+"verse":""
+},
+"an4.34:6.4":{
+"verse":""
+},
+"an4.34:7.1":{
+"verse":""
+},
+"an4.34:7.2":{
+"verse":""
+},
+"an4.34:7.3":{
+"verse":""
+},
+"an4.34:7.4":{
+"verse":""
+},
+"an4.34:8.1":{
+"verse":""
+},
+"an4.34:8.2":{
+"verse":""
+},
+"an4.34:8.3":{
+"verse":""
+},
+"an4.34:8.4":{
+"verse":""
+},
+"an4.34:8.5":{
+"verse":""
 }
 }
 }
@@ -16384,6 +19720,9 @@
 },
 "an4.37:8.4":{
 "verse":"Il est dans le voisinage de l’Extinction. "
+},
+"an4.37:8.5":{
+"verse":""
 }
 }
 }
@@ -16484,6 +19823,21 @@
 },
 "an4.41:5.10":{
 "verse":"qui, lorsqu’elle est développée et cultivée, mène à l’élimination complète des impuretés mentales. "
+},
+"an4.41:6.1":{
+"verse":""
+},
+"an4.41:6.2":{
+"verse":""
+},
+"an4.41:6.3":{
+"verse":""
+},
+"an4.41:6.4":{
+"verse":""
+},
+"an4.41:6.5":{
+"verse":""
 }
 }
 }
@@ -16524,6 +19878,54 @@
 },
 "an4.42:2.1":{
 "verse":"(Une récapitulation finale en vers n’a pas été traduite) "
+},
+"an4.42:2.2":{
+"verse":""
+},
+"an4.42:2.3":{
+"verse":""
+},
+"an4.42:2.4":{
+"verse":""
+},
+"an4.42:3.1":{
+"verse":""
+},
+"an4.42:3.2":{
+"verse":""
+},
+"an4.42:3.3":{
+"verse":""
+},
+"an4.42:3.4":{
+"verse":""
+},
+"an4.42:4.1":{
+"verse":""
+},
+"an4.42:4.2":{
+"verse":""
+},
+"an4.42:4.3":{
+"verse":""
+},
+"an4.42:4.4":{
+"verse":""
+},
+"an4.42:5.1":{
+"verse":""
+},
+"an4.42:5.2":{
+"verse":""
+},
+"an4.42:5.3":{
+"verse":""
+},
+"an4.42:5.4":{
+"verse":""
+},
+"an4.42:5.5":{
+"verse":""
 }
 }
 }
@@ -16587,6 +19989,42 @@
 "verse":""
 },
 "an4.45:5.3":{
+"verse":""
+},
+"an4.45:6.1":{
+"verse":""
+},
+"an4.45:6.2":{
+"verse":""
+},
+"an4.45:6.3":{
+"verse":""
+},
+"an4.45:7.1":{
+"verse":""
+},
+"an4.45:7.2":{
+"verse":""
+},
+"an4.45:7.3":{
+"verse":""
+},
+"an4.45:7.4":{
+"verse":""
+},
+"an4.45:8.1":{
+"verse":""
+},
+"an4.45:8.2":{
+"verse":""
+},
+"an4.45:8.3":{
+"verse":""
+},
+"an4.45:8.4":{
+"verse":""
+},
+"an4.45:8.5":{
 "verse":""
 }
 }
@@ -16712,6 +20150,9 @@
 },
 "an4.49:7.4":{
 "verse":"Ils ont vaincu tout le mal-être. "
+},
+"an4.49:7.5":{
+"verse":""
 }
 }
 }
@@ -16791,6 +20232,9 @@
 },
 "an6.47:4.2":{
 "verse":"A partir de ce jour, que le Bouddha se souvienne de moi comme un adepte laïc qui a pris refuge pour la vie. » "
+},
+"an6.47:4.3":{
+"verse":""
 }
 }
 }
@@ -16876,6 +20320,9 @@
 },
 "an6.49:5.4":{
 "verse":"Ils vivent libérés des fers. » "
+},
+"an6.49:5.5":{
+"verse":""
 }
 }
 }
@@ -17028,6 +20475,9 @@
 "an6.55:12.3":{
 "verse":"Mais cela ne doit pas être vu ainsi… "
 },
+"an6.55:12.4":{
+"verse":""
+},
 "an6.55:13.1":{
 "verse":"Il se peut, sire, qu’un des vénérables ici pense : "
 },
@@ -17036,6 +20486,9 @@
 },
 "an6.55:13.3":{
 "verse":"Mais cela ne doit pas être vu ainsi… "
+},
+"an6.55:13.4":{
+"verse":""
 },
 "an6.55:14.1":{
 "verse":"Il se consacre à l’extinction du désir parce qu’il est libéré de l’avidité, de la haine, et de l’illusion avec la fin de l’avidité, de la haine, et de l’illusion. "
@@ -17076,11 +20529,32 @@
 "an6.55:17.10":{
 "verse":"Même si des tempêtes violentes soufflaient de l’Est, de l’Ouest, du Nord, et du Sud, "
 },
+"an6.55:17.11":{
+"verse":""
+},
 "an6.55:17.12":{
 "verse":"elles ne pourraient pas la secouer, ni l’ébranler, ni la faire trembler. "
 },
 "an6.55:17.13":{
 "verse":"De la même façon, quand un membre monastique est à juste titre libéré ainsi, même si des vues entrent dans le champ de vision, elles ne dominent pas son esprit… "
+},
+"an6.55:17.14":{
+"verse":""
+},
+"an6.55:17.15":{
+"verse":""
+},
+"an6.55:17.16":{
+"verse":""
+},
+"an6.55:17.17":{
+"verse":""
+},
+"an6.55:17.18":{
+"verse":""
+},
+"an6.55:17.19":{
+"verse":""
 },
 "an6.55:17.20":{
 "verse":"Son esprit est tout à fait intact. Il est stable, imperturbable, il observe la disparition. "
@@ -17144,6 +20618,9 @@
 },
 "an6.55:22.4":{
 "verse":"alors qu’il observe la tombée. » "
+},
+"an6.55:22.5":{
+"verse":""
 }
 }
 }
@@ -17355,6 +20832,9 @@
 },
 "an6.56:15.1":{
 "verse":"Ceci sont les six bénéfices d’entendre l’enseignement au bon moment et d’en examiner le sens au bon moment. » "
+},
+"an6.56:15.2":{
+"verse":""
 }
 }
 }
@@ -17509,6 +20989,9 @@
 },
 "an7.71:6.2":{
 "verse":"De la même facon, quand un moine ou une nonne est engagé à se développer, leurs fers se désintègrent facilement et pourrissent. » "
+},
+"an7.71:6.3":{
+"verse":""
 }
 }
 }
@@ -17615,6 +21098,9 @@
 },
 "an8.1:7.4":{
 "verse":"vous n’aurez d’inimité envers quiconque. » "
+},
+"an8.1:7.5":{
+"verse":""
 }
 }
 }
@@ -17655,6 +21141,9 @@
 },
 "an8.4:2.4":{
 "verse":"Un moine ou une nonne avec ces huit particularités est apprécié et approuvé par ses compagnons spitituels, et est respecté et admiré. »"
+},
+"an8.4:2.5":{
+"verse":""
 }
 }
 }
@@ -17719,6 +21208,9 @@
 },
 "an8.5:4.4":{
 "verse":"ceux qui sont allés au-delà de la renaissance comprennent correctement. » "
+},
+"an8.5:4.5":{
+"verse":""
 }
 }
 }
@@ -17933,6 +21425,9 @@
 },
 "an8.6:9.4":{
 "verse":"ceux qui sont allés au-delà de la renaissance comprennent correctement. » "
+},
+"an8.6:9.5":{
+"verse":""
 }
 }
 }
@@ -18276,6 +21771,27 @@
 },
 "an8.30:25.4":{
 "verse":"et j’ai rempli les instructions du Bouddha. » "
+},
+"an8.30:25.5":{
+"verse":""
+},
+"an8.30:25.6":{
+"verse":""
+},
+"an8.30:26.0":{
+"verse":""
+},
+"an8.30:26.1":{
+"verse":""
+},
+"an8.30:26.2":{
+"verse":""
+},
+"an8.30:26.3":{
+"verse":""
+},
+"an8.30:26.4":{
+"verse":""
 }
 }
 }
@@ -18340,6 +21856,9 @@
 },
 "an8.82:2.3":{
 "verse":"Quand quelqu’un possède ces huit qualités, Celui-qui-a-realisé se sent complètement inspiré à enseigner.” "
+},
+"an8.82:2.4":{
+"verse":""
 }
 }
 }
@@ -18392,6 +21911,27 @@
 },
 "an9.3:3.1":{
 "verse":"Alors Vénérable Meghiya alla vers le Bouddha, s'inclina, s’assit sur un côté, et lui dit ce qui s’était passé, ajoutant, "
+},
+"an9.3:4.1":{
+"verse":""
+},
+"an9.3:4.2":{
+"verse":""
+},
+"an9.3:4.3":{
+"verse":""
+},
+"an9.3:4.4":{
+"verse":""
+},
+"an9.3:4.5":{
+"verse":""
+},
+"an9.3:4.6":{
+"verse":""
+},
+"an9.3:4.7":{
+"verse":""
 },
 "an9.3:4.8":{
 "verse":"« Si le Bouddha me le permet, je retournerai dans ce bois de manguiers pour méditer. »"
@@ -18459,6 +21999,27 @@
 "an9.3:8.1":{
 "verse":"Alors Vénérable Meghiya alla vers le Bouddha, s'inclina, s’assit sur un côté, et lui dit ce qui c’était passé. "
 },
+"an9.3:9.1":{
+"verse":""
+},
+"an9.3:9.2":{
+"verse":""
+},
+"an9.3:9.3":{
+"verse":""
+},
+"an9.3:9.4":{
+"verse":""
+},
+"an9.3:9.5":{
+"verse":""
+},
+"an9.3:9.6":{
+"verse":""
+},
+"an9.3:9.7":{
+"verse":""
+},
 "an9.3:10.1":{
 "verse":"« Meghiya, quand la libération du coeur n’est pas développée, cinq choses l’aide à se développer. "
 },
@@ -18524,6 +22085,9 @@
 },
 "an9.3:19.4":{
 "verse":"Percevant l’absence de soi, on déracine l’orgueil du ’je suis’ et on atteint l’extinction dans cette vie même. »"
+},
+"an9.3:19.5":{
+"verse":""
 }
 }
 }
@@ -18729,6 +22293,9 @@
 "verse":""
 },
 "an10.17:11.3":{
+"verse":""
+},
+"an10.17:11.4":{
 "verse":""
 }
 }
@@ -20172,6 +23739,81 @@
 },
 "an11.992-1151:1.9":{
 "verse":"de l’hypocrisie "
+},
+"an11.992-1151:1.10":{
+"verse":""
+},
+"an11.992-1151:1.11":{
+"verse":""
+},
+"an11.992-1151:1.12":{
+"verse":""
+},
+"an11.992-1151:1.13":{
+"verse":""
+},
+"an11.992-1151:1.14":{
+"verse":""
+},
+"an11.992-1151:1.15":{
+"verse":""
+},
+"an11.992-1151:1.16":{
+"verse":""
+},
+"an11.992-1151:1.17":{
+"verse":""
+},
+"an11.992-1151:1.18":{
+"verse":""
+},
+"an11.992-1151:1.19":{
+"verse":""
+},
+"an11.992-1151:1.20":{
+"verse":""
+},
+"an11.992-1151:1.21":{
+"verse":""
+},
+"an11.992-1151:1.22":{
+"verse":""
+},
+"an11.992-1151:1.23":{
+"verse":""
+},
+"an11.992-1151:1.24":{
+"verse":""
+},
+"an11.992-1151:1.25":{
+"verse":""
+},
+"an11.992-1151:2.1":{
+"verse":""
+},
+"an11.992-1151:2.2":{
+"verse":""
+},
+"an11.992-1151:2.3":{
+"verse":""
+},
+"an11.992-1151:3.1":{
+"verse":""
+},
+"an11.992-1151:3.2":{
+"verse":""
+},
+"an11.992-1151:3.3":{
+"verse":""
+},
+"an11.992-1151:3.4":{
+"verse":""
+},
+"an11.992-1151:3.5":{
+"verse":""
+},
+"an11.992-1151:3.6":{
+"verse":""
 }
 }
 }
@@ -20228,6 +23870,39 @@
 "mn18:6.2":{
 "verse":"et dit aux moines et aux nonnes ce qui c’était passé. "
 },
+"mn18:6.3":{
+"verse":""
+},
+"mn18:6.4":{
+"verse":""
+},
+"mn18:6.5":{
+"verse":""
+},
+"mn18:6.6":{
+"verse":""
+},
+"mn18:6.7":{
+"verse":""
+},
+"mn18:6.8":{
+"verse":""
+},
+"mn18:6.9":{
+"verse":""
+},
+"mn18:6.10":{
+"verse":""
+},
+"mn18:6.11":{
+"verse":""
+},
+"mn18:6.12":{
+"verse":""
+},
+"mn18:6.13":{
+"verse":""
+},
 "mn18:6.14":{
 "verse":"Quand il eût parlé, un des moines et des nonnes lui dit, "
 },
@@ -20261,6 +23936,18 @@
 "mn18:10.2":{
 "verse":"« Le Bouddha vient de nous donner ce bref résumé, puis il est entré dans son logis sans en expliquer le sens en détail. "
 },
+"mn18:10.3":{
+"verse":""
+},
+"mn18:10.4":{
+"verse":""
+},
+"mn18:10.5":{
+"verse":""
+},
+"mn18:10.6":{
+"verse":""
+},
 "mn18:10.7":{
 "verse":"Qui peut expliquer en détail le sens de ce bref résumé donné par le Bouddha ? » "
 },
@@ -20281,6 +23968,51 @@
 },
 "mn18:11.2":{
 "verse":"Quand les salutations et la conversation polie furent terminées, ils s’assirent sur le côté. Ils lui racontèrent ce qui c’était passé, et dirent : "
+},
+"mn18:11.3":{
+"verse":""
+},
+"mn18:11.4":{
+"verse":""
+},
+"mn18:11.5":{
+"verse":""
+},
+"mn18:11.6":{
+"verse":""
+},
+"mn18:11.7":{
+"verse":""
+},
+"mn18:11.8":{
+"verse":""
+},
+"mn18:11.9":{
+"verse":""
+},
+"mn18:11.10":{
+"verse":""
+},
+"mn18:11.11":{
+"verse":""
+},
+"mn18:11.12":{
+"verse":""
+},
+"mn18:11.13":{
+"verse":""
+},
+"mn18:11.14":{
+"verse":""
+},
+"mn18:11.15":{
+"verse":""
+},
+"mn18:11.16":{
+"verse":""
+},
+"mn18:11.17":{
+"verse":""
 },
 "mn18:11.18":{
 "verse":"« Puisse Vénérable Mahākaccāna expliquer ceci s’il-lui-plait. » "
@@ -20444,6 +24176,12 @@
 "mn18:19.1":{
 "verse":"C’est ainsi que je comprends le sens détaillé de ce résumé donné par le Bouddha. "
 },
+"mn18:19.2":{
+"verse":""
+},
+"mn18:19.3":{
+"verse":""
+},
 "mn18:19.4":{
 "verse":"Si vous voulez, vous pouvez aller vers le Bouddha et le questionner à propos de ceci. "
 },
@@ -20452,6 +24190,51 @@
 },
 "mn18:20.1":{
 "verse":"Alors ces moines et ces nonnes, approuvant et étant d’accord avec ce que Mahākaccāna avait dit, se levèrent de leurs sièges et allèrent vers le Bouddha, s’inclinèrent, s’assirent sur un côté, et lui dirent ce qui c’était passé, en ajoutant : "
+},
+"mn18:20.2":{
+"verse":""
+},
+"mn18:20.3":{
+"verse":""
+},
+"mn18:20.4":{
+"verse":""
+},
+"mn18:20.5":{
+"verse":""
+},
+"mn18:20.6":{
+"verse":""
+},
+"mn18:20.7":{
+"verse":""
+},
+"mn18:20.8":{
+"verse":""
+},
+"mn18:20.9":{
+"verse":""
+},
+"mn18:20.10":{
+"verse":""
+},
+"mn18:20.11":{
+"verse":""
+},
+"mn18:20.12":{
+"verse":""
+},
+"mn18:20.13":{
+"verse":""
+},
+"mn18:20.14":{
+"verse":""
+},
+"mn18:20.15":{
+"verse":""
+},
+"mn18:20.16":{
+"verse":""
 },
 "mn18:20.17":{
 "verse":"« Mahākaccāna nous a clairement expliqué le sens de cette façon, avec ces mots et ces phrases. » "
@@ -20485,6 +24268,9 @@
 },
 "mn18:22.7":{
 "verse":"Satisfait, Vénérable Ānanda approuva ce que le Bouddha avait dit. "
+},
+"mn18:22.8":{
+"verse":""
 }
 }
 }
@@ -20520,6 +24306,9 @@
 "mn67:3.3":{
 "verse":"Et Ānanda lui dit ce qui s’était passé. "
 },
+"mn67:3.4":{
+"verse":""
+},
 "mn67:4.1":{
 "verse":"« Bien alors, Ānanda, en mon nom, dis à ces moines que "
 },
@@ -20540,6 +24329,9 @@
 },
 "mn67:4.7":{
 "verse":"Et ils lui dirent ce qui s’était passé. "
+},
+"mn67:4.8":{
+"verse":""
 },
 "mn67:5.1":{
 "verse":"« Allez-vous en, moines, je vous renvoie. Vous n’êtez pas autorisés à rester en ma présence.» "
@@ -20627,6 +24419,9 @@
 },
 "mn67:9.5":{
 "verse":"Si des jeunes pousses n’obtiennent pas d’eau, elles peuvent changer et s’effondrer. … "
+},
+"mn67:9.6":{
+"verse":""
 },
 "mn67:9.7":{
 "verse":"Si un jeune veau ne voit pas sa mère, il peut changer et s’effondrer. "
@@ -20867,6 +24662,9 @@
 },
 "mn67:20.3":{
 "verse":"Satisfaits, les moines approuvèrent ce que le Bouddha avait dit. "
+},
+"mn67:20.4":{
+"verse":""
 }
 }
 }
@@ -20934,6 +24732,18 @@
 },
 "mn86:3.13":{
 "verse":"et une troisième fois, il pressèrent le Bouddha de revenir. "
+},
+"mn86:3.14":{
+"verse":""
+},
+"mn86:3.15":{
+"verse":""
+},
+"mn86:3.16":{
+"verse":""
+},
+"mn86:3.17":{
+"verse":""
 },
 "mn86:4.1":{
 "verse":"Mais quand ils dirent ceci, le Bouddha continua en silence. "
@@ -21106,6 +24916,12 @@
 "mn86:10.2":{
 "verse":"Dans mon royaume il y a un bandit appelé Aṅgulimāla. Il est violent, les mains couvertes de sang, un tueur endurci, impitoyable envers les êtres vivants… "
 },
+"mn86:10.3":{
+"verse":""
+},
+"mn86:10.4":{
+"verse":""
+},
 "mn86:10.5":{
 "verse":"Je dois l’arrêter. » "
 },
@@ -21210,6 +25026,18 @@
 },
 "mn86:14.6":{
 "verse":"Alors après avoir marché dans Sāvatthī pour la quête de nourriture, après le repas, à son retour de la quête, il alla vers le Bouddha, s’inclina, s’assit sur un côté, et lui dit ce qui c’était passé. Le Bouddha lui dit, "
+},
+"mn86:14.7":{
+"verse":""
+},
+"mn86:14.8":{
+"verse":""
+},
+"mn86:14.9":{
+"verse":""
+},
+"mn86:14.10":{
+"verse":""
 },
 "mn86:15.1":{
 "verse":"« Bien, alors, Aṅgulimāla, va vers cette femme et dit lui : "
@@ -21465,6 +25293,9 @@
 },
 "mn86:18.66":{
 "verse":"et rempli les instructions du Bouddha. » "
+},
+"mn86:18.67":{
+"verse":""
 }
 }
 }
@@ -21835,6 +25666,9 @@
 },
 "mn141:32.4":{
 "verse":"Satisfaites, les personnes monastiques approuvèrent ce que dit Sariputta. "
+},
+"mn141:32.5":{
+"verse":""
 }
 }
 }
@@ -22199,6 +26033,54 @@
 "sn3.4:2.1":{
 "verse":"« C’est tellement vrai, grand roi ! C’est tellement vrai ! » dit le Bouddha. Et il répéta la déclaration du roi, en ajoutant : "
 },
+"sn3.4:2.2":{
+"verse":""
+},
+"sn3.4:2.3":{
+"verse":""
+},
+"sn3.4:2.4":{
+"verse":""
+},
+"sn3.4:2.5":{
+"verse":""
+},
+"sn3.4:2.6":{
+"verse":""
+},
+"sn3.4:2.7":{
+"verse":""
+},
+"sn3.4:2.8":{
+"verse":""
+},
+"sn3.4:2.9":{
+"verse":""
+},
+"sn3.4:2.10":{
+"verse":""
+},
+"sn3.4:2.11":{
+"verse":""
+},
+"sn3.4:2.12":{
+"verse":""
+},
+"sn3.4:2.13":{
+"verse":""
+},
+"sn3.4:2.14":{
+"verse":""
+},
+"sn3.4:2.15":{
+"verse":""
+},
+"sn3.4:2.16":{
+"verse":""
+},
+"sn3.4:2.17":{
+"verse":""
+},
 "sn3.4:3.1":{
 "verse":"« Si tu te considérais comme un être aimé, "
 },
@@ -22299,6 +26181,27 @@
 "sn3.8:2.1":{
 "verse":"Alors le roi Pasenadi de Kosala descendit de la longue maison sur pilotis, alla vers le Bouddha, s’inclina, s’assit sur un côté, et dit au Bouddha ce qui s’était passé. "
 },
+"sn3.8:2.2":{
+"verse":""
+},
+"sn3.8:2.3":{
+"verse":""
+},
+"sn3.8:2.4":{
+"verse":""
+},
+"sn3.8:2.5":{
+"verse":""
+},
+"sn3.8:2.6":{
+"verse":""
+},
+"sn3.8:2.7":{
+"verse":""
+},
+"sn3.8:2.8":{
+"verse":""
+},
 "sn3.8:3.1":{
 "verse":"Alors, comprenant le sujet, à cette occasion le Bouddha récita ces vers: "
 },
@@ -22377,6 +26280,24 @@
 },
 "sn3.11:6.2":{
 "verse":"comme cela a été bien dit par le Bouddha. "
+},
+"sn3.11:6.3":{
+"verse":""
+},
+"sn3.11:6.4":{
+"verse":""
+},
+"sn3.11:6.5":{
+"verse":""
+},
+"sn3.11:6.6":{
+"verse":""
+},
+"sn3.11:6.7":{
+"verse":""
+},
+"sn3.11:6.8":{
+"verse":""
 },
 "sn3.11:7.1":{
 "verse":"Sire, ceux sont mes espions, mes agents infiltrés qui reviennent après avoir espionné dans le pays. "
@@ -22524,6 +26445,9 @@
 "sn3.18:2.1":{
 "verse":"« C’est tellement vrai, grand roi ! C’est tellement vrai ! » dit le Bouddha. Et il répéta la déclaration du roi, en ajoutant : "
 },
+"sn3.18:2.2":{
+"verse":""
+},
 "sn3.18:3.1":{
 "verse":"« Grand roi, une fois je résidait dans le pays des Sakyans où il ont une ville appelée Ville. "
 },
@@ -22581,11 +26505,29 @@
 "sn3.18:9.1":{
 "verse":"Quand vous êtes diligent, soutenu par la diligence, vos dames du harem, "
 },
+"sn3.18:9.2":{
+"verse":""
+},
+"sn3.18:9.3":{
+"verse":""
+},
 "sn3.18:10.1":{
 "verse":"vos vassaux aristocrates, "
 },
+"sn3.18:10.2":{
+"verse":""
+},
+"sn3.18:10.3":{
+"verse":""
+},
 "sn3.18:11.1":{
 "verse":"vos troupes, "
+},
+"sn3.18:11.2":{
+"verse":""
+},
+"sn3.18:11.3":{
+"verse":""
 },
 "sn3.18:12.1":{
 "verse":"et le peuple des villes et des campagnes penseront : "
@@ -22711,6 +26653,9 @@
 "sn3.19:4.4":{
 "verse":"De la même façon, quand une personne fausse a acquis une richesse notable… "
 },
+"sn3.19:4.5":{
+"verse":""
+},
 "sn3.19:4.6":{
 "verse":"elle est gaspillée, non utilisée. "
 },
@@ -22734,6 +26679,9 @@
 },
 "sn3.19:6.4":{
 "verse":"De la même façon, quand une personne sincère a acquis une richesse notable… "
+},
+"sn3.19:6.5":{
+"verse":""
 },
 "sn3.19:6.6":{
 "verse":"elle est utilisée, pas gaspillée. "
@@ -22796,14 +26744,26 @@
 "sn3.22:2.3":{
 "verse":"Si en offrant la trésorerie des l’éléphants je pouvais avoir ma grand-mère à nouveau, je le ferai. "
 },
+"sn3.22:2.4":{
+"verse":""
+},
 "sn3.22:2.5":{
 "verse":"Si en offrant la trésorerie des chevaux je pouvais avoir ma grand-mère à nouveau, je le ferai. "
+},
+"sn3.22:2.6":{
+"verse":""
 },
 "sn3.22:2.7":{
 "verse":"Si en offrant un village de prix je pouvais avoir ma grand-mère à nouveau, je le ferai. "
 },
+"sn3.22:2.8":{
+"verse":""
+},
 "sn3.22:2.9":{
 "verse":"Si en offrant le pays entier je pouvais avoir ma grand-mère à nouveau, je le ferai. » "
+},
+"sn3.22:2.10":{
+"verse":""
 },
 "sn3.22:2.11":{
 "verse":"« Grand roi, tous les êtres sensibles sont condamnés à mourir. La mort est leur fin ; ils ne sont pas exemptés de la mort. » "
@@ -23167,6 +27127,12 @@
 "sn16.9:12.18":{
 "verse":"Et Kassapa le fait tout autant. "
 },
+"sn16.9:12.19":{
+"verse":""
+},
+"sn16.9:12.20":{
+"verse":""
+},
 "sn16.9:13.1":{
 "verse":"A chaque fois que je le souhaite, je me souviens de mes nombreuses et différentes sortes de vies passées. C'est-à-dire : une, deux, trois, quatre, cinq, dix, vingt, trente, quarante, cinquante, cent, mille, cent mille renaissances ; plusieurs éons du monde qui se contracte, plusieurs éons du monde qui s'expand, plusieurs éons du monde qui se contracte et s'expand. Je me rappelle : ‘ Là, on me donna ce nom, mon clan était celui-là, je ressemblais à ceci, et cela était ma nourriture. C'est comme ceci que je ressentais plaisir et douleur, et c'est comme cela que ma vie se termina. Quand je mourus de cet endroit, je renaquis à un autre endroit. Là, aussi, on me donna ce nom, mon clan était celui-là, je ressemblais à ceci, et cela était ma nourriture. C'est comme ceci que je ressentais plaisir et douleur, et c'est comme cela que ma vie se termina. Quand je mourus de cet endroit, je renaquis ici. ’ Et ainsi je me souviens de mes nombreuses et différentes sortes de vies passées, avec les caractéristiques et les détails. "
 },
@@ -23184,6 +27150,9 @@
 },
 "sn16.9:15.2":{
 "verse":"Et Kassapa le fait tout autant. » "
+},
+"sn16.9:15.3":{
+"verse":""
 }
 }
 }
@@ -23263,6 +27232,9 @@
 },
 "sn22.66:3.9":{
 "verse":"Et cette personne monastique devint une parmi les entièrement accomplies. "
+},
+"sn22.66:3.10":{
+"verse":""
 }
 }
 }
@@ -23342,6 +27314,9 @@
 },
 "sn22.67:3.9":{
 "verse":"Et cette personne monastique devint une parmi les entièrement accomplies. "
+},
+"sn22.67:3.10":{
+"verse":""
 }
 }
 }
@@ -23421,6 +27396,9 @@
 },
 "sn22.68:3.9":{
 "verse":"Et cette personne monastique devint une parmi les entièrement accomplies. "
+},
+"sn22.68:3.10":{
+"verse":""
 }
 }
 }
@@ -23450,6 +27428,9 @@
 "sn22.85:2.1":{
 "verse":"Plusieurs membres monastiques entendirent cette rumeur. "
 },
+"sn22.85:2.2":{
+"verse":""
+},
 "sn22.85:2.3":{
 "verse":"Ils allèrent vers Yamaka et échangèrent les salutations avec lui. "
 },
@@ -23465,14 +27446,29 @@
 "sn22.85:3.3":{
 "verse":"« Oui, révérends, c’est ainsi que je comprends l’enseignement du Bouddha. » "
 },
+"sn22.85:3.4":{
+"verse":""
+},
 "sn22.85:4.1":{
 "verse":"« Ne dis pas cela, Yamaka ! Ne déforme pas les propos du Bouddha, car déformer les propos du Bouddha n’est pas bien. Et le Bouddha ne dirait pas cela. » "
+},
+"sn22.85:4.2":{
+"verse":""
 },
 "sn22.85:4.3":{
 "verse":"Mais même réprimandé par ces membres monastiques, Yamaka resta obstinément attaché à cette conception erronée et insista pour la déclarer. "
 },
+"sn22.85:4.4":{
+"verse":""
+},
 "sn22.85:5.1":{
 "verse":"Quand ces membres monastiques furent incapables de dissuader Yamaka de cette conception erronée, ils se levèrent et allèrent voir Vénérable Sāriputta. Ils lui racontèrent ce qui c’était passé, et dirent, "
+},
+"sn22.85:5.2":{
+"verse":""
+},
+"sn22.85:5.3":{
+"verse":""
 },
 "sn22.85:5.4":{
 "verse":"« Que Vénérable Sāriputta aille s’il lui plait vers le moine Yamaka par compassion. » "
@@ -23536,6 +27532,9 @@
 },
 "sn22.85:8.4":{
 "verse":"« Considères-tu quelqu’un qui a Realisé comme les sensations… "
+},
+"sn22.85:8.5":{
+"verse":""
 },
 "sn22.85:8.6":{
 "verse":"la perception… "
@@ -23635,6 +27634,9 @@
 },
 "sn22.85:13.4":{
 "verse":"« Révérend, si on me demandait ceci, "
+},
+"sn22.85:13.5":{
+"verse":""
 },
 "sn22.85:13.6":{
 "verse":"Je répondrais ainsi : "
@@ -23992,6 +27994,9 @@
 },
 "sn22.85:28.8":{
 "verse":"Et après avoir entendu ces enseignements de Vénérable Sāriputta, mon esprit est libéré des souillures dû au fait de ne pas saisir. » "
+},
+"sn22.85:28.9":{
+"verse":""
 }
 }
 }
@@ -24032,6 +28037,15 @@
 },
 "sn22.87:1.8":{
 "verse":"« Oui, révérend, » ces moines répondirent. Ils firent ce qu’il avait demandé. "
+},
+"sn22.87:1.9":{
+"verse":""
+},
+"sn22.87:1.10":{
+"verse":""
+},
+"sn22.87:1.11":{
+"verse":""
 },
 "sn22.87:1.12":{
 "verse":"Le Bouddha consentit en silence. "
@@ -24131,6 +28145,12 @@
 },
 "sn22.87:4.13":{
 "verse":"« Impermanente, sire. » … "
+},
+"sn22.87:4.14":{
+"verse":""
+},
+"sn22.87:4.15":{
+"verse":""
 },
 "sn22.87:4.16":{
 "verse":"« Ainsi tu devrais en vérité voir… "
@@ -24237,6 +28257,30 @@
 "sn22.87:8.5":{
 "verse":"Ils répétèrent ce que le Bouddha avait dit. "
 },
+"sn22.87:8.6":{
+"verse":""
+},
+"sn22.87:8.7":{
+"verse":""
+},
+"sn22.87:8.8":{
+"verse":""
+},
+"sn22.87:8.9":{
+"verse":""
+},
+"sn22.87:8.10":{
+"verse":""
+},
+"sn22.87:8.11":{
+"verse":""
+},
+"sn22.87:8.12":{
+"verse":""
+},
+"sn22.87:8.13":{
+"verse":""
+},
 "sn22.87:8.14":{
 "verse":"Vakkali dit, « Bien, alors révérends, en mon nom prosternez vous avec votre tête aux pieds du Bouddha. Dites-lui : "
 },
@@ -24264,11 +28308,29 @@
 "sn22.87:8.22":{
 "verse":"La sensation est impermanente… "
 },
+"sn22.87:8.23":{
+"verse":""
+},
+"sn22.87:8.24":{
+"verse":""
+},
+"sn22.87:8.25":{
+"verse":""
+},
 "sn22.87:8.26":{
 "verse":"La perception est impermanente… "
 },
 "sn22.87:8.27":{
 "verse":"Les choix sont impermanents… "
+},
+"sn22.87:8.28":{
+"verse":""
+},
+"sn22.87:8.29":{
+"verse":""
+},
+"sn22.87:8.30":{
+"verse":""
 },
 "sn22.87:8.31":{
 "verse":"La conscience est impermanente. "
@@ -24290,6 +28352,48 @@
 },
 "sn22.87:9.1":{
 "verse":"Alors ces moines allèrent vers le Bouddha et lui dirent le message de Vakkali. "
+},
+"sn22.87:9.2":{
+"verse":""
+},
+"sn22.87:9.3":{
+"verse":""
+},
+"sn22.87:9.4":{
+"verse":""
+},
+"sn22.87:9.5":{
+"verse":""
+},
+"sn22.87:9.6":{
+"verse":""
+},
+"sn22.87:9.7":{
+"verse":""
+},
+"sn22.87:9.8":{
+"verse":""
+},
+"sn22.87:9.9":{
+"verse":""
+},
+"sn22.87:9.10":{
+"verse":""
+},
+"sn22.87:9.11":{
+"verse":""
+},
+"sn22.87:9.12":{
+"verse":""
+},
+"sn22.87:9.13":{
+"verse":""
+},
+"sn22.87:9.14":{
+"verse":""
+},
+"sn22.87:9.15":{
+"verse":""
 },
 "sn22.87:10.1":{
 "verse":"Alors le Bouddha dit aux moines, "
@@ -24329,6 +28433,9 @@
 },
 "sn22.87:11.7":{
 "verse":"Mais puisque sa conscience n’est pas établie, Vakkali est éteint. » "
+},
+"sn22.87:11.8":{
+"verse":""
 }
 }
 }
@@ -24379,6 +28486,12 @@
 "sn22.89:2.1":{
 "verse":"Alors Dāsaka alla vers ces moines aînés et leur dit ce qui c’était passé. Ils dirent, "
 },
+"sn22.89:2.2":{
+"verse":""
+},
+"sn22.89:2.3":{
+"verse":""
+},
 "sn22.89:2.4":{
 "verse":"« S’il vous plait, Révérend Dāsaka, allez vers le moine Khemaka et dites-lui : "
 },
@@ -24397,6 +28510,18 @@
 "sn22.89:3.1":{
 "verse":"« Oui, révérends, » répondit Dāsaka. Il porta le message à Khemaka, qui répondit : "
 },
+"sn22.89:3.2":{
+"verse":""
+},
+"sn22.89:3.3":{
+"verse":""
+},
+"sn22.89:3.4":{
+"verse":""
+},
+"sn22.89:3.5":{
+"verse":""
+},
 "sn22.89:3.6":{
 "verse":"« Ces cinq aggrégats qui saisissent ont été enseignés par le Bouddha, c’est à dire : "
 },
@@ -24408,6 +28533,18 @@
 },
 "sn22.89:4.1":{
 "verse":"Alors Dāsaka alla vers ces moines aînés et leur dit ce qui c’était passé. Ils dirent, "
+},
+"sn22.89:4.2":{
+"verse":""
+},
+"sn22.89:4.3":{
+"verse":""
+},
+"sn22.89:4.4":{
+"verse":""
+},
+"sn22.89:4.5":{
+"verse":""
 },
 "sn22.89:4.6":{
 "verse":"« S’il vous plait, Révérend Dāsaka, allez vers le moine Khemaka et dites-lui : "
@@ -24430,6 +28567,18 @@
 "sn22.89:5.1":{
 "verse":"« Oui, révérends, » répondit Dāsaka. Il porta le message à Khemaka, qui répondit : "
 },
+"sn22.89:5.2":{
+"verse":""
+},
+"sn22.89:5.3":{
+"verse":""
+},
+"sn22.89:5.4":{
+"verse":""
+},
+"sn22.89:5.5":{
+"verse":""
+},
 "sn22.89:5.6":{
 "verse":"« Ces cinq aggrégats qui saisissent ont été enseignés par le Bouddha, c’est à dire : "
 },
@@ -24444,6 +28593,24 @@
 },
 "sn22.89:6.1":{
 "verse":"Alors Dāsaka alla vers ces moines aînés et leur dit ce qui c’était passé. Ils dirent, "
+},
+"sn22.89:6.2":{
+"verse":""
+},
+"sn22.89:6.3":{
+"verse":""
+},
+"sn22.89:6.4":{
+"verse":""
+},
+"sn22.89:6.5":{
+"verse":""
+},
+"sn22.89:6.6":{
+"verse":""
+},
+"sn22.89:6.7":{
+"verse":""
 },
 "sn22.89:7.1":{
 "verse":"« S’il vous plait, Révérend Dāsaka , allez vers le moine Khemaka et dites-lui : "
@@ -24474,6 +28641,30 @@
 },
 "sn22.89:8.1":{
 "verse":"« Oui, révérends, » répondit Dāsaka. Il porta le message à Khemaka, qui répondit : "
+},
+"sn22.89:8.2":{
+"verse":""
+},
+"sn22.89:8.3":{
+"verse":""
+},
+"sn22.89:8.4":{
+"verse":""
+},
+"sn22.89:8.5":{
+"verse":""
+},
+"sn22.89:8.6":{
+"verse":""
+},
+"sn22.89:8.7":{
+"verse":""
+},
+"sn22.89:8.8":{
+"verse":""
+},
+"sn22.89:8.9":{
+"verse":""
 },
 "sn22.89:8.10":{
 "verse":"« Assez, Révérend Dāsaka ! A quoi bon faire ces allers-retours ? "
@@ -24642,6 +28833,9 @@
 },
 "sn22.89:14.3":{
 "verse":"Et pendant que ce discours était prononcé, les esprits des soixante moines aînés et de Vénérable Khemaka furent libérés des corruptions en cessant de saisir. "
+},
+"sn22.89:14.4":{
+"verse":""
 }
 }
 }
@@ -24704,6 +28898,9 @@
 "sn22.93:1.15":{
 "verse":"« Impermanente, sire. » "
 },
+"sn22.93:1.16":{
+"verse":""
+},
 "sn22.93:1.17":{
 "verse":"« Les sensations sont… "
 },
@@ -24727,6 +28924,9 @@
 },
 "sn22.93:1.24":{
 "verse":"Ils comprennent : ‘… il n’y a plus rien pour cet endroit.’ » "
+},
+"sn22.93:1.25":{
+"verse":""
 }
 }
 }
@@ -24836,6 +29036,9 @@
 },
 "sn22.94:8.2":{
 "verse":"De la même façon, bien que je sois né et que j’aie grandi dans le monde, je vis ayant maîtrisé le monde, sans être souillé par le monde. » "
+},
+"sn22.94:8.3":{
+"verse":""
 }
 }
 }
@@ -24993,6 +29196,9 @@
 },
 "sn22.95:15.4":{
 "verse":"aspirant à l’état qui ne périt pas. » "
+},
+"sn22.95:15.5":{
+"verse":""
 }
 }
 }
@@ -25093,6 +29299,9 @@
 },
 "sn22.99:3.9":{
 "verse":"Je dis qu’il est libéré de la souffrance. » "
+},
+"sn22.99:3.10":{
+"verse":""
 }
 }
 }
@@ -25196,6 +29405,45 @@
 },
 "sn22.102:12.7":{
 "verse":"Cela est comment la perception de l’impermanence est développée et cultivée pour qu’elle élimine tout désir pour les plaisirs sensoriels, pour une renaissance dans le domaine de la forme lumineuse, et pour une renaissance dans une vie future. Cela est comment elle élimine toute confusion et éradique tout orgueil ‘ je suis ’. » "
+},
+"sn22.102:12.8":{
+"verse":""
+},
+"sn22.102:12.9":{
+"verse":""
+},
+"sn22.102:13.0":{
+"verse":""
+},
+"sn22.102:13.1":{
+"verse":""
+},
+"sn22.102:13.2":{
+"verse":""
+},
+"sn22.102:13.3":{
+"verse":""
+},
+"sn22.102:13.4":{
+"verse":""
+},
+"sn22.102:13.5":{
+"verse":""
+},
+"sn22.102:14.0":{
+"verse":""
+},
+"sn22.102:14.1":{
+"verse":""
+},
+"sn22.102:14.2":{
+"verse":""
+},
+"sn22.102:14.3":{
+"verse":""
+},
+"sn22.102:14.4":{
+"verse":""
 }
 }
 }
@@ -25261,8 +29509,20 @@
 "sn35.69:2.10":{
 "verse":"Ou ‘ je suis l’esprit ’ ou ‘ l’esprit est à moi. ’ "
 },
+"sn35.69:2.11":{
+"verse":""
+},
 "sn35.69:2.12":{
 "verse":"Mais je ne pense pas ainsi. "
+},
+"sn35.69:2.13":{
+"verse":""
+},
+"sn35.69:2.14":{
+"verse":""
+},
+"sn35.69:2.15":{
+"verse":""
 },
 "sn35.69:2.16":{
 "verse":"Alors pourquoi y aurait-il une faiblesse dans mon corps ou une détérioration de mes facultés ? » "
@@ -25290,6 +29550,9 @@
 },
 "sn35.69:3.8":{
 "verse":"comme une poignée de foin. "
+},
+"sn35.69:3.9":{
+"verse":""
 }
 }
 }
@@ -25337,11 +29600,20 @@
 "sn35.87:3.2":{
 "verse":"Les vents qui percent ma tête sont si sévères, c’est comme si un homme robuste perçait ma tête avec une pointe aiguisée. "
 },
+"sn35.87:3.3":{
+"verse":""
+},
 "sn35.87:3.4":{
 "verse":"La douleur de ma tête est si sévère, c’est comme si un homme robuste serrait une solide lanière de cuir autour de ma tête. "
 },
+"sn35.87:3.5":{
+"verse":""
+},
 "sn35.87:3.6":{
 "verse":"Les vents qui lacèrent mon ventre sont si sévères, comme si un boucher habile ou son apprenti ouvraient le ventre d’une vache avec un couperet à viande bien aiguisé. "
+},
+"sn35.87:3.7":{
+"verse":""
 },
 "sn35.87:3.8":{
 "verse":"La sensation de brûlure dans mon corps est si sévère, c’est comme si deux hommes robustes attrapaient un homme plus faible par les bras pour le brûler dans une fosse de charbons incandescents. "
@@ -25427,8 +29699,20 @@
 "sn35.87:9.1":{
 "verse":"« Révérend Channa, qu’avez-vous vu, qu’avez-vous directement reconnu dans ces choses pour les considérer ainsi : ‘Ceci n’est pas à moi, je ne suis pas ceci, ceci n’est pas moi.’ ? » "
 },
+"sn35.87:9.2":{
+"verse":""
+},
+"sn35.87:9.3":{
+"verse":""
+},
 "sn35.87:10.1":{
 "verse":"« Révérend Sāriputta, après avoir vu la cessation, après avoir directement reconnu la cessation dans ces choses, je les considère ainsi : ‘Ceci n’est pas à moi, je ne suis pas ceci, ceci n’est pas moi.’ » "
+},
+"sn35.87:10.2":{
+"verse":""
+},
+"sn35.87:10.3":{
+"verse":""
 },
 "sn35.87:11.1":{
 "verse":"Quand il dit ceci, Vénérable Mahācunda dit à Vénérable Channa, "
@@ -25495,6 +29779,12 @@
 },
 "sn35.87:13.11":{
 "verse":"Vous devez vous souvenir de ceci : ‘Le moine Channa s’est suicidé sans blâme.’ » "
+},
+"sn35.87:13.12":{
+"verse":""
+},
+"sn35.87:13.13":{
+"verse":""
 }
 }
 }
@@ -25619,6 +29909,9 @@
 },
 "sn46.3:9.10":{
 "verse":"Quand les sept facteurs d’éveil sont développés et cultivés de cette façon, il y a ces sept fruits et bénéfices auxquels ils peuvent  s’attendre. » "
+},
+"sn46.3:9.11":{
+"verse":""
 }
 }
 }
@@ -25785,6 +30078,9 @@
 },
 "sn46.53:15.4":{
 "verse":"Mais, je dis : la pleine attention est toujours profitable. » "
+},
+"sn46.53:15.5":{
+"verse":""
 }
 }
 }
@@ -25856,11 +30152,17 @@
 "sn47.19:3.2":{
 "verse":"Par le développement, la cultivation, et la pratique de la méditation. "
 },
+"sn47.19:3.3":{
+"verse":""
+},
 "sn47.19:3.4":{
 "verse":"Et comment prenez-vous soin de vous-même en prenant soin des autres ? "
 },
 "sn47.19:3.5":{
 "verse":"Par l’acceptation, l’absence de mal, la bienveillance, et la sympathie. "
+},
+"sn47.19:3.6":{
+"verse":""
 },
 "sn47.19:3.7":{
 "verse":"Pensant ‘ Je prendrai soin de moi ’, vous devez cultiver la méditation de pleine conscience. "
@@ -25870,6 +30172,9 @@
 },
 "sn47.19:3.9":{
 "verse":"Prenant soin de vous-même, vous prenez soin des autres ; et prenant soin de autres, vous prenez soin de vous-même. » "
+},
+"sn47.19:3.10":{
+"verse":""
 }
 }
 }
@@ -25883,6 +30188,27 @@
 },
 "sn53.13-22:0.2":{
 "verse":"2. L’assiduité "
+},
+"sn53.13-22:0.3":{
+"verse":""
+},
+"sn53.13-22:1.1":{
+"verse":""
+},
+"sn53.13-22:2.0":{
+"verse":""
+},
+"sn53.13-22:2.1":{
+"verse":""
+},
+"sn53.13-22:2.2":{
+"verse":""
+},
+"sn53.13-22:2.3":{
+"verse":""
+},
+"sn53.13-22:2.4":{
+"verse":""
 }
 }
 }
@@ -25977,6 +30303,9 @@
 },
 "sn54.1:6.1":{
 "verse":"Voici, mendiants, comment la présence de l’esprit sur la respiration est développée et cultivée de manière à porter beaucoup de fruits et apporter de grands bienfaits.» "
+},
+"sn54.1:6.2":{
+"verse":""
 }
 }
 }
@@ -26011,6 +30340,9 @@
 },
 "sn54.2:1.6":{
 "verse":"Voici, mendiants, comment la présence de l’esprit sur la respiration est développée et cultivée de manière à porter beaucoup de fruits et apporter de grands bienfaits. "
+},
+"sn54.2:1.7":{
+"verse":""
 }
 }
 }
@@ -26045,6 +30377,9 @@
 },
 "sn54.3:1.6":{
 "verse":"Voici, mendiants, comment la présence de l’esprit sur la respiration est développée et cultivée de manière à porter beaucoup de fruits et apporter de grands bienfaits. "
+},
+"sn54.3:1.7":{
+"verse":""
 }
 }
 }
@@ -26085,6 +30420,9 @@
 },
 "sn54.4:1.8":{
 "verse":"ou bien la Connaissance Finale dans ce monde visible, ou s’il reste un reliquat d’attachement, le non-retour. "
+},
+"sn54.4:1.9":{
+"verse":""
 }
 }
 }
@@ -26155,6 +30493,9 @@
 },
 "sn54.5:2.12":{
 "verse":"Mendiants, lorsque la présence de l’esprit sur la respiration est ainsi développée et ainsi cultivée, on peut s’attendre à ces sept fruits, à ces sept bienfaits. "
+},
+"sn54.5:2.13":{
+"verse":""
 }
 }
 }
@@ -26231,6 +30572,9 @@
 },
 "sn54.6:3.6":{
 "verse":"Voici, Arittha, comment la présence de l’esprit sur la respiration est complétée en détail.» "
+},
+"sn54.6:3.7":{
+"verse":""
 }
 }
 }
@@ -26289,6 +30633,9 @@
 },
 "sn54.7:5.4":{
 "verse":"Voici, mendiants, comment la concentration au moyen de la présence de l’esprit sur la respiration est développée et cultivée, de telle manière qu’il n’y ait pas de vacillement ou de tremblement dans le corps, ni de vacillement ou de tremblement dans l’esprit.» "
+},
+"sn54.7:5.5":{
+"verse":""
 }
 }
 }
@@ -26515,6 +30862,9 @@
 },
 "sn54.8:22.4":{
 "verse":"il discerne : «Lors de la dissolution du corps, au moment où la vie se terminera, tout ce qui est ressenti, n’étant pas un objet de complaisance, s’apaisera ici-même.» "
+},
+"sn54.8:22.5":{
+"verse":""
 }
 }
 }
@@ -26624,6 +30974,9 @@
 },
 "sn54.9:8.4":{
 "verse":"Voici, mendiants, comment la présence de l’esprit sur la respiration est développée et cultivée abondamment de manière à être paisible, sublime, satisfaisante, à être un séjour agréable, à dissiper et faire disparaître les états désavantageux et malsains lorsqu’ils apparaissent.» "
+},
+"sn54.9:8.5":{
+"verse":""
 }
 }
 }
@@ -26820,6 +31173,27 @@
 },
 "sn54.10:9.9":{
 "verse":"le Dhamma dans les phénomènes écrase les états désavantageux et malsains.» "
+},
+"sn54.10:9.10":{
+"verse":""
+},
+"sn54.10:9.11":{
+"verse":""
+},
+"sn54.10:10.0":{
+"verse":""
+},
+"sn54.10:10.1":{
+"verse":""
+},
+"sn54.10:10.2":{
+"verse":""
+},
+"sn54.10:10.3":{
+"verse":""
+},
+"sn54.10:10.4":{
+"verse":""
 }
 }
 }
@@ -26908,6 +31282,9 @@
 },
 "sn54.11:4.4":{
 "verse":"qu’il le dirait.» "
+},
+"sn54.11:4.5":{
+"verse":""
 }
 }
 }
@@ -27062,6 +31439,9 @@
 },
 "sn54.12:11.6":{
 "verse":"quelle est la différence entre la méditation d’un apprenant et celle du Tathagata.» "
+},
+"sn54.12:11.7":{
+"verse":""
 }
 }
 }
@@ -27318,6 +31698,9 @@
 },
 "sn54.13:19.5":{
 "verse":"Voici, Ananda, comment les sept facteurs d’éveil sont développés et cultivés abondamment de manière à porter la véritable connaissance & libération à leur complétude. "
+},
+"sn54.13:19.6":{
+"verse":""
 }
 }
 }
@@ -27361,6 +31744,9 @@
 },
 "sn54.14:2.5":{
 "verse":"Voici, Ananda, comment les sept facteurs d’éveil sont développés et cultivés abondamment de manière à porter la véritable connaissance & libération à leur complétude. "
+},
+"sn54.14:2.6":{
+"verse":""
 }
 }
 }
@@ -27401,6 +31787,9 @@
 },
 "sn54.15:3.3":{
 "verse":"Voici, mendiants, comment les sept facteurs d’éveil sont développés et cultivés abondamment de manière à porter la véritable connaissance & libération à leur complétude. "
+},
+"sn54.15:3.4":{
+"verse":""
 }
 }
 }
@@ -27648,6 +32037,9 @@
 },
 "sn54.16:18.5":{
 "verse":"Voici, mendiants, comment les sept facteurs d’éveil sont développés et cultivés abondamment de manière à porter la véritable connaissance & libération à leur complétude. "
+},
+"sn54.16:18.6":{
+"verse":""
 }
 }
 }
@@ -27667,6 +32059,9 @@
 },
 "sn54.17:1.1":{
 "verse":"Mendiants, la concentration au moyen de la présence de l’esprit sur la respiration, lorsqu’elle est développée et cultivée abondamment, mène à l’abandon des entraves spirituelles (…) "
+},
+"sn54.17:1.2":{
+"verse":""
 }
 }
 }
@@ -27686,6 +32081,9 @@
 },
 "sn54.18:1.1":{
 "verse":"(…) au déracinement des penchants latents (…) "
+},
+"sn54.18:1.2":{
+"verse":""
 }
 }
 }
@@ -27705,6 +32103,9 @@
 },
 "sn54.19:1.1":{
 "verse":"(…) à la compréhension complète du parcours (…) "
+},
+"sn54.19:1.2":{
+"verse":""
 }
 }
 }
@@ -27754,6 +32155,30 @@
 },
 "sn54.20:1.11":{
 "verse":"à la destruction des impuretés mentales. "
+},
+"sn54.20:1.12":{
+"verse":""
+},
+"sn54.20:1.13":{
+"verse":""
+},
+"sn54.20:2.0":{
+"verse":""
+},
+"sn54.20:2.1":{
+"verse":""
+},
+"sn54.20:2.2":{
+"verse":""
+},
+"sn54.20:2.3":{
+"verse":""
+},
+"sn54.20:2.4":{
+"verse":""
+},
+"sn54.20:2.5":{
+"verse":""
 }
 }
 }
@@ -27773,6 +32198,9 @@
 },
 "sn55.1:1.1":{
 "verse":"À Savatthi. "
+},
+"sn55.1:1.2":{
+"verse":""
 },
 "sn55.1:1.3":{
 "verse":"Mendiants, bien qu’un monarque qui fait tourner la roue, ayant exercé son pouvoir, son empire et sa souveraineté sur les quatre continents, lors de la dissolution du corps, après la mort, réapparaisse dans une bonne destination, dans un monde paradisiaque, en compagnie des dévas de Tavatimsa et que là, entouré dans le jardin du Plaisir d’une compagnie de nymphes célestes, il se divertisse avec les cinq agréments de la sensualité déviques dont il est nanti et pourvu, puisqu’il ne possède pas quatre qualités, il n’est toujours pas délivré de l’enfer, il n’est pas délivré du sein animal, il n’est pas délivré du plan d’existence des esprits affligés, il n’est pas délivré des existences infortunées, des mauvaises destinations, des mondes inférieurs. "
@@ -27809,6 +32237,9 @@
 },
 "sn55.1:2.10":{
 "verse":"Et entre l’acquisition des quatre continents et l’acquisition de ces quatre qualités, l’acquisition des quatre continents ne vaut pas un seizième de l’acquisition de ces quatre qualités. "
+},
+"sn55.1:2.11":{
+"verse":""
 }
 }
 }
@@ -27867,6 +32298,9 @@
 },
 "sn55.2:4.4":{
 "verse":"Le bien-être reposant sur la vie brahmique. "
+},
+"sn55.2:4.5":{
+"verse":""
 }
 }
 }
@@ -28015,6 +32449,9 @@
 },
 "sn55.3:5.7":{
 "verse":"Mendiants, le disciple laïc Dighavou a complètement détruit les cinq entraves spirituelles inférieures, il a une naissance spontanée, d’où il atteindra l’Extinction complète, sans jamais revenir de ce monde-là.» "
+},
+"sn55.3:5.8":{
+"verse":""
 }
 }
 }
@@ -28064,6 +32501,9 @@
 },
 "sn55.4:2.7":{
 "verse":"Ami, les gens doivent posséder ces quatre qualités pour que le Fortuné déclare qu’ils sont des parvenus-au-courant, délivrés des mondes inférieurs, infailliblement destinés à l’éveil. "
+},
+"sn55.4:2.8":{
+"verse":""
 }
 }
 }
@@ -28134,6 +32574,9 @@
 },
 "sn55.5:3.5":{
 "verse":"Quiconque possède cette noble voie à huit composantes est appelé quelqu’un qui est entré dans le courant, tel vénérable portant tel nom, issu de telle famille.» "
+},
+"sn55.5:3.6":{
+"verse":""
 }
 }
 }
@@ -28148,8 +32591,332 @@
 "sn55.6:0.2":{
 "verse":"1. À Véloudvara "
 },
+"sn55.6:0.3":{
+"verse":""
+},
 "sn55.6:1.1":{
 "verse":"À Savatthi. "
+},
+"sn55.6:1.2":{
+"verse":""
+},
+"sn55.6:1.3":{
+"verse":""
+},
+"sn55.6:1.4":{
+"verse":""
+},
+"sn55.6:1.5":{
+"verse":""
+},
+"sn55.6:1.6":{
+"verse":""
+},
+"sn55.6:1.7":{
+"verse":""
+},
+"sn55.6:2.1":{
+"verse":""
+},
+"sn55.6:2.2":{
+"verse":""
+},
+"sn55.6:2.3":{
+"verse":""
+},
+"sn55.6:2.4":{
+"verse":""
+},
+"sn55.6:2.5":{
+"verse":""
+},
+"sn55.6:2.6":{
+"verse":""
+},
+"sn55.6:3.1":{
+"verse":""
+},
+"sn55.6:3.2":{
+"verse":""
+},
+"sn55.6:3.3":{
+"verse":""
+},
+"sn55.6:3.4":{
+"verse":""
+},
+"sn55.6:4.1":{
+"verse":""
+},
+"sn55.6:4.2":{
+"verse":""
+},
+"sn55.6:4.3":{
+"verse":""
+},
+"sn55.6:4.4":{
+"verse":""
+},
+"sn55.6:4.5":{
+"verse":""
+},
+"sn55.6:4.6":{
+"verse":""
+},
+"sn55.6:5.1":{
+"verse":""
+},
+"sn55.6:5.2":{
+"verse":""
+},
+"sn55.6:5.3":{
+"verse":""
+},
+"sn55.6:5.4":{
+"verse":""
+},
+"sn55.6:5.5":{
+"verse":""
+},
+"sn55.6:5.6":{
+"verse":""
+},
+"sn55.6:6.1":{
+"verse":""
+},
+"sn55.6:6.2":{
+"verse":""
+},
+"sn55.6:6.3":{
+"verse":""
+},
+"sn55.6:6.4":{
+"verse":""
+},
+"sn55.6:6.5":{
+"verse":""
+},
+"sn55.6:6.6":{
+"verse":""
+},
+"sn55.6:7.1":{
+"verse":""
+},
+"sn55.6:7.2":{
+"verse":""
+},
+"sn55.6:7.3":{
+"verse":""
+},
+"sn55.6:7.4":{
+"verse":""
+},
+"sn55.6:7.5":{
+"verse":""
+},
+"sn55.6:7.6":{
+"verse":""
+},
+"sn55.6:8.1":{
+"verse":""
+},
+"sn55.6:8.2":{
+"verse":""
+},
+"sn55.6:8.3":{
+"verse":""
+},
+"sn55.6:8.4":{
+"verse":""
+},
+"sn55.6:8.5":{
+"verse":""
+},
+"sn55.6:8.6":{
+"verse":""
+},
+"sn55.6:9.1":{
+"verse":""
+},
+"sn55.6:9.2":{
+"verse":""
+},
+"sn55.6:9.3":{
+"verse":""
+},
+"sn55.6:9.4":{
+"verse":""
+},
+"sn55.6:9.5":{
+"verse":""
+},
+"sn55.6:9.6":{
+"verse":""
+},
+"sn55.6:10.1":{
+"verse":""
+},
+"sn55.6:10.2":{
+"verse":""
+},
+"sn55.6:10.3":{
+"verse":""
+},
+"sn55.6:10.4":{
+"verse":""
+},
+"sn55.6:10.5":{
+"verse":""
+},
+"sn55.6:10.6":{
+"verse":""
+},
+"sn55.6:11.1":{
+"verse":""
+},
+"sn55.6:11.2":{
+"verse":""
+},
+"sn55.6:11.3":{
+"verse":""
+},
+"sn55.6:11.4":{
+"verse":""
+},
+"sn55.6:11.5":{
+"verse":""
+},
+"sn55.6:11.6":{
+"verse":""
+},
+"sn55.6:12.1":{
+"verse":""
+},
+"sn55.6:12.2":{
+"verse":""
+},
+"sn55.6:12.3":{
+"verse":""
+},
+"sn55.6:12.4":{
+"verse":""
+},
+"sn55.6:12.5":{
+"verse":""
+},
+"sn55.6:12.6":{
+"verse":""
+},
+"sn55.6:13.1":{
+"verse":""
+},
+"sn55.6:13.2":{
+"verse":""
+},
+"sn55.6:13.3":{
+"verse":""
+},
+"sn55.6:13.4":{
+"verse":""
+},
+"sn55.6:13.5":{
+"verse":""
+},
+"sn55.6:13.6":{
+"verse":""
+},
+"sn55.6:14.1":{
+"verse":""
+},
+"sn55.6:14.2":{
+"verse":""
+},
+"sn55.6:14.3":{
+"verse":""
+},
+"sn55.6:14.4":{
+"verse":""
+},
+"sn55.6:15.1":{
+"verse":""
+},
+"sn55.6:15.2":{
+"verse":""
+},
+"sn55.6:15.3":{
+"verse":""
+},
+"sn55.6:15.4":{
+"verse":""
+},
+"sn55.6:15.5":{
+"verse":""
+},
+"sn55.6:15.6":{
+"verse":""
+},
+"sn55.6:16.1":{
+"verse":""
+},
+"sn55.6:16.2":{
+"verse":""
+},
+"sn55.6:16.3":{
+"verse":""
+},
+"sn55.6:17.1":{
+"verse":""
+},
+"sn55.6:17.2":{
+"verse":""
+},
+"sn55.6:17.3":{
+"verse":""
+},
+"sn55.6:17.4":{
+"verse":""
+},
+"sn55.6:17.5":{
+"verse":""
+},
+"sn55.6:17.6":{
+"verse":""
+},
+"sn55.6:17.7":{
+"verse":""
+},
+"sn55.6:18.1":{
+"verse":""
+},
+"sn55.6:18.2":{
+"verse":""
+},
+"sn55.6:18.3":{
+"verse":""
+},
+"sn55.6:18.4":{
+"verse":""
+},
+"sn55.6:18.5":{
+"verse":""
+},
+"sn55.6:18.6":{
+"verse":""
+},
+"sn55.6:18.7":{
+"verse":""
+},
+"sn55.6:18.8":{
+"verse":""
+},
+"sn55.6:18.9":{
+"verse":""
+},
+"sn55.6:18.10":{
+"verse":""
+},
+"sn55.6:18.11":{
+"verse":""
 }
 }
 }
@@ -28388,6 +33155,9 @@
 },
 "sn55.7:12.4":{
 "verse":"Que le vénérable Gotama nous retienne à l’esprit en tant que disciples laïcs étant allés en refuge à compter d’aujourd’hui et pour la vie. "
+},
+"sn55.7:12.5":{
+"verse":""
 }
 }
 }
@@ -28488,6 +33258,12 @@
 },
 "sn55.8:6.7":{
 "verse":"“J’en ai fini avec l’enfer, j’en ai fini avec le sein animal, j’en ai fini avec le plan d’existence des esprits affligés, j’en ai fini avec les existences infortunées, les mauvaises destinations, les mondes inférieurs, je suis parvenu au courant, par nature délivré des mondes inférieurs, infailliblement destiné à l’éveil.” "
+},
+"sn55.8:6.8":{
+"verse":""
+},
+"sn55.8:6.9":{
+"verse":""
 }
 }
 }
@@ -28561,6 +33337,9 @@
 },
 "sn55.13:5.4":{
 "verse":"Ami, c’est en raison de l’abandon de ces quatre défauts et de la possession de ces quatre qualités que le Fortuné déclare que les gens sont parvenus au courant, par nature délivrés des mondes inférieurs, fixés sur la voie de l’éveil. » "
+},
+"sn55.13:5.5":{
+"verse":""
 }
 }
 }
@@ -28601,6 +33380,9 @@
 },
 "sn55.15:1.8":{
 "verse":"Voici, mendiants, quelles sont ces quatre qualités pourvu desquelles un noble disciple a transcendé toute peur des mauvaises destinations et des mondes inférieurs. "
+},
+"sn55.15:1.9":{
+"verse":""
 }
 }
 }
@@ -28641,6 +33423,9 @@
 },
 "sn55.16:1.8":{
 "verse":"Mendiants, vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu’ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans ces quatre facteurs d’entrée dans le courant. "
+},
+"sn55.16:1.9":{
+"verse":""
 }
 }
 }
@@ -28693,6 +33478,9 @@
 },
 "sn55.17:2.8":{
 "verse":"Mendiants, vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu’ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans ces quatre facteurs d’entrée dans le courant. "
+},
+"sn55.17:2.9":{
+"verse":""
 }
 }
 }
@@ -28787,6 +33575,9 @@
 },
 "sn55.21:3.8":{
 "verse":"Ta mort ne sera pas mauvaise, ton trépas ne sera pas mauvais. » "
+},
+"sn55.21:3.9":{
+"verse":""
 }
 }
 }
@@ -28878,6 +33669,9 @@
 },
 "sn55.22:3.3":{
 "verse":"— De la même manière, Mahānāma, un noble disciple qui est pourvu de ces quatre qualités est incliné vers l’Extinction, est infléchi vers l’Extinction, est penché vers l’Extinction. » "
+},
+"sn55.22:3.4":{
+"verse":""
 }
 }
 }
@@ -29116,6 +33910,9 @@
 },
 "sn55.24:9.11":{
 "verse":"Mahanama, Saranani le Sakya, au moment de la mort, a entrepris l’entraînement. » "
+},
+"sn55.24:9.12":{
+"verse":""
 }
 }
 }
@@ -29393,6 +34190,9 @@
 },
 "sn55.25:11.10":{
 "verse":"Mahanama, Saranani le Sakya, au moment de la mort, a complété l’entraînement. » "
+},
+"sn55.25:11.11":{
+"verse":""
 }
 }
 }
@@ -29565,6 +34365,9 @@
 },
 "sn55.27:12.10":{
 "verse":"Homme de foyer, tu viens de déclarer le fruit de l’entrée dans le courant ! » "
+},
+"sn55.27:12.11":{
+"verse":""
 }
 }
 }
@@ -29644,6 +34447,33 @@
 },
 "sn55.30:4.5":{
 "verse":"la dévotion envers le Fortuné. » "
+},
+"sn55.30:4.6":{
+"verse":""
+},
+"sn55.30:4.7":{
+"verse":""
+},
+"sn55.30:5.0":{
+"verse":""
+},
+"sn55.30:5.1":{
+"verse":""
+},
+"sn55.30:5.2":{
+"verse":""
+},
+"sn55.30:5.3":{
+"verse":""
+},
+"sn55.30:5.4":{
+"verse":""
+},
+"sn55.30:5.5":{
+"verse":""
+},
+"sn55.30:5.6":{
+"verse":""
 }
 }
 }
@@ -29705,6 +34535,9 @@
 },
 "sn55.31:4.3":{
 "verse":"Voici, mendiants, quels sont ces quatre flux de mérite, ces quatre flux avantageux, ces quatre nourritures du bien-être. "
+},
+"sn55.31:4.4":{
+"verse":""
 }
 }
 }
@@ -29751,6 +34584,9 @@
 },
 "sn55.32:3.3":{
 "verse":"Voici, mendiants, quels sont ces quatre flux de mérite, ces quatre flux avantageux, ces quatre nourritures du bien-être. "
+},
+"sn55.32:3.4":{
+"verse":""
 }
 }
 }
@@ -29797,6 +34633,9 @@
 },
 "sn55.33:3.3":{
 "verse":"Voici, mendiants, quels sont ces quatre flux de mérite, ces quatre flux avantageux, ces quatre nourritures du bien-être. "
+},
+"sn55.33:3.4":{
+"verse":""
 }
 }
 }
@@ -29867,6 +34706,9 @@
 },
 "sn55.37:6.3":{
 "verse":"voici, Mahanama, de quelle manière un disciple laïc est accompli en discernement.» "
+},
+"sn55.37:6.4":{
+"verse":""
 }
 }
 }
@@ -29892,6 +34734,9 @@
 },
 "sn55.38:1.3":{
 "verse":"ces états s’écoulent, traversent et mènent à la destruction des impuretés mentales. "
+},
+"sn55.38:1.4":{
+"verse":""
 }
 }
 }
@@ -30070,6 +34915,27 @@
 },
 "sn55.40:6.12":{
 "verse":"Voici, Nandiya, comment un noble disciple demeure assidu.» "
+},
+"sn55.40:6.13":{
+"verse":""
+},
+"sn55.40:6.14":{
+"verse":""
+},
+"sn55.40:7.0":{
+"verse":""
+},
+"sn55.40:7.1":{
+"verse":""
+},
+"sn55.40:7.2":{
+"verse":""
+},
+"sn55.40:7.3":{
+"verse":""
+},
+"sn55.40:7.4":{
+"verse":""
 }
 }
 }
@@ -30110,6 +34976,9 @@
 },
 "sn55.44:2.7":{
 "verse":"Mendiants, lorsqu’un noble disciple est pourvu de ces quatre états, on dit de lui qu’il est riche, avec de grandes richesses et une grande fortune. "
+},
+"sn55.44:2.8":{
+"verse":""
 }
 }
 }
@@ -30138,6 +35007,27 @@
 },
 "sn55.50:1.4":{
 "verse":"Voici, mendiants, quels sont ces quatre facteurs de l’entrée dans le courant. "
+},
+"sn55.50:1.5":{
+"verse":""
+},
+"sn55.50:1.6":{
+"verse":""
+},
+"sn55.50:2.0":{
+"verse":""
+},
+"sn55.50:2.1":{
+"verse":""
+},
+"sn55.50:2.2":{
+"verse":""
+},
+"sn55.50:2.3":{
+"verse":""
+},
+"sn55.50:2.4":{
+"verse":""
 }
 }
 }
@@ -30343,6 +35233,9 @@
 },
 "sn55.54:8.4":{
 "verse":"entre une libération et l’autre.» "
+},
+"sn55.54:8.5":{
+"verse":""
 }
 }
 }
@@ -30371,6 +35264,9 @@
 },
 "sn55.55:1.4":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit de l’entrée dans le courant. "
+},
+"sn55.55:1.5":{
+"verse":""
 }
 }
 }
@@ -30396,6 +35292,9 @@
 },
 "sn55.56:1.3":{
 "verse":"L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit du retour unique. "
+},
+"sn55.56:1.4":{
+"verse":""
 }
 }
 }
@@ -30415,6 +35314,9 @@
 },
 "sn55.57:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit du non-retour. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit du non-retour. "
+},
+"sn55.57:1.2":{
+"verse":""
 }
 }
 }
@@ -30434,6 +35336,9 @@
 },
 "sn55.58:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit de l’état d’arahant. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la réalisation du fruit de l’état d’arahant. "
+},
+"sn55.58:1.2":{
+"verse":""
 }
 }
 }
@@ -30453,6 +35358,9 @@
 },
 "sn55.59:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’acquisition de discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’acquisition de discernement. "
+},
+"sn55.59:1.2":{
+"verse":""
 }
 }
 }
@@ -30472,6 +35380,9 @@
 },
 "sn55.60:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent au gain de discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent au gain de discernement. "
+},
+"sn55.60:1.2":{
+"verse":""
 }
 }
 }
@@ -30491,6 +35402,27 @@
 },
 "sn55.61:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à une abondance de discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à une abondance de discernement. "
+},
+"sn55.61:1.2":{
+"verse":""
+},
+"sn55.61:1.3":{
+"verse":""
+},
+"sn55.61:2.0":{
+"verse":""
+},
+"sn55.61:2.1":{
+"verse":""
+},
+"sn55.61:2.2":{
+"verse":""
+},
+"sn55.61:2.3":{
+"verse":""
+},
+"sn55.61:2.4":{
+"verse":""
 }
 }
 }
@@ -30519,6 +35451,9 @@
 },
 "sn55.62:1.4":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la grandeur du discernement. "
+},
+"sn55.62:1.5":{
+"verse":""
 }
 }
 }
@@ -30538,6 +35473,9 @@
 },
 "sn55.63:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la variété du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la variété du discernement. "
+},
+"sn55.63:1.2":{
+"verse":""
 }
 }
 }
@@ -30557,6 +35495,9 @@
 },
 "sn55.64:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la vastitude du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la vastitude du discernement. "
+},
+"sn55.64:1.2":{
+"verse":""
 }
 }
 }
@@ -30576,6 +35517,9 @@
 },
 "sn55.65:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la profondeur du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la profondeur du discernement. "
+},
+"sn55.65:1.2":{
+"verse":""
 }
 }
 }
@@ -30595,6 +35539,9 @@
 },
 "sn55.66:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’assiduité du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’assiduité du discernement. "
+},
+"sn55.66:1.2":{
+"verse":""
 }
 }
 }
@@ -30614,6 +35561,9 @@
 },
 "sn55.67:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la profusion du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la profusion du discernement. "
+},
+"sn55.67:1.2":{
+"verse":""
 }
 }
 }
@@ -30633,6 +35583,9 @@
 },
 "sn55.68:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à un discernement abondant. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à un discernement abondant. "
+},
+"sn55.68:1.2":{
+"verse":""
 }
 }
 }
@@ -30652,6 +35605,9 @@
 },
 "sn55.69:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la rapidité du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la rapidité du discernement. "
+},
+"sn55.69:1.2":{
+"verse":""
 }
 }
 }
@@ -30671,6 +35627,9 @@
 },
 "sn55.70:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la promptitude du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la promptitude du discernement. "
+},
+"sn55.70:1.2":{
+"verse":""
 }
 }
 }
@@ -30690,6 +35649,9 @@
 },
 "sn55.71:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la joie du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la joie du discernement. "
+},
+"sn55.71:1.2":{
+"verse":""
 }
 }
 }
@@ -30709,6 +35671,9 @@
 },
 "sn55.72:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la vivacité du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la vivacité du discernement. "
+},
+"sn55.72:1.2":{
+"verse":""
 }
 }
 }
@@ -30728,6 +35693,9 @@
 },
 "sn55.73:1.1":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’acuité du discernement. Quelles sont ces quatre ? L’association avec des hommes de bien, l’écoute du Dhamma authentique, l’attention judicieuse et la pratique de l’Enseignement au niveau des phénomènes. Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à l’acuité du discernement. "
+},
+"sn55.73:1.2":{
+"verse":""
 }
 }
 }
@@ -30756,6 +35724,30 @@
 },
 "sn55.74:1.4":{
 "verse":"Mendiants, lorsque ces quatre choses sont développées et cultivées, elles mènent à la pénétrativité du discernement. "
+},
+"sn55.74:1.5":{
+"verse":""
+},
+"sn55.74:1.6":{
+"verse":""
+},
+"sn55.74:2.0":{
+"verse":""
+},
+"sn55.74:2.1":{
+"verse":""
+},
+"sn55.74:2.2":{
+"verse":""
+},
+"sn55.74:2.3":{
+"verse":""
+},
+"sn55.74:2.4":{
+"verse":""
+},
+"sn55.74:2.5":{
+"verse":""
 }
 }
 }
@@ -30775,6 +35767,9 @@
 },
 "sn56.1:1.1":{
 "verse":"À Savatthi. "
+},
+"sn56.1:1.2":{
+"verse":""
 },
 "sn56.1:1.3":{
 "verse":"« Mendiants, cultivez la concentration. "
@@ -30796,6 +35791,9 @@
 },
 "sn56.1:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.1:2.2":{
+"verse":""
 }
 }
 }
@@ -30833,6 +35831,9 @@
 },
 "sn56.2:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.2:2.2":{
+"verse":""
 }
 }
 }
@@ -30873,6 +35874,9 @@
 },
 "sn56.7:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.7:3.2":{
+"verse":""
 }
 }
 }
@@ -30913,6 +35917,9 @@
 },
 "sn56.8:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.8:3.2":{
+"verse":""
 }
 }
 }
@@ -30947,6 +35954,9 @@
 },
 "sn56.9:2.2":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.9:2.3":{
+"verse":""
 }
 }
 }
@@ -30987,6 +35997,27 @@
 },
 "sn56.10:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.10:3.2":{
+"verse":""
+},
+"sn56.10:3.3":{
+"verse":""
+},
+"sn56.10:4.0":{
+"verse":""
+},
+"sn56.10:4.1":{
+"verse":""
+},
+"sn56.10:4.2":{
+"verse":""
+},
+"sn56.10:4.3":{
+"verse":""
+},
+"sn56.10:4.4":{
+"verse":""
 }
 }
 }
@@ -31127,8 +36158,14 @@
 "sn56.11:12.1":{
 "verse":"Et lorsque la roue du Dhamma fut mise en mouvement par le Fortuné, les dévas terrestres (…) "
 },
+"sn56.11:12.2":{
+"verse":""
+},
 "sn56.11:12.3":{
 "verse":"les dévas des quatre Mahārājas (…) "
+},
+"sn56.11:12.4":{
+"verse":""
 },
 "sn56.11:12.5":{
 "verse":"de Tavatimsa (…) "
@@ -31165,6 +36202,9 @@
 },
 "sn56.11:14.3":{
 "verse":"C’est ainsi que le vénérable Koṇḍañña en vint à être appelé “Koṇḍañña qui a compris.” "
+},
+"sn56.11:14.4":{
+"verse":""
 }
 }
 }
@@ -31217,6 +36257,9 @@
 },
 "sn56.12:4.3":{
 "verse":"Mendiants, en rapport à des choses non apprises auparavant, la vision apparut, la connaissance apparut, le discernement apparut, la véritable connaissance apparut, la lumière apparut chez les Tathagatas : “Cette noble vérité de la voie menant à la cessation du mal-être a été développée.” » "
+},
+"sn56.12:4.4":{
+"verse":""
 }
 }
 }
@@ -31293,6 +36336,9 @@
 },
 "sn56.13:6.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.13:6.2":{
+"verse":""
 }
 }
 }
@@ -31369,6 +36415,9 @@
 },
 "sn56.14:6.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.14:6.2":{
+"verse":""
 }
 }
 }
@@ -31409,6 +36458,9 @@
 },
 "sn56.17:2.1":{
 "verse":"C’est pourquoi, mendiant, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.17:2.2":{
+"verse":""
 }
 }
 }
@@ -31449,6 +36501,9 @@
 },
 "sn56.18:2.1":{
 "verse":"C’est pourquoi, mendiant, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.18:2.2":{
+"verse":""
 }
 }
 }
@@ -31492,6 +36547,9 @@
 },
 "sn56.19:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.19:2.2":{
+"verse":""
 }
 }
 }
@@ -31532,6 +36590,27 @@
 },
 "sn56.20:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.20:2.2":{
+"verse":""
+},
+"sn56.20:2.3":{
+"verse":""
+},
+"sn56.20:3.0":{
+"verse":""
+},
+"sn56.20:3.1":{
+"verse":""
+},
+"sn56.20:3.2":{
+"verse":""
+},
+"sn56.20:3.3":{
+"verse":""
+},
+"sn56.20:3.4":{
+"verse":""
 }
 }
 }
@@ -31560,6 +36639,9 @@
 },
 "sn56.21:2.1":{
 "verse":"Quelles sont ces quatre ? "
+},
+"sn56.21:2.2":{
+"verse":""
 },
 "sn56.21:2.3":{
 "verse":"Vous comme moi, mendiants, avons transmigré, erré pendant aussi longtemps parce que nous ne nous étions pas éveillés, nous n’avions pas pénétré la noble vérité de l’origine du mal-être. "
@@ -31602,6 +36684,9 @@
 },
 "sn56.21:5.4":{
 "verse":"Il n’y a plus maintenant d’existence supplémentaire. "
+},
+"sn56.21:5.5":{
+"verse":""
 }
 }
 }
@@ -31618,6 +36703,24 @@
 },
 "sn56.22:0.3":{
 "verse":"À Kotigama "
+},
+"sn56.22:1.1":{
+"verse":""
+},
+"sn56.22:1.2":{
+"verse":""
+},
+"sn56.22:2.1":{
+"verse":""
+},
+"sn56.22:2.2":{
+"verse":""
+},
+"sn56.22:3.1":{
+"verse":""
+},
+"sn56.22:3.2":{
+"verse":""
 },
 "sn56.22:4.1":{
 "verse":"Ceux qui ne comprennent pas le mal-être, "
@@ -31678,6 +36781,9 @@
 },
 "sn56.22:7.6":{
 "verse":"Ils cessent d’errer entre naissance et mort. "
+},
+"sn56.22:7.7":{
+"verse":""
 }
 }
 }
@@ -31709,6 +36815,9 @@
 },
 "sn56.26:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.26:3.2":{
+"verse":""
 }
 }
 }
@@ -31743,6 +36852,9 @@
 },
 "sn56.27:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.27:2.2":{
+"verse":""
 }
 }
 }
@@ -31783,6 +36895,9 @@
 },
 "sn56.29:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.29:3.2":{
+"verse":""
 }
 }
 }
@@ -31850,6 +36965,9 @@
 },
 "sn56.31:4.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.31:4.2":{
+"verse":""
 }
 }
 }
@@ -31887,6 +37005,9 @@
 },
 "sn56.33:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.33:2.2":{
+"verse":""
 }
 }
 }
@@ -31945,6 +37066,9 @@
 },
 "sn56.35:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.35:3.2":{
+"verse":""
 }
 }
 }
@@ -31976,6 +37100,9 @@
 },
 "sn56.37:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. "
+},
+"sn56.37:2.2":{
+"verse":""
 }
 }
 }
@@ -32017,6 +37144,18 @@
 "sn56.45:2.2":{
 "verse":"(raccourci de répétition) "
 },
+"sn56.45:2.3":{
+"verse":""
+},
+"sn56.45:2.4":{
+"verse":""
+},
+"sn56.45:2.5":{
+"verse":""
+},
+"sn56.45:2.6":{
+"verse":""
+},
 "sn56.45:3.1":{
 "verse":"« Qu’en penses-tu, Ānanda ? "
 },
@@ -32034,6 +37173,9 @@
 },
 "sn56.45:4.1":{
 "verse":"C’est pourquoi, Ānanda, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.45:4.2":{
+"verse":""
 }
 }
 }
@@ -32089,6 +37231,9 @@
 },
 "sn56.47:4.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.47:4.2":{
+"verse":""
 }
 }
 }
@@ -32141,6 +37286,9 @@
 },
 "sn56.48:3.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.48:3.2":{
+"verse":""
 }
 }
 }
@@ -32184,6 +37332,9 @@
 },
 "sn56.51:2.1":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.51:2.2":{
+"verse":""
 }
 }
 }
@@ -32221,6 +37372,9 @@
 },
 "sn56.58:1.7":{
 "verse":"C’est pourquoi, mendiants, le travail (de contemplation) est à faire : “Voici le mal-être”, le travail (de contemplation) est à faire : “Voici l’origine du mal-être”, le travail (de contemplation) est à faire : “Voici la cessation du mal-être”, le travail (de contemplation) est à faire : “Voici la voie menant à la cessation du mal-être”. » "
+},
+"sn56.58:1.8":{
+"verse":""
 }
 }
 }

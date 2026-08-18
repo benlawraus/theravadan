@@ -12,6 +12,9 @@
 "dhp1:0.3":{
 "verse":"Paaride grupp "
 },
+"dhp1:0.4":{
+"verse":""
+},
 "dhp1:1":{
 "verse":"Dhammade eel käib meel, "
 },
@@ -30,6 +33,9 @@
 "dhp1:6":{
 "verse":"nagu ratas vankrit vedavale jalale. "
 },
+"dhp2:0":{
+"verse":""
+},
 "dhp2:1":{
 "verse":"Dhammade eel käib meel, "
 },
@@ -47,6 +53,9 @@
 },
 "dhp2:6":{
 "verse":"nagu kaasaskäiv vari. "
+},
+"dhp3:0":{
+"verse":""
 },
 "dhp3:1":{
 "verse":"„Ta sõimas mind, lõi mind, "
@@ -72,6 +81,9 @@
 "dhp4:4":{
 "verse":"nende vaen vaibub. "
 },
+"dhp5:0":{
+"verse":""
+},
 "dhp5:1":{
 "verse":"Tõepoolest, siin maailmas ei vaibu "
 },
@@ -84,6 +96,9 @@
 "dhp5:4":{
 "verse":"see on igavene dhamma. "
 },
+"dhp6:0":{
+"verse":""
+},
 "dhp6:1":{
 "verse":"Kuid paljud ei mõista, "
 },
@@ -95,6 +110,9 @@
 },
 "dhp6:4":{
 "verse":"vaigistavad seeläbi tülid. "
+},
+"dhp7:0":{
+"verse":""
 },
 "dhp7:1":{
 "verse":"Meeldiva vaatlemises viibija, "
@@ -132,6 +150,9 @@
 "dhp8:6":{
 "verse":"nagu ka tuul kivisest mäest. "
 },
+"dhp9:0":{
+"verse":""
+},
 "dhp9:1":{
 "verse":"Tulvadega, taltumata "
 },
@@ -155,6 +176,9 @@
 },
 "dhp10:4":{
 "verse":"tema, tõepoolest, väärib kollast rüüd. "
+},
+"dhp11:0":{
+"verse":""
 },
 "dhp11:1":{
 "verse":"Kes mitteolemust peavad olemuseks "
@@ -180,6 +204,9 @@
 "dhp12:4":{
 "verse":"õigete mõtete pärusmaal. "
 },
+"dhp13:0":{
+"verse":""
+},
 "dhp13:1":{
 "verse":"Nagu vihm tungib "
 },
@@ -204,6 +231,9 @@
 "dhp14:4":{
 "verse":"hästi arendatud teadvusesse. "
 },
+"dhp15:0":{
+"verse":""
+},
 "dhp15:1":{
 "verse":"Siinilmas kurvastab ja seal ilmas kurvastab, "
 },
@@ -215,6 +245,9 @@
 },
 "dhp15:4":{
 "verse":"nähes enda ebapuhtaid tegusid. "
+},
+"dhp16:0":{
+"verse":""
 },
 "dhp16:1":{
 "verse":"Siinilmas rõõmustab ja sealilmas rõõmustab, "
@@ -228,6 +261,9 @@
 "dhp16:4":{
 "verse":"nähes enda puhtaid tegusid. "
 },
+"dhp17:0":{
+"verse":""
+},
 "dhp17:1":{
 "verse":"Siinilmas kahetseb ja seal ilmas kahetseb, "
 },
@@ -240,6 +276,9 @@
 "dhp17:4":{
 "verse":"Rohkemgi veel kahetseb ta, olles läinud halba uude sündi. "
 },
+"dhp18:0":{
+"verse":""
+},
 "dhp18:1":{
 "verse":"Siinilmas rõõmustab ja sealilmas rõõmustab, "
 },
@@ -251,6 +290,9 @@
 },
 "dhp18:4":{
 "verse":"Rohkemgi veel rõõmustab ta, olles läinud heasse uude sündi. "
+},
+"dhp19:0":{
+"verse":""
 },
 "dhp19:1":{
 "verse":"Palju ka ei retsiteeriks ta pühakirju, "
@@ -301,6 +343,9 @@
 "dhp21:0.3":{
 "verse":"Hoolikuse grupp "
 },
+"dhp21:0.4":{
+"verse":""
+},
 "dhp21:1":{
 "verse":"Hoolikus on tee surmatusse, "
 },
@@ -337,6 +382,9 @@
 "dhp23:4":{
 "verse":"kõrgeimat ikete rahunemist. "
 },
+"dhp24:0":{
+"verse":""
+},
 "dhp24:1":{
 "verse":"Pingutava, teadliku, "
 },
@@ -349,6 +397,9 @@
 "dhp24:4":{
 "verse":"hoolika maine kasvab. "
 },
+"dhp25:0":{
+"verse":""
+},
 "dhp25:1":{
 "verse":"Pingutuse, hoolikuse, "
 },
@@ -360,6 +411,9 @@
 },
 "dhp25:4":{
 "verse":"mida üleujutus ei uputa! "
+},
+"dhp26:0":{
+"verse":""
 },
 "dhp26:1":{
 "verse":"Vähearukad, lapsikud inimesed "
@@ -385,6 +439,9 @@
 "dhp27:4":{
 "verse":"saavutab tõepoolest suure õnne! "
 },
+"dhp28:0":{
+"verse":""
+},
 "dhp28:1":{
 "verse":"Hoolikusega hooletuse "
 },
@@ -402,6 +459,9 @@
 },
 "dhp28:6":{
 "verse":"kes vaatleb lapsikuid inimesi all tasandikul. "
+},
+"dhp29:0":{
+"verse":""
 },
 "dhp29:1":{
 "verse":"Hooletute seas hoolikas "
@@ -430,6 +490,9 @@
 "dhp30:4":{
 "verse":"hooletust aga laidetakse alati. "
 },
+"dhp31:0":{
+"verse":""
+},
 "dhp31:1":{
 "verse":"Hoolikusele pühendunud "
 },
@@ -441,6 +504,9 @@
 },
 "dhp31:4":{
 "verse":"põletades kõik köidikud, nii väikesed kui suured. "
+},
+"dhp32:0":{
+"verse":""
 },
 "dhp32:1":{
 "verse":"Hoolikusele pühendunud "
@@ -473,6 +539,9 @@
 "dhp33:0.3":{
 "verse":"Teadvuse grupp "
 },
+"dhp33:0.4":{
+"verse":""
+},
 "dhp33:1":{
 "verse":"Kõikuva, muutliku, "
 },
@@ -497,6 +566,9 @@
 "dhp34:4":{
 "verse":"et pääseda Surma võimu alt. "
 },
+"dhp35:0":{
+"verse":""
+},
 "dhp35:1":{
 "verse":"Raske on ohjata "
 },
@@ -508,6 +580,9 @@
 },
 "dhp35:4":{
 "verse":"ohjeldatud teadvus toob õnne. "
+},
+"dhp36:0":{
+"verse":""
 },
 "dhp36:1":{
 "verse":"Väga raskesti nähtav, väga peen on "
@@ -521,6 +596,9 @@
 "dhp36:4":{
 "verse":"Kaitstud teadvus toob õnne. "
 },
+"dhp37:0":{
+"verse":""
+},
 "dhp37:1":{
 "verse":"Kes elavad koopas "
 },
@@ -532,6 +610,9 @@
 },
 "dhp37:4":{
 "verse":"need pääsevad Surma kammitsaist. "
+},
+"dhp38:0":{
+"verse":""
 },
 "dhp38:1":{
 "verse":"Ebakindla teadvusega, "
@@ -557,6 +638,9 @@
 "dhp39:4":{
 "verse":"ärkvelolijal pole hirmu. "
 },
+"dhp40:0":{
+"verse":""
+},
 "dhp40:1":{
 "verse":"Saanud aru, et see keha on kui habras anum, "
 },
@@ -568,6 +652,9 @@
 },
 "dhp40:4":{
 "verse":"ja kaitse võidetut kiindumuseta. "
+},
+"dhp41:0":{
+"verse":""
 },
 "dhp41:1":{
 "verse":"Tõepoolest, see keha "
@@ -581,6 +668,9 @@
 "dhp41:4":{
 "verse":"kui kasutu puunott. "
 },
+"dhp42:0":{
+"verse":""
+},
 "dhp42:1":{
 "verse":"Mida iganes teeks vaenlane vaenlasele "
 },
@@ -592,6 +682,9 @@
 },
 "dhp42:4":{
 "verse":"teeb talle rohkem kurja. "
+},
+"dhp43:0":{
+"verse":""
 },
 "dhp43:1":{
 "verse":"Mida iganes ei teeks ema ja isa "
@@ -623,6 +716,9 @@
 },
 "dhp44:0.3":{
 "verse":"Lille grupp "
+},
+"dhp44:0.4":{
+"verse":""
 },
 "dhp44:1":{
 "verse":"Kes uurib läbi selle maailma "
@@ -663,6 +759,9 @@
 "dhp46:4":{
 "verse":"ning läheb surmakuningale nähtamatusse. "
 },
+"dhp47:0":{
+"verse":""
+},
 "dhp47:1":{
 "verse":"Tõepoolest, vaid lilli koguva, "
 },
@@ -674,6 +773,9 @@
 },
 "dhp47:4":{
 "verse":"nagu üleujutus magava küla. "
+},
+"dhp48:0":{
+"verse":""
 },
 "dhp48:1":{
 "verse":"Tõepoolest, vaid lilli koguvast, "
@@ -687,6 +789,9 @@
 "dhp48:4":{
 "verse":"saab Lõputegija võitu. "
 },
+"dhp49:0":{
+"verse":""
+},
 "dhp49:1":{
 "verse":"Nagu nektarit joonud mesilane "
 },
@@ -699,6 +804,9 @@
 "dhp49:4":{
 "verse":"külas kõndima. "
 },
+"dhp50:0":{
+"verse":""
+},
 "dhp50:1":{
 "verse":"Ära vaata teise puuduseid "
 },
@@ -710,6 +818,9 @@
 },
 "dhp50:4":{
 "verse":"ja tegemata jäetut. "
+},
+"dhp51:0":{
+"verse":""
 },
 "dhp51:1":{
 "verse":"Nagu ilus lill, "
@@ -735,6 +846,9 @@
 "dhp52:4":{
 "verse":"mida järgitakse. "
 },
+"dhp53:0":{
+"verse":""
+},
 "dhp53:1":{
 "verse":"Nii, nagu lillekimbust "
 },
@@ -746,6 +860,9 @@
 },
 "dhp53:4":{
 "verse":"teha palju oskuslikku. "
+},
+"dhp54:0":{
+"verse":""
 },
 "dhp54:1":{
 "verse":"Ei lille, sandli, tagaara "
@@ -771,6 +888,9 @@
 "dhp55:4":{
 "verse":"ületab kõlbluse lõhn. "
 },
+"dhp56:0":{
+"verse":""
+},
 "dhp56:1":{
 "verse":"Nõrk on see "
 },
@@ -783,6 +903,9 @@
 "dhp56:4":{
 "verse":"see kandub deevadenigi. "
 },
+"dhp57:0":{
+"verse":""
+},
 "dhp57:1":{
 "verse":"Kes on kaitstud kõlblusega, "
 },
@@ -794,6 +917,9 @@
 },
 "dhp57:4":{
 "verse":"(nende juurde) Surm teed ei leia. "
+},
+"dhp58:0":{
+"verse":""
 },
 "dhp58:1":{
 "verse":"Nii nagu suure tee äärde "
@@ -838,6 +964,9 @@
 "dhp60:0.3":{
 "verse":"Lapsiku grupp "
 },
+"dhp60:0.4":{
+"verse":""
+},
 "dhp60:1":{
 "verse":"Öö on pikk ärkvelolijale, "
 },
@@ -849,6 +978,9 @@
 },
 "dhp60:4":{
 "verse":"kes ei tea õiget dhammat. "
+},
+"dhp61:0":{
+"verse":""
 },
 "dhp61:1":{
 "verse":"Kui rändaja ei leia paremat "
@@ -862,6 +994,9 @@
 "dhp61:4":{
 "verse":"Lapsikuga ei saa olla sõprust. "
 },
+"dhp62:0":{
+"verse":""
+},
 "dhp62:1":{
 "verse":"„Mul on pojad, mul on varandus“, "
 },
@@ -873,6 +1008,9 @@
 },
 "dhp62:4":{
 "verse":"Kuis siis pojad? Kuis siis varandus? "
+},
+"dhp63:0":{
+"verse":""
 },
 "dhp63:1":{
 "verse":"Oma lapsikust teadev lapsik "
@@ -886,6 +1024,9 @@
 "dhp63:4":{
 "verse":"võib tõepoolest lapsikuks nimetada. "
 },
+"dhp64:0":{
+"verse":""
+},
 "dhp64:1":{
 "verse":"Kui lapsik ka terve elu "
 },
@@ -897,6 +1038,9 @@
 },
 "dhp64:4":{
 "verse":"nagu ka lusikas supi maitset. "
+},
+"dhp65:0":{
+"verse":""
 },
 "dhp65:1":{
 "verse":"Kui arukas targaga "
@@ -910,6 +1054,9 @@
 "dhp65:4":{
 "verse":"nagu ka keel supi maitset. "
 },
+"dhp66:0":{
+"verse":""
+},
 "dhp66:1":{
 "verse":"Lapsikud ja kehvaarulised "
 },
@@ -921,6 +1068,9 @@
 },
 "dhp66:4":{
 "verse":"millel on mõrud viljad. "
+},
+"dhp67:0":{
+"verse":""
 },
 "dhp67:1":{
 "verse":"See tegu, mille tegemist "
@@ -934,6 +1084,9 @@
 "dhp67:4":{
 "verse":"pole hästi tehtud. "
 },
+"dhp68:0":{
+"verse":""
+},
 "dhp68:1":{
 "verse":"See tegu, mille tegemist "
 },
@@ -945,6 +1098,9 @@
 },
 "dhp68:4":{
 "verse":"on hästi tehtud. "
+},
+"dhp69:0":{
+"verse":""
 },
 "dhp69:1":{
 "verse":"„Mesi!“ mõtleb lapsik, "
@@ -958,6 +1114,9 @@
 "dhp69:4":{
 "verse":"siis langeb lapsik kannatusse. "
 },
+"dhp70:0":{
+"verse":""
+},
 "dhp70:1":{
 "verse":"Kuust kuusse võib lapsik "
 },
@@ -969,6 +1128,9 @@
 },
 "dhp70:4":{
 "verse":"dhammat mõistnust. "
+},
+"dhp71:0":{
+"verse":""
 },
 "dhp71:1":{
 "verse":"Ei tõesti tehtud kuri tegu "
@@ -982,6 +1144,9 @@
 "dhp71:4":{
 "verse":"nagu tuhaga kaetud tuli. "
 },
+"dhp72:0":{
+"verse":""
+},
 "dhp72:1":{
 "verse":"Tõepoolest, ainult tuntusest "
 },
@@ -993,6 +1158,9 @@
 },
 "dhp72:4":{
 "verse":"see hävitab lapsikus puhtama poole "
+},
+"dhp73:0":{
+"verse":""
 },
 "dhp73:1":{
 "verse":"Lapsikus võib areneda tahtmine "
@@ -1023,6 +1191,9 @@
 },
 "dhp74:6":{
 "verse":"ning tema igatsus ja uhkus kasvavad. "
+},
+"dhp75:0":{
+"verse":""
 },
 "dhp75:1":{
 "verse":"Tõepoolest, erinevad on saamise, "
@@ -1082,6 +1253,9 @@
 "dhp76:6":{
 "verse":"mitte kurja. "
 },
+"dhp77:0":{
+"verse":""
+},
 "dhp77:1":{
 "verse":"Kes manitseb ja annab nõu, "
 },
@@ -1093,6 +1267,9 @@
 },
 "dhp77:4":{
 "verse":"kuid pole kallis mittetõelikule. "
+},
+"dhp78:0":{
+"verse":""
 },
 "dhp78:1":{
 "verse":"Ära suhtle kurjade sõpradega, "
@@ -1106,6 +1283,9 @@
 "dhp78:4":{
 "verse":"suhtle kõrgemate inimestega. "
 },
+"dhp79:0":{
+"verse":""
+},
 "dhp79:1":{
 "verse":"Dhammast rõõmu tundev "
 },
@@ -1117,6 +1297,9 @@
 },
 "dhp79:4":{
 "verse":"rõõmustab alati tarka. "
+},
+"dhp80:0":{
+"verse":""
 },
 "dhp80:1":{
 "verse":"Tõepoolest, niisutajad juhivad vett, "
@@ -1130,6 +1313,9 @@
 "dhp80:4":{
 "verse":"targad ohjavad ennast. "
 },
+"dhp81:0":{
+"verse":""
+},
 "dhp81:1":{
 "verse":"Nii nagu tuul "
 },
@@ -1141,6 +1327,9 @@
 },
 "dhp81:4":{
 "verse":"ega kiitused tarku. "
+},
+"dhp82:0":{
+"verse":""
 },
 "dhp82:1":{
 "verse":"Just nagu hägu settides "
@@ -1154,6 +1343,9 @@
 "dhp82:4":{
 "verse":"puhastuvad targad. "
 },
+"dhp83:0":{
+"verse":""
+},
 "dhp83:1":{
 "verse":"Tõepoolest, tõelikud mehed loobuvad maisest. "
 },
@@ -1166,6 +1358,9 @@
 "dhp83:4":{
 "verse":"tark ei näita välja tõusu ega langust. "
 },
+"dhp84:0":{
+"verse":""
+},
 "dhp84:1":{
 "verse":"Ei enda ega teiste pärast "
 },
@@ -1177,6 +1372,9 @@
 },
 "dhp84:4":{
 "verse":"Sestap peaks elama kõlbeline tark dhammas. "
+},
+"dhp85:0":{
+"verse":""
 },
 "dhp85:1":{
 "verse":"Vähe on inimeste seas "
@@ -1201,6 +1399,9 @@
 },
 "dhp86:4":{
 "verse":"väga raskesti ületatava surmavalla. "
+},
+"dhp87:0":{
+"verse":""
 },
 "dhp87:1":{
 "verse":"Hüljanud tumeda dhamma, "
@@ -1293,6 +1494,9 @@
 "dhp91:4":{
 "verse":"hülgavad teadlikud kõik peatuspaigad. "
 },
+"dhp92:0":{
+"verse":""
+},
 "dhp92:1":{
 "verse":"Need, kes ei kogu, "
 },
@@ -1332,6 +1536,9 @@
 "dhp93:6":{
 "verse":"on ka nende teed raske mõista. "
 },
+"dhp94:0":{
+"verse":""
+},
 "dhp94:1":{
 "verse":"Kes kulgeb rahunenud võimetega "
 },
@@ -1359,6 +1566,9 @@
 "dhp95:4":{
 "verse":"sellise jaoks pole enam sansaarat. "
 },
+"dhp96:0":{
+"verse":""
+},
 "dhp96:1":{
 "verse":"Rahulik on tema meel, "
 },
@@ -1370,6 +1580,9 @@
 },
 "dhp96:4":{
 "verse":"selline on täielikult rahunenud. "
+},
+"dhp97:0":{
+"verse":""
 },
 "dhp97:1":{
 "verse":"Usuta ja mittetekkinut teadev, "
@@ -1383,6 +1596,9 @@
 "dhp97:4":{
 "verse":"tema on tõepoolest ülim inimene. "
 },
+"dhp98:0":{
+"verse":""
+},
 "dhp98:1":{
 "verse":"Külas või metsas, "
 },
@@ -1394,6 +1610,9 @@
 },
 "dhp98:4":{
 "verse":"on see koht meeldiv. "
+},
+"dhp99:0":{
+"verse":""
 },
 "dhp99:1":{
 "verse":"Kus on rõõmustavad metsad, "
@@ -1441,6 +1660,9 @@
 "dhp100:4":{
 "verse":"mille kuulmine rahustab. "
 },
+"dhp101:0":{
+"verse":""
+},
 "dhp101:1":{
 "verse":"Ka tuhandest sisutust värsist "
 },
@@ -1452,6 +1674,9 @@
 },
 "dhp101:4":{
 "verse":"mille kuulmine rahustab. "
+},
+"dhp102:0":{
+"verse":""
 },
 "dhp102:1":{
 "verse":"Ka sadade sisutute sõnadega "
@@ -1477,6 +1702,9 @@
 "dhp103:4":{
 "verse":"kes võidab ühe — iseenda. "
 },
+"dhp104:0":{
+"verse":""
+},
 "dhp104:1":{
 "verse":"Tõepoolest, parem on alistada „mina“, "
 },
@@ -1501,6 +1729,9 @@
 "dhp105:4":{
 "verse":"kaotuseks muuta. "
 },
+"dhp106:0":{
+"verse":""
+},
 "dhp106:1":{
 "verse":"Kui sada aastat teha "
 },
@@ -1519,6 +1750,9 @@
 "dhp106:6":{
 "verse":"kui sada aastat ohverdamist. "
 },
+"dhp107:0":{
+"verse":""
+},
 "dhp107:1":{
 "verse":"Kui ka sada aastat "
 },
@@ -1536,6 +1770,9 @@
 },
 "dhp107:6":{
 "verse":"kui sada aastat ohverdamist. "
+},
+"dhp108:0":{
+"verse":""
 },
 "dhp108:1":{
 "verse":"Mis iganes ohverdusi või almuseid võiks "
@@ -1564,6 +1801,9 @@
 "dhp109:4":{
 "verse":"eluiga, jume, õnn ja jõud. "
 },
+"dhp110:0":{
+"verse":""
+},
 "dhp110:1":{
 "verse":"Ka saja-aastasest "
 },
@@ -1575,6 +1815,9 @@
 },
 "dhp110:4":{
 "verse":"kõlbelise džhaai elust. "
+},
+"dhp111:0":{
+"verse":""
 },
 "dhp111:1":{
 "verse":"Ka saja-aastasest "
@@ -1588,6 +1831,9 @@
 "dhp111:4":{
 "verse":"tarkusega džhaai elust. "
 },
+"dhp112:0":{
+"verse":""
+},
 "dhp112:1":{
 "verse":"Ka saja-aastasest "
 },
@@ -1599,6 +1845,9 @@
 },
 "dhp112:4":{
 "verse":"energilise ja resoluutse elust. "
+},
+"dhp113:0":{
+"verse":""
 },
 "dhp113:1":{
 "verse":"Ka saja-aastasest "
@@ -1612,6 +1861,9 @@
 "dhp113:4":{
 "verse":"tekkimist ja lakkamist näinu elu. "
 },
+"dhp114:0":{
+"verse":""
+},
 "dhp114:1":{
 "verse":"Ka saja-aastasest "
 },
@@ -1623,6 +1875,9 @@
 },
 "dhp114:4":{
 "verse":"surmatuse teed näinu elu. "
+},
+"dhp115:0":{
+"verse":""
 },
 "dhp115:1":{
 "verse":"Ka saja-aastasest "
@@ -1655,6 +1910,9 @@
 "dhp116:0.3":{
 "verse":"Kurjuse grupp "
 },
+"dhp116:0.4":{
+"verse":""
+},
 "dhp116:1":{
 "verse":"Kiirustagu hüveline, "
 },
@@ -1666,6 +1924,9 @@
 },
 "dhp116:4":{
 "verse":"kurja nautiv meel. "
+},
+"dhp117:0":{
+"verse":""
 },
 "dhp117:1":{
 "verse":"Kui mees tegi kurja, "
@@ -1679,6 +1940,9 @@
 "dhp117:4":{
 "verse":"Kurja kuhjumine on kannatus. "
 },
+"dhp118:0":{
+"verse":""
+},
 "dhp118:1":{
 "verse":"Kui mees tegi pälvimusi, "
 },
@@ -1690,6 +1954,9 @@
 },
 "dhp118:4":{
 "verse":"Pälvimuste kuhjumine on õnn. "
+},
+"dhp119:0":{
+"verse":""
 },
 "dhp119:1":{
 "verse":"Kuri näeb head seni, "
@@ -1715,6 +1982,9 @@
 "dhp120:4":{
 "verse":"näeb hea head. "
 },
+"dhp121:0":{
+"verse":""
+},
 "dhp121:1":{
 "verse":"Ära mõtle: "
 },
@@ -1732,6 +2002,9 @@
 },
 "dhp121:6":{
 "verse":"kui kogub seda vähehaaval. "
+},
+"dhp122:0":{
+"verse":""
 },
 "dhp122:1":{
 "verse":"Ära mõtle: "
@@ -1751,6 +2024,9 @@
 "dhp122:6":{
 "verse":"kui kogub neid vähehaaval. "
 },
+"dhp123:0":{
+"verse":""
+},
 "dhp123:1":{
 "verse":"Nii nagu suure vara ja väikese karavaniga "
 },
@@ -1762,6 +2038,9 @@
 },
 "dhp123:4":{
 "verse":"nõnda tuleks vältida kurja. "
+},
+"dhp124:0":{
+"verse":""
 },
 "dhp124:1":{
 "verse":"Haavata käega saab "
@@ -1775,6 +2054,9 @@
 "dhp124:4":{
 "verse":"ega kurja mittetegijale. "
 },
+"dhp125:0":{
+"verse":""
+},
 "dhp125:1":{
 "verse":"Kes solvab pahetut inimest, "
 },
@@ -1786,6 +2068,9 @@
 },
 "dhp125:4":{
 "verse":"nagu vastutuult visatud peenike tolm. "
+},
+"dhp126:0":{
+"verse":""
 },
 "dhp126:1":{
 "verse":"Ühed ilmnevad üsas, "
@@ -1799,6 +2084,9 @@
 "dhp126:4":{
 "verse":"tulvatud vaibuvad lõplikult. "
 },
+"dhp127:0":{
+"verse":""
+},
 "dhp127:1":{
 "verse":"Ei taevalaotuses, ei keset ookeani, "
 },
@@ -1811,8 +2099,14 @@
 "dhp127:4":{
 "verse":"pääsenuna (iseenda) kurjadest tegudest. "
 },
+"dhp128:0":{
+"verse":""
+},
 "dhp128:1":{
 "verse":"Ei taevalaotuses, ei keset ookeani, "
+},
+"dhp128:2":{
+"verse":""
 },
 "dhp128:3":{
 "verse":"pole paika, kus seista kindlalt, "
@@ -1839,6 +2133,9 @@
 "dhp129:0.3":{
 "verse":"Malaka grupp "
 },
+"dhp129:0.4":{
+"verse":""
+},
 "dhp129:1":{
 "verse":"Kõik värisevad malaka ees, "
 },
@@ -1851,6 +2148,9 @@
 "dhp129:4":{
 "verse":"ära tapa ega põhjusta tapmist! "
 },
+"dhp130:0":{
+"verse":""
+},
 "dhp130:1":{
 "verse":"Kõik värisevad malaka ees, "
 },
@@ -1862,6 +2162,9 @@
 },
 "dhp130:4":{
 "verse":"ära tapa ega põhjusta tapmist. "
+},
+"dhp131:0":{
+"verse":""
 },
 "dhp131:1":{
 "verse":"Olendid naudivad õnne. "
@@ -1887,6 +2190,9 @@
 "dhp132:4":{
 "verse":"saab peale surma õnnelikuks. "
 },
+"dhp133:0":{
+"verse":""
+},
 "dhp133:1":{
 "verse":"Ära kellegagi räägi karmilt, "
 },
@@ -1911,6 +2217,9 @@
 "dhp134:4":{
 "verse":"ägestumist siis sinus enam ei leidu. "
 },
+"dhp135:0":{
+"verse":""
+},
 "dhp135:1":{
 "verse":"Nagu malakaga lehmakarjus "
 },
@@ -1922,6 +2231,9 @@
 },
 "dhp135:4":{
 "verse":"viivad olenditelt elu. "
+},
+"dhp136:0":{
+"verse":""
 },
 "dhp136:1":{
 "verse":"Kurja tegu tehes "
@@ -1986,6 +2298,9 @@
 "dhp140:4":{
 "verse":"ilmneb keha hävinemisel nirajas. "
 },
+"dhp141:0":{
+"verse":""
+},
 "dhp141:1":{
 "verse":"Ei alasti kõndimine, ei puntras juuksed, ei muda, "
 },
@@ -2012,6 +2327,9 @@
 },
 "dhp142:4":{
 "verse":"siis on see braahman, see on erakrändur, see on bhikkhu. "
+},
+"dhp143:0":{
+"verse":""
 },
 "dhp143:1":{
 "verse":"Häbist tagasihoitud mees, "
@@ -2043,6 +2361,9 @@
 "dhp144:6":{
 "verse":"hülga see suur dukkha! "
 },
+"dhp145:0":{
+"verse":""
+},
 "dhp145:1":{
 "verse":"Tõepoolest, niisutajad juhivad vett, "
 },
@@ -2073,6 +2394,9 @@
 },
 "dhp146:0.3":{
 "verse":"Vanaduse grupp "
+},
+"dhp146:0.4":{
+"verse":""
 },
 "dhp146:1":{
 "verse":"Kes naerab, kes rõõmustab "
@@ -2116,6 +2440,9 @@
 "dhp148:4":{
 "verse":"Tõepoolest, elu lõpeb surmaga. "
 },
+"dhp149:0":{
+"verse":""
+},
 "dhp149:1":{
 "verse":"Need hallid kondid, "
 },
@@ -2127,6 +2454,9 @@
 },
 "dhp149:4":{
 "verse":"kes näeb neis armastust? "
+},
+"dhp150:0":{
+"verse":""
 },
 "dhp150:1":{
 "verse":"See linn on tehtud kontidest, "
@@ -2140,6 +2470,9 @@
 "dhp150:4":{
 "verse":"ning uhkus ja põlgus. "
 },
+"dhp151:0":{
+"verse":""
+},
 "dhp151:1":{
 "verse":"Tõepoolest, kuninga kaunid vankrid kuluvad, "
 },
@@ -2152,6 +2485,9 @@
 "dhp151:4":{
 "verse":"tõelikud õpetavad seda tõelikele. "
 },
+"dhp152:0":{
+"verse":""
+},
 "dhp152:1":{
 "verse":"Väheõppinud mees "
 },
@@ -2163,6 +2499,9 @@
 },
 "dhp152:4":{
 "verse":"kuid tema tarkus ei kasva. "
+},
+"dhp153:0":{
+"verse":""
 },
 "dhp153:1":{
 "verse":"Olen palju sünde "
@@ -2193,6 +2532,9 @@
 },
 "dhp154:6":{
 "verse":"iha lõppemine saavutatud. "
+},
+"dhp155:0":{
+"verse":""
 },
 "dhp155:1":{
 "verse":"Kes pole elanud brahmalikku elu "
@@ -2252,6 +2594,9 @@
 "dhp157:4":{
 "verse":"olgu tark ärkvel. "
 },
+"dhp158:0":{
+"verse":""
+},
 "dhp158:1":{
 "verse":"Iseendas esmalt "
 },
@@ -2263,6 +2608,9 @@
 },
 "dhp158:4":{
 "verse":"Tark ei peaks [olema] ebapuhas. "
+},
+"dhp159:0":{
+"verse":""
 },
 "dhp159:1":{
 "verse":"Käitugu ta ise alati nii, "
@@ -2276,6 +2624,9 @@
 "dhp159:4":{
 "verse":"Ennast on tõesti raske ohjata. "
 },
+"dhp160:0":{
+"verse":""
+},
 "dhp160:1":{
 "verse":"Mina, tõepoolest olen enda kaitsja; "
 },
@@ -2287,6 +2638,9 @@
 },
 "dhp160:4":{
 "verse":"kaitsja raskesti saavutatava. "
+},
+"dhp161:0":{
+"verse":""
 },
 "dhp161:1":{
 "verse":"Tõepoolest, enda tehtud on kuri, "
@@ -2300,6 +2654,9 @@
 "dhp161:4":{
 "verse":"nagu teemant purustab kristalli. "
 },
+"dhp162:0":{
+"verse":""
+},
 "dhp162:1":{
 "verse":"Kes on läbinisti halva kõlblusega, "
 },
@@ -2312,6 +2669,9 @@
 "dhp162:4":{
 "verse":"mida vaenlane tahab talle. "
 },
+"dhp163:0":{
+"verse":""
+},
 "dhp163:1":{
 "verse":"Kerge on endale teha "
 },
@@ -2323,6 +2683,9 @@
 },
 "dhp163:4":{
 "verse":"head ja kasulikku teha. "
+},
+"dhp164:0":{
+"verse":""
 },
 "dhp164:1":{
 "verse":"Kes põlgab arahantide õpetust "
@@ -2341,6 +2704,9 @@
 },
 "dhp164:6":{
 "verse":"on nagu ennasthävitaval bambusel. "
+},
+"dhp165:0":{
+"verse":""
 },
 "dhp165:1":{
 "verse":"Tõepoolest, ise tehakse kurja, "
@@ -2409,6 +2775,9 @@
 "dhp167:4":{
 "verse":"Ära ole maailma kiindunud! "
 },
+"dhp168:0":{
+"verse":""
+},
 "dhp168:1":{
 "verse":"Tõuse! Ära ole hooletu! "
 },
@@ -2433,6 +2802,9 @@
 "dhp169:4":{
 "verse":"selles maailmas ja ka teises. "
 },
+"dhp170:0":{
+"verse":""
+},
 "dhp170:1":{
 "verse":"Vaata (maailma) kui mulli, "
 },
@@ -2444,6 +2816,9 @@
 },
 "dhp170:4":{
 "verse":"Surmakuningas ei näe sind. "
+},
+"dhp171:0":{
+"verse":""
 },
 "dhp171:1":{
 "verse":"Tule, vaata seda maailma, "
@@ -2472,6 +2847,9 @@
 "dhp172:4":{
 "verse":"nagu pilvedest vabanenud kuu. "
 },
+"dhp173:0":{
+"verse":""
+},
 "dhp173:1":{
 "verse":"Kes tehtud kurja teo "
 },
@@ -2483,6 +2861,9 @@
 },
 "dhp173:4":{
 "verse":"nagu pilvedest vabanenud kuu. "
+},
+"dhp174:0":{
+"verse":""
 },
 "dhp174:1":{
 "verse":"Pime on see maailm, "
@@ -2496,6 +2877,9 @@
 "dhp174:4":{
 "verse":"(nagu) püünisest vabanenud linnud. "
 },
+"dhp175:0":{
+"verse":""
+},
 "dhp175:1":{
 "verse":"Luiged liiguvad päikese teed, "
 },
@@ -2507,6 +2891,9 @@
 },
 "dhp175:4":{
 "verse":"olles vallutanud Surma ühes ta armeega. "
+},
+"dhp176:0":{
+"verse":""
 },
 "dhp176:1":{
 "verse":"Ühes dhammas üleastunule: "
@@ -2520,6 +2907,9 @@
 "dhp176:4":{
 "verse":"pole kurja, mida ta ei võiks teha. "
 },
+"dhp177:0":{
+"verse":""
+},
 "dhp177:1":{
 "verse":"Tõepoolest, alatud ei lähe deevade maailma, "
 },
@@ -2531,6 +2921,9 @@
 },
 "dhp177:4":{
 "verse":"seetõttu saab ta õnnelikuks ka teispoolsuses. "
+},
+"dhp178:0":{
+"verse":""
 },
 "dhp178:1":{
 "verse":"Maailma ainuvalitsemisest, "
@@ -2563,6 +2956,9 @@
 "dhp179:0.3":{
 "verse":"Buddha grupp "
 },
+"dhp179:0.4":{
+"verse":""
+},
 "dhp179:1":{
 "verse":"Kelle võit pole kaotatav, "
 },
@@ -2587,6 +2983,9 @@
 "dhp180:4":{
 "verse":"kes viibib lõputu pärusmaa jäljetus vallas? "
 },
+"dhp181:0":{
+"verse":""
+},
 "dhp181:1":{
 "verse":"Neid, džhaanas kinnistunud taiplikke, "
 },
@@ -2599,6 +2998,9 @@
 "dhp181:4":{
 "verse":"äielikult mõistnuid, täielikult teadlikke. "
 },
+"dhp182:0":{
+"verse":""
+},
 "dhp182:1":{
 "verse":"Raske inimeseks saada, "
 },
@@ -2610,6 +3012,9 @@
 },
 "dhp182:4":{
 "verse":"raske buddhaks saada. "
+},
+"dhp183:0":{
+"verse":""
 },
 "dhp183:1":{
 "verse":"Kõiksugu kurja mittetegemine, "
@@ -2653,6 +3058,9 @@
 "dhp185:6":{
 "verse":"see on buddhade õpetus. "
 },
+"dhp186:0":{
+"verse":""
+},
 "dhp186:1":{
 "verse":"Isegi müntide sajus ei "
 },
@@ -2676,6 +3084,9 @@
 },
 "dhp187:4":{
 "verse":"Õigestimõistnu järgija. "
+},
+"dhp188:0":{
+"verse":""
 },
 "dhp188:1":{
 "verse":"Tõesti, paljud inimesed otsivad "
@@ -2737,6 +3148,9 @@
 "dhp192:4":{
 "verse":"kogu dukkhast vabanemiseni. "
 },
+"dhp193:0":{
+"verse":""
+},
 "dhp193:1":{
 "verse":"Õilis mees on haruldane, "
 },
@@ -2749,6 +3163,9 @@
 "dhp193:4":{
 "verse":"seal hõimu õnn õitseb. "
 },
+"dhp194:0":{
+"verse":""
+},
 "dhp194:1":{
 "verse":"Mõistnu ilmnemine on õnn "
 },
@@ -2760,6 +3177,9 @@
 },
 "dhp194:4":{
 "verse":"üksmeelne askees on õnn "
+},
+"dhp195:0":{
+"verse":""
 },
 "dhp195:1":{
 "verse":"Kes austab austuse väärilisi, "
@@ -2807,6 +3227,9 @@
 "dhp197:0.3":{
 "verse":"Õnne grupp "
 },
+"dhp197:0.4":{
+"verse":""
+},
 "dhp197:1":{
 "verse":"Me elame tõesti väga õnnelikult, "
 },
@@ -2843,6 +3266,9 @@
 "dhp199:4":{
 "verse":"elame me ahnustea. "
 },
+"dhp200:0":{
+"verse":""
+},
 "dhp200:1":{
 "verse":"Me elame tõesti väga õnnelikult "
 },
@@ -2854,6 +3280,9 @@
 },
 "dhp200:4":{
 "verse":"nagu hiilgavad deevad. "
+},
+"dhp201:0":{
+"verse":""
 },
 "dhp201:1":{
 "verse":"Võit tekitab vihkamist, "
@@ -2867,6 +3296,9 @@
 "dhp201:4":{
 "verse":"võidust ja kaotusest loobunu. "
 },
+"dhp202:0":{
+"verse":""
+},
 "dhp202:1":{
 "verse":"Pole kirega võrdset tuld, "
 },
@@ -2878,6 +3310,9 @@
 },
 "dhp202:4":{
 "verse":"pole rahust kõrgemat õnne. "
+},
+"dhp203:0":{
+"verse":""
 },
 "dhp203:1":{
 "verse":"Nälg on ülim haigus, "
@@ -2891,6 +3326,9 @@
 "dhp203:4":{
 "verse":"(selle jaoks on) nibbaana ülim õnn. "
 },
+"dhp204:0":{
+"verse":""
+},
 "dhp204:1":{
 "verse":"Haiguste puudumine on ülim vara, "
 },
@@ -2903,6 +3341,9 @@
 "dhp204:4":{
 "verse":"nibbaana on ülim õnn. "
 },
+"dhp205:0":{
+"verse":""
+},
 "dhp205:1":{
 "verse":"Erakluse maitsest "
 },
@@ -2914,6 +3355,9 @@
 },
 "dhp205:4":{
 "verse":"(tema) maitseb dhammarõõmu jooki. "
+},
+"dhp206:0":{
+"verse":""
 },
 "dhp206:1":{
 "verse":"Suurepärane on näha arijaid, "
@@ -3018,6 +3462,9 @@
 "dhp211:4":{
 "verse":"kes on meeldivast ja ebameeldivast vaba. "
 },
+"dhp212:0":{
+"verse":""
+},
 "dhp212:1":{
 "verse":"Meeldivast sünnib lein, "
 },
@@ -3029,6 +3476,9 @@
 },
 "dhp212:4":{
 "verse":"kust siis hirm? "
+},
+"dhp213:0":{
+"verse":""
 },
 "dhp213:1":{
 "verse":"Armastusest sünnib lein, "
@@ -3042,6 +3492,9 @@
 "dhp213:4":{
 "verse":"kust siis hirm? "
 },
+"dhp214:0":{
+"verse":""
+},
 "dhp214:1":{
 "verse":"Kiindumusest sünnib lein, "
 },
@@ -3053,6 +3506,9 @@
 },
 "dhp214:4":{
 "verse":"kust siis hirm? "
+},
+"dhp215:0":{
+"verse":""
 },
 "dhp215:1":{
 "verse":"Naudingust sünnib lein, "
@@ -3066,6 +3522,9 @@
 "dhp215:4":{
 "verse":"kust siis hirm? "
 },
+"dhp216:0":{
+"verse":""
+},
 "dhp216:1":{
 "verse":"Ihast sünnib lein, "
 },
@@ -3077,6 +3536,9 @@
 },
 "dhp216:4":{
 "verse":"kust siis hirm? "
+},
+"dhp217:0":{
+"verse":""
 },
 "dhp217:1":{
 "verse":"Kõlbeline, nägemise saavutanud, "
@@ -3090,6 +3552,9 @@
 "dhp217:4":{
 "verse":"teda peavad inimesed kalliks. "
 },
+"dhp218:0":{
+"verse":""
+},
 "dhp218:1":{
 "verse":"Kes soovib kirjeldamatut, "
 },
@@ -3101,6 +3566,9 @@
 },
 "dhp218:4":{
 "verse":"seda nimetatakse vastuvoolu minejaks. "
+},
+"dhp219:0":{
+"verse":""
 },
 "dhp219:1":{
 "verse":"Pikalt kaugel võõrsil elanud mehe saabudes "
@@ -3160,6 +3628,9 @@
 "dhp221:4":{
 "verse":"kel pole enam midagi, see ei saa langeda dukkhasse. "
 },
+"dhp222:0":{
+"verse":""
+},
 "dhp222:1":{
 "verse":"See, kes tõepoolest üleskerkinud viha "
 },
@@ -3171,6 +3642,9 @@
 },
 "dhp222:4":{
 "verse":"Ülejäänud inimesed hoiavad vaid ohje. "
+},
+"dhp223:0":{
+"verse":""
 },
 "dhp223:1":{
 "verse":"Viha on võidetav vihatusega, "
@@ -3184,6 +3658,9 @@
 "dhp223:4":{
 "verse":"ja vale tõe rääkimisega. "
 },
+"dhp224:0":{
+"verse":""
+},
 "dhp224:1":{
 "verse":"Räägi tõtt, ära vihasta, "
 },
@@ -3195,6 +3672,9 @@
 },
 "dhp224:4":{
 "verse":"viivad deevade juurde. "
+},
+"dhp225:0":{
+"verse":""
 },
 "dhp225:1":{
 "verse":"Vägivallatud, lakkamatult "
@@ -3208,6 +3688,9 @@
 "dhp225:4":{
 "verse":"kus ei ole leina. "
 },
+"dhp226:0":{
+"verse":""
+},
 "dhp226:1":{
 "verse":"Alati ärksa, "
 },
@@ -3219,6 +3702,9 @@
 },
 "dhp226:4":{
 "verse":"tulvad lähevad looja. "
+},
+"dhp227:0":{
+"verse":""
 },
 "dhp227:1":{
 "verse":"Oo, Atula, see on ammusest ajast, "
@@ -3273,6 +3759,9 @@
 },
 "dhp230:4":{
 "verse":"teda ülistab isegi Brahma. "
+},
+"dhp231:0":{
+"verse":""
 },
 "dhp231:1":{
 "verse":"Valva keha raevukuse eest! "
@@ -3341,6 +3830,9 @@
 "dhp235:0.3":{
 "verse":"Mustuse grupp "
 },
+"dhp235:0.4":{
+"verse":""
+},
 "dhp235:1":{
 "verse":"Sa oled nagu koltunud leht, "
 },
@@ -3389,6 +3881,9 @@
 "dhp238:4":{
 "verse":"ei saabu enam uut sündi ega vananemist. "
 },
+"dhp239:0":{
+"verse":""
+},
 "dhp239:1":{
 "verse":"Arukas puhastab end "
 },
@@ -3400,6 +3895,9 @@
 },
 "dhp239:4":{
 "verse":"nagu sepp puhastab hõbedat. "
+},
+"dhp240:0":{
+"verse":""
 },
 "dhp240:1":{
 "verse":"Nagu rooste sööb rauda, "
@@ -3413,6 +3911,9 @@
 "dhp240:4":{
 "verse":"tema enda teod halba uude sündi. "
 },
+"dhp241:0":{
+"verse":""
+},
 "dhp241:1":{
 "verse":"Mittekordamine määrib mantrad, "
 },
@@ -3424,6 +3925,9 @@
 },
 "dhp241:4":{
 "verse":"hooletus määrib valvuri. "
+},
+"dhp242:0":{
+"verse":""
 },
 "dhp242:1":{
 "verse":"Halb käitumine määrib naise, "
@@ -3449,6 +3953,9 @@
 "dhp243:4":{
 "verse":"olge mustuseta, bhikkhud! "
 },
+"dhp244:0":{
+"verse":""
+},
 "dhp244:1":{
 "verse":"Kerge on elada häbitul, "
 },
@@ -3472,6 +3979,9 @@
 },
 "dhp245:4":{
 "verse":"puhta eluviisiga tõe nägijal. "
+},
+"dhp246:0":{
+"verse":""
 },
 "dhp246:1":{
 "verse":"Kes tapab elusolendeid, "
@@ -3542,6 +4052,9 @@
 "dhp250:4":{
 "verse":"saavutab õige keskenduse. "
 },
+"dhp251:0":{
+"verse":""
+},
 "dhp251:1":{
 "verse":"Pole kirega võrdset tuld, "
 },
@@ -3553,6 +4066,9 @@
 },
 "dhp251:4":{
 "verse":"pole ihaga võrdset jõge. "
+},
+"dhp252:0":{
+"verse":""
 },
 "dhp252:1":{
 "verse":"Teiste vead on kergesti nähtavad, "
@@ -3572,6 +4088,9 @@
 "dhp252:6":{
 "verse":"nagu petis varjab ebaõnnestunud heiteid. "
 },
+"dhp253:0":{
+"verse":""
+},
 "dhp253:1":{
 "verse":"Kes teiste vigu nähes "
 },
@@ -3583,6 +4102,9 @@
 },
 "dhp253:4":{
 "verse":"Tema on kaugel tulvade lõppemisest. "
+},
+"dhp254:0":{
+"verse":""
 },
 "dhp254:1":{
 "verse":"Nii nagu taevas pole teed, "
@@ -3627,6 +4149,9 @@
 "dhp256:0.3":{
 "verse":"Dhammas püsija grupp "
 },
+"dhp256:0.4":{
+"verse":""
+},
 "dhp256:1":{
 "verse":"Ei ole dhammas püsija see, "
 },
@@ -3651,6 +4176,9 @@
 "dhp257:4":{
 "verse":"nimetatakse dhammas püsijaks. "
 },
+"dhp258:0":{
+"verse":""
+},
 "dhp258:1":{
 "verse":"Ei see ole tark, "
 },
@@ -3662,6 +4190,9 @@
 },
 "dhp258:4":{
 "verse":"nimetatakse targaks. "
+},
+"dhp259:0":{
+"verse":""
 },
 "dhp259:1":{
 "verse":"Mitte seepärast pole ta dhamma hoidja, "
@@ -3680,6 +4211,9 @@
 },
 "dhp259:6":{
 "verse":"see on dhammas hoolikas. "
+},
+"dhp260:0":{
+"verse":""
 },
 "dhp260:1":{
 "verse":"Ei see ole vanem, "
@@ -3705,6 +4239,9 @@
 "dhp261:4":{
 "verse":"teda nimetatakse vanemaks. "
 },
+"dhp262:0":{
+"verse":""
+},
 "dhp262:1":{
 "verse":"Ei rohkesõnalisus "
 },
@@ -3728,6 +4265,9 @@
 },
 "dhp263:4":{
 "verse":"nimetatakse suurepärase kehastuseks. "
+},
+"dhp264:0":{
+"verse":""
 },
 "dhp264:1":{
 "verse":"Ei raseeritud pea tee erakränduriks "
@@ -3753,6 +4293,9 @@
 "dhp265:4":{
 "verse":"nimetatakse erakränduriks. "
 },
+"dhp266:0":{
+"verse":""
+},
 "dhp266:1":{
 "verse":"Ei teistelt almuste kerjamine "
 },
@@ -3776,6 +4319,9 @@
 },
 "dhp267:4":{
 "verse":"teda, tõepoolest, nimetatakse bhikkhuks. "
+},
+"dhp268:0":{
+"verse":""
 },
 "dhp268:1":{
 "verse":"Vaikimine ei tee targaks "
@@ -3801,6 +4347,9 @@
 "dhp269:4":{
 "verse":"seda nimetatakse targaks. "
 },
+"dhp270:0":{
+"verse":""
+},
 "dhp270:1":{
 "verse":"Ei see ole arija, "
 },
@@ -3812,6 +4361,9 @@
 },
 "dhp270:4":{
 "verse":"nimetatakse arijaks. "
+},
+"dhp271:0":{
+"verse":""
 },
 "dhp271:1":{
 "verse":"Tõepoolest, ärgu üksnes kõlblusreeglid, "
@@ -3855,6 +4407,9 @@
 },
 "dhp273:0.3":{
 "verse":"Tee grupp "
+},
+"dhp273:0.4":{
+"verse":""
 },
 "dhp273:1":{
 "verse":"Teedest parim on kaheksaosaline, "
@@ -3904,6 +4459,9 @@
 "dhp276:4":{
 "verse":"vabanevad Surma köidikutest. "
 },
+"dhp277:0":{
+"verse":""
+},
 "dhp277:1":{
 "verse":"„Kõik moodustised on püsitud.“ "
 },
@@ -3915,6 +4473,9 @@
 },
 "dhp277:4":{
 "verse":"see on puhastumise tee. "
+},
+"dhp278:0":{
+"verse":""
 },
 "dhp278:1":{
 "verse":"„Kõik moodustised on dukkha.“ "
@@ -3943,6 +4504,9 @@
 "dhp279:4":{
 "verse":"see on puhastumise tee. "
 },
+"dhp280:0":{
+"verse":""
+},
 "dhp280:1":{
 "verse":"Pingutuseks sobilikul ajal mittepingutav, "
 },
@@ -3955,6 +4519,9 @@
 "dhp280:4":{
 "verse":"ja loid ei leia tarkuse teed. "
 },
+"dhp281:0":{
+"verse":""
+},
 "dhp281:1":{
 "verse":"Kõne valvates, meelt hästi talitsedes "
 },
@@ -3966,6 +4533,9 @@
 },
 "dhp281:4":{
 "verse":"teosta Nägija kuulutatud tee! "
+},
+"dhp282:0":{
+"verse":""
 },
 "dhp282:1":{
 "verse":"Tõesti, pühendumisest sünnib mõistmine "
@@ -3984,6 +4554,9 @@
 },
 "dhp282:6":{
 "verse":"mis mõistmist kasvataks. "
+},
+"dhp283:0":{
+"verse":""
 },
 "dhp283:1":{
 "verse":"Raiu maha mets, mitte puu. "
@@ -4009,6 +4582,9 @@
 "dhp284:4":{
 "verse":"nagu piima imev vasikas emaga. "
 },
+"dhp285:0":{
+"verse":""
+},
 "dhp285:1":{
 "verse":"Lõika läbi oma kiindumused, "
 },
@@ -4020,6 +4596,9 @@
 },
 "dhp285:4":{
 "verse":"nibbaanasse, nii nagu Õnnesläinu õpetas. "
+},
+"dhp286:0":{
+"verse":""
 },
 "dhp286:1":{
 "verse":"„Siin elan vihmasel ajal, "
@@ -4033,6 +4612,9 @@
 "dhp286:4":{
 "verse":"ohte mõistmata. "
 },
+"dhp287:0":{
+"verse":""
+},
 "dhp287:1":{
 "verse":"Selle, poegadest ja veistest joobunud, "
 },
@@ -4044,6 +4626,9 @@
 },
 "dhp287:4":{
 "verse":"nagu suur uputus magava küla. "
+},
+"dhp288:0":{
+"verse":""
 },
 "dhp288:1":{
 "verse":"Ei ole pojad kaitseks, "
@@ -4088,6 +4673,9 @@
 "dhp290:0.3":{
 "verse":"Mitmesuguse grupp "
 },
+"dhp290:0.4":{
+"verse":""
+},
 "dhp290:1":{
 "verse":"Nähes väiksema õnne hülgamises "
 },
@@ -4100,6 +4688,9 @@
 "dhp290:4":{
 "verse":"nägemaks suuremat õnne! "
 },
+"dhp291:0":{
+"verse":""
+},
 "dhp291:1":{
 "verse":"Kes enesele õnne soovides "
 },
@@ -4111,6 +4702,9 @@
 },
 "dhp291:4":{
 "verse":"see ei vabane vaenust. "
+},
+"dhp292:0":{
+"verse":""
 },
 "dhp292:1":{
 "verse":"Mida tõesti tuleks teha, lükkavad nad tagasi, "
@@ -4142,6 +4736,9 @@
 "dhp293:6":{
 "verse":"nende tulvad lähevad looja. "
 },
+"dhp294:0":{
+"verse":""
+},
 "dhp294:1":{
 "verse":"Olles surmanud ema, isa, "
 },
@@ -4165,6 +4762,9 @@
 },
 "dhp295:4":{
 "verse":"läheb braahman häirijateta edasi. "
+},
+"dhp296:0":{
+"verse":""
 },
 "dhp296:1":{
 "verse":"Hästi mõistnult virguvad "
@@ -4238,6 +4838,9 @@
 "dhp301:4":{
 "verse":"rõõmustab keskenduse arendamises. "
 },
+"dhp302:0":{
+"verse":""
+},
 "dhp302:1":{
 "verse":"Raske on maise hülgamine, raske on rõõmustada, "
 },
@@ -4255,6 +4858,9 @@
 },
 "dhp302:6":{
 "verse":"et poleks dukkhasse langemist. "
+},
+"dhp303:0":{
+"verse":""
 },
 "dhp303:1":{
 "verse":"Usu ja kõlbluse saavutanu, "
@@ -4282,6 +4888,9 @@
 },
 "dhp304:4":{
 "verse":"nagu ka öösel lastud nooli. "
+},
+"dhp305:0":{
+"verse":""
 },
 "dhp305:1":{
 "verse":"Üks iste, üks ase, "
@@ -4314,6 +4923,9 @@
 "dhp306:0.3":{
 "verse":"Niraja grupp "
 },
+"dhp306:0.4":{
+"verse":""
+},
 "dhp306:1":{
 "verse":"Mitteolnust kui olnust rääkija langeb nirajasse, "
 },
@@ -4325,6 +4937,9 @@
 },
 "dhp306:4":{
 "verse":"madala teo teinud inimesed mujal olemasolus võrdsed. "
+},
+"dhp307:0":{
+"verse":""
 },
 "dhp307:1":{
 "verse":"Paljud kaelani kollases "
@@ -4338,6 +4953,9 @@
 "dhp307:4":{
 "verse":"need sünnivad nirajas. "
 },
+"dhp308:0":{
+"verse":""
+},
 "dhp308:1":{
 "verse":"Parem on halva kõlblusega "
 },
@@ -4349,6 +4967,9 @@
 },
 "dhp308:4":{
 "verse":"kui süüa riigi almust. "
+},
+"dhp309:0":{
+"verse":""
 },
 "dhp309:1":{
 "verse":"Hooletu mees kogeb neid nelja "
@@ -4373,6 +4994,9 @@
 },
 "dhp310:4":{
 "verse":"Sestap ärgu mees ajagu taga teise mehe naist. "
+},
+"dhp311:0":{
+"verse":""
 },
 "dhp311:1":{
 "verse":"Nagu valesti kitkudes "
@@ -4410,6 +5034,9 @@
 "dhp313:4":{
 "verse":"keerutab vaid tolmu üles. "
 },
+"dhp314:0":{
+"verse":""
+},
 "dhp314:1":{
 "verse":"Mittetegemine on halva tegemisest parem, "
 },
@@ -4421,6 +5048,9 @@
 },
 "dhp314:4":{
 "verse":"mille tegemist pärast ei kahetseta. "
+},
+"dhp315:0":{
+"verse":""
 },
 "dhp315:1":{
 "verse":"Nii nagu linna piire "
@@ -4439,6 +5069,9 @@
 },
 "dhp315:6":{
 "verse":"kurvastavad nirajasse sattudes. "
+},
+"dhp316:0":{
+"verse":""
 },
 "dhp316:1":{
 "verse":"Mittehäbiväärset häbenev "
@@ -4463,6 +5096,9 @@
 },
 "dhp317:4":{
 "verse":"läheb halba uude sündi. "
+},
+"dhp318:0":{
+"verse":""
 },
 "dhp318:1":{
 "verse":"Mitteeksimust eksimuseks pidav "
@@ -4507,6 +5143,9 @@
 "dhp320:0.3":{
 "verse":"Elevandi grupp "
 },
+"dhp320:0.4":{
+"verse":""
+},
 "dhp320:1":{
 "verse":"Nagu elevant talub lahingus "
 },
@@ -4543,6 +5182,9 @@
 "dhp322:4":{
 "verse":"kuid kõigist parim on iseenda taltsutanu. "
 },
+"dhp323:0":{
+"verse":""
+},
 "dhp323:1":{
 "verse":"Tõepoolest, mittetaltsutatud looma vankris "
 },
@@ -4554,6 +5196,9 @@
 },
 "dhp323:4":{
 "verse":"läheb taltsana ja taltununa. "
+},
+"dhp324:0":{
+"verse":""
 },
 "dhp324:1":{
 "verse":"Dhanapāla-nimelist elevanti "
@@ -4567,6 +5212,9 @@
 "dhp324:4":{
 "verse":"sest unistab elevandimetsast. "
 },
+"dhp325:0":{
+"verse":""
+},
 "dhp325:1":{
 "verse":"Kes suurest söömisest on loid ja unine, "
 },
@@ -4578,6 +5226,9 @@
 },
 "dhp325:4":{
 "verse":"kes ikka ja jälle naaseb üska. "
+},
+"dhp326:0":{
+"verse":""
 },
 "dhp326:1":{
 "verse":"Varem hulkus ja eksles see teadvus "
@@ -4591,6 +5242,9 @@
 "dhp326:4":{
 "verse":"nagu dressuur konksuga elevandi juht (ohjeldab) indlevat elevanti. "
 },
+"dhp327:0":{
+"verse":""
+},
 "dhp327:1":{
 "verse":"Ära ole hooletu! "
 },
@@ -4602,6 +5256,9 @@
 },
 "dhp327:4":{
 "verse":"nagu mutta vajunud elevant. "
+},
+"dhp328:0":{
+"verse":""
 },
 "dhp328:1":{
 "verse":"Kui leitakse tark kaaslane, "
@@ -4638,6 +5295,9 @@
 },
 "dhp330:4":{
 "verse":"väheste soovidega nagu elevant elevandimetsas. "
+},
+"dhp331:0":{
+"verse":""
 },
 "dhp331:1":{
 "verse":"Tähenduslikust sündinud kaaslane on õnn. "
@@ -4694,6 +5354,9 @@
 "dhp334:0.3":{
 "verse":"Iha grupp "
 },
+"dhp334:0.4":{
+"verse":""
+},
 "dhp334:1":{
 "verse":"Hooletu käitumisega inimese ihad "
 },
@@ -4747,6 +5410,9 @@
 },
 "dhp337:6":{
 "verse":"nii nagu üleujutus (hävitab) ikka ja jälle pilliroo. "
+},
+"dhp338:0":{
+"verse":""
 },
 "dhp338:1":{
 "verse":"Nii nagu ka vigastamata, tugevalt juurelt "
@@ -4862,6 +5528,9 @@
 "dhp346:4":{
 "verse":"soovideta, naudinguõnnest loobununa. "
 },
+"dhp347:0":{
+"verse":""
+},
 "dhp347:1":{
 "verse":"See, keda erutab kirg, langeb voogu "
 },
@@ -4874,6 +5543,9 @@
 "dhp347:4":{
 "verse":"kiindumuseta, kogu dukkhast loobununa. "
 },
+"dhp348:0":{
+"verse":""
+},
 "dhp348:1":{
 "verse":"Vabane minevikust, vabane tulevikust, "
 },
@@ -4885,6 +5557,9 @@
 },
 "dhp348:4":{
 "verse":"ei naase enam uude sündi ega vanadusse. "
+},
+"dhp349:0":{
+"verse":""
 },
 "dhp349:1":{
 "verse":"Segaste mõtetega inimese "
@@ -4909,6 +5584,9 @@
 },
 "dhp350:4":{
 "verse":"see lõikab läbi Surma köidikud. "
+},
+"dhp351:0":{
+"verse":""
 },
 "dhp351:1":{
 "verse":"Täiuse saavutanud kartmatu, "
@@ -4940,6 +5618,9 @@
 "dhp352:6":{
 "verse":"suureks targaks ja suureks inimeseks. "
 },
+"dhp353:0":{
+"verse":""
+},
 "dhp353:1":{
 "verse":"Kõikületanu, kõiketeadja olen, "
 },
@@ -4967,6 +5648,9 @@
 "dhp354:4":{
 "verse":"iha lakkamine ületab kõik kannatused. "
 },
+"dhp355:0":{
+"verse":""
+},
 "dhp355:1":{
 "verse":"Rikkus hukutab arutu, "
 },
@@ -4978,6 +5662,9 @@
 },
 "dhp355:4":{
 "verse":"kahjustab nii teisi kui ennast. "
+},
+"dhp356:0":{
+"verse":""
 },
 "dhp356:1":{
 "verse":"Umbrohi rikub põllumaa, "
@@ -5046,6 +5733,9 @@
 "dhp360:0.3":{
 "verse":"Bhikkhu grupp "
 },
+"dhp360:0.4":{
+"verse":""
+},
 "dhp360:1":{
 "verse":"Silma ohjamine on hea. "
 },
@@ -5076,6 +5766,9 @@
 "dhp361:6":{
 "verse":"vabaneb kogu dukkhast. "
 },
+"dhp362:0":{
+"verse":""
+},
 "dhp362:1":{
 "verse":"Kätt talitsev, jalga talitsev, "
 },
@@ -5087,6 +5780,9 @@
 },
 "dhp362:4":{
 "verse":"üksi rahulolev – teda nimetatakse bhikkhuks. "
+},
+"dhp363:0":{
+"verse":""
 },
 "dhp363:1":{
 "verse":"See bhikkhu kes talitseb suud, "
@@ -5100,6 +5796,9 @@
 "dhp363:4":{
 "verse":"selle jutt on magus. "
 },
+"dhp364:0":{
+"verse":""
+},
 "dhp364:1":{
 "verse":"Dhammas rõõmustav, dhammale pühendunud, "
 },
@@ -5111,6 +5810,9 @@
 },
 "dhp364:4":{
 "verse":"ei eemaldu õigest dhammast. "
+},
+"dhp365:0":{
+"verse":""
 },
 "dhp365:1":{
 "verse":"Elada tuleks saadut põlgamata "
@@ -5136,6 +5838,9 @@
 "dhp366:4":{
 "verse":"seda, tüdimuseta, puhtuses elajat. "
 },
+"dhp367:0":{
+"verse":""
+},
 "dhp367:1":{
 "verse":"Ühelgi viisil nime ja vormiga "
 },
@@ -5147,6 +5852,9 @@
 },
 "dhp367:4":{
 "verse":"teda, tõepoolest, nimetatakse bhikkhuks. "
+},
+"dhp368:0":{
+"verse":""
 },
 "dhp368:1":{
 "verse":"See, sõbralikkuses elav bhikkhu, "
@@ -5262,6 +5970,9 @@
 "dhp376:6":{
 "verse":"teed sa dukkhale lõpu! "
 },
+"dhp377:0":{
+"verse":""
+},
 "dhp377:1":{
 "verse":"Nagu jasmiinilt "
 },
@@ -5274,6 +5985,9 @@
 "dhp377:4":{
 "verse":"langevad bhikkhult. "
 },
+"dhp378:0":{
+"verse":""
+},
 "dhp378:1":{
 "verse":"Rahunenud keha ja rahunenud kõnega, "
 },
@@ -5285,6 +5999,9 @@
 },
 "dhp378:4":{
 "verse":"nimetatakse rahunenuks. "
+},
+"dhp379:0":{
+"verse":""
 },
 "dhp379:1":{
 "verse":"Ise end manitse, "
@@ -5313,6 +6030,9 @@
 "dhp380:5":{
 "verse":"nagu kaupmees ohjab hinnalist ratsut! "
 },
+"dhp381:0":{
+"verse":""
+},
 "dhp381:1":{
 "verse":"Rahulolu külluses bhikkhu, "
 },
@@ -5324,6 +6044,9 @@
 },
 "dhp381:4":{
 "verse":"ja saavutab moodustiste vaibumise õnne. "
+},
+"dhp382:0":{
+"verse":""
 },
 "dhp382:1":{
 "verse":"Tõepoolest, see noor bhikkhu, "
@@ -5356,6 +6079,9 @@
 "dhp383:0.3":{
 "verse":"Braahmani grupp "
 },
+"dhp383:0.4":{
+"verse":""
+},
 "dhp383:1":{
 "verse":"Lõika läbi voog, püüdle! "
 },
@@ -5367,6 +6093,9 @@
 },
 "dhp383:4":{
 "verse":"mõistad mittetekkinut, braahman! "
+},
+"dhp384:0":{
+"verse":""
 },
 "dhp384:1":{
 "verse":"Kui kahe dhamma abil "
@@ -5380,6 +6109,9 @@
 "dhp384:4":{
 "verse":"sel teadjal hääbuvad. "
 },
+"dhp385:0":{
+"verse":""
+},
 "dhp385:1":{
 "verse":"Seda, kelle jaoks ei leidu vastaskallast, "
 },
@@ -5392,6 +6124,9 @@
 "dhp385:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp386:0":{
+"verse":""
+},
 "dhp386:1":{
 "verse":"Džhaai, kes istub plekituna, "
 },
@@ -5403,6 +6138,9 @@
 },
 "dhp386:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp387:0":{
+"verse":""
 },
 "dhp387:1":{
 "verse":"Päike särab päeval, "
@@ -5422,6 +6160,9 @@
 "dhp387:6":{
 "verse":"nii päeval kui öösel. "
 },
+"dhp388:0":{
+"verse":""
+},
 "dhp388:1":{
 "verse":"Kurjast eemaldunut nimetatakse braahmaniks "
 },
@@ -5433,6 +6174,9 @@
 },
 "dhp388:4":{
 "verse":"nimetatakse maisehüljanuks. "
+},
+"dhp389:0":{
+"verse":""
 },
 "dhp389:1":{
 "verse":"Ei braahmanit lööda, "
@@ -5458,6 +6202,9 @@
 "dhp390:4":{
 "verse":"niivõrd vaibub ka dukkha. "
 },
+"dhp391:0":{
+"verse":""
+},
 "dhp391:1":{
 "verse":"Kes keha, kõne, "
 },
@@ -5469,6 +6216,9 @@
 },
 "dhp391:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp392:0":{
+"verse":""
 },
 "dhp392:1":{
 "verse":"Kellelt oled õppinud dhammat, "
@@ -5482,6 +6232,9 @@
 "dhp392:4":{
 "verse":"nagu braahman austab ohvrituld. "
 },
+"dhp393:0":{
+"verse":""
+},
 "dhp393:1":{
 "verse":"Ei pulstunud juuksed, ei põlvnemine, "
 },
@@ -5493,6 +6246,9 @@
 },
 "dhp393:4":{
 "verse":"see on puhas, see on braahman. "
+},
+"dhp394:0":{
+"verse":""
 },
 "dhp394:1":{
 "verse":"Milleks sulle pulstunud juuksed, kehvaaruline? "
@@ -5506,6 +6262,9 @@
 "dhp394:4":{
 "verse":"sa puudutad vaid välist. "
 },
+"dhp395:0":{
+"verse":""
+},
 "dhp395:1":{
 "verse":"Olend, kes kannab tolmuhunnikust korjatud räbalaid, "
 },
@@ -5517,6 +6276,9 @@
 },
 "dhp395:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp396:0":{
+"verse":""
 },
 "dhp396:1":{
 "verse":"Kuid ma ei nimeta kedagi braahmaniks üsast "
@@ -5536,6 +6298,9 @@
 "dhp396:6":{
 "verse":"teda nimetan ma braahmaniks! "
 },
+"dhp397:0":{
+"verse":""
+},
 "dhp397:1":{
 "verse":"Kes on kõik köidikud läbi lõiganud, "
 },
@@ -5547,6 +6312,9 @@
 },
 "dhp397:4":{
 "verse":"eemaldunud – teda nimetan ma braahmaniks. "
+},
+"dhp398:0":{
+"verse":""
 },
 "dhp398:1":{
 "verse":"Kes on läbi lõiganud kütked ja sidemed, "
@@ -5560,6 +6328,9 @@
 "dhp398:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp399:0":{
+"verse":""
+},
 "dhp399:1":{
 "verse":"See, kes solvamist, löömist ja vangistamist "
 },
@@ -5571,6 +6342,9 @@
 },
 "dhp399:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp400:0":{
+"verse":""
 },
 "dhp400:1":{
 "verse":"Vihatut, pühendunut, "
@@ -5584,6 +6358,9 @@
 "dhp400:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp401:0":{
+"verse":""
+},
 "dhp401:1":{
 "verse":"Seda, kes ei nakku naudingute külge "
 },
@@ -5595,6 +6372,9 @@
 },
 "dhp401:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp402:0":{
+"verse":""
 },
 "dhp402:1":{
 "verse":"Dukkha mõistmise läbi, "
@@ -5608,6 +6388,9 @@
 "dhp402:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp403:0":{
+"verse":""
+},
 "dhp403:1":{
 "verse":"Sügava tarkusega arukat, "
 },
@@ -5619,6 +6402,9 @@
 },
 "dhp403:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp404:0":{
+"verse":""
 },
 "dhp404:1":{
 "verse":"Majaperemeestega mitteseotud, "
@@ -5632,6 +6418,9 @@
 "dhp404:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp405:0":{
+"verse":""
+},
 "dhp405:1":{
 "verse":"Elusolendite karistamise malaka maha pannud, "
 },
@@ -5643,6 +6432,9 @@
 },
 "dhp405:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp406:0":{
+"verse":""
 },
 "dhp406:1":{
 "verse":"Vaenutu kes vaenajaid, "
@@ -5656,6 +6448,9 @@
 "dhp406:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp407:0":{
+"verse":""
+},
 "dhp407:1":{
 "verse":"Kellelt kirg ja viha ning "
 },
@@ -5667,6 +6462,9 @@
 },
 "dhp407:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp408:0":{
+"verse":""
 },
 "dhp408:1":{
 "verse":"Kes räägib karmuseta juhendavaid ja "
@@ -5680,6 +6478,9 @@
 "dhp408:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp409:0":{
+"verse":""
+},
 "dhp409:1":{
 "verse":"Olgu ta pikk või lühike, "
 },
@@ -5691,6 +6492,9 @@
 },
 "dhp409:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp410:0":{
+"verse":""
 },
 "dhp410:1":{
 "verse":"Kelles ei leidu igatsust "
@@ -5704,6 +6508,9 @@
 "dhp410:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp411:0":{
+"verse":""
+},
 "dhp411:1":{
 "verse":"Seda, kes on igatsuseta, "
 },
@@ -5715,6 +6522,9 @@
 },
 "dhp411:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp412:0":{
+"verse":""
 },
 "dhp412:1":{
 "verse":"Seda, siin maailmas nii pälvimuse kui ka kurjuse "
@@ -5728,6 +6538,9 @@
 "dhp412:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp413:0":{
+"verse":""
+},
 "dhp413:1":{
 "verse":"Nagu plekitu, puhas kuu, "
 },
@@ -5739,6 +6552,9 @@
 },
 "dhp413:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp414:0":{
+"verse":""
 },
 "dhp414:1":{
 "verse":"Seda, kes selle ohtliku, halva paiga, sansaara "
@@ -5758,6 +6574,9 @@
 "dhp414:6":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp415:0":{
+"verse":""
+},
 "dhp415:1":{
 "verse":"Seda, siin maailmas naudingutest loobunut, "
 },
@@ -5770,6 +6589,9 @@
 "dhp415:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp416:0":{
+"verse":""
+},
 "dhp416:1":{
 "verse":"Seda, siin maailmas ihast loobunut "
 },
@@ -5781,6 +6603,9 @@
 },
 "dhp416:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp416:5.0":{
+"verse":""
 },
 "dhp416:5.1":{
 "verse":"Seda, siin maailmas ihast loobunut "
@@ -5809,6 +6634,9 @@
 "dhp417:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp418:0":{
+"verse":""
+},
 "dhp418:1":{
 "verse":"Meeldivast ja ebameeldivast loobunut, "
 },
@@ -5820,6 +6648,9 @@
 },
 "dhp418:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp419:0":{
+"verse":""
 },
 "dhp419:1":{
 "verse":"Seda, kes teab olendite surmast "
@@ -5845,6 +6676,9 @@
 "dhp420:4":{
 "verse":"teda nimetan ma braahmaniks. "
 },
+"dhp421:0":{
+"verse":""
+},
 "dhp421:1":{
 "verse":"Seda, kelle jaoks minevikus ja ka tulevikus "
 },
@@ -5856,6 +6690,9 @@
 },
 "dhp421:4":{
 "verse":"teda nimetan ma braahmaniks. "
+},
+"dhp422:0":{
+"verse":""
 },
 "dhp422:1":{
 "verse":"Tugev kui härg, ülev kangelane, "

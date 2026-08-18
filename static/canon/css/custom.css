@@ -37,6 +37,16 @@ header, footer, .container {
   border: none;
 }
 
+nav[aria-label="breadcrumb"] {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+nav[aria-label="breadcrumb"] ul {
+  flex-wrap: nowrap;
+  white-space: nowrap;
+}
+
 .light-icon { display: none; }
 .dark-icon { display: block; }
 [data-theme="dark"] .light-icon { display: block; }

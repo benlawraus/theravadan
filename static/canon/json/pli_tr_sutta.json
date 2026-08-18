@@ -164,6 +164,9 @@
 },
 "kp5:13.4":{
 "verse":"Bu, onların en yüksek korunmasıdır. "
+},
+"kp5:14.1":{
+"verse":""
 }
 }
 }
@@ -297,6 +300,12 @@
 },
 "kp9:10.4":{
 "verse":"Bir daha asla doğmayacaktır. "
+},
+"kp9:11.1":{
+"verse":""
+},
+"kp9:12.1":{
+"verse":""
 }
 }
 }
@@ -3232,6 +3241,9 @@
 "lang_code":"tr",
 "texts":{
 "dogensisapa":{
+"thig6.5:0.1":{
+"verse":""
+},
 "thig6.5:0.2":{
 "verse":"Altılar Silsilesi "
 },
@@ -7274,6 +7286,9 @@
 "sn22.59:0.1":{
 "verse":"Konulara Göre Düzenlenmiş Suttalar 22.59 "
 },
+"sn22.59:0.2":{
+"verse":""
+},
 "sn22.59:0.3":{
 "verse":"\"Ben-değil\"in Nitelikleri "
 },
@@ -7441,6 +7456,9 @@
 },
 "sn22.59:12.3":{
 "verse":"u sözler dile döküldüğünde beş izdeşin zihni kusurlarından arındı, tutkularından ve bağlarından tümüyle özgürleşti ve o an itibariyle artık dünya üzerinde altı arhat vardı. "
+},
+"sn22.59:12.4":{
+"verse":""
 }
 }
 }
@@ -7584,6 +7602,36 @@
 "sn56.11:12.2":{
 "verse":"\"Eşsiz Dhamma Çarkı Kutlu Kişi tarafından İsipatana'da, Benares yakınındaki Geyik Parkı'nda harekete geçirildi ve evrendeki hiçbir keşiş, brahmin, tanrı, Māra, Brahmā ya da bir başka varlık artık onu durduramaz.\" "
 },
+"sn56.11:12.3":{
+"verse":""
+},
+"sn56.11:12.4":{
+"verse":""
+},
+"sn56.11:12.5":{
+"verse":""
+},
+"sn56.11:12.6":{
+"verse":""
+},
+"sn56.11:12.7":{
+"verse":""
+},
+"sn56.11:12.8":{
+"verse":""
+},
+"sn56.11:12.9":{
+"verse":""
+},
+"sn56.11:12.10":{
+"verse":""
+},
+"sn56.11:12.11":{
+"verse":""
+},
+"sn56.11:13.1":{
+"verse":""
+},
 "sn56.11:13.2":{
 "verse":"O anda bir şimşek çakması kadar kısacık bir zamanda Dhamma Çarkı'nın harekete geçmesiyle Brahmā Dünyası ve on bin dünyadan oluşan tüm evren sistemi bir depremle sarsıldı. Tüm tanrıların ışıltısının ötesinde sınırsız ve yüce bir ışık evrene yayıldı. "
 },
@@ -7595,6 +7643,9 @@
 },
 "sn56.11:14.3":{
 "verse":"Böylece Saygıdeğer Koṇḍañña, Bilge Koṇḍañña (aññāsikoṇḍañño) olarak adlandırıldı. "
+},
+"sn56.11:14.4":{
+"verse":""
 }
 }
 }

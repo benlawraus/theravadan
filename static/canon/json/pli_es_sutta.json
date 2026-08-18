@@ -503,6 +503,9 @@
 },
 "an2.41:2.2":{
 "verse":"Estos bhikkhus generan abundante mérito, y hacen que el verdadero Dhamma siga adelante». "
+},
+"an2.41:2.3":{
+"verse":""
 }
 }
 }
@@ -636,6 +639,9 @@
 },
 "an3.35:9.4":{
 "verse":"tras haber encontrado la paz mental». "
+},
+"an3.35:9.5":{
+"verse":""
 }
 }
 }
@@ -851,6 +857,9 @@
 "an3.36:14.1":{
 "verse":"A continuación los guardianes del infierno lo tiran al suelo y lo golpean con hachas… "
 },
+"an3.36:14.2":{
+"verse":""
+},
 "an3.36:15.1":{
 "verse":"Luego lo cuelgan boca abajo y lo golpean con azuelas… "
 },
@@ -961,6 +970,9 @@
 },
 "an3.36:22.4":{
 "verse":"elevándose por encima de todo sufrimiento”. "
+},
+"an3.36:22.5":{
+"verse":""
 }
 }
 }
@@ -1025,6 +1037,9 @@
 },
 "an8.5:4.4":{
 "verse":"habiendo superado el renacimiento, entienden correctamente». "
+},
+"an8.5:4.5":{
+"verse":""
 }
 }
 }
@@ -1239,6 +1254,9 @@
 },
 "an8.6:9.4":{
 "verse":"habiendo superado el renacimiento, entienden correctamente». "
+},
+"an8.6:9.5":{
+"verse":""
 }
 }
 }
@@ -1657,6 +1675,9 @@
 },
 "mn44:30.8":{
 "verse":"Satisfecho, el laico Visākha se alegró con lo que le dijo el Buddha. "
+},
+"mn44:30.9":{
+"verse":""
 }
 }
 }
@@ -1798,6 +1819,12 @@
 "sn3.25:4.4":{
 "verse":"Señor, hay reyes en la aristocracia que están obsesionados con la autoridad, obsesionados con anhelo por los placeres de los sentidos. Han conseguido la estabilidad del país, y han conquistado un vasto territorio sobre el que reinan. Este tipo de reyes se involucran en batallas de elefantes, "
 },
+"sn3.25:4.5":{
+"verse":""
+},
+"sn3.25:4.6":{
+"verse":""
+},
 "sn3.25:4.7":{
 "verse":"de caballería, "
 },
@@ -1902,6 +1929,24 @@
 },
 "sn3.25:10.4":{
 "verse":"y parte a disfrutar hacia el cielo». "
+},
+"sn3.25:10.5":{
+"verse":""
+},
+"sn3.25:11.0":{
+"verse":""
+},
+"sn3.25:11.1":{
+"verse":""
+},
+"sn3.25:11.2":{
+"verse":""
+},
+"sn3.25:11.3":{
+"verse":""
+},
+"sn3.25:11.4":{
+"verse":""
 },
 "sn3.25:11.5":{
 "verse":"Los discursos enlazados con el de Kosala han finalizado. "
@@ -2106,6 +2151,9 @@
 },
 "sn36.3:6.4":{
 "verse":"tras la disolución del cuerpo ya no puede ser descrito. "
+},
+"sn36.3:6.5":{
+"verse":""
 }
 }
 }
@@ -2131,6 +2179,9 @@
 },
 "sn36.4:1.3":{
 "verse":"está hablando de algo que no existe. "
+},
+"sn36.4:1.4":{
+"verse":""
 },
 "sn36.4:1.5":{
 "verse":"El abismo es una metáfora de las sensaciones dolorosas físicas. "
@@ -2451,6 +2502,9 @@
 },
 "sn36.6:6.4":{
 "verse":"habiendo superado el renacimiento, entiende correctamente». "
+},
+"sn36.6:6.5":{
+"verse":""
 }
 },
 "font":{
@@ -2639,6 +2693,9 @@
 },
 "sn36.6:6.4":{
 "verse":"quien trasciende el devenir comprende de verdad.” "
+},
+"sn36.6:6.5":{
+"verse":""
 }
 }
 }
@@ -3051,6 +3108,27 @@
 },
 "sn36.10:1.13":{
 "verse":"Al desaparecer ese contacto desaparece la sensación correspondiente. "
+},
+"sn36.10:1.14":{
+"verse":""
+},
+"sn36.10:1.15":{
+"verse":""
+},
+"sn36.10:2.0":{
+"verse":""
+},
+"sn36.10:2.1":{
+"verse":""
+},
+"sn36.10:2.2":{
+"verse":""
+},
+"sn36.10:2.3":{
+"verse":""
+},
+"sn36.10:2.4":{
+"verse":""
 }
 }
 }
@@ -3092,6 +3170,9 @@
 "sn36.11:1.8":{
 "verse":"¿A qué se refería con eso?” "
 },
+"sn36.11:1.9":{
+"verse":""
+},
 "sn36.11:2.1":{
 "verse":"“Muy bien dicho, mendicante. "
 },
@@ -3101,6 +3182,9 @@
 "sn36.11:2.3":{
 "verse":"—placenteras, dolorosas y neutras—; "
 },
+"sn36.11:2.4":{
+"verse":""
+},
 "sn36.11:2.5":{
 "verse":"pero también he dicho que "
 },
@@ -3109,6 +3193,9 @@
 },
 "sn36.11:2.7":{
 "verse":"Con eso, me refería a que los condicionantes son temporales; "
+},
+"sn36.11:2.8":{
+"verse":""
 },
 "sn36.11:2.9":{
 "verse":"su naturaleza es agotarse, "
@@ -3124,6 +3211,9 @@
 },
 "sn36.11:2.13":{
 "verse":"y cambiar. "
+},
+"sn36.11:2.14":{
+"verse":""
 },
 "sn36.11:2.15":{
 "verse":"Además, he mostrado la desaparición gradual de los condicionantes. "
@@ -3242,6 +3332,9 @@
 },
 "sn36.12:3.3":{
 "verse":"brisa y huracán—, "
+},
+"sn36.12:3.4":{
+"verse":""
 },
 "sn36.12:4.1":{
 "verse":"en este cuerpo "
@@ -3498,6 +3591,9 @@
 },
 "sn36.16:1.12":{
 "verse":"La codicia, la aversión y la confusión se relajan en el mendicante que destruye las influencias.” "
+},
+"sn36.16:1.13":{
+"verse":""
 }
 }
 }
@@ -3592,6 +3688,9 @@
 },
 "sn36.17:2.13":{
 "verse":"y la codicia, la aversión y la confusión se relajan en el mendicante que destruye las influencias.” "
+},
+"sn36.17:2.14":{
+"verse":""
 }
 }
 }
@@ -3635,6 +3734,9 @@
 },
 "sn36.18:1.9":{
 "verse":"(Expandir como en [el discurso anterior] (sn36.17). "
+},
+"sn36.18:1.10":{
+"verse":""
 }
 }
 }
@@ -3664,6 +3766,9 @@
 "sn36.19:1.4":{
 "verse":"placenteras, dolorosas y neutras.” "
 },
+"sn36.19:1.5":{
+"verse":""
+},
 "sn36.19:1.6":{
 "verse":"Al decir esto, el carpintero Pañchakaṅga le dijo al venerable Udāyī: "
 },
@@ -3691,6 +3796,9 @@
 "sn36.19:2.4":{
 "verse":"placenteras, dolorosas y neutras.” "
 },
+"sn36.19:2.5":{
+"verse":""
+},
 "sn36.19:2.6":{
 "verse":"Por segunda vez, el carpintero Pañchakaṅga le dijo al venerable Udāyī: "
 },
@@ -3716,6 +3824,9 @@
 "verse":""
 },
 "sn36.19:3.4":{
+"verse":""
+},
+"sn36.19:3.5":{
 "verse":""
 },
 "sn36.19:3.6":{
@@ -3778,6 +3889,9 @@
 "sn36.19:5.11":{
 "verse":"Al explicar la enseñanza de todas estas formas, es de esperar que aquellos que discrepan, difieren y se refutan mutuamente sobre lo que está bien dicho se peleen, discutan y entren en polémicas, disparándose comentarios mordaces el uno al otro. "
 },
+"sn36.19:5.12":{
+"verse":""
+},
 "sn36.19:5.13":{
 "verse":"Y es de esperar que aquellos que coinciden, concurren y se ponen de acuerdo entre ellos sobre lo que está bien dicho estén bien avenidos, contentos y no entren en polémicas, mezclándose bien como el agua y la leche, y mirándose el uno al otro con ojos amistosos. "
 },
@@ -3808,6 +3922,9 @@
 "sn36.19:6.9":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse. "
 },
+"sn36.19:6.10":{
+"verse":""
+},
 "sn36.19:6.11":{
 "verse":"¿Por qué? "
 },
@@ -3828,6 +3945,9 @@
 },
 "sn36.19:7.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
+},
+"sn36.19:7.6":{
+"verse":""
 },
 "sn36.19:7.7":{
 "verse":""
@@ -3850,6 +3970,9 @@
 "sn36.19:8.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
 },
+"sn36.19:8.6":{
+"verse":""
+},
 "sn36.19:8.7":{
 "verse":""
 },
@@ -3870,6 +3993,9 @@
 },
 "sn36.19:9.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
+},
+"sn36.19:9.6":{
+"verse":""
 },
 "sn36.19:9.7":{
 "verse":""
@@ -3892,6 +4018,9 @@
 "sn36.19:10.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
 },
+"sn36.19:10.6":{
+"verse":""
+},
 "sn36.19:10.7":{
 "verse":""
 },
@@ -3913,6 +4042,12 @@
 "sn36.19:11.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
 },
+"sn36.19:11.6":{
+"verse":""
+},
+"sn36.19:11.7":{
+"verse":""
+},
 "sn36.19:11.8":{
 "verse":"porque existe un placer superior a este y más sofisticado. "
 },
@@ -3930,6 +4065,12 @@
 },
 "sn36.19:12.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
+},
+"sn36.19:12.6":{
+"verse":""
+},
+"sn36.19:12.7":{
+"verse":""
 },
 "sn36.19:12.8":{
 "verse":"porque existe un placer superior a este y más sofisticado. "
@@ -3949,6 +4090,12 @@
 "sn36.19:13.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
 },
+"sn36.19:13.6":{
+"verse":""
+},
+"sn36.19:13.7":{
+"verse":""
+},
 "sn36.19:13.8":{
 "verse":"porque existe un placer superior a este y más sofisticado. "
 },
@@ -3966,6 +4113,12 @@
 },
 "sn36.19:14.5":{
 "verse":"esta es la máxima forma de placer y felicidad que puede experimentarse, "
+},
+"sn36.19:14.6":{
+"verse":""
+},
+"sn36.19:14.7":{
+"verse":""
 },
 "sn36.19:14.8":{
 "verse":"porque existe un placer superior a este y más sofisticado. "
@@ -3996,6 +4149,9 @@
 },
 "sn36.19:16.6":{
 "verse":"sino cualquier placer que se encuentre en donde sea y como sea.” "
+},
+"sn36.19:16.7":{
+"verse":""
 }
 }
 }
@@ -4016,8 +4172,14 @@
 "sn36.20:1.1":{
 "verse":"Mendicantes, en una explicación he dicho que hay dos sensaciones; en otra, que hay tres; en otra, que hay cinco; en otra, que hay seis; en otra, que hay dieciocho; en otra, que hay treinta y seis; y en otra, que hay ciento ocho. "
 },
+"sn36.20:1.2":{
+"verse":""
+},
 "sn36.20:1.3":{
 "verse":"Al explicar la enseñanza de todas estas formas, es de esperar que aquellos que discrepan, difieren y se refutan mutuamente sobre lo que está bien dicho se peleen, discutan y entren en polémicas, disparándose comentarios mordaces el uno al otro. "
+},
+"sn36.20:1.4":{
+"verse":""
 },
 "sn36.20:1.5":{
 "verse":"Y es de esperar que aquellos que coinciden, concurren y se ponen de acuerdo entre ellos sobre lo que está bien dicho estén bien avenidos, contentos y no entren en polémicas, mezclándose bien como el agua y la leche, y mirándose el uno al otro con ojos amistosos. "
@@ -4042,6 +4204,27 @@
 },
 "sn36.20:2.7":{
 "verse":"sino cualquier placer que se encuentre en donde sea y como sea. "
+},
+"sn36.20:2.8":{
+"verse":""
+},
+"sn36.20:2.9":{
+"verse":""
+},
+"sn36.20:3.0":{
+"verse":""
+},
+"sn36.20:3.1":{
+"verse":""
+},
+"sn36.20:3.2":{
+"verse":""
+},
+"sn36.20:3.3":{
+"verse":""
+},
+"sn36.20:3.4":{
+"verse":""
 }
 }
 }
@@ -4122,8 +4305,14 @@
 "sn36.21:3.8":{
 "verse":"Esto puede saberse de primera mano "
 },
+"sn36.21:3.9":{
+"verse":""
+},
 "sn36.21:3.10":{
 "verse":"y es aceptado universalmente como cierto. "
+},
+"sn36.21:3.11":{
+"verse":""
 },
 "sn36.21:3.12":{
 "verse":"Así que esos ascetas y bramanes que afirman que "
@@ -4157,6 +4346,9 @@
 },
 "sn36.21:5.4":{
 "verse":"y, por último, el resultado de los propios actos.” "
+},
+"sn36.21:5.5":{
+"verse":""
 }
 }
 }
@@ -4210,17 +4402,26 @@
 "sn36.22:2.2":{
 "verse":"Las sensaciones corporales y las mentales. "
 },
+"sn36.22:2.3":{
+"verse":""
+},
 "sn36.22:2.4":{
 "verse":"¿Cuáles son las tres sensaciones? "
 },
 "sn36.22:2.5":{
 "verse":"Las sensaciones placenteras, las sensaciones dolorosas y las sensaciones neutras. "
 },
+"sn36.22:2.6":{
+"verse":""
+},
 "sn36.22:2.7":{
 "verse":"¿Cuáles son las cinco sensaciones? "
 },
 "sn36.22:2.8":{
 "verse":"La capacidad de placer, la capacidad de dolor, la capacidad de felicidad, la capacidad de tristeza y la capacidad de ecuanimidad. "
+},
+"sn36.22:2.9":{
+"verse":""
 },
 "sn36.22:2.10":{
 "verse":"¿Cuáles son las seis sensaciones? "
@@ -4231,11 +4432,17 @@
 "sn36.22:2.12":{
 "verse":"y las que nacen en la mente. "
 },
+"sn36.22:2.13":{
+"verse":""
+},
 "sn36.22:2.14":{
 "verse":"¿Cuáles son las [dieciocho sensaciones] (mn137:8.1)? "
 },
 "sn36.22:2.15":{
 "verse":"Seis reflexiones con felicidad, seis reflexiones con tristeza y seis reflexiones con ecuanimidad. "
+},
+"sn36.22:2.16":{
+"verse":""
 },
 "sn36.22:2.17":{
 "verse":"¿Cuáles son las [treinta y seis sensaciones] (mn137:9.1)? "
@@ -4243,14 +4450,23 @@
 "sn36.22:2.18":{
 "verse":"Seis tipos de felicidad doméstica y seis tipos de felicidad renunciante, seis tipos de tristeza doméstica y seis tipos de tristeza renunciante, seis tipos de ecuanimidad doméstica y seis tipos de ecuanimidad renunciante. "
 },
+"sn36.22:2.19":{
+"verse":""
+},
 "sn36.22:2.20":{
 "verse":"¿Cuáles son las ciento ocho sensaciones? "
 },
 "sn36.22:2.21":{
 "verse":"Las treinta y seis sensaciones relativas al pasado, al futuro y al presente. "
 },
+"sn36.22:2.22":{
+"verse":""
+},
 "sn36.22:2.23":{
 "verse":"Esta es la explicación de las ciento ocho. "
+},
+"sn36.22:2.24":{
+"verse":""
 }
 }
 }
@@ -4312,6 +4528,9 @@
 },
 "sn36.23:2.11":{
 "verse":"La alternativa es educar y abandonar el deseo ávido de sensación.” "
+},
+"sn36.23:2.12":{
+"verse":""
 }
 }
 }
@@ -4358,6 +4577,9 @@
 },
 "sn36.24:1.10":{
 "verse":"La alternativa es educar y abandonar el deseo ávido de sensación.” "
+},
+"sn36.24:1.11":{
+"verse":""
 }
 }
 }
@@ -4398,6 +4620,9 @@
 },
 "sn36.25:1.8":{
 "verse":"‘esto es su alternativa’. "
+},
+"sn36.25:1.9":{
+"verse":""
 }
 }
 }
@@ -4447,6 +4672,9 @@
 },
 "sn36.26:1.11":{
 "verse":"La alternativa es educar y abandonar el deseo ávido de sensación.” "
+},
+"sn36.26:1.12":{
+"verse":""
 }
 }
 }
@@ -4484,6 +4712,9 @@
 },
 "sn36.27:1.7":{
 "verse":"yo sí le considero un asceta entre ascetas o un bramán entre bramanes. Además, estos venerables alcanzan y residen en la meta ascética o bramánica en esta vida, por sí mismos, experimentándola directamente por verdadera comprensión. "
+},
+"sn36.27:1.8":{
+"verse":""
 }
 }
 }
@@ -4515,6 +4746,9 @@
 },
 "sn36.28:1.5":{
 "verse":"A cualquiera asceta o bramán que sí comprenda … estos venerables alcanzan y residen en la meta ascética o bramánica en esta vida, por sí mismos, experimentándola directamente por verdadera comprensión. "
+},
+"sn36.28:1.6":{
+"verse":""
 }
 }
 }
@@ -4537,6 +4771,9 @@
 },
 "sn36.29:1.2":{
 "verse":"A cualquiera asceta o bramán que sí comprenda … estos venerables alcanzan y residen en la meta ascética o bramánica en esta vida, por sí mismos, experimentándola directamente por verdadera comprensión. "
+},
+"sn36.29:1.3":{
+"verse":""
 }
 }
 }
@@ -4565,6 +4802,9 @@
 },
 "sn36.30:1.4":{
 "verse":"Estos son los tres tipos de sensaciones. "
+},
+"sn36.30:1.5":{
+"verse":""
 }
 }
 }
@@ -4687,6 +4927,9 @@
 "sn36.31:7.4":{
 "verse":"Imágenes captadas con el ojo … sensaciones táciles captadas con el cuerpo que son agradables, gratificantes, hermosas, atrayentes, asociadas al deseo sensorial, embriagadoras. "
 },
+"sn36.31:7.5":{
+"verse":""
+},
 "sn36.31:7.6":{
 "verse":""
 },
@@ -4725,6 +4968,30 @@
 },
 "sn36.31:12.2":{
 "verse":"Es la liberación que aparece cuando un mendicante que ha destruido las influencias examina su mente libre de codicia, aversión y confusión. Esto es la liberación más que espiritual. "
+},
+"sn36.31:12.3":{
+"verse":""
+},
+"sn36.31:12.4":{
+"verse":""
+},
+"sn36.31:13.0":{
+"verse":""
+},
+"sn36.31:13.1":{
+"verse":""
+},
+"sn36.31:13.2":{
+"verse":""
+},
+"sn36.31:13.3":{
+"verse":""
+},
+"sn36.31:13.4":{
+"verse":""
+},
+"sn36.31:13.5":{
+"verse":""
 }
 }
 }
