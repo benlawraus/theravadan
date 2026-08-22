@@ -47,6 +47,10 @@ nav[aria-label="breadcrumb"] ul {
   white-space: nowrap;
 }
 
+nav[aria-label="breadcrumb"] ul li {
+  position: relative;
+}
+
 .light-icon { display: none; }
 .dark-icon { display: block; }
 [data-theme="dark"] .light-icon { display: block; }

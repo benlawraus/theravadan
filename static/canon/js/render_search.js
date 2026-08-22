@@ -89,12 +89,21 @@ function renderResults(results, searchTerm) {
         return;
     }
 
-    // Group results by category (Sutta, Vinaya, Abhidhamma)
-    const categories = {
-        "Sutta": [],
-        "Vinaya": [],
-        "Abhidhamma": []
+    // Group results by category. Driven by TEXT_CATEGORIES (dexie-shared.js) so
+    // adding a category in one place does not silently drop its results here.
+    const categoryLabels = {
+        sutta: "Sutta",
+        vinaya: "Vinaya",
+        abhidhamma: "Abhidhamma",
+        paritta: "Paritta"
     };
+    const knownCategories = typeof TEXT_CATEGORIES !== 'undefined'
+        ? TEXT_CATEGORIES
+        : Object.keys(categoryLabels);
+    const categories = {};
+    knownCategories.forEach(name => {
+        categories[categoryLabels[name] || name] = [];
+    });
 
     // Track verse indices we've already seen to avoid duplicates
     const seenVerseIndices = new Set();
@@ -109,40 +118,40 @@ function renderResults(results, searchTerm) {
         // Mark this verse index as seen
         seenVerseIndices.add(result.verseindex);
 
-        let category = "Sutta"; // Default category
+        let categoryName = null;
 
-        // Check the store name to determine category
+        // The store name carries the category (e.g. pli_en_paritta)
         if (result.store && typeof result.store === 'string') {
             const storeParts = result.store.split('_');
-            if (storeParts.length >= 2) {
-                const categoryType = storeParts[storeParts.length - 1].toLowerCase();
-                if (categoryType === 'vinaya') {
-                    category = "Vinaya";
-                } else if (categoryType === 'abhidhamma') {
-                    category = "Abhidhamma";
-                }
-            }
-        } else {
-            // Fallback to checking URL as before
-            if (result.url_key.includes("vinaya")) {
-                category = "Vinaya";
-            } else if (result.url_key.includes("abhidhamma")) {
-                category = "Abhidhamma";
+            const categoryType = storeParts[storeParts.length - 1].toLowerCase();
+            if (knownCategories.includes(categoryType)) {
+                categoryName = categoryType;
             }
         }
 
-        categories[category].push(result);
+        if (categoryName === null) {
+            // Fallback: read the category off the path, matching whole segments
+            // so that e.g. 'paritta' is not mistaken for another category.
+            const segments = result.url_key.split('/');
+            categoryName = knownCategories.find(name => segments.includes(name)) || 'sutta';
+        }
+
+        categories[categoryLabels[categoryName] || categoryName].push(result);
     });
 
     // Count the total number of unique results after filtering duplicates
-    const totalUniqueResults = categories.Sutta.length + categories.Vinaya.length + categories.Abhidhamma.length;
+    const countsByLabel = Object.entries(categories);
+    const totalUniqueResults = countsByLabel.reduce((sum, [, list]) => sum + list.length, 0);
+    const breakdown = countsByLabel
+        .filter(([, list]) => list.length > 0)
+        .map(([label, list]) => `${list.length} ${label}`)
+        .join(', ');
 
     // Add search stats
     const searchStatsDiv = document.createElement("div");
     searchStatsDiv.className = "search-stats";
     searchStatsDiv.innerHTML = `
-        <p>Found ${totalUniqueResults} unique results for "${searchTerm}" in ${categories.Sutta.length} Suttas, 
-        ${categories.Vinaya.length} Vinaya texts, and ${categories.Abhidhamma.length} Abhidhamma texts.</p>
+        <p>Found ${totalUniqueResults} unique results for "${searchTerm}"${breakdown ? ` in ${breakdown}` : ''}.</p>
     `;
     resultsContainer.appendChild(searchStatsDiv);
 

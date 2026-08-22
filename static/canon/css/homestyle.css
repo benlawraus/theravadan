@@ -41,3 +41,24 @@
     font-weight: bold;
     margin: 0;
 }
+
+/* Subordinate collections (paritta): a narrower, quieter card under the
+   three main baskets rather than a fourth column beside them. */
+.secondary-baskets {
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 1rem;
+}
+
+.secondary-baskets article {
+    font-size: 0.9em;
+}
+
+.secondary-baskets article > h5 {
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .secondary-baskets {
+        grid-template-columns: 1fr;
+    }
+}
