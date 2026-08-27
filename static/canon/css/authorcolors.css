@@ -41,6 +41,10 @@
     color: lightgoldenrodyellow;
 }
 
+[data-theme=dark] .nanamoli {
+    color: yellowgreen;
+}
+
 [data-theme=dark] .sabbamitta {
     color: lightcyan;
 }
@@ -326,6 +330,11 @@
 [data-theme=light] .anandajoti,
 :root:not([data-theme=dark]) .anandajoti {
     color: #5b5c00;
+}
+
+[data-theme=light] .nanamoli,
+:root:not([data-theme=dark]) .nanamoli {
+    color: #1d5c2a;
 }
 
 [data-theme=light] .sabbamitta,

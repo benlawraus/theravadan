@@ -95,7 +95,8 @@ function renderResults(results, searchTerm) {
         sutta: "Sutta",
         vinaya: "Vinaya",
         abhidhamma: "Abhidhamma",
-        paritta: "Paritta"
+        paritta: "Paritta",
+        vsm: "Visuddhimagga"
     };
     const knownCategories = typeof TEXT_CATEGORIES !== 'undefined'
         ? TEXT_CATEGORIES

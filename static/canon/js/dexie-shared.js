@@ -4,9 +4,10 @@
  */
 
 const DEXIE_DB_NAME = "BuddhistTextsDB";
-// Bumped to 6 to add the paritta stores. Raising the version makes existing
-// clients rebuild, which they must: the new stores would otherwise stay empty.
-const DEXIE_DB_VERSION = 6;
+// Bumped to 7 to add the vsm (Visuddhimagga) stores. Raising the version makes
+// existing clients rebuild, which they must: the new stores would otherwise
+// stay empty.
+const DEXIE_DB_VERSION = 7;
 
 const ROOT_LANGUAGES = ["pli", "pra", "san", "lzh"];
 const TRANSLATION_LANGUAGES = [
@@ -16,18 +17,19 @@ const TRANSLATION_LANGUAGES = [
 // 'paritta' holds anthologies such as the Catubhāṇavārapāḷi. Only their own
 // material is stored: passages an anthology borrows from the canon stay in the
 // sutta stores, so a search matches a borrowed line once, not twice.
-const TEXT_CATEGORIES = ["sutta", "vinaya", "abhidhamma", "paritta"];
+// 'vsm' is the Visuddhimagga, likewise loaded from bilara-data/collections.
+const TEXT_CATEGORIES = ["sutta", "vinaya", "abhidhamma", "paritta", "vsm"];
 
 /**
  * Check whether a root language / category combination is valid.
- * Abhidhamma is excluded for pra, san, and lzh; paritta exists only in Pali.
+ * Abhidhamma is excluded for pra, san, and lzh; paritta and vsm are Pali only.
  */
 function isValidCombination(rootLang, category) {
     if (category === "abhidhamma" &&
         (rootLang === "pra" || rootLang === "san" || rootLang === "lzh")) {
         return false;
     }
-    if (category === "paritta" && rootLang !== "pli") {
+    if ((category === "paritta" || category === "vsm") && rootLang !== "pli") {
         return false;
     }
     return true;

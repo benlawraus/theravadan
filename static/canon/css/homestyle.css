@@ -42,8 +42,9 @@
     margin: 0;
 }
 
-/* Subordinate collections (paritta): a narrower, quieter card under the
-   three main baskets rather than a fourth column beside them. */
+/* Subordinate collections (paritta, vsm): narrower, quieter cards under the
+   three main baskets rather than further columns beside them. The three-column
+   grid keeps them aligned with the baskets above however many there are. */
 .secondary-baskets {
     grid-template-columns: repeat(3, 1fr);
     margin-top: 1rem;
