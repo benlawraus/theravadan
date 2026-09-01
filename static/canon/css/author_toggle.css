@@ -34,6 +34,13 @@
   flex-direction: column;
 }
 
+/* Honour newlines in the source JSON as line breaks, so a translation that
+   matches a Pali stanza as a whole can be laid out over several lines.
+   pre-line breaks on \n but still collapses runs of spaces and wraps normally. */
+.verse-container > span {
+  white-space: pre-line;
+}
+
 /* Remove bottom margin from translation spans to eliminate gaps */
 .translation {
   transition: all 0.2s ease-out;
